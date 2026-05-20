@@ -13,5 +13,8 @@
   "defaultAiProvider": "claude",
   "ruleset": "quire-v0.1",
   "authors": ["Markus Gutschke"],
-  "homepage": "https://github.com/gutschke/underleaf"
+  "homepage": "https://github.com/gutschke/underleaf",
+  "episodes": [
+    "001-unattended-baggage"
+  ]
 }
