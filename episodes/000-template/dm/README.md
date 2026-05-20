@@ -5,7 +5,7 @@
 >
 > If you are or might become a player in this campaign, close this folder now and do not browse its files.
 >
-> In a published Underleaf fork, this folder's contents will be encrypted at rest by `quire encrypt-dm` (phase 1). Right now, in phase 0, the encryption tooling is not yet implemented, so this warning is the only protection.
+> In a published Underleaf fork, this folder's contents are encrypted at rest by `quire encrypt-dm`. In the upstream development checkout, files are kept in plaintext so the design can be iterated on directly — this warning is the only barrier. Before publishing your fork, run `quire encrypt-dm <path>` to encrypt every `dm/` and `DM-ONLY/` file with your campaign passphrase.
 
 ## Contents
 

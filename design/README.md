@@ -7,4 +7,4 @@
 
 The `DM-ONLY/` subfolder holds the canonical campaign design — world truths, antagonist throughline, arc structure. These documents are the DM's reference, not the players'.
 
-In a published Underleaf, the runtime will encrypt this folder at rest in the same way it handles per-episode `dm/` subfolders. The encryption tooling lands in phase 1 of Quire. For now, the spoiler-warning headers at the top of each file are the only barrier — please respect them.
+In a published Underleaf fork, this folder's contents are encrypted at rest by `quire encrypt-dm`. In the upstream development checkout you are likely reading right now, the files are kept in plaintext so the design can be iterated on directly — the spoiler-warning headers at the top of each file are the only barrier here. Before publishing your own fork, run `quire encrypt-dm <path>` to encrypt every `dm/` and `DM-ONLY/` file with your campaign passphrase.
