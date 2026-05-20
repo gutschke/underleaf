@@ -16,5 +16,9 @@
   "homepage": "https://github.com/gutschke/underleaf",
   "episodes": [
     "001-unattended-baggage"
-  ]
+  ],
+  "characters": {
+    "pcs": ["example-character"],
+    "npcs": ["yui-tanaka", "reggie-okeke"]
+  }
 }
