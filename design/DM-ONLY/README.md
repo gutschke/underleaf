@@ -7,9 +7,10 @@
 
 # Contents
 
-- [world-truths.md](world-truths.md) — the actual cosmology of Underleaf: emergent intelligence at every scale, The Quiet, the magic system, the role of AI.
+- [world-truths.md](world-truths.md) — the actual cosmology of Underleaf: emergent intelligence at every scale, The Quiet, the magic system, the dead-scientist mechanic, the role of AI.
 - [antagonist.md](antagonist.md) — the campaign's central antagonist arc.
-- [arc.md](arc.md) — overall campaign structure, magic-discovery phases, the in-medias-res convention.
+- [arc.md](arc.md) — play-mechanics phasing: what mechanics are active when, the magic-discovery beats, the in-medias-res convention.
+- [big-arc.md](big-arc.md) — canonical story-shape document: three acts, locked invariants, cast, misdirection seed bank, agency choices, two endings.
 - [principles.md](principles.md) — two campaign-level design principles every DM must internalize: *possible future, not prophecy* and *engagement layers*.
 
 # Reading order
@@ -18,8 +19,9 @@ If you are coming to Underleaf cold, read in this order:
 
 1. `principles.md` — the two authorial principles that shape every other decision.
 2. `world-truths.md` — what is actually going on cosmologically. Without this, nothing else makes sense.
-3. `arc.md` — the campaign's shape, the discovery phases, how episodes fit together.
-4. `antagonist.md` — the throughline and its resolution. Builds on the cosmology.
+3. `big-arc.md` — the campaign's three-act story shape and locked invariants.
+4. `arc.md` — the play-mechanics phasing that runs alongside the story shape.
+5. `antagonist.md` — the throughline and its resolution. Builds on the cosmology.
 
 # Authoring conventions
 

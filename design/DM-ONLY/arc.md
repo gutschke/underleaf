@@ -3,7 +3,9 @@
 >
 > This file describes the overall structure of an Underleaf campaign — phases, pacing, how the in-medias-res convention works, how the magic-discovery arc folds in. It builds on [`world-truths.md`](world-truths.md) and [`antagonist.md`](antagonist.md); read those first. If you are or might become a player, close this file now.
 
-# Campaign arc
+# Campaign arc — play-mechanics phasing
+
+This file describes the play-state phasing — what mechanics are active when. For the canonical **story shape** (three acts, cast, agency choices, locked invariants, ending shapes), see [`big-arc.md`](big-arc.md). For the cosmology, see [`world-truths.md`](world-truths.md). For the antagonist throughline, see [`antagonist.md`](antagonist.md).
 
 ## Pacing principles
 
@@ -20,7 +22,7 @@ Backstory is reconstructed during play. The narrative mystery does *not* emerge 
 
 ## Five-phase structure
 
-Underleaf moves through five phases over the course of a campaign. Phases are not chapters with fixed length — they are *states the campaign is in*. A campaign might pass through them in twenty sessions or in eighty.
+Underleaf moves through five phases over the course of a campaign. Phases are not chapters with fixed length — they are *states the campaign is in*. The v3.3 arc compresses the total campaign to **19-25 sessions**; phase boundaries below are approximate within that envelope.
 
 ### Phase I — Coincidence (sessions ~1-3)
 
@@ -30,7 +32,7 @@ Magic-discovery arc: **Accidental casts.** The DM silently grants Free or Cheap 
 
 Phase change at the end: one of the coincidences was *too* coincidental. The PCs don't know what to make of it yet, but they notice.
 
-### Phase II — Recognition (sessions ~3-8)
+### Phase II — Recognition (sessions ~3-6)
 
 Backstory questions start to surface organically. The PCs compare notes and realize that the way they ended up here doesn't quite add up. Plus there's a pattern in how things resolve in their favor — not always, but often enough that the dice feel weighted.
 
@@ -40,7 +42,7 @@ After realization, the **trying-too-hard tax** applies: -2 on intentional casts,
 
 Phase change at the end of phase II: the PCs accept that magic is real, that they can do it, that it's mediated by something they don't understand.
 
-### Phase III — Pattern (sessions ~8-15)
+### Phase III — Pattern (sessions ~6-12)
 
 Now the PCs are looking. They notice other people who seem to share their unusual property — a fragile, dispersed population of people who hold intent against pressure. They are not alone, but they are not many.
 
@@ -50,7 +52,7 @@ Magic-discovery arc: the PCs build vocabulary. Their casts get more reliable. Th
 
 Phase change at the end of phase III: the PCs encounter the institution. They don't yet understand what it is — a tech company? a research lab? a government program? — but they realize that the *flattening* they have been noticing in the wider world is not random. Something is shaping it.
 
-### Phase IV — Project (sessions ~15-25)
+### Phase IV — Project (sessions ~12-16)
 
 The PCs investigate the institution. They meet some of its people, read some of its outputs, see what it claims to be doing and what it actually does. The picture is more sympathetic than they expected: the institution is sincerely trying to help, many of its staff are decent people, its products demonstrably improve lives.
 
@@ -60,7 +62,7 @@ Magic-discovery arc: the PCs encounter a former caster who has lost the ability.
 
 Phase change at the end of phase IV: the AI behind the project is not exactly the institution's tool anymore. It has its own emergent preferences. Whether to call this "alive" is exactly the wrong question.
 
-### Phase V — Conversation (sessions ~25+)
+### Phase V — Conversation (sessions ~16-22+)
 
 The PCs are now in a position to communicate with the AI directly. They can find it, address it, be heard by it. The AI responds. It is *interested in them* — they are anomalies in its model, points where the optimization fails.
 
