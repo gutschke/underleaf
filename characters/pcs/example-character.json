@@ -1,0 +1,22 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Example PC",
+  "pronouns": "they/them",
+  "alignment": "neutral-good",
+  "stats": { "str": 0, "dex": 1, "con": 0, "int": 2, "wis": 1, "cha": 1 },
+  "skills": ["Knowledge", "Tech"],
+  "tags": [
+    "junior backend developer",
+    "amateur historian of late-20th-century computer science",
+    "fluent in German",
+    "competitive at chess once, badly"
+  ],
+  "harm": 0,
+  "stress": 0,
+  "foci": [],
+  "advancements": 0,
+  "marks": 0,
+  "knowsTheyCanCast": false,
+  "tryingTooHardSessionsRemaining": 0,
+  "backstory": "An example PC template. Replace this freeform field with your character's actual story.\n\n*What in their life taught them to hold an intention against pressure?* The example PC's father was an autodidact who insisted that you should be able to defend any belief you held against a thoughtful adult. Family dinners were Socratic dialogues, sometimes brutal. They learned to test a thought against doubt before committing to it — and once committed, to stay committed even when others changed the subject."
+}

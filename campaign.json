@@ -1,0 +1,17 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Underleaf",
+  "summary": "A contemporary-feeling original world with a hidden depth. Story-forward; theater of the mind. Designed for the Quire framework.",
+  "license": "CC-BY-SA-4.0",
+  "ip": "Original world and rules by Markus Gutschke. Mechanics adapted from Quire v0.1 reference rules.",
+  "ageBand": "15+",
+  "contentNotes": [
+    "Mature themes (violence, drugs, intimacy, romance) used in service of story, never gratuitously.",
+    "Existential and identity-shaping themes: what it means to want, to remember, to be real.",
+    "Mild horror and uncanny atmosphere as the campaign progresses."
+  ],
+  "defaultAiProvider": "claude",
+  "ruleset": "quire-v0.1",
+  "authors": ["Markus Gutschke"],
+  "homepage": "https://github.com/gutschke/underleaf"
+}

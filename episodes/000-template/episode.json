@@ -1,0 +1,17 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Template Episode",
+  "summary": "A template showing the structure of an Underleaf episode. Replace this summary with a one-paragraph public hook for the actual episode. No spoilers in this field.",
+  "prerequisites": [],
+  "hooks": [
+    "A way the PCs might end up in this scene.",
+    "Another way the PCs might end up in this scene.",
+    "If your episode is the campaign opener, in-medias-res convention applies: the PCs are already together when the curtain rises."
+  ],
+  "scenes": [
+    "scenes/00-template.md"
+  ],
+  "arcBeats": [],
+  "inGameDate": "use a real or rough date — helps the AI prompt-bar reason about what is documented when",
+  "tags": ["template"]
+}
