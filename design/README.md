@@ -1,5 +1,6 @@
 # Design
 
+> [!CAUTION]
 > **All material in this folder is DM-only and contains campaign spoilers.**
 >
 > If you are or might become a player in Underleaf, close this folder now and do not browse [`DM-ONLY/`](DM-ONLY/) under any circumstance. The point of the campaign is the gradual discovery of what's actually going on in the world; reading ahead removes that.

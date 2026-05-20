@@ -1,12 +1,7 @@
-================================================================
-                   DM-ONLY — EPISODE SPOILERS
-================================================================
-
-This file describes secrets that the players are meant to discover
-during play.  If you are or might become a player in this campaign,
-close this file now.
-
-================================================================
+> [!CAUTION]
+> **DM-ONLY — EPISODE SPOILERS**
+>
+> This file describes secrets that the players are meant to discover during play. If you are or might become a player in this campaign, close this file now.
 
 # Template — DM-only notes
 

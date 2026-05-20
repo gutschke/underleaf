@@ -1,14 +1,7 @@
-================================================================
-                  DM-ONLY — CAMPAIGN SPOILERS
-================================================================
-
-This file describes the overall structure of an Underleaf
-campaign — phases, pacing, how the in-medias-res convention
-works, how the magic-discovery arc folds in.  It builds on
-`world-truths.md` and `antagonist.md`; read those first.  If
-you are or might become a player, close this file now.
-
-================================================================
+> [!CAUTION]
+> **DM-ONLY — CAMPAIGN SPOILERS**
+>
+> This file describes the overall structure of an Underleaf campaign — phases, pacing, how the in-medias-res convention works, how the magic-discovery arc folds in. It builds on [`world-truths.md`](world-truths.md) and [`antagonist.md`](antagonist.md); read those first. If you are or might become a player, close this file now.
 
 # Campaign arc
 

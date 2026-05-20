@@ -1,13 +1,7 @@
-================================================================
-                  DM-ONLY — CAMPAIGN SPOILERS
-================================================================
-
-This file describes the central antagonist throughline of
-Underleaf.  It builds on the cosmology in `world-truths.md`; read
-that first if you have not.  If you are or might become a player,
-close this file now.
-
-================================================================
+> [!CAUTION]
+> **DM-ONLY — CAMPAIGN SPOILERS**
+>
+> This file describes the central antagonist throughline of Underleaf. It builds on the cosmology in [`world-truths.md`](world-truths.md); read that first if you have not. If you are or might become a player, close this file now.
 
 # Antagonist throughline
 

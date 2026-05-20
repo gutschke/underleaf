@@ -1,18 +1,9 @@
-================================================================
-                  DM-ONLY — CAMPAIGN SPOILERS
-================================================================
-
-This folder holds the canonical design documents for Underleaf:
-the actual cosmology, the antagonist throughline, the overall
-campaign arc.  These are the secrets the players are meant to
-discover gradually through play.
-
-If you are or might become a player in this campaign, close this
-folder now.  Players who genuinely want to read up on Underleaf
-can do so — that's nothing new for tabletop games — but please
-make a deliberate choice rather than stumbling in by accident.
-
-================================================================
+> [!CAUTION]
+> **DM-ONLY — CAMPAIGN SPOILERS**
+>
+> This folder holds the canonical design documents for Underleaf: the actual cosmology, the antagonist throughline, the overall campaign arc. These are the secrets the players are meant to discover gradually through play.
+>
+> If you are or might become a player in this campaign, close this folder now. Players who genuinely want to read up on Underleaf can do so — that's nothing new for tabletop games — but please make a deliberate choice rather than stumbling in by accident.
 
 # Contents
 
@@ -30,6 +21,6 @@ If you are coming to Underleaf cold, read in this order:
 
 # Authoring conventions
 
-When you write a new DM-only document, copy the spoiler-warning header (the boxed banner) verbatim from the top of any file in this folder. The warning must be the first thing a reader sees if they open the file without context.
+When you write a new DM-only document, copy the `> [!CAUTION]` alert block verbatim from the top of any file in this folder. The warning must be the first thing a reader sees if they open the file without context. GitHub renders these alerts as a red-barred warning block; other Markdown renderers degrade them to a regular blockquote, which is still visually distinct.
 
 When you write content that mixes spoiler and non-spoiler material, split the file: public content goes in the non-DM folder, private content goes here. Mixing the two in one file is what leads to accidental leaks.

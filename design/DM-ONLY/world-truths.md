@@ -1,13 +1,7 @@
-================================================================
-                  DM-ONLY — CAMPAIGN SPOILERS
-================================================================
-
-This file describes the actual cosmology of Underleaf — what is
-true about the world that the players are not meant to know at
-the start.  If you are or might become a player, close this file
-now.
-
-================================================================
+> [!CAUTION]
+> **DM-ONLY — CAMPAIGN SPOILERS**
+>
+> This file describes the actual cosmology of Underleaf — what is true about the world that the players are not meant to know at the start. If you are or might become a player, close this file now.
 
 # World truths
 
