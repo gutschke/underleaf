@@ -1,0 +1,29 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Unattended Baggage",
+  "summary": "Five strangers in upper-deck business class on a Pacific crossing encounter a mechanical fault, a flight attendant's strange kindness, and the first hint that their lives have been quietly knotted together for longer than they realized.",
+  "prerequisites": [],
+  "hooks": [
+    "Each PC is on Flight 887 from San Francisco to Taipei for their own reason — at least one of those reasons should have crystallized in the last few days.",
+    "The PCs do not know each other at the curtain rise. Some feel vague familiarity. None can explain it yet.",
+    "In-medias-res convention applies: the curtain rises mid-flight, in business class, with the PCs already seated and aware of each other."
+  ],
+  "scenes": [
+    "scenes/01-wheels-up.md",
+    "scenes/02-the-threads.md",
+    "scenes/03-the-hack.md",
+    "scenes/04-the-stakes.md",
+    "scenes/05-the-snoop.md",
+    "scenes/06-the-bay.md",
+    "scenes/07-the-gate.md",
+    "scenes/08-lights-out.md"
+  ],
+  "arcBeats": [
+    "coincidence-pattern-first-glimpse",
+    "first-accidental-cast",
+    "first-retrocausal-event",
+    "magic-mistaken-for-conspiracy"
+  ],
+  "inGameDate": "A Tuesday in late summer 2026. Flight 887, SFO → TPE, departs early evening Pacific time; the cold open is hour six of a fourteen-hour crossing.",
+  "tags": ["opener", "in-medias-res", "retrocausal", "magic-phase-1-accidental"]
+}
