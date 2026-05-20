@@ -18,6 +18,7 @@ This episode is the entire campaign's foundation moment. The DM should read ever
 5. **[coincidences.md](coincidences.md)** — Menu of coincidence prompts for Scene 2. Pick 3-4 that fit your PCs.
 6. **[stakes.md](stakes.md)** — Menu of personal stakes for Scene 4. Pick one per PC during prep.
 7. **[cover-stories.md](cover-stories.md)** — Menu of distraction beats for Scene 5. Improvise from these as the table needs.
+8. **[npcs.md](npcs.md)** — Quick-reference for every named NPC. Non-load-bearing — use what helps when a player asks for a name at an inopportune moment.
 
 ## The shape of the episode
 
