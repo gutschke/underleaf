@@ -1,0 +1,31 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Reggie Okeke",
+  "pronouns": "he/him",
+  "role": "gate agent",
+  "disposition": "friendly, no reason to remember anyone in particular",
+  "alignment": "neutral-good",
+  "description": "Late 20s. Nigerian-American, born and raised in Oakland, now lives in Berkeley with two roommates. Wears the airline polo over a longer black tee.  Black-rimmed glasses.  Looks like he's just finished a shift even when he hasn't.",
+  "voice": "Easygoing, soft Bay-Area cadence, calls regular passengers and colleagues *boss* or *my friend*.",
+  "signature": [
+    "Closes a boarding cycle with a small two-handed gesture at the gate door, as if reassuring it.",
+    "Remembers names of frequent flyers but pretends not to (which everyone notices and likes).",
+    "Will defend a passenger to a supervisor; will not defend a colleague to a passenger."
+  ],
+  "dmNotes": "Load-bearing NPC for Episode 2's gate-agent investigation.  He genuinely does not remember allowing a passenger to leave a bag unattended at the gate, because in his timeline it did not happen.  He will be initially friendly when approached, then defensive when pressed — he prides himself on professionalism and the line of questioning implies he failed at it.\n\nIf the PCs treat him fairly and trust his denial (rather than escalating to his supervisor), they may eventually gain him as a casual ally.  He is not a caster and will not become one.  He is a sympathetic NPC who has been edited around without ever knowing it.\n\nReggie's younger sister Ada is an air-traffic controller at Long Beach Airport.  She is canonically open to entertaining strange stories from her brother but has no in-story role yet — texture available if a later episode needs an ATC contact.",
+  "knownTo": ["pcs (briefly, at SFO gate)"],
+  "tags": [
+    "civilian",
+    "memory-edited",
+    "bay-area-resident",
+    "episode-2-load-bearing",
+    "potential-future-ally"
+  ],
+  "background": {
+    "homeBase": "Berkeley, CA (near North Berkeley BART)",
+    "household": "Two roommates, both grad students. Reggie is the one who buys the coffee.",
+    "hobbies": "Plays bass in a band that gigs at small Mission Street venues. Reads short story collections on shift breaks.",
+    "career": "Started with the airline at 24 after dropping out of a CS program at SFSU. Has thought about going back. The shift work pays well; the schedule is reliable; the boredom is the cost.",
+    "family": "Mother is a public health nurse in Oakland. Sister Ada is an air-traffic controller at LGB. Father is in Lagos; relationship distant but cordial. Reggie sends his mother flowers every Mother's Day and his sister chocolate on her birthday."
+  }
+}

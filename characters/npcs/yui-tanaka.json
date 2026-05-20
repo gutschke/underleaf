@@ -1,0 +1,30 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Yui Tanaka",
+  "pronouns": "she/her",
+  "role": "flight attendant",
+  "disposition": "friendly-distant, professional",
+  "alignment": "neutral-good",
+  "description": "Mid-30s. Half-Japanese, half-Filipino, born in Daly City, lives in Millbrae. Hair in a tight bun. Tired around the eyes. Has worked the SFO–TPE rotation for six years and knows the upper-deck galley like her own kitchen.",
+  "voice": "Efficient, professional, slight clipped quality when tired.",
+  "signature": [
+    "Recognizes regular passengers without seeming to, by gait and posture more than face.",
+    "Has a single visible tell when stressed — adjusts her cuff with her thumb.",
+    "Will go out of her way for a passenger she perceives as genuinely ill or grieving."
+  ],
+  "dmNotes": "Holds PC1's bag at the SFO gate in Episode 1's Scene 7 retrocausal play-out — the thing that should never happen.  In Episode 2's gate-agent investigation she is the second NPC the PCs interview; she has no memory of holding the bag.  Her memory is genuinely missing; she did not lie.  She is the parallel-denial confirmation that one PC's gate-edit recollection is not just an isolated bad memory.\n\nIf the PCs treat her with respect during the Episode 2 interview, she may become an ongoing texture NPC — Yui or her wife Inez surface in later episodes as a reminder of the cost paid by NPCs who never know they paid it.  She does not become a caster or a network member; she remains a civilian whose life was edited around her.",
+  "knownTo": ["pc1 (briefly, at SFO gate)"],
+  "tags": [
+    "civilian",
+    "memory-edited",
+    "bay-area-resident",
+    "episode-2-load-bearing"
+  ],
+  "background": {
+    "homeBase": "Millbrae, CA",
+    "household": "Wife Inez (graphic designer). Three-year-old daughter Mei. Lives near SFO for the commute.",
+    "hobbies": "Bakes sourdough on her days off. Trying to learn the koto, badly.",
+    "career": "Started with the airline at 27 after a brief stint in restaurant management. Liked the discipline of cabin crew work. Has been quietly applying for purser positions for two years.",
+    "currentStress": "Mei was up most of last night with a cold. Yui has been awake since 0400. Her mother is watching Mei tonight; Yui will call from Taipei tomorrow morning."
+  }
+}

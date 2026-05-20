@@ -40,7 +40,7 @@ If the PCs become attached to one of these NPCs, **promote them**. Copy the entr
 - *Wants tonight*: to finish this rotation without incident. Her toddler is at her mother's; she's been awake since 0400.
 - *Disposition toward PCs*: friendly-distant, professional.
 - *Stats hint*: CHA +1, WIS +1, otherwise average. No combat. Persuadable on mundane requests.
-- *If recurring*: **Yes, in Episode 2's investigation.** She is the load-bearing NPC if the gate-attendant role at SFO goes to a flight attendant rather than a gate agent. Yui will *genuinely* not remember holding a passenger's bag at the gate; from her perspective, that didn't happen. Her wife is Inez. She bakes bread on her days off. Texture is here when you need her.
+- *If recurring*: **Yes, in Episode 2's investigation.** Promoted to the canonical record at [`characters/npcs/yui-tanaka.json`](../../../characters/npcs/yui-tanaka.json). See that file for full background (wife Inez, daughter Mei, sourdough hobby, Millbrae home).
 
 **Eli Schwartz** — *they/them*, late 20s, flight attendant on main-deck cabin.
 - *Looks like*: tall, lean, Ashkenazi-American from Chicago. Plays in a community theater group on weekends.
@@ -63,7 +63,7 @@ If the PCs become attached to one of these NPCs, **promote them**. Copy the entr
 - *Wants tonight*: to clear the last of the boarding cycle and go home. His shift ends at midnight.
 - *Disposition toward PCs*: friendly, no reason to remember anyone in particular.
 - *Stats hint*: average across the board; CHA +1. Will not roll in Episode 1.
-- *If recurring*: **Yes. Reggie is the load-bearing NPC for Episode 2's gate-agent investigation.** He will deny ever allowing a passenger to leave a bag unattended. He genuinely doesn't remember it. He will be defensive when pressed because he prides himself on professionalism. He has a younger sister who is an air-traffic controller in Long Beach. Build him out in Episode 2.
+- *If recurring*: **Yes. Reggie is the load-bearing NPC for Episode 2's gate-agent investigation.** Promoted to the canonical record at [`characters/npcs/reggie-okeke.json`](../../../characters/npcs/reggie-okeke.json). See that file for full background (Berkeley roommates, bass-in-a-band, mother in Oakland, sister Ada the ATC at LGB).
 
 **Andrei Sokolov** — *he/him*, late 50s, business-class passenger across the aisle from PC1.
 - *Looks like*: Russian-American businessman, San Francisco–Moscow regular for two decades. Salt-and-pepper hair, expensive but unfussy suit, reading glasses.
