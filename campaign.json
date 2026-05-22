@@ -117,12 +117,60 @@
         ]
       },
       {
+        "id": "stat-emphasis",
+        "kind": "mc",
+        "prompt": "Where does your PC's standout (+2) stat live?  Your sheet has one +2, three +1s, and two 0s — the AI will distribute the rest based on the rest of your answers.",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "STR", "label": "STR — lifting, brawling, physical labor" },
+          { "value": "DEX", "label": "DEX — driving, fine motor, dodging, climbing" },
+          { "value": "CON", "label": "CON — endurance, illness resistance, tolerance" },
+          { "value": "INT", "label": "INT — academics, problem-solving, languages, technical" },
+          { "value": "WIS", "label": "WIS — willpower, intent, perception, intuition" },
+          { "value": "CHA", "label": "CHA — talk, presence, reading rooms" }
+        ]
+      },
+      {
+        "id": "top-skill",
+        "kind": "mc",
+        "prompt": "Your PC's single strongest skill category.  The AI will add 1-2 more that fit your archetype.",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "Action", "label": "Action — physical violence, athletics, brute force" },
+          { "value": "Subterfuge", "label": "Subterfuge — stealth, lying, manipulation, theft" },
+          { "value": "Knowledge", "label": "Knowledge — academic recall, research, analysis" },
+          { "value": "Insight", "label": "Insight — perception, reading people, patterns" },
+          { "value": "Influence", "label": "Influence — persuasion, performance, leadership" },
+          { "value": "Tech", "label": "Tech — computers, devices, networks, code" },
+          { "value": "Craft", "label": "Craft — making, fixing, building" },
+          { "value": "Medic", "label": "Medic — first aid, treatment, diagnostics" }
+        ]
+      },
+      {
+        "id": "prior-connection",
+        "kind": "mc",
+        "prompt": "Optionally, your PC may know one of the other PCs from before Flight 887.  How?  (The DM will sort out names; you're just picking the shape.)",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "none", "label": "None — we meet on the flight" },
+          { "value": "work", "label": "Worked together professionally (current or past)" },
+          { "value": "school", "label": "School / university — classmates, study group" },
+          { "value": "neighbors", "label": "Neighbors — same building, same block, same dog park" },
+          { "value": "family", "label": "Family — sibling, cousin, in-law" },
+          { "value": "online", "label": "Met online first; this is one of the first in-person meets" },
+          { "value": "history", "label": "Long history — childhood friends, an old relationship, a shared trauma" }
+        ]
+      },
+      {
         "id": "meaningful-item",
         "kind": "short-answer",
         "prompt": "One personally meaningful item your PC carries.  A few words — the item plus why it matters.",
         "required": true,
         "aiRole": "grounder",
-        "minLength": 10,
+        "minLength": 25,
         "maxLength": 200
       },
       {
