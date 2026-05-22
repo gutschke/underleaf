@@ -42,7 +42,7 @@ They start noticing other "luck" in their lives — small things, easily explain
 
 **First revelation (personal):** the gate edit was too expensive for accidental untrained casts. Someone else did this for them. The PCs assume an individual benefactor.
 
-**Phase II realization beat lands per-PC.** Each character on their own schedule discovers they can cast. The **trying-too-hard tax** kicks in (see [`../../../quire/design/rules-reference.md`](https://github.com/gutschke/quire/blob/main/design/rules-reference.md#magic) — in-fiction: *"now that you know magic exists, you're trying; trying breaks intent"*). The tax persists until each PC has a quiet **moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast. The release IS the gating beat for the transition into Act II.
+**Phase II realization beat lands per-PC.** Each character on their own schedule discovers they can cast. The **trying-too-hard tax** kicks in (see [`../../world/rules.md`](../../world/rules.md) §Magic — in-fiction: *"now that you know magic exists, you're trying; trying breaks intent"*). The tax persists until each PC has a quiet **moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast. The release IS the gating beat for the transition into Act II.
 
 **Deeper revelation (locked):** there is no single benefactor. The broader caster network — many of whom the PCs have not met — responded **instinctively and unconsciously** to anomalies in distress. Nobody decided. The cost was distributed thinly across many casters who do not remember paying. Magic is an ambient property of a population, not powers held by individuals.
 

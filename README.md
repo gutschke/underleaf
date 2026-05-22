@@ -22,7 +22,7 @@ Folders that contain spoiler material have prominent warning headers at the top 
 
 Underleaf is set in a contemporary-feeling world that looks much like our own. The players are young adults — students, junior professionals, hobbyists, dropouts, the people who *notice things*. The world has surprises in it, but the players will learn about them through play rather than reading ahead.
 
-The system mechanics live in Quire's [rules reference](https://github.com/gutschke/quire/blob/main/design/rules-reference.md). Quire is the runtime; Underleaf is the content.
+The system mechanics live in [`world/rules.md`](world/rules.md). Quire is the runtime; Underleaf is the content (including the rules themselves).
 
 ## Playing
 

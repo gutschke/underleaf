@@ -53,7 +53,7 @@ Resolving the surface plot — the plane makes Taipei, the stakes are saved — 
 The DM should not editorialize at session end. Don't explain what happened. Don't summarize. Don't drop hints. If players ask out-of-character what was going on, the DM smiles and says *we'll see*.
 
 For session-end housekeeping:
-- Each player marks up to one milestone mark (see Quire's [rules-reference](https://github.com/gutschke/quire/blob/main/design/rules-reference.md#advancement)).
+- Each player marks up to one milestone mark (see [`world/rules.md`](../../../world/rules.md) §Advancement).
 - The DM writes a brief session summary into `sessions/<YYYY-MM-DD>/summary.md` after the table breaks. Players read it before next session.
 - The DM also writes private notes — what the players noticed, what they missed, what they theorized — into the session's `dm-reflections.md`. These are not published.
 
