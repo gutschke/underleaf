@@ -18,6 +18,16 @@
     "scenes/07-the-gate.md",
     "scenes/08-lights-out.md"
   ],
+  "dmDocs": [
+    "dm/pacing.md",
+    "dm/npcs.md",
+    "dm/stakes.md",
+    "dm/coincidences.md",
+    "dm/cover-stories.md",
+    "dm/avionics-realism.md",
+    "dm/the-cable.md",
+    "dm/the-gate.md"
+  ],
   "arcBeats": [
     "coincidence-pattern-first-glimpse",
     "first-accidental-cast",
