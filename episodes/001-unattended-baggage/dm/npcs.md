@@ -29,7 +29,7 @@ If the PCs become attached to one of these NPCs, **promote them**. Copy the entr
 - *If recurring*: probably not in this campaign.
 
 **First Officer Marcus Park** — *he/him*, early 40s, co-pilot.
-- *Looks like*: heard only via the ACARS/voice channel PC3 intercepts.
+- *Looks like*: heard only via the ACARS/voice channel {{pc:3}} intercepts.
 - *Sounds like*: terser than the captain. Says "uh" before technical assessments.
 - *Wants*: to do his job right; he's on his second airline after his first one folded.
 - *If recurring*: unlikely.
@@ -65,7 +65,7 @@ If the PCs become attached to one of these NPCs, **promote them**. Copy the entr
 - *Stats hint*: average across the board; CHA +1. Will not roll in Episode 1.
 - *If recurring*: **Yes. Reggie is the load-bearing NPC for Episode 2's gate-agent investigation.** Promoted to the canonical record at [`characters/npcs/reggie-okeke.json`](../../../characters/npcs/reggie-okeke.json). See that file for full background (Berkeley roommates, bass-in-a-band, mother in Oakland, sister Ada the ATC at LGB).
 
-**Andrei Sokolov** — *he/him*, late 50s, business-class passenger across the aisle from PC1.
+**Andrei Sokolov** — *he/him*, late 50s, business-class passenger across the aisle from {{pc:1}}.
 - *Looks like*: Russian-American businessman, San Francisco–Moscow regular for two decades. Salt-and-pepper hair, expensive but unfussy suit, reading glasses.
 - *Sounds like*: low, faintly amused, English with the soft Russian shape.
 - *Wants*: to be left alone tonight; he's tired and on his fourth long-haul this month.

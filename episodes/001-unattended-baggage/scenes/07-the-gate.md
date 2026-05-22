@@ -1,7 +1,7 @@
 ---
 $schemaVersion: 0.1.0
 name: The Gate
-summary: The DM rewinds the table to SFO three hours before boarding. Played out, not narrated. The connector appears in PC1's bag.
+summary: The DM rewinds the table to SFO three hours before boarding. Played out, not narrated. The connector appears in {{pc:1}}'s bag.
 location: SFO Terminal G, gate area for Flight 887 — three hours and eight minutes before takeoff.
 presentNpcs:
   - "gate area: flight attendants, gate agents, other passengers (background)"
@@ -21,13 +21,13 @@ The DM pauses the cabin. They cue:
 
 > *"Pause where you are. Hold the cabin. I want to play something out. Step outside the present for a moment — it's still SFO, three hours and eight minutes ago. Boarding has just opened for Flight 887 to Taipei."*
 
-The DM places each PC at the gate (boarding line, gate counter, kiosk, on the phone, watching the departure board). The table plays out small moments — vignettes first, then small choices, then a convergence — that result in PC1's bag being briefly unattended near a flight attendant for thirty seconds, in view of a camera.
+The DM places each PC at the gate (boarding line, gate counter, kiosk, on the phone, watching the departure board). The table plays out small moments — vignettes first, then small choices, then a convergence — that result in {{pc:1}}'s bag being briefly unattended near a flight attendant for thirty seconds, in view of a camera.
 
 The DM returns the table to the cabin:
 
-> *"Okay. Back in the cabin. PC1, you're reaching into your bag for [the thing they last mentioned]. What do you find?"*
+> *"Okay. Back in the cabin. {{pc:1}}, you're reaching into your bag for [the thing they last mentioned]. What do you find?"*
 
-PC1 finds a brand-new ARINC 600 connector, sealed in an anti-static bag. No label, no invoice, just the part.
+{{pc:1}} finds a brand-new ARINC 600 connector, sealed in an anti-static bag. No label, no invoice, just the part.
 
 ## What the DM holds
 

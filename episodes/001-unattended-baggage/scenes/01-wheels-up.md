@@ -27,11 +27,11 @@ You may read or paraphrase. Keep your voice low to match the dim cabin.
 
 Place each PC. Ask each player, in turn, what their character is doing right now. Keep it short — thirty to ninety seconds per PC. Do not push toward conflict; this scene is texture.
 
-- **PC1** (probable bag-owner, see [`dm/the-gate.md`](../dm/the-gate.md)): in a window seat. Has been trying to sleep; not succeeding. Their carry-on is in the overhead bin two rows ahead of them, because their assigned bin was full at boarding.
-- **PC2**: in the aisle seat opposite, reading something on a phone or paperback. Headphones on, ambient noise. Not paying attention to the cabin specifically.
-- **PC3**: a row behind, with a laptop open on the seatback tray. Screen brightness low. Headphones in. Something nerdy on the screen — terminal windows, frequency waterfall plots, code. (Not yet doing anything that would interest the others.)
-- **PC4**: across the cabin. Has been crying quietly for some of the flight. Tissue, half-empty water bottle, the kind of careful composure that suggests the crying was about something specific.
-- **PC5**: closest to the galley, where the flight attendants come and go. Awake. Reading the back of the meal-service card with too much attention. Or staring at the window. Their tray table is up.
+- **{{pc:1}}** (probable bag-owner, see [`dm/the-gate.md`](../dm/the-gate.md)): in a window seat. Has been trying to sleep; not succeeding. Their carry-on is in the overhead bin two rows ahead of them, because their assigned bin was full at boarding.
+- **{{pc:2}}**: in the aisle seat opposite, reading something on a phone or paperback. Headphones on, ambient noise. Not paying attention to the cabin specifically.
+- **{{pc:3}}**: a row behind, with a laptop open on the seatback tray. Screen brightness low. Headphones in. Something nerdy on the screen — terminal windows, frequency waterfall plots, code. (Not yet doing anything that would interest the others.)
+- **{{pc:4}}**: across the cabin. Has been crying quietly for some of the flight. Tissue, half-empty water bottle, the kind of careful composure that suggests the crying was about something specific.
+- **{{pc:5}}**: closest to the galley, where the flight attendants come and go. Awake. Reading the back of the meal-service card with too much attention. Or staring at the window. Their tray table is up.
 
 ## How introductions happen
 

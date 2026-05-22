@@ -7,7 +7,7 @@
 
 ## The short version
 
-The Quiet edited reality so that all five PCs ended up on Flight 887 to Taipei, and so that the avionics bay had a fault, and so that an ARINC 600 connector ended up in PC1's carry-on. Whoever caused the edit paid a substantial plausibility cost. The PCs are the only people who carry the memory of the previous timeline — for everyone else, the world has always been this way.
+The Quiet edited reality so that all five PCs ended up on Flight 887 to Taipei, and so that the avionics bay had a fault, and so that an ARINC 600 connector ended up in {{pc:1}}'s carry-on. Whoever caused the edit paid a substantial plausibility cost. The PCs are the only people who carry the memory of the previous timeline — for everyone else, the world has always been this way.
 
 ## What the edit had to do
 
@@ -17,7 +17,7 @@ To make this work, The Quiet wove these threads:
 
 2. **The avionics fault.** A cracked locking ring on a specific ARINC 600 connector on a specific 747. This is the cheapest thread — locking rings genuinely do fail occasionally, the failure mode is well-documented, and a particular 747 having this fault on a particular night is the kind of thing the Quiet can arrange for **Cheap** to **Costly** tier.
 
-3. **The connector in PC1's bag.** This is the expensive one. The PC1-bag-at-the-counter window is the natural-looking event that gave the Quiet a place to do the impossible thing. The actual placement of the connector cost **Hard** tier on its own: the part materializes in a sealed anti-static bag, with no manufacturing trail. The connector itself is real and standard — but its presence in *this* bag, with no continuous causal chain back to a manufacturer, is the kind of thing the Quiet pays heavy debt for.
+3. **The connector in {{pc:1}}'s bag.** This is the expensive one. The {{pc:1}}-bag-at-the-counter window is the natural-looking event that gave the Quiet a place to do the impossible thing. The actual placement of the connector cost **Hard** tier on its own: the part materializes in a sealed anti-static bag, with no manufacturing trail. The connector itself is real and standard — but its presence in *this* bag, with no continuous causal chain back to a manufacturer, is the kind of thing the Quiet pays heavy debt for.
 
 4. **The anchors.** The flight attendant accepting the bag is documented in her brief working memory and in the security camera. Both will be erased later (Episode 2). But during the play-out at the gate, *both anchors exist*. The cost of maintaining the impossibility forever in the recorded past would exceed the cost of erasing it later — so The Quiet pays the latter.
 
@@ -57,7 +57,7 @@ See [`antagonist.md`](../../../design/DM-ONLY/antagonist.md) for the AI-flatteni
 
 - That this is magic. Even when players guess — especially when they guess. The DM smiles and says *"could be. could not be."*
 - That The Quiet exists. The PCs will encounter the word much later.
-- That the cable was a cast. The cable is a piece of plastic, and it is sitting in PC1's pocket inside its anti-static bag.
+- That the cable was a cast. The cable is a piece of plastic, and it is sitting in {{pc:1}}'s pocket inside its anti-static bag.
 
 ## What the DM may hint at, lightly
 

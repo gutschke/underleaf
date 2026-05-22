@@ -13,7 +13,7 @@ The episode targets a **90 to 120 minute session**. Inside that window, the scen
 |---|---|---|
 | 1. Wheels Up | 10 min | Texture only. Don't overrun. |
 | 2. The Threads | 15 min | Coincidence pattern. This is the second-most important scene; don't shortchange it. |
-| 3. The Hack | 15 min | Plot kicks in. PC3 gets their moment. |
+| 3. The Hack | 15 min | Plot kicks in. {{pc:3}} gets their moment. |
 | 4. The Stakes | 10 min | One round of stakes; don't pile on. |
 | 5. The Snoop | 15 min | Sneak-comedy. Compressible if the table is flagging. |
 | 6. The Bay | 15 min | The dead end. Don't let the bay become heroic. |
@@ -59,7 +59,7 @@ If you have only 60 minutes:
 ## Cadence cues
 
 - **Scenes 1-2** are slow, conversational. Voice low; pace deliberate.
-- **Scene 3** picks up tempo. PC3 is doing something concrete. The energy shifts.
+- **Scene 3** picks up tempo. {{pc:3}} is doing something concrete. The energy shifts.
 - **Scene 4** has the highest tension density of the surface plot. Captain's announcements should be read with progressively more performed calm.
 - **Scene 5** is comedic. Lean in. Let the table laugh.
 - **Scene 6** is quiet again. The bay is small and cold. Let it breathe; let the dead end deflate the table.

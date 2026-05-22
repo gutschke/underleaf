@@ -12,7 +12,7 @@
     "Has a single visible tell when stressed — adjusts her cuff with her thumb.",
     "Will go out of her way for a passenger she perceives as genuinely ill or grieving."
   ],
-  "dmNotes": "Holds PC1's bag at the SFO gate in Episode 1's Scene 7 retrocausal play-out — the thing that should never happen.  In Episode 2's gate-agent investigation she is the second NPC the PCs interview; she has no memory of holding the bag.  Her memory is genuinely missing; she did not lie.  She is the parallel-denial confirmation that one PC's gate-edit recollection is not just an isolated bad memory.\n\nIf the PCs treat her with respect during the Episode 2 interview, she may become an ongoing texture NPC — Yui or her wife Inez surface in later episodes as a reminder of the cost paid by NPCs who never know they paid it.  She does not become a caster or a network member; she remains a civilian whose life was edited around her.",
+  "dmNotes": "Holds {{pc:1}}'s bag at the SFO gate in Episode 1's Scene 7 retrocausal play-out — the thing that should never happen.  In Episode 2's gate-agent investigation she is the second NPC the PCs interview; she has no memory of holding the bag.  Her memory is genuinely missing; she did not lie.  She is the parallel-denial confirmation that one PC's gate-edit recollection is not just an isolated bad memory.\n\nIf the PCs treat her with respect during the Episode 2 interview, she may become an ongoing texture NPC — Yui or her wife Inez surface in later episodes as a reminder of the cost paid by NPCs who never know they paid it.  She does not become a caster or a network member; she remains a civilian whose life was edited around her.",
   "knownTo": ["pc1 (briefly, at SFO gate)"],
   "tags": [
     "civilian",

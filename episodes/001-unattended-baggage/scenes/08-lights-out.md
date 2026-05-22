@@ -16,7 +16,7 @@ rolls:
 
 ## The installation
 
-The PCs return to the bay one more time. Cover stories are easier the second time. PC3's laptop confirms that the maintenance ACARS messages have not changed; the captain is still planning the Tokyo stop.
+The PCs return to the bay one more time. Cover stories are easier the second time. {{pc:3}}'s laptop confirms that the maintenance ACARS messages have not changed; the captain is still planning the Tokyo stop.
 
 The tech-comfortable PC swaps the cracked connector for the new one. The locking ring turns smoothly and clicks into place. The amber LED on the bus coupler goes green. They watch it for sixty seconds. The plane shudders through turbulence and the LED stays green.
 
@@ -34,7 +34,7 @@ The cabin lets out a small collective exhale. A few passengers clap. The PCs exc
 
 > *Taipei at six-fifteen AM local. The cabin lights come up. The PA welcomes you in Mandarin, then English. The plane taxis. The jet bridge connects. The crew thanks you as you exit; you cannot tell whether the flight attendant who held the bag — who took it — was on the morning crew or not. There are several women in the same uniform; faces blur; you are not certain.*
 >
-> *In the arrivals hall, before customs, the five of you exchange contact information. You hardly say why. PC1, you keep the empty anti-static bag the connector came in — you fold it twice and put it in the small pocket of your jacket. The others see you do this and do not comment.*
+> *In the arrivals hall, before customs, the five of you exchange contact information. You hardly say why. {{pc:1}}, you keep the empty anti-static bag the connector came in — you fold it twice and put it in the small pocket of your jacket. The others see you do this and do not comment.*
 >
 > *You go your separate ways. The cousin to her cousin. The wedding to its wedding. The hospice to its parent. The visa to its appointment. The forty-hour-awake to a hotel and a long sleep.*
 >
@@ -46,7 +46,7 @@ End the session here. Do not narrate the next morning. Do not narrate the trip h
 
 ## What this scene is doing
 
-Resolving the surface plot — the plane makes Taipei, the stakes are saved — while leaving the entire deeper question untouched. The empty anti-static bag in PC1's pocket is the entire campaign's first piece of physical evidence; it lasts a long time.
+Resolving the surface plot — the plane makes Taipei, the stakes are saved — while leaving the entire deeper question untouched. The empty anti-static bag in {{pc:1}}'s pocket is the entire campaign's first piece of physical evidence; it lasts a long time.
 
 ## Closing remarks at the table
 

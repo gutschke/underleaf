@@ -43,7 +43,7 @@ The PCs cannot fix this. They climb back up the ladder.
 
 ## Returning to the cabin
 
-> *You re-emerge into the galley. The attendant who was on duty has rotated; a new one is preparing for the next service round. The cover story holds. You return to your seats. PC3, you check the laptop: the maintenance ACARS messages are continuing. The captain is still planning the Tokyo stop.*
+> *You re-emerge into the galley. The attendant who was on duty has rotated; a new one is preparing for the next service round. The cover story holds. You return to your seats. {{pc:3}}, you check the laptop: the maintenance ACARS messages are continuing. The captain is still planning the Tokyo stop.*
 >
 > *You sit. The plane drones on. Three of you are looking at each other. The other two are looking out the window.*
 

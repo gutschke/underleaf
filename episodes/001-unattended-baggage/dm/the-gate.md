@@ -13,10 +13,10 @@ This is the most fragile scene in the campaign. **Rehearse before play.** Read t
 
 By the end of the scene:
 
-1. PC1's bag has been **briefly unattended near a flight attendant** at the SFO gate, in view of the wall-mounted camera.
+1. {{pc:1}}'s bag has been **briefly unattended near a flight attendant** at the SFO gate, in view of the wall-mounted camera.
 2. The flight attendant has **held the bag** — something they should never do.
 3. The camera has **recorded the moment** — anchored, observed.
-4. PC1's bag, in the cabin present-tense, contains a new ARINC 600 connector.
+4. {{pc:1}}'s bag, in the cabin present-tense, contains a new ARINC 600 connector.
 
 The DM never explains *how* the connector got into the bag. The events at the gate make a window in which a Quiet edit *could have* placed it; the actual placement is off-screen.
 
@@ -45,11 +45,11 @@ If a player asks what kind of scene this is, the answer is *"play it out and see
 
 Place each PC at the gate. Brief — thirty to ninety seconds per PC:
 
-- **PC1** (bag owner): in the boarding line, near the front. Feeling slightly off — bad sleep, last night's dinner, just pre-flight tension. Holding their bag, a coat, a water bottle.
-- **PC2**: at the gate counter, asking about a seat assignment or upgrade.
-- **PC3**: at the kiosk twenty feet away, buying water.
-- **PC4**: on the phone, quietly, off to one side — could be a call about whatever's making this Taipei trip urgent.
-- **PC5**: reading the departure board, or just standing.
+- **{{pc:1}}** (bag owner): in the boarding line, near the front. Feeling slightly off — bad sleep, last night's dinner, just pre-flight tension. Holding their bag, a coat, a water bottle.
+- **{{pc:2}}**: at the gate counter, asking about a seat assignment or upgrade.
+- **{{pc:3}}**: at the kiosk twenty feet away, buying water.
+- **{{pc:4}}**: on the phone, quietly, off to one side — could be a call about whatever's making this Taipei trip urgent.
+- **{{pc:5}}**: reading the departure board, or just standing.
 
 Ask each in turn: *"What's your character thinking? What's around them?"* Let the airport breathe. Don't push toward the climax. Three minutes here, no more.
 
@@ -57,11 +57,11 @@ Ask each in turn: *"What's your character thinking? What's around them?"* Let th
 
 Seed five low-stakes prompts, one per PC:
 
-- **PC1**: *"You feel a small wave of nausea. Bathroom is twenty feet behind you. Boarding line is moving. You're holding your bag and a coat and a water bottle. What do you do?"*
-- **PC2**: *"The gate agent's tone changes — they're confused about something. They glance away to check a screen, and the boarding line halts for a beat. What are you doing?"*
-- **PC3**: *"From the kiosk you can see the whole gate area. Including the boarding line. Anything catch your eye?"*
-- **PC4**: *"Whoever's on the phone wants to talk about [their stakes detail]. You can hear yourself getting loud. Do you walk further away, or just lower your voice?"*
-- **PC5**: *"The departure board flickers. Just a half-second pixel hiccup. You notice or you don't?"*
+- **{{pc:1}}**: *"You feel a small wave of nausea. Bathroom is twenty feet behind you. Boarding line is moving. You're holding your bag and a coat and a water bottle. What do you do?"*
+- **{{pc:2}}**: *"The gate agent's tone changes — they're confused about something. They glance away to check a screen, and the boarding line halts for a beat. What are you doing?"*
+- **{{pc:3}}**: *"From the kiosk you can see the whole gate area. Including the boarding line. Anything catch your eye?"*
+- **{{pc:4}}**: *"Whoever's on the phone wants to talk about [their stakes detail]. You can hear yourself getting loud. Do you walk further away, or just lower your voice?"*
+- **{{pc:5}}**: *"The departure board flickers. Just a half-second pixel hiccup. You notice or you don't?"*
 
 None of these prompts forces an outcome. Each is a door you can open in Round 3 if needed.
 
@@ -71,21 +71,21 @@ Pick a branch based on what the players said in Round 2. Steer the play toward a
 
 ### Branches
 
-**A. The bathroom.** PC1's nausea wins; they need to go. They look around for somewhere to put the bag. A flight attendant is right there, just stepped out of the jet bridge. Glances around. No supervisor. Says *"briefly — okay,"* and PC1 slides the bag against the counter and walks away.
+**A. The bathroom.** {{pc:1}}'s nausea wins; they need to go. They look around for somewhere to put the bag. A flight attendant is right there, just stepped out of the jet bridge. Glances around. No supervisor. Says *"briefly — okay,"* and {{pc:1}} slides the bag against the counter and walks away.
 
-**B. The spill.** Another PC describes a small mishap that causes a spill (coffee, water, an elbow). PC1 sets the bag down to deal with their wet shirt. A flight attendant arrives to help with the spill. Bag stays put for thirty seconds.
+**B. The spill.** Another PC describes a small mishap that causes a spill (coffee, water, an elbow). {{pc:1}} sets the bag down to deal with their wet shirt. A flight attendant arrives to help with the spill. Bag stays put for thirty seconds.
 
-**C. The PA distraction.** A nearby gate pages a passenger by name, repeatedly — something about a medical emergency or a missed flight. PC1 turns to look. They've set the bag down to scroll their phone, and they walk a few steps toward the noise without picking it up. A flight attendant stands ten feet away.
+**C. The PA distraction.** A nearby gate pages a passenger by name, repeatedly — something about a medical emergency or a missed flight. {{pc:1}} turns to look. They've set the bag down to scroll their phone, and they walk a few steps toward the noise without picking it up. A flight attendant stands ten feet away.
 
-**D. The crying child.** Any PC notices a child crying near the boarding line. A PC steps in to help (or the parent does). PC1 has set the bag down to react. A flight attendant arrives, taking over with the child. Bag forgotten for the crucial window.
+**D. The crying child.** Any PC notices a child crying near the boarding line. A PC steps in to help (or the parent does). {{pc:1}} has set the bag down to react. A flight attendant arrives, taking over with the child. Bag forgotten for the crucial window.
 
-### Safety valve — use only if PC1 actively refuses every branch
+### Safety valve — use only if {{pc:1}} actively refuses every branch
 
-The flight attendant catches PC1 looking pale and says, brusque-apologetic:
+The flight attendant catches {{pc:1}} looking pale and says, brusque-apologetic:
 
 > *"Sorry, you look ready to drop — policy on unwell passengers, I'm going to set this at the desk for you. Come back when you're feeling steady."*
 
-She takes the bag without permission. The attendant is already walking back to the counter. PC1 can object after the fact.
+She takes the bag without permission. The attendant is already walking back to the counter. {{pc:1}} can object after the fact.
 
 This shouldn't happen. It happens anyway. The bag is at the counter; whatever happens during that window happens to *that* bag.
 
@@ -98,7 +98,7 @@ Both beats are *anchored, instrumented, recorded* in the moment of play. Whether
 
 ## The return (memorize)
 
-> *"Okay. Back in the cabin. PC1, you're reaching into your bag for [the thing they last mentioned]. What do you find?"*
+> *"Okay. Back in the cabin. {{pc:1}}, you're reaching into your bag for [the thing they last mentioned]. What do you find?"*
 
 The connector is there. Offer no explanation. Let it sit.
 
@@ -112,7 +112,7 @@ Memorize these. Do not improvise; pressure leaks signal.
 
 | Player behavior | DM response |
 |---|---|
-| **Refuses the rewind premise** | *"Stay with me for ten minutes. We'll come back to the cabin."* Fast version if still refusing: *"PC1, ninety seconds where your bag isn't on you. Why?"* |
+| **Refuses the rewind premise** | *"Stay with me for ten minutes. We'll come back to the cabin."* Fast version if still refusing: *"{{pc:1}}, ninety seconds where your bag isn't on you. Why?"* |
 | **Questions the meta** ("is this magic? are we casting?") | *"Play it out and see."* Do not answer. |
 | **Wouldn't leave bag** ("my character would never") | *"Right, you wouldn't. So what does happen?"* |
 | **Too clever** ("I deliberately set the bag down hoping for magic") | *"Your character doesn't have a reason to expect that. So what's their reason?"* |
@@ -161,13 +161,13 @@ The DM is most likely to slip at:
 
 2. **When a player's choice "happens to" fit the desired chain.** Do NOT say "great, that works" or "exactly what I needed." Praise signals a target. DO say *"okay, and then?"* or *"and now?"* — neutral acknowledgment.
 
-3. **When transitioning between players.** Do NOT say *"meanwhile, retrocausally"* or *"in the same not-quite-real moment."* DO say *"PC3, what about you?"* — same as any other table moment.
+3. **When transitioning between players.** Do NOT say *"meanwhile, retrocausally"* or *"in the same not-quite-real moment."* DO say *"{{pc:3}}, what about you?"* — same as any other table moment.
 
 ## Transition back
 
 The most fragile moment. Whatever you say here either collapses the ambiguity or holds it.
 
-**Holds:** *"Okay. Back in the cabin. PC1, you're reaching into your bag. What do you find?"*
+**Holds:** *"Okay. Back in the cabin. {{pc:1}}, you're reaching into your bag. What do you find?"*
 
 **Collapses to memory:** *"Now you remember the gate, and back in the cabin..."*
 
@@ -219,4 +219,4 @@ If a player corners you *off the record*, just the two of you: *"I want you to f
 
 Fine. Engagement-layer principle: a surface-layer player who never asks *"what was that scene?"* is having a great time. The deep-layer players will chase the question session over session. The DM does not need to land the question for it to do its work.
 
-The empty anti-static bag in PC1's pocket is enough. The campaign carries it forward.
+The empty anti-static bag in {{pc:1}}'s pocket is enough. The campaign carries it forward.

@@ -46,7 +46,7 @@ Aircraft maintenance organizations stock spare ARINC 600 connectors in their han
 
 **ACARS** (Aircraft Communications Addressing and Reporting System) is real. It carries short messages between the aircraft and ground stations — telemetry, weather requests, position reports, maintenance flags. Many of these messages are transmitted in the clear and can be received by a software-defined radio with the right decoder. The hobbyist community is small but real; ACARS decoding has been a hobbyist activity for at least twenty years.
 
-What PC3 is doing in Scene 3 is **passive reception**, which is legal. No transmissions; no spoofing; no interference. The closest thing to a legal concern would be if PC3 broadcasted what they overheard — but they don't.
+What {{pc:3}} is doing in Scene 3 is **passive reception**, which is legal. No transmissions; no spoofing; no interference. The closest thing to a legal concern would be if {{pc:3}} broadcasted what they overheard — but they don't.
 
 ## What's artistic liberty
 
@@ -56,7 +56,7 @@ The exterior bulkhead door is real. The interior floor-panel-access is real on c
 
 If a player is an aviation enthusiast and wants to argue the realism, the DM can acknowledge: *"You're right, this is unlikely. Run with it."* Don't try to win the argument; just acknowledge and move on.
 
-### The connector appearing in PC1's bag
+### The connector appearing in {{pc:1}}'s bag
 
 Not realistic. That's the point. This is the moment of magic, dressed up as logistics. The realistic detail (the connector is a genuine part with a manufacturing trail) makes the unrealistic detail (its sudden appearance in a sealed bag with no manufacturing trail) land harder.
 

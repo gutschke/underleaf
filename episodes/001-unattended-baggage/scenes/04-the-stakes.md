@@ -46,7 +46,7 @@ Twelve. Then thirteen. Then "we'll update you when we know more." The eight-hour
 
 By the end of this scene, the PCs should be deciding to investigate. The DM doesn't push — the personal stakes do the work. But if the table needs a nudge:
 
-> *"PC1, you find yourself looking at PC3's laptop. Then at the panel that says 'Crew Only' beside the forward galley. Then back at the laptop."*
+> *"{{pc:1}}, you find yourself looking at {{pc:3}}'s laptop. Then at the panel that says 'Crew Only' beside the forward galley. Then back at the laptop."*
 
 That is enough. The decision crystallizes. Move into Scene 5.
 
