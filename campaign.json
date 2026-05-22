@@ -12,6 +12,139 @@
   ],
   "defaultAiProvider": "claude",
   "ruleset": "quire-v0.1",
+  "characterCreation": {
+    "questions": [
+      {
+        "id": "archetype",
+        "kind": "mc",
+        "prompt": "Pick an archetype shape. (You can mix and add 'Other' later.)",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "hacker", "label": "Hacker — works with networks, signals, code" },
+          { "value": "engineer", "label": "Engineer — builds, fixes, takes apart" },
+          { "value": "caregiver", "label": "Caregiver — heals, teaches, holds people together" },
+          { "value": "outsider", "label": "Outsider — moves between worlds, notices what others miss" },
+          { "value": "operator", "label": "Operator — coordinates, persuades, makes things happen" },
+          { "value": "other", "label": "Other — tell your DM what you have in mind" }
+        ]
+      },
+      {
+        "id": "temperament-under-pressure",
+        "kind": "mc",
+        "prompt": "When things get hard, what does your PC do?",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "quiet", "label": "Goes quiet, watches, then decides" },
+          { "value": "argues", "label": "Argues — turns it into a debate" },
+          { "value": "acts", "label": "Acts unilaterally — moves first, explains later" },
+          { "value": "question", "label": "Asks one careful question" }
+        ]
+      },
+      {
+        "id": "bay-area-relation",
+        "kind": "mc",
+        "prompt": "Your relationship to the Bay Area",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "lifer", "label": "Lifer — born here, the city is home" },
+          { "value": "child-transplant", "label": "Transplanted as a child" },
+          { "value": "recent-transplant", "label": "Recent transplant (< 1 year)" },
+          { "value": "ambivalent", "label": "Ambivalent local — here, not yet of here" }
+        ]
+      },
+      {
+        "id": "default-weirdness-response",
+        "kind": "mc",
+        "prompt": "Default response to weirdness",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "curious", "label": "Curious — leans in" },
+          { "value": "suspicious", "label": "Suspicious — looks for the trick" },
+          { "value": "dismissive", "label": "Dismissive — there's a normal explanation" },
+          { "value": "spooked", "label": "Spooked but quiet — doesn't say anything" }
+        ]
+      },
+      {
+        "id": "flight-reason",
+        "kind": "mc",
+        "prompt": "Why are you on Flight 887 to Taipei?",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "work", "label": "Work — meeting / talk / handoff" },
+          { "value": "family", "label": "Family — visiting, helping, attending" },
+          { "value": "love", "label": "Love — relationship, ceremony, reunion" },
+          { "value": "running-from", "label": "Running from something" },
+          { "value": "running-toward", "label": "Running toward something" },
+          { "value": "opportunistic", "label": "Opportunistic — it came together fast" },
+          { "value": "last-72h", "label": "Something sudden — phone call in the last 72 hours" }
+        ]
+      },
+      {
+        "id": "intent-horizon",
+        "kind": "mc",
+        "prompt": "The moment that taught you to hold an intention against pressure happened...",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "childhood", "label": "In childhood" },
+          { "value": "school", "label": "During school years" },
+          { "value": "first-job", "label": "On a first job" },
+          { "value": "specific-year", "label": "In a specific recent year" },
+          { "value": "ongoing", "label": "It's still happening" }
+        ]
+      },
+      {
+        "id": "alignment",
+        "kind": "mc",
+        "prompt": "Alignment lean (rough; not a cage)",
+        "required": true,
+        "aiRole": "skeleton",
+        "options": [
+          { "value": "lawful-good", "label": "Lawful Good — duty + kindness" },
+          { "value": "neutral-good", "label": "Neutral Good — kindness, pragmatic" },
+          { "value": "chaotic-good", "label": "Chaotic Good — kindness on your own terms" },
+          { "value": "lawful-neutral", "label": "Lawful Neutral — the system matters" },
+          { "value": "true-neutral", "label": "True Neutral — balance, restraint" },
+          { "value": "chaotic-neutral", "label": "Chaotic Neutral — your own compass" },
+          { "value": "lawful-evil", "label": "Lawful Evil — ends justify means" },
+          { "value": "neutral-evil", "label": "Neutral Evil — whatever works" },
+          { "value": "chaotic-evil", "label": "Chaotic Evil — destruction tastes good" }
+        ]
+      },
+      {
+        "id": "meaningful-item",
+        "kind": "short-answer",
+        "prompt": "One personally meaningful item your PC carries.  A few words — the item plus why it matters.",
+        "required": true,
+        "aiRole": "grounder",
+        "minLength": 10,
+        "maxLength": 200
+      },
+      {
+        "id": "intent-moment",
+        "kind": "short-answer",
+        "prompt": "Describe the moment your PC learned to hold an intention against pressure.  Two-four sentences.  Use their words.",
+        "required": true,
+        "aiRole": "voice-sample",
+        "minLength": 40,
+        "maxLength": 400
+      },
+      {
+        "id": "specific-place",
+        "kind": "short-answer",
+        "prompt": "One specific Bay Area neighborhood, route, or place that's 'yours' — where you'd go if you had an hour.",
+        "required": true,
+        "aiRole": "grounder",
+        "minLength": 10,
+        "maxLength": 200
+      }
+    ]
+  },
   "authors": ["Markus Gutschke"],
   "homepage": "https://github.com/gutschke/underleaf",
   "episodes": [
