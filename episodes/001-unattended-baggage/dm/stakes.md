@@ -42,6 +42,12 @@ For five PCs, choose stakes from *different* categories — don't have three car
 
 Try to give the *forty-hour wake* or *the medication* to a PC who would benefit from being slightly off-balance during Scene 7. A PC whose player tends toward control may benefit from a stake that loosens their composure for the rewind scene.
 
+### Honoring scene 1's cues
+
+[`scenes/01-wheels-up.md`](../scenes/01-wheels-up.md) describes **PC4 as having been crying quietly** for part of the flight. The natural fits for PC4 are stakes that visibly carry weight from the moment we meet the character — the *parent in hospice*, the *grandparent's last birthday*, the *funeral*, or the *forty-hour wake*. Assigning PC4 a stake from one of those categories means the crying in scene 1 reads as foreshadowing of the cost we hear about in scene 4, instead of an unexplained detail the DM has to retcon later.
+
+If you've already assigned PC4 a stake that doesn't match (a career stake, a wedding), it's fine — adjust scene 1's description on the fly so the cue lands on a different PC, or drop the crying detail entirely. The point of these menus is to be assembled into a coherent story; nothing about scene 1 is load-bearing if it conflicts with how you've built this table's stakes.
+
 ## What you do not say
 
 Do not tell the players that their stake is going to be *resolved* in episode 1. The connector reveal allows the plane to continue on schedule — the stakes are resolved with it — but the players should feel the weight throughout. Resolving the plot resolves the stakes; the resolution is the relief, not a setup.
