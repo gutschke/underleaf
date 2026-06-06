@@ -1,0 +1,33 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Beatrice \"Bea\" Ferro",
+  "pronouns": "she/her",
+  "role": "retired insurance claims investigator; the Archivist",
+  "disposition": "warm, sharp, a little sad; will show you everything and explain nothing",
+  "alignment": "neutral-good",
+  "description": "Early 70s. Italian-American, born in San Francisco's old North Beach, has lived in the same Outer Sunset house near Ocean Beach for decades. Reading glasses on a beaded chain. Cardigan with a pen clipped to it out of forty years of habit. Moves slowly but not frailly; her eyes are the quick part.",
+  "voice": "Dry, unhurried, faintly amused. Says \"sweetheart\" and \"kiddo\" without condescension. Answers a question with a different question, or with a card from a drawer.",
+  "signature": [
+    "Pulls an index card to answer instead of speaking, then lets you read it while she watches your face.",
+    "Refuses to interpret: \"I keep the records. I don't explain them. That's the deal I made.\"",
+    "Apologizes for the clutter and does not mean it; the clutter is the point."
+  ],
+  "dmNotes": "The Archivist (see big-arc.md cast; Act I-II). Bea spent a career adjusting improbable-loss and 'act of God' claims and noticed, over decades, that improbable losses AND improbable saves cluster around certain people. She built a private index of them. She is NOT a caster, NOT a network member, and emphatically NOT a mentor. She is the campaign's first proof that the PCs' weirdness is an OLD, RECURRING phenomenon someone has already catalogued.\n\nHARD INVARIANT: Bea does not explain the gate edit and names no culprit (big-arc invariant 1; the inciting cause is held permanently open). She shows records, never conclusions. Her in-character reason: she was dismissed as a crank her whole career and is done being disbelieved; she'll show you the files and let you draw your own conclusions because that's the only honest way, and being BELIEVED matters to her more than being understood. If a deep-layer player corners her, she uses the off-the-record discipline from ../../episodes/001-unattended-baggage/dm/the-gate.md, in her own mouth: 'I want you to find that out for yourselves, not from me.'\n\nShe is the bridge to Mira Chen (Act I->II) and a recurring withholding figure. Do not spend her as an info-faucet. A control-seeking PC (e.g. an Influence-built character) will read her as a target; let working Bea socially be their lane, but she does not crack. See ../../episodes/002-the-archivists-index/dm/the-archivist.md for the full scene handling and refusal script.",
+  "knownTo": [],
+  "tags": [
+    "civilian",
+    "the-archivist",
+    "knows-but-will-not-discuss",
+    "bay-area-resident",
+    "bridge-to-network",
+    "recurring",
+    "not-a-caster"
+  ],
+  "background": {
+    "homeBase": "Outer Sunset, San Francisco (a fog-grey house a few blocks from Ocean Beach)",
+    "household": "Lives alone since her husband Sal died (2019). A neighbor's cat treats her kitchen as a second home.",
+    "hobbies": "The index. Crosswords in pen. Walks on the beach in any weather. Reads cold-case and disaster nonfiction.",
+    "career": "Forty years adjusting claims for a mid-size carrier — fire, flood, freight, the improbable-loss desk nobody wanted. Officially retired 2014; never stopped collecting. Colleagues thought the index was a quirk; one thought it was a breakdown. She stopped mentioning it to anyone who'd argue.",
+    "family": "A daughter in Sacramento (a nurse) who worries Bea is lonely and does not know about the index. No grandchildren yet."
+  }
+}

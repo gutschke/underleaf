@@ -1,0 +1,44 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "The Archivist's Index",
+  "summary": "Weeks after Flight 887, the five follow up on what happened at the gate. The trail runs into people who do not remember, a recording that shows everything and proves nothing, and an old woman in the Outer Sunset who has been quietly keeping files on exactly this kind of thing for forty years.",
+  "prerequisites": ["001-unattended-baggage"],
+  "hooks": [
+    "One of the PCs has not let the gate incident go and pulls the others back into it — weeks have passed, everyone has scattered back into their Bay Area lives, but the empty anti-static bag is still in someone's pocket.",
+    "The PCs are now in loose contact (a group chat none of them can quite explain starting). The reunion is the hook; the investigation is the spine.",
+    "The episode opens in the Bay, not on a plane. Real neighborhoods, real freeway exits."
+  ],
+  "scenes": [
+    "scenes/01-reconvene.md",
+    "scenes/02-the-gate-agent.md",
+    "scenes/03-the-flight-attendant.md",
+    "scenes/04-the-footage.md",
+    "scenes/05-the-lead.md",
+    "scenes/06-the-index.md",
+    "scenes/07-lights-out.md"
+  ],
+  "dmDocs": [
+    "dm/README.md",
+    "dm/story-so-far.md",
+    "dm/what-the-dm-holds.md",
+    "dm/legwork.md",
+    "dm/the-footage.md",
+    "dm/footage-realism.md",
+    "dm/the-archivist.md",
+    "dm/the-lock-callback.md",
+    "dm/the-accidental-cast.md",
+    "dm/npcs.md",
+    "dm/pacing.md"
+  ],
+  "arcBeats": [
+    "gate-investigation-opens",
+    "memory-edit-revealed-via-denials",
+    "cost-gradient-introduced",
+    "the-archivist-introduced",
+    "pattern-is-older-than-the-pcs",
+    "lock-coincidence-resurfaces",
+    "first-witnessed-accidental-cast"
+  ],
+  "inGameDate": "A Saturday in early autumn 2026, several weeks after Flight 887. The gate-camera retention window is still open but closing; daytime, Bay Area.",
+  "tags": ["act-1", "investigation", "the-archivist", "magic-phase-1-accidental", "cost-gradient", "misdirection"]
+}
