@@ -17,6 +17,10 @@ rolls:
 
 One or two PCs descend the ladder. The other PCs hold the panel and the cover from above.
 
+## Optional: a secured inner hatch
+
+> **DM (optional — see [`../dm/the-lock.md`](../dm/the-lock.md)).** If you are running the combination-lock coincidence, the bottom of the ladder ends at a secured inner hatch with a small four-wheel combination lock (gym-locker hardware). Set its code equal to a number a PC has spoken aloud earlier (a luggage combo, a TSA-lock code) and don't say so. Wait — don't prompt. If a player tries that number, it opens first try; narrate it as nothing and continue into the read-aloud below. If they don't, it's picked or left open. Skip entirely if you're not seeding the coincidence.
+
 ## DM read-aloud (the bay)
 
 > *Down the ladder: a corridor maybe seven feet high, four feet wide. Steel grating underfoot. The walls are racks of black-anodized boxes, each labeled with a code: SAARU, FMC-L, FMC-R, ADIRU, IRS-1. The labels mean nothing to most people; the racks themselves are the point. Each is held in place by quick-release clamps; each connects to the next through bundles of shielded cable in clipped conduits. Some of the cable bundles have ribbons of color-coded tape at the ends. Some are unlabeled. The bay is cold — about ten degrees Celsius — and the air smells faintly of ozone and the warm-plastic smell of a server room.*
