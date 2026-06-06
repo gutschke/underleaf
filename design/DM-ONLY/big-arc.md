@@ -44,13 +44,13 @@ They start noticing other "luck" in their lives — small things, easily explain
 
 **Phase II realization beat lands per-PC.** Each character on their own schedule discovers they can cast. The **trying-too-hard tax** kicks in (see [`../../world/rules.md`](../../world/rules.md) §Magic — in-fiction: *"now that you know magic exists, you're trying; trying breaks intent"*). The tax persists until each PC has a quiet **moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast. The release IS the gating beat for the transition into Act II.
 
-**Deeper revelation (locked):** there is no single benefactor. The broader caster network — many of whom the PCs have not met — responded **instinctively and unconsciously** to anomalies in distress. Nobody decided. The cost was distributed thinly across many casters who do not remember paying. Magic is an ambient property of a population, not powers held by individuals.
+**Deeper revelation (locked):** there is no single benefactor — and, on reflection, no culprit at all. The broader caster network is real and responds to distress **instinctively and unconsciously** (nobody decides; the cost is distributed thinly across casters who do not remember paying) — but *because* the network's casting is unconscious, **not even the network can know whether it caused this particular edit.** The cheapest self-consistent account of the inciting event is **authorless**: the world simply does not permit the version where these five were not here, so it threaded them together; the connector is the price of that consistency, not anyone's spell. Magic is an ambient property of a population, not powers held by individuals — and the cause of *this* event is held permanently open. This is the PCs' first encounter with self-consistency-as-cause. (See [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"Who did this?".)
 
-This lands when Mira Chen (peer-generation caster) explains it. She is not the Wise Old Sage; she is the slightly-older sibling who has done what the PCs are starting. Her line: *"We don't have a guild hall. We have lunch in twos."*
+This lands when Mira Chen (peer-generation caster) explains it. She is not the Wise Old Sage; she is the slightly-older sibling who has done what the PCs are starting. She introduces the network *and* names the unknowability — she cannot give them a culprit, because there isn't one: *"People ask me who saved them. I used to think it was us — reaching out without knowing. Now I think the world just doesn't permit the version where you weren't here. We didn't do it. Nothing 'did.' I can't tell you what. Neither can anyone."* And, on the network's shape: *"We don't have a guild hall. We have lunch in twos."*
 
 ### Invariants
 
-1. No single mentor figure holds the answer about the gate-edit. The collective answer comes from the network itself, in pieces.
+1. No single mentor figure holds the answer about the gate-edit, and there is no culprit to find. The network is the answer the PCs *earn* about the phenomenon in general; the cause of the inciting event is held permanently open (authorless self-consistency).
 2. The flattening is not yet visible to the PCs as a pattern. Background NPCs may be subtly too agreeable, but the PCs don't connect dots.
 3. No PC achieves reliable intentional casting until they earn the trying-too-hard release.
 4. The Quiet is **not named** in Act I.
@@ -193,6 +193,8 @@ There are three possible sources where there used to be two. *That increase in p
 
 Roll credits.
 
+> **DM note (required callback).** Because the inciting cause (the connector in the bag) was held permanently open, this closing beat *is* its payoff: the same not-knowing the PCs have carried since Episode 1, now reframed as wonder instead of unease. Let a player make the connection; do not make it for them.
+
 ## Two endings
 
 The DM picks based on player journey:
@@ -301,7 +303,7 @@ The campaign rewards three layers (per [`principles.md`](principles.md)):
 **Core to Underleaf** (don't change without changing the campaign):
 
 - The three-act shape (Coincidence → Pattern → Conversation).
-- The collective-unconscious cast as the Act I deeper revelation.
+- The diffuse caster network as the Act I→II discovery hinge. (The *cause* of the inciting event is held permanently open — authorless self-consistency — *not* "the network did it"; the network is real and discovered regardless.)
 - The diffuse-by-magic network structure.
 - The institution's UX-Designer-as-actual-ally / Engineer-as-misdirection.
 - The mirror-substrate revelation in Act III.
@@ -327,7 +329,7 @@ Compiled across acts for the DM's quick reference:
 1. The Quiet is not named until Act III sub-phase 4.
 2. The flattening is not visible to the PCs as a pattern until late Act I or early Act II.
 3. The trying-too-hard tax ends through an earned moment of release, not by DM declaration.
-4. No single mentor figure explains the gate edit. The collective answer comes from the network in pieces.
+4. No single figure explains the gate edit; there is no culprit to find. The network is real and discovered, but the inciting cause is held permanently open (authorless self-consistency).
 5. The network is structurally diffuse; gatherings of more than three fail.
 6. The institution is never a villain.
 7. The former caster is not fixable.
