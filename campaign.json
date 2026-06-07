@@ -285,10 +285,11 @@
   "authors": ["Markus Gutschke"],
   "homepage": "https://github.com/gutschke/underleaf",
   "episodes": [
-    "001-unattended-baggage"
+    "001-unattended-baggage",
+    "002-the-archivists-index"
   ],
   "characters": {
     "pcs": ["example-character"],
-    "npcs": ["yui-tanaka", "reggie-okeke"]
+    "npcs": ["yui-tanaka", "reggie-okeke", "bea-ferro"]
   }
 }
