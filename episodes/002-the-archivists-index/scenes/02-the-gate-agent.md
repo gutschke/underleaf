@@ -51,7 +51,7 @@ If the PCs approach Reggie somewhere other than SFO (his home, at a bar someone 
 
 ## The wall
 
-Reggie genuinely does not remember holding anyone's bag at the gate — *as far as the shape of the world now attests, it didn't happen, and his memory matches that shape.* He is friendly first: easygoing, calls them *boss*, would love to help. As the questions imply he failed at his job (letting a passenger leave a bag unattended), he gets defensive — he prides himself on professionalism. He is not shifty. He is a sincere man with a hole in his memory he doesn't know is there.
+Reggie genuinely does not remember approving a passenger's bag being held at the counter — *his memory is anchored to a pre-edit shape in which the bag-hold never happened, and it never updated when the world's shape did.* He is friendly first: easygoing, calls them *boss*, would love to help. As the questions imply he failed at his job (approving a policy violation), he gets defensive — he prides himself on professionalism, and paperwork he's dimly aware of says the bag-hold happened even though he has no memory of it. He is not shifty. He is a sincere man carrying a mismatch he doesn't know is a mismatch — his mind attests one shape; the records attest another. See [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) §"record-vs-memory asymmetry" for why his memory stayed anchored to pre-edit rather than updating.
 
 > *"Honestly, boss, I'd remember. We don't let bags sit. That's like the one thing. If I'd done that I'd have heard about it — there's cameras, there's a write-up, the whole thing." (a beat) "...There's no write-up."*
 

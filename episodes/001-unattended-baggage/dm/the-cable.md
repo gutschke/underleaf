@@ -19,12 +19,32 @@ To make this work, The Quiet wove these threads:
 
 3. **The connector in {{pc:1}}'s bag.** This is the expensive one. The {{pc:1}}-bag-at-the-counter window is the natural-looking event that gave the Quiet a place to do the impossible thing. The actual placement of the connector cost **Hard** tier on its own: the part materializes in a sealed anti-static bag, with no manufacturing trail. The connector itself is real and standard — but its presence in *this* bag, with no continuous causal chain back to a manufacturer, is the kind of thing the Quiet pays heavy debt for.
 
-4. **The anchors — and where the cost lands.** The flight attendant accepting the bag is held in two places: her memory (loose, cheap) and the gate security camera (instrumented, expensive). The Quiet spends *down the anchoring ladder*, cheapest first:
-   - **Reggie's and Yui's accounts of the night attest no bag-hold.** The world's current shape doesn't include the incident; their memories track that shape and have nothing to remember (the cheapest resolution). Cf. [`world-truths.md`](../../../design/DM-ONLY/world-truths.md) §"decided maybe". *Do NOT phrase this as "memory was wiped" — the world was edited, not their minds; their memories simply track the current shape.*
-   - **{{pc:1}}'s phone timeline takes a small gap** — a personal, weakly-anchored instrument whose natural state is *to* have gaps, so this is nearly free.
-   - **The institutional camera is NOT erased.** Erasing anchored, instrumented data is the *most expensive* move and would manufacture a fresh documented anomaly. Instead the footage stays forensically pristine and *corroborates* the played-out gate scene (Reggie at his counter, Yui holding the bag); the one impossible instant — the connector's appearance — is hidden behind an utterly ordinary occlusion (Yui's torso / a passing cart / an auto-iris glare). The cost there is paid in **improbability** (the perfectly-timed mundane occlusion), not in an edit. A hacker who examines the file finds it authentic, occluded, and inconclusive — nothing to pin on anyone.
+4. **The anchors — and where the cost lands.** The world's current shape (post-edit) includes the bag-hold; the gate footage records it accurately. What differs from observer to observer is *which shape each memory or record is anchored to* — and that is decided by which anchoring costs the substrate the least:
 
-   The result is a readable **cost-gradient** — memory gone, phone gapped, camera immaculate — that deep-layer players can reverse-engineer: *the harder a record is to alter, the less it was disturbed.* This is the probability inversion made legible, and it is what Episode 2 ("The Archivist's Index") puts in front of them.
+   - **The institutional camera records the current shape.** The footage shows the bag being held: Yui placed it on the counter, a natural-looking disturbance happened, she picked it up and put it on the plane. Cameras default to recording what's happening in the current shape — no active edit required. The connector's actual materialization is off-camera / occluded during the disturbance (Yui's torso across the frame, a passing cart, an auto-iris glare). A hacker who forensically examines the file finds it authentic and occluded — the video attests the bag-hold, but not the connector's appearance. Nothing to pin on anyone.
+   - **Reggie's and Yui's memories are anchored to a pre-edit shape** in which the bag-hold never happened. Their minds simply didn't update when the edit landed. This is *not* memory-wiping — the world was edited, not their minds; their minds are anchored snapshots that happened to keep tracking the pre-edit shape because updating them would have been *more* expensive than leaving them. See "why leaving them anchored is cheapest" below.
+   - **{{pc:1}}'s phone-log has a small gap** for the minutes around the bag-hold — a personal, weakly-anchored instrument whose natural state is *to* have gaps. Whether the pre-edit or post-edit shape gets recorded is roughly a coin-flip for such an instrument, and gapping is cheaper than either.
+
+   **Why leaving Reggie/Yui memories anchored to pre-edit is cheapest** (this is the key DM insight — hold it, don't share it):
+   - If Yui's memory updated to include the bag-hold, she would remember breaking policy. Cascades: guilt, potential self-reporting, career changes, behavior shifts around future bags, quitting or being fired. Each cascade requires more edits to keep the block self-consistent.
+   - If her memory stays anchored to the pre-edit shape (no bag-hold), she experiences a mismatch — paperwork attests something she doesn't remember doing — but the mismatch doesn't cascade. It's uncomfortable (the near-firing costs her professionally) but survivable.
+   - The substrate settles on the configuration that costs less. Anchored memory + mismatch is far cheaper than updated memory + all its downstream ripples.
+
+   The result is a readable **record-vs-memory asymmetry** — camera attests current shape, memories attest pre-edit shape — that deep-layer players can reverse-engineer as: *the world was edited; the records and the memories are both showing the shapes they'd naturally show if left alone; the mismatch between them is the visible signature of the edit.* This is the probability inversion made legible, and it is what Episode 2 ("The Archivist's Index") puts in front of them.
+
+**Common DM FAQ — hold this answer even before you'd share it:**
+
+*Q: If the current shape includes the bag-hold, and the camera records the current shape, why does Yui say she doesn't remember?*
+A: Her memory is anchored to a pre-edit shape in which she didn't hold it. Records default to current shape; memories default to whatever shape held when they formed. The mismatch is the phenomenon.
+
+*Q: But if she really did hold the bag in the current shape, shouldn't SOME record of it hold her accountable?*
+A: The near-firing incident is exactly that. Institutional paperwork attests the bag-hold happened; Yui's memory says it didn't. She can't defend herself because she genuinely doesn't remember. Corporate can't prove intent, so they don't fire her. The whole thing sits as an uncomfortable mismatch on her HR file — costing her the purser application quietly.
+
+*Q: Is there any way to restore her memory of the actual event?*
+A: No. There's no pre-edit shape to reach; there's only the current shape and her mind's anchoring to a version of history that no longer holds. See [`world-truths.md`](../../../design/DM-ONLY/world-truths.md) §"Memory of the pre-edit shape."
+
+*Q: So why is there "no record of a repair of the plane" (per Ep 2 played)?*
+A: Because no formal repair happened in the current shape. The connector appeared in Dakota's bag; Dakota handed it to Taipei maintenance; the plane was fixed with it. There's no institutional repair-request-and-fulfillment paperwork trail because none was filed — the part just appeared. The paperwork gap is a real institutional artifact of the current shape, not a further edit.
 
 ## Total cost
 

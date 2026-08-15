@@ -31,7 +31,7 @@ The PCs find **Yui Tanaka** (full sheet: [`../../../characters/npcs/yui-tanaka.j
 
 ## The wall (parallel denial)
 
-Yui has no memory of holding the bag either. Her memory tracks the world's current shape, in which she did not hold it; there is genuinely nothing there to remember — she is not lying. But where Reggie was defensive, **Yui is rattled** — the conversation surfaces a mismatch (paperwork attests she did; her memory attests she didn't) she didn't know was there, and it frightens her in a way she can't name.
+Yui has no memory of holding the bag either. Her memory is anchored to a pre-edit shape in which the bag-hold never happened; her mind never updated when the world's shape did. She is not lying. But where Reggie was defensive, **Yui is rattled** — the conversation surfaces the mismatch (paperwork and the incident report attest she held the bag; her memory attests she didn't) more sharply for her, because she's the one who was almost fired for something she has no memory of doing. See [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) §"record-vs-memory asymmetry" for the mechanism.
 
 > *"I don't — no. I would never take a passenger's bag, that's a fireable — " (she stops) "Why are you asking me this? Did someone say I — " (the cuff tug; her tell) "I've been so tired. Mei's been sick. I've lost whole hours this month. I thought it was just..."*
 
@@ -54,9 +54,9 @@ The PCs can be **kind to her or use her.** Kindness costs nothing and pays: she 
 
 Across this scene and Reggie's, make sure the table sees the asymmetry, without naming it:
 
-> *The edit changes the shape of events. The people whose lives ran through the edited-around moments now have memories that track the new shape — there is nothing there to remember. The witnesses still carry the pre-edit shape. Reggie and Yui have nothing to remember. You remember everything.*
+> *The world was edited so that Yui held the bag. Records (camera, paperwork) attest what actually happened in the current shape. Reggie and Yui's memories are anchored to a shape that held before the edit — a shape in which the bag-hold never happened at all. Your memories attest what you saw. Both are accurate to what they're anchored to. The mismatch between the records and the actors' memories is what you're looking at.*
 
-This is the specific evidence that primes one PC for the magic-realization beat in sessions 3–5. The natural first-realizer is the PC whose own life is a world-attests-never-existed story; let that player feel it. Do not connect it for them. *(Cosmology precision: the world was edited, not Yui or Reggie specifically; their memories just track the world's current shape. See `feedback_single_timeline_cosmology` in the DM's memory. The reason this precision matters is the realization arc: if the DM teaches "your memory was edited," the players will look for the agent who did the editing. If the DM teaches "the world's shape is different, and memory tracks the shape," the players correctly look for the phenomenon, not the culprit.)*
+This is the specific evidence that primes one PC for the magic-realization beat in sessions 3–5. The natural first-realizer is the PC whose own life is a world-attests-never-existed story; let that player feel it. Do not connect it for them. *(Cosmology precision — the DM must hold this even before sharing it: the world's shape was edited (past-directed self-consistency accommodation); records default to attesting the current shape; memories default to whatever shape held when they formed. Reggie and Yui's minds stayed anchored to the pre-edit shape because updating them would have cascaded expensive downstream edits — see [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) §"Common DM FAQ". If the DM teaches "your memory was edited" (memory-as-target), players hunt for a culprit that doesn't exist. If the DM teaches "the world was edited; records and memories are showing different snapshots," players correctly look for the phenomenon.)*
 
 ## A possible footage-as-mirror beat (only if footage is already in hand)
 
