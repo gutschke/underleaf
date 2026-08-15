@@ -15,6 +15,18 @@ rolls:
 
 The PCs obtain the SFO Terminal G gate-camera footage from the night of Flight 887. Full mechanics, forensic detail, and the cost-gradient are in [`../dm/the-footage.md`](../dm/the-footage.md) — read it before running this scene.
 
+## Compressed variant — footage acquired off-camera between episodes
+
+A real table (2026-08-15) played this off-camera in the between-episodes gap: the PCs' hacker (canonically the Investigator/Hacker archetype) pulled the footage from SFO's CCTV in the weeks between Ep 1 and Ep 2, before the reunion at Ocean Beach. When Ep 2 opens, the footage is already in hand.
+
+**When this variant fits:** the table has a hacker PC whose player wants that off-camera win to have happened; the DM prefers a 4-scene Ep 2 with the footage as pre-existing evidence rather than a scene to acquire.
+
+**How to run it:** award the deliverable retroactively at the top of Ep 2 — the hacker PC narrates (or the DM narrates) how they pulled it. Grant the "authentic, occluded, no tampering" forensic result immediately. The rest of the "content" of this scene (the corroboration, the occlusion, the cost-gradient) then happens in **whatever scene the footage gets shown** — most naturally, at the In-N-Out with Reggie in the two-stage variant of Scene 2. Reggie watching himself on a laptop, tired, at 11:30pm, is a genuinely strong version of the shared-bewilderment beat.
+
+**Trade-off:** you lose the on-screen "acquisition caper" and the Reggie-supplies-it relationship payoff. You gain a compressed 4-scene Ep 2 and a naturally intimate reveal setting.
+
+**The rest of this file's default flow assumes footage-acquired-in-Ep-2. Use whichever variant your table's shape prefers.**
+
 ## Acquisition
 
 Default (recommended): if Reggie became an ally in Scene 2, **he quietly supplies it** — acquisition becomes a relationship payoff and one clean scene. Otherwise run a light caper — the **full path menu** (records request / friendly contact / social-engineer Marcus the records clerk / hacker pulls the DVR), with friction and outcome bands, is in [`../dm/legwork.md`](../dm/legwork.md) §"Getting the gate-camera footage." **Don't roll to gate acquisition — they always get it; roll only to color *how* (clean vs. messy, a favor owed, a trace left).** The payload is the *content*, not the difficulty.

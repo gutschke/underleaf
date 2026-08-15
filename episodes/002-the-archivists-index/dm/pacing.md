@@ -48,3 +48,24 @@ The required per-session beat is the accidental cast (Scene 7) and/or the 1987 c
 ## If you only have 75 minutes
 
 Cut Scene 5; compress Scene 1 to the gate decision; run the footage acquisition as Reggie simply handing it over. Keep Yui and Bea whole.
+
+## Compressed 4-scene variant (played 2026-08-15)
+
+A real table played Ep 2 as a compressed 4-scene arc rather than the canonical 7. Total ~90 minutes, same emotional landing. Shape:
+
+| Scene | Target | What lands |
+|---|---|---|
+| 1a. Reconvene at Ocean Beach + teenagers-with-bonfire diversion | 10 min | Reunion, texture, teenagers get added to a second group chat |
+| 1b. On-the-spot bag chain-of-custody inspection + Waymo to SFO | 5 min | Party earns the route by noticing (with help from a teenager) that the chain of custody stops at SFO |
+| 2a. SFO ticketing frontal approaches by two PCs | 3 min | Both fail. Legal-department referral. Frustration. |
+| 2b. Coincidental sighting of Reggie in the departure hall + 11pm In-N-Out meeting | 20 min | Reggie visibly rattled by {{pc:4}} (bag-holder) + Yui's name; agrees to meet at Daly City In-N-Out. Later: 5×5 order, financial texture, Yui-affection beat, footage-viewing on a laptop. |
+| — | | (Footage acquired off-camera between eps; presented to Reggie at the In-N-Out on a laptop.) |
+| — | | (Scene 3 Flight Attendant: vestigial — party tried, nothing came of it.) |
+| 5b. Starbucks the next morning — Bea finds them | 12 min | Business card + address-and-history sleuthing |
+| 6. The Index — Bea's house in the afternoon | 25 min | The centerpiece; unchanged |
+| 7. Lights Out | 10 min | Unchanged |
+| **Total** | **~85 min** | Same beats hit; fewer scene transitions |
+
+**When to use this shape:** small table, tight session, or a party that will chew on In-N-Out + Bea for the full session's worth of energy and won't be well-served by a doorstep visit to Yui repeating beats already delivered.
+
+**Non-obvious virtue:** the compressed shape lets Bea appear as *a coincidence coming to the PCs*, which is thematically load-bearing. See [`../scenes/05-the-lead.md`](../scenes/05-the-lead.md) §"Compressed variant."

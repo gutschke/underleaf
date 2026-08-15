@@ -19,6 +19,22 @@ Several weeks have passed since Taipei. Everyone went their separate ways — an
 
 **Default opening (use this unless your table prefers another):** a café in the Mission on a Saturday late morning — two of them already at a window table, the others filtering in. The reunion is the hook; the gate is the spine.
 
+**Played variant (2026-08-15):** a real table opened the reunion at **Ocean Beach** rather than a café. A teenagers-with-bonfire encounter (a small group trying and failing to procure alcohol from the PCs) took over as a natural diversion while the party circled back to the plane conversation. The played party then did an **on-the-spot chain-of-custody investigation** of the anti-static bag (see below) that routed them to SFO for the next scene. This opening works well — the beach + bonfire adds contemplative texture, the teenagers become a memorable through-line (see "Bag chain-of-custody" below), and the transition to SFO feels earned.
+
+### Bag chain-of-custody (played variant, ~5 min)
+
+At Ocean Beach the PCs pull the anti-static bag out of {{pc:1}}'s pocket and actually **read the stamps**. The bag carries a full chain-of-custody sequence: manufacturer → parts distributor → maintenance contractor → United Airlines fleet ops → SFO ground-support staff — and then the log stops. **One of the teenagers** at the bonfire, hovering because these adults are interesting, points at the last stamp and says something like *"so, like, whatever happened happened at the airport, right?"*
+
+That's the whole beat. The teenager just noticed the obvious thing the party had missed. The PCs decide to go to SFO. The teenagers get added to a second group chat (a great recurring texture — they're now on the periphery of the PCs' Bay Area life). The party takes a Waymo to SFO.
+
+**At SFO ticketing (~3 min, before Scene 2)**, two PCs try frontal approaches:
+- The Operator PC ({{pc:5}}, canonically the aggrieved/argues-under-pressure archetype) asks the ticketing agent to comment on *"a bag I found in my luggage after the flight."* All this achieves is a legal-department referral and the agent refusing further conversation.
+- The bag-holder PC ({{pc:4}}) tries to file a lost-luggage claim, but of course has no lost luggage. Nothing comes of it.
+
+**Then** they coincidentally spot Reggie in the back of the departure hall — see [`02-the-gate-agent.md`](02-the-gate-agent.md) §"The played variant."
+
+**Why this shape works:** the frontal-approach failures earn the "we have to try something else" moment; the coincidental Reggie sighting IS a self-consistency accommodation — the future shape of events (in which the PCs met Reggie today and moved the investigation forward) required a past that included the encounter; the substrate settled on the cheapest such past. At the moment of play nobody remarks on this. In hindsight it's the cheapest available shape that connects "PCs try to investigate" to "PCs meet Reggie." Bank as a foreshadowing beat for a later realization. *(Cosmology precision: no NPC "was supposed to be there"; the world isn't an agent making choices. It's just that the cheapest self-consistent shape happens to be the one where they crossed paths — see the [[single-timeline-cosmology]] note.)*
+
 ## DM read-aloud (light touch)
 
 > *It's a Saturday. The fog burned off an hour ago. You've been texting the others on and off for weeks — about nothing, really, the way you do with people you went through something with. Today you're actually in the same room again, or about to be. And the empty anti-static bag is still in {{pc:1}}'s pocket, because {{pc:1}} never quite threw it away.*

@@ -15,6 +15,18 @@ rolls:
 
 A connective scene. Its job is to point the PCs at **Bea Ferro** and to let the table build their (wrong, intended) theory out loud.
 
+## Compressed variant — Bea finds them at Starbucks
+
+A real table (2026-08-15) played this compressed: instead of the PCs routing to Bea, **Bea sat at the next table** at the Starbucks at 19th and Irving where the party met the next morning to debrief. She behaved oddly enough that the PCs noticed and confronted her — she gave them her business card and left. The party did online sleuthing/records hacking that afternoon to turn up her Outer Sunset home address and its history (the house has always been owned by previous archivists — a self-consistency fact the party did not remark on at the time).
+
+**Why this works:** Bea is exactly the sort of person who ends up in the cheapest self-consistent shape when a pattern is emerging — a professional coincidence-collector at the exact table where the newest coincidences are being discussed. Having her *find the PCs* is thematically load-bearing — it's the same phenomenon the PCs are investigating, quietly running in the scene where they're investigating it. The confrontation + business-card exchange gives them a tangible artifact and an authored decision to visit her. *(Cosmology precision: no NPC is being "routed" by an agent; the substrate simply converges on the least-effort configuration for a self-consistent world. See [[single-timeline-cosmology]].)*
+
+**When to run this variant:** the party is meeting somewhere in San Francisco proper after the Reggie scene (a café, a bar) *and* the session has room to include the "we spot the archivist behaving oddly" beat within existing scene time.
+
+**How to run it:** three or four minutes in, drop a beat — an older woman at the next table who has been paying more attention to their conversation than is polite. The Insight PC clocks it first. On approach, Bea is composed and *not surprised*. She gives them a business card ("*if you want to talk properly, this is where I live; call ahead*"), and leaves. The PCs then do the address-and-history dig in the same scene as light narration, and the Scene-6 visit follows in the afternoon.
+
+**Trade-off:** the "PCs earn the routing to Bea" beat is lost. Compensate by having a PC observe, out loud during the sleuthing, that they earned nothing — she came to *them*. The unease this generates is the belief-revision beat arriving early.
+
 ## Routes to Bea (any one suffices — Three Clue Rule)
 
 - **Reggie's referral** (Scene 2): the "insurance lady who took notes on index cards." A name surfaces with a little legwork.

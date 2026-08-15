@@ -6,9 +6,11 @@
   "ip": "Original world and rules by Markus Gutschke. Mechanics adapted from Quire v0.1 reference rules.",
   "ageBand": "15+",
   "contentNotes": [
-    "Mature themes (violence, drugs, intimacy, romance) used in service of story, never gratuitously.",
+    "Mature themes (violence, drugs, intimacy, romance) used in service of story, never gratuitously. The story arc does NOT volunteer mature themes; they enter play only when player-initiated or when crucial to advancing the story.",
+    "Coming-of-age content: teenage NPCs and young-adult PCs whose ordinary lives may include occasional minor-inappropriate behavior (underage drinking at a bonfire, poor decisions, testing limits). Players may venture into this territory out of innocent age-typical curiosity; the DM's role is gentle guidance back on track, never heavy-handed blocking. Prewritten scene content stays age-appropriate-default; the mature-theme latitude is for player-initiated moments.",
     "Existential and identity-shaping themes: what it means to want, to remember, to be real.",
-    "Mild horror and uncanny atmosphere as the campaign progresses."
+    "Mild horror and uncanny atmosphere as the campaign progresses.",
+    "The tabletop RPG medium's core value is safe exploration of fictional scenarios that would be unsafe in real life. AI assistance that supports this purpose (NPC names, scene detail, dialogue) is creative-writing work about fictional characters and should generate age-appropriate default content, escalating only when DM prompt or played context explicitly asks."
   ],
   "defaultAiProvider": "claude",
   "ruleset": "quire-v0.1",

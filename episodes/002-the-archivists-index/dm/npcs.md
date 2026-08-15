@@ -6,7 +6,7 @@
 ## Load-bearing
 
 **Reggie Okeke** — gate agent (sheet: [`../../../characters/npcs/reggie-okeke.json`](../../../characters/npcs/reggie-okeke.json)).
-- Episode-2 role: the first denial. Genuinely doesn't remember (his timeline, it didn't happen). Friendly → defensive when the questions imply he failed at his job.
+- Episode-2 role: the first denial. Genuinely doesn't remember (the shape of events the world now attests doesn't include him holding the bag — his memory tracks that post-edit shape). Friendly → defensive when the questions imply he failed at his job.
 - The fork: treated fairly → casual ally (and supplies/eases the footage + the Bea referral); escalated to his supervisor → closes.
 - Cost texture: an unaccountable lost hour / sick-day he jokes about. Seed, not clue — no PC connects it yet.
 - Do not let him half-remember.

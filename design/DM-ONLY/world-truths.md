@@ -66,13 +66,15 @@ Underleaf is set in an Einsteinian universe. Time travel as such — moving a pe
 
 This is the rule that prevents the system from becoming an extreme-retcon engine. Hold it firmly.
 
-### Memory of changed timelines is a "decided maybe"
+### Memory of the pre-edit shape is a "decided maybe"
 
-When a retro-causal effect does land, the question of who remembers the *previous* timeline (the one that was edited out) is not fixed. The Quiet resolves the inconsistency in whichever way creates the least friction at the substrate level. Often this means:
+> **Terminology note (locked 2026-08-15):** there is exactly ONE timeline in this world. It adjusts under self-consistency; the old shape does not persist somewhere. Never write "the previous timeline" or "in his timeline" or "in another timeline" — those phrasings quietly import a multiverse this cosmology does not have. Write instead: "the pre-edit shape of events," "the version of history he still remembers," "what used to be the case before the self-fix." See `feedback_single_timeline_cosmology` in the DM's Claude memory for the full phrasing guide.
 
-- **Nobody remembers.** The world has always been this way; the change is seamless. This is the cheapest resolution for The Quiet and is the default when no one was anchored to the prior state.
+When a retro-causal effect does land, the question of who remembers the *pre-edit shape of events* (the shape that no longer holds) is not fixed. The Quiet resolves the inconsistency in whichever way creates the least friction at the substrate level. Often this means:
+
+- **Nobody remembers.** The world has always been this way; the change is seamless. This is the cheapest resolution for The Quiet and is the default when no one was anchored to the prior shape.
 - **The caster and one observer remember.** When somebody actively witnessed the cast or the inconsistency, it's cheaper for The Quiet to let those specific minds carry the prior memory than to retroactively erase their attention. This produces the eerie effect of two people sharing a memory nobody else has.
-- **A small group remembers.** Rare. Happens when the cast was witnessed publicly or when the prior state was anchored hard enough that several minds were locked to it.
+- **A small group remembers.** Rare. Happens when the cast was witnessed publicly or when the prior shape was anchored hard enough that several minds were locked to it.
 - **Inexplicable partial knowledge.** People know without remembering. They're sure the milk was already out, but they can't say when they put it there. Common around heavily edited events.
 
 The rule of thumb: **whichever resolution causes the least argument about magic and disbelief.** If letting a skeptic remember would force them to confront magic head-on and rewrite their worldview, that's expensive; The Quiet usually picks the alternative where they forget. If letting a sympathetic observer remember helps the story land, that's cheap; The Quiet usually picks that. The DM decides.
