@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Underleaf DM Rules Cheatsheet</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    color: #1a1a1a;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 1.32;
+    font-size: 9pt;
+  }
+  h1, h2, h3 {
+    font-family: "Optima", "Trebuchet MS", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    margin: 0;
+  }
+  main { max-width: 8.5in; margin: 0 auto; padding: 0.4in; }
+
+  header.top {
+    border-bottom: 2px solid #4a3a1e;
+    padding-bottom: 6px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  header.top h1 { font-size: 18pt; color: #4a3a1e; }
+  header.top .sub { font-size: 9pt; color: #666; font-style: italic; }
+
+  .cols { column-count: 2; column-gap: 20px; column-rule: 1px solid #e0dbc5; }
+  section { break-inside: avoid; margin-bottom: 8px; }
+  h2 {
+    font-size: 10pt;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #4a3a1e;
+    border-bottom: 1px solid #d8d1bf;
+    padding-bottom: 2px;
+    margin: 0 0 4px;
+  }
+  h3 {
+    font-size: 9pt;
+    color: #333;
+    margin: 5px 0 2px;
+    font-weight: 700;
+  }
+  p { margin: 3px 0; }
+  ul { margin: 3px 0; padding-left: 14px; }
+  li { margin: 1px 0; }
+
+  table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 3px 0; }
+  th, td { border: 1px solid #d8d1bf; padding: 2px 4px; text-align: left; vertical-align: top; }
+  th { background: #f3ecd6; font-weight: 700; text-align: left; }
+  td.num { text-align: center; font-family: "Optima", sans-serif; font-weight: 600; }
+  tr.emphasis { background: #efe6cc; }
+
+  .box {
+    background: #faf7ee;
+    border-left: 3px solid #7a6f52;
+    padding: 4px 8px;
+    margin: 4px 0;
+    font-size: 8.5pt;
+  }
+  .box.warn { border-left-color: #a5502e; background: #f9ebe3; }
+  .box.dm   { border-left-color: #4a3a1e; background: #f5efe0; }
+
+  .kbd {
+    font-family: "Optima", sans-serif;
+    background: #efe6cc;
+    border: 1px solid #a89e83;
+    border-radius: 3px;
+    padding: 0 4px;
+    font-size: 8.5pt;
+    font-weight: 700;
+    color: #4a3a1e;
+  }
+  .never-say {
+    font-family: "Consolas", monospace;
+    background: #f9ebe3;
+    color: #6b2a1a;
+    padding: 4px 8px;
+    border-left: 3px solid #a5502e;
+    font-size: 8pt;
+    line-height: 1.5;
+  }
+
+  @page { size: letter; margin: 0.4in; }
+  @media print {
+    body { background: white; }
+    main { padding: 0; max-width: none; }
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #14120e; color: #e8e2d0; }
+    h1, h2, h3 { color: #d6b871; }
+    th { background: #2a2418; color: #e8e2d0; }
+    td { border-color: #3a3323; }
+    tr.emphasis { background: #3a3021; }
+    .box { background: #24201a; border-left-color: #d6b871; }
+    .box.warn { background: #2a1a12; border-left-color: #d67a4a; }
+    .box.dm { background: #2a2418; border-left-color: #d6b871; }
+    .kbd { background: #3a3021; border-color: #856f3d; color: #d6b871; }
+    .never-say { background: #2a1a12; color: #f0c8b0; border-left-color: #d67a4a; }
+    .cols { column-rule-color: #3a3323; }
+    header.top { border-bottom-color: #d6b871; }
+    h2 { border-bottom-color: #3a3323; }
+    header.top h1 { color: #d6b871; }
+  }
+</style>
+</head>
+
+<main>
+
+<header class="top">
+  <h1>Underleaf DM Rules Cheatsheet</h1>
+  <span class="sub">Quire v0.1 rules reference &middot; two-page double-sided</span>
+</header>
+
+<div class="cols">
+
+<section>
+  <h2>Core Resolution — 2d6 + stat + skill</h2>
+  <table>
+    <tr><th>Roll (+mods)</th><th>Result</th></tr>
+    <tr><td class="num">≤ 6</td><td><b>Miss</b> — fail, or succeed at cost</td></tr>
+    <tr><td class="num">7-9</td><td><b>Partial</b> — yes-but, yes-and-cost</td></tr>
+    <tr><td class="num">10+</td><td><b>Hit</b> — clean success</td></tr>
+    <tr><td class="num">12+</td><td><b>Exceptional</b> — success with bonus</td></tr>
+  </table>
+  <p><b>Wild outcomes</b> — check the dice AS DICE, before modifiers:</p>
+  <ul>
+    <li><b>Double 6s</b> → exceptional regardless of math; <b>player narrates</b> an unexpected positive detail</li>
+    <li><b>Double 1s</b> → mechanical result resolves normally with mods; <b>DM introduces</b> an unexpected complication or twist</li>
+  </ul>
+  <p><i>DMs never roll. Players roll for uncertain outcomes; you narrate.</i></p>
+</section>
+
+<section>
+  <h2>Stats (range −2 to +3; starting array +2/+1/+1/+1/0/0)</h2>
+  <table>
+    <tr><th>Stat</th><th>Covers</th></tr>
+    <tr><td class="num">STR</td><td>lifting, brawling, physical labor</td></tr>
+    <tr><td class="num">DEX</td><td>driving, fine motor, dodging, climbing</td></tr>
+    <tr><td class="num">CON</td><td>endurance, illness, tolerance, sleep dep</td></tr>
+    <tr><td class="num">INT</td><td>academics, languages, technical</td></tr>
+    <tr><td class="num">WIS</td><td>willpower, intent, perception, intuition (modifies uncertain magic)</td></tr>
+    <tr><td class="num">CHA</td><td>talk, presence, lying, reading rooms</td></tr>
+  </table>
+</section>
+
+<section>
+  <h2>Skills (max +2 from skills, plus stat)</h2>
+  <p><b>Categories</b> (+1 each): <span class="kbd">Action</span> <span class="kbd">Subterfuge</span> <span class="kbd">Knowledge</span> <span class="kbd">Insight</span> <span class="kbd">Influence</span> <span class="kbd">Tech</span> <span class="kbd">Craft</span> <span class="kbd">Medic</span></p>
+  <p><b>Tags</b>: open free-text specifics, +1 when fiction-relevant ("ICU nurse," "fluent Mandarin"). 3-5 at creation.</p>
+  <p><b>Cap</b>: +2 from skills (one category + one tag, or two stacking tags), plus stat.</p>
+</section>
+
+<section>
+  <h2>Harm (4-box track)</h2>
+  <table>
+    <tr><th>#</th><th>State</th><th>Effect</th></tr>
+    <tr><td class="num">1</td><td>Bruised</td><td>No penalty</td></tr>
+    <tr><td class="num">2</td><td>Wounded</td><td>−1 to physical rolls</td></tr>
+    <tr><td class="num">3</td><td>Serious</td><td>−1 to ALL rolls; needs care soon</td></tr>
+    <tr><td class="num">4</td><td>Critical</td><td>Out. Dying or unconscious.</td></tr>
+  </table>
+  <p><i>Healing is mostly fictional. Box 1 rest; Box 2 days; Box 3 medical; Box 4 significant.</i></p>
+</section>
+
+<section>
+  <h2>Stress (4-box track)</h2>
+  <table>
+    <tr><th>#</th><th>State</th><th>Effect</th></tr>
+    <tr><td class="num">1</td><td>Tense</td><td>No penalty</td></tr>
+    <tr><td class="num">2</td><td>Strained</td><td>−1 to WIS rolls</td></tr>
+    <tr><td class="num">3</td><td>Frayed</td><td>−2 WIS; thread debt accumulates faster</td></tr>
+    <tr><td class="num">4</td><td>Broken</td><td>No casting; −1 to ALL rolls</td></tr>
+  </table>
+  <p><i>Recovery: 1 box / night's sleep; 1 box / meaningful conversation-art-connection; never in-scene.</i></p>
+</section>
+
+<section>
+  <h2>Combat (theater of the mind; DM turn-orders naturally)</h2>
+  <p><b>Moves</b> (anyone):</p>
+  <ul>
+    <li><b>Attack</b> — Action vs target. Hit deals harm; Partial deals harm + you take some too.</li>
+    <li><b>Defend</b> — DEX/Action against incoming. Hit avoids; Partial reduces.</li>
+    <li><b>Maneuver</b> — change position / create advantage. Hit gives ally +1 to their next roll.</li>
+    <li><b>Aid</b> — help another's action directly. Hit gives +1.</li>
+    <li><b>Press</b> — force someone to reveal/give up. Influence-based.</li>
+    <li><b>Withdraw</b> — disengage. Hit clean; Partial at cost.</li>
+  </ul>
+  <p>If tempo spikes: DM may call Insight; high rolls act first. Combat is rare and lethal; PCs are mostly civilians.</p>
+</section>
+
+<section>
+  <h2>Magic — plausibility tiers (DM adjudicates)</h2>
+  <table>
+    <tr><th>Tier</th><th>Roll?</th><th>Outcome</th></tr>
+    <tr><td>Free</td><td>No</td><td>Succeeds; no debt</td></tr>
+    <tr><td>Cheap</td><td>No (WIS check for show)</td><td>Succeeds; minimal debt</td></tr>
+    <tr><td>Costly</td><td>2d6+WIS</td><td>10+ clean; 7-9 partial (higher cost than expected); ≤6 fails + debt anyway. +1 stress.</td></tr>
+    <tr><td>Hard</td><td>2d6+WIS with −1/−2 penalty</td><td>10+ partial only; 7-9 fail with major debt; ≤6 backlash. +2 stress.</td></tr>
+    <tr><td>Prohibited</td><td>—</td><td>Not allowed</td></tr>
+  </table>
+  <p><b>Foci</b> shift tier down by ONE within domain (Costly→Cheap, Hard→Costly; Prohibited stays). Foci can break/fade/transform on Hard casts.</p>
+  <p><b>Free/Cheap spam</b> triggers a stress check after 3rd-4th in a scene. Roll 2d6+WIS; miss marks stress.</p>
+</section>
+
+<section>
+  <h2>Thread debt (narrative meter, NOT a number)</h2>
+  <table>
+    <tr><th>State</th><th>The world is doing</th></tr>
+    <tr><td>Quiet</td><td>Nothing notable</td></tr>
+    <tr><td>Noticed</td><td>Small "lucky timing" comments</td></tr>
+    <tr><td>Watched</td><td>Coincidences accumulate around caster; banks flag, friends ask</td></tr>
+    <tr><td>Pushing Back</td><td>Bad luck for the caster specifically; harder casts</td></tr>
+    <tr><td>Hunted</td><td>World actively obstructs; severe. Can't easily cast.</td></tr>
+  </table>
+  <p><i>Narrate the state in fiction ("things have eased; the world's eye has drifted"), never by number. Eases with restraint.</i></p>
+</section>
+
+<section>
+  <h2>Advancement (session end)</h2>
+  <p>Each player may mark up to ONE:</p>
+  <ul style="font-size:8.5pt">
+    <li>☐ Resolved a hard moment in line with alignment</li>
+    <li>☐ Learned something true about The Quiet, world, or another character</li>
+    <li>☐ Took a meaningful risk for someone else</li>
+    <li>☐ Acted against own short-term interest because story demanded it</li>
+    <li>☐ Took a complication/scar that will matter later</li>
+  </ul>
+  <p><b>Every 5 marks → 1 advancement</b> (stat +1 cap +3; category mastery +1→+2; new tag; new focus; NPC relationship; resource). Cap: 8 advancements per character.</p>
+</section>
+
+<section>
+  <h2>Alignment</h2>
+  <p>Standard 9-grid. Chosen at creation, <b>binding</b> — PCs act in accord even when short-term costly.</p>
+  <p><b>Drift tracker</b>: DM privately notes actions that pulled toward a different quadrant. ~5 drift marks toward one destination → realignment conversation. Old vows feel wrong; old allies notice.</p>
+</section>
+
+<section>
+  <h2 style="color:#a5502e">Silent-player firewall — NEVER SAY at the table</h2>
+  <p class="never-say">magic · The Quiet · casting · cast · spell · premonition · psychic · chosen · destiny · awakening · the elect · sixth sense · thaumaturgy · sorcery</p>
+  <p>Instead say: <i>coincidence · luck · timing · weird · uncanny.</i></p>
+  <p><b>Three lines memorized</b>:</p>
+  <ul>
+    <li>"is this magic?" → <b>"Could be. Could not be. What does your character do?"</b></li>
+    <li>"what does it MEAN?" → <b>"What do you think it means?"</b> (then listen)</li>
+    <li>"AI? Conspiracy?" → <b>same as #1</b>. Do NOT affirm; the theory must come from players.</li>
+  </ul>
+</section>
+
+<section>
+  <h2 style="color:#4a3a1e">DM-only: magic-discovery arc (Underleaf-specific)</h2>
+  <div class="box dm">
+    <b>Phase 1 — Accidental</b> (sessions 1-3): players have no cast on their sheets; DM silently grants Free/Cheap effects to strong intent, attributed to luck. Log in accidental-cast log.<br>
+    <b>Phase 2 — Realization</b> (scripted, ~session 3-5): DM reveals the pattern. Player gains cast mechanics on their sheet.<br>
+    <b>Phase 3 — Trying-too-hard tax</b> (~2-3 sessions after): intentional casts take −2 until PC has "one quiet moment of release" — an unforced spontaneous cast they didn't aim for. Drops tax to 0.<br>
+    <i>Each PC realizes on their own schedule. Release is the cue for the act break in Underleaf's three-act structure.</i>
+  </div>
+</section>
+
+<section>
+  <h2>Foci — quick DM reminder</h2>
+  <p><b>Cognitive anchor</b>, not a magic battery. Personal, idiosyncratic — a phrase, tool, breath count, song lyric, object.</p>
+  <p><b>Domain</b>: emotion, systems/information, identity, motion, knowledge, body/care, memory/identity, speech/presence, posture/presence, etc.</p>
+  <p><b>Effect</b>: shifts in-domain casts down one tier. Out-of-domain: no help.</p>
+  <p><b>Can</b> break, fade, corrupt, or transform when spent on Hard casts.</p>
+</section>
+
+</div>
+
+</main>
+
+</html>

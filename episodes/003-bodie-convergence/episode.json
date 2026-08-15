@@ -1,0 +1,30 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "The Bodie Convergence",
+  "summary": "Months after the archivist, the PCs quietly rationalize the strangeness away — until one of them (the Control-seeker archetype, off-screen) sends the others individual pretexts to converge on Bodie SHP, a Gold Country ghost town six hours away. A storm traps them; a 141-year-old mining-crew ledger has four of their names on it (a fifth entry water-damaged illegible); a wartime federal annex on the site has a plaque nobody wants to talk about; one of them accidentally casts in front of the others and it lands. The record-vs-memory phenomenon they investigated with Bea now happens to them.",
+  "prerequisites": ["001-unattended-baggage", "002-the-archivists-index"],
+  "hooks": [
+    "The DM's absent-player slot (Control-seeker archetype in the example party = Slot 4) is the off-screen driver of the reunion. If all five players are present, run Slot 4's convergence work in-fiction between sessions and open the episode with them delegating the on-site investigation to the others.",
+    "The party has been quietly rationalizing the strangeness for months in-game; the belief has cooled (cheapest-edit rationalization per world-truths). Sending them different pretext-invitations to Bodie is the arc's belief-reactivation beat.",
+    "Bodie SHP is a real California state park (Mono County) preserved in 'arrested decay.' Off-cell-signal, thirteen-mile washboard road, remote enough that the storm-trap is plausible. Alternate locations: Angel Island (shorter session, more accessible), Mount Shasta (more overtly genre)."
+  ],
+  "scenes": [
+    "scenes/01-arrivals-and-convergence.md",
+    "scenes/02-quest-full.md"
+  ],
+  "dmDocs": [
+    "dm/pacing.md",
+    "dm/what-the-dm-holds.md"
+  ],
+  "arcBeats": [
+    "belief-reactivated-by-off-screen-PC",
+    "pattern-corroborated-by-physical-artifact",
+    "first-witnessed-accidental-cast-by-a-PC",
+    "wartime-annex-seeded",
+    "pioneer-generation-thread-seeded",
+    "ranger-alaia-vega-planted",
+    "eight-ledger-network-seeded"
+  ],
+  "inGameDate": "A Saturday in late winter 2026-2027 (in-game); several months after the archivist's house.",
+  "tags": ["act-1", "reunion", "storm-trap", "ghost-town", "first-witnessed-cast", "wartime-annex", "pioneer-arc-seed", "off-screen-driver"]
+}
