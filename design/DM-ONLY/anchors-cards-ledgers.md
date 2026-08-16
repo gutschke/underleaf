@@ -99,6 +99,21 @@ When designing a scene, choose the anchor tier for each planted artifact deliber
 - Expensive artifact (archival document, physical thing) → the substrate is constrained; players CAN eventually work with this to reason about what's real
 - Retro-causally-informed writing on an expensive artifact → the maximum "feels like it can't be coincidence" beat, at the maximum substrate cost. Use sparingly; each is a load-bearing story anchor.
 
+## Recent damage is cheap to undo (bonus cost-gradient rule)
+
+A special-case rule that fell out of Ep 3 played material and is worth surfacing: **damage or destruction of an object within the current scene, unwitnessed by anyone outside the party, is cost-Free-to-Cheap to undo** as part of an in-domain cast. Two conditions matter:
+
+1. **Time-locality.** The damage happened moments ago; no downstream consequences have propagated. There is no insurance claim, no police report, no photograph taken by an outside witness, no scar-tissue-of-cause in someone's memory yet.
+2. **Witness-locality.** Only the party (and possibly the caster themselves) saw the damage. Nobody outside the immediate group has anchored a memory of the pre-damage or post-damage state.
+
+Under both conditions, reversing the damage is a tiny localized retro-causal edit — literally "this object wasn't actually broken a minute ago." No cascading records to fix; no outside memories to adjust; no institutional paperwork.
+
+**Worked example (Ep 3):** Priya, panicked in the Union Hall blizzard, tore apart her canvas medical satchel trying to create kindling. Moments later her accidental cast summoned firewood + fire + matches, AND **her bag was restored whole in her hands.** She noticed the bag before she noticed the fire. The bag-restoration cost roughly zero on top of the fire creation because (a) the damage was seconds old, (b) only the four PCs had witnessed it, and (c) the bag is her focus — restoring it also preserves her future casting capacity in-domain, which the substrate has a mild preference for maintaining.
+
+**Contrast:** if Priya had somehow destroyed the Union Hall's display case an hour before her cast, that damage would ALSO likely be cheap to undo — but if the display case had been photographed for insurance since, or if someone outside the party had come in and reacted to it, the cost grows fast. Every witness / record / downstream consequence adds friction to the reversal.
+
+**Design implication:** the DM can generously grant "your reversible-scene-damage got undone as part of the cast" without breaking the cost-gradient discipline. It's a gift to the player, a demonstration of the substrate's neatness, and a load-bearing worked example of how retro-causality can be casual (not always exotic-Hard-tier) when the anchors are cheap.
+
 ## Related
 
 - [`world-truths.md`](world-truths.md) — the underlying cosmology (single timeline, self-consistency, record-vs-memory asymmetry)
