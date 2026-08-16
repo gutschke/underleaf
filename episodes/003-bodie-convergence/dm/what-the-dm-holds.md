@@ -423,9 +423,23 @@ This is Priya's first-witnessed-accidental-cast in front of the party — a **ma
 
 **Story consequence:** Priya has cast, the party has witnessed, the party has explicitly acknowledged the cognitive dissonance (and shrugged it off, blaming Dakota). The stage is set for her Phase-2 realization beat in Ep 5-6. Track Priya's usage: any subsequent care-domain moments should be watched for further accidental casts. Her migraines (§14) may now correlate with cast attempts.
 
-**Fire-by:** Phase-2 realization beat for Priya, Ep 5-6. Between now and then, keep noticing but never explain.
+**Priya's immediate follow-up attempt:** having implicitly noticed she had done SOMETHING, Priya tried an intentional second cast — *"I just want to have $1000."* Nothing happened. Wallet still contained an employee card for the UCSF cafeteria and $13.27 in cash. **This is the ideal outcome.** The failure teaches — through in-fiction consequence rather than DM lecture — the entire plausibility framework the arc needs the players to eventually understand:
 
-**Never voice at the table:** that this is a cast, that the ranger's fire-attribution is the substrate's reconciliation, that Priya has cast at all. The players' shrug-and-curse-Dakota IS the correct in-world response; don't disturb it.
+- **Plausibility is a property of the request, not the caster** (per rules.md §Magic). "$1000 in my wallet right now" is a far more expensive edit to the shape than "wood + fire + matches during a life-threatening blizzard." Even a Phase-1-accidental grant will not touch cost-Hard-or-higher requests.
+- **Domain matters.** Priya's focus domain is body/care. Money/economics is out-of-domain; no cost-shifting discount applies.
+- **Intent-authenticity matters.** "I just want $1000" is a shallow, instrumental want. "I just want everyone to survive" was a coherent-under-pressure intent that had crystallized around genuine stakes. The Quiet responds to intent-integrity, not to casual desires. This is exactly the character-creation-intent-moment principle showing up at the table (per campaign.json §characterCreation.intent-moment).
+- **The failure IS the teaching moment.** Do not soften. Priya WILL keep testing. Let her. Each subsequent test that fails-for-good-reason is teaching without any DM exposition. Each subsequent test that succeeds-for-good-reason confirms the pattern she's building.
+
+**How to handle her future test-casts** at the table:
+- In-domain (body/care) + genuine stakes + coherent intent = Free-tier grant. Say yes.
+- In-domain + no stakes (curiosity, showing off) = no effect, or a *tiny* effect that's ambiguous ("you feel like your headache is slightly less" — she can't tell if it's magic or placebo).
+- Out-of-domain, any framing = no effect. Regardless of stakes.
+- In-domain + shallow-want ("I just want a snack") = no effect. The Quiet doesn't distinguish easily-satisfied wants; it moves the world for hard-to-satisfy ones.
+- **Track her attempts privately.** Successes and failures both feed the Phase-2 realization arc — she's building a working theory. When she has a working theory articulated to another PC, THAT'S the Phase-2 beat.
+
+**Fire-by:** Phase-2 realization beat for Priya, Ep 5-6. Between now and then, keep noticing but never explain. Her test-cast pattern IS her realization arc unfolding organically — it may land earlier than session 5 if she runs enough experiments.
+
+**Never voice at the table:** that this is a cast, that the ranger's fire-attribution is the substrate's reconciliation, that Priya has cast at all. That the failure of "$1000" was because of any specific mechanism the DM knows. The players' shrug-and-curse-Dakota IS the correct in-world response; don't disturb it. When Priya draws conclusions from her failed test, LISTEN — don't correct even her wrong conclusions unless they're actively dangerous. She'll build her own theory; the arc benefits from her being wrong on the way to being right.
 
 ## Cross-cutting updates to earlier sections
 
