@@ -63,6 +63,8 @@ Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passiv
 
 **The seed** (Scene 05 §DM placeholder + voicemail): Dakota is off following a lead from Bea's index to a Sacramento self-storage unit paid up-front through 2035 by an LLC that dissolved in 1998. Inside: three of the eight ledgers, hand-annotated in the margins with a hand not Bea's. One margin note names a person Dakota has now driven to look for. Voicemail escalates: *"It's not what I thought it was, and it's bigger."*
 
+**Playable version — see [`../scenes/03-dakotas-parallel-track.md`](../scenes/03-dakotas-parallel-track.md).** That file is the canonical, playable version of {{pc:4}}'s off-page adventure — Bea revisit + Sacramento locker + drive + first Vivian meeting + the voicemail delivery. Runnable if {{pc:4}}'s player is present at Ep 3; narrated otherwise. The events herein remain canonical either way.
+
 **What the DM must know:**
 
 The LLC was a discretionary trust — call it **Argonaut Records Holdings, LLC** — set up by Bea's 1987-decedent predecessor's estate lawyer to keep the storage unit indefinitely paid. The LLC dissolved in 1998 when the *next* archivist in the chain died (leaving Bea to take up the role without inherited infrastructure). The pre-paid locker was the 1987-decedent's deliberate act: an anchor she knew would outlast tenure changes.

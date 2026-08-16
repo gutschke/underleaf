@@ -10,7 +10,8 @@
   ],
   "scenes": [
     "scenes/01-arrivals-and-convergence.md",
-    "scenes/02-quest-full.md"
+    "scenes/02-quest-full.md",
+    "scenes/03-dakotas-parallel-track.md"
   ],
   "dmDocs": [
     "dm/pacing.md",
