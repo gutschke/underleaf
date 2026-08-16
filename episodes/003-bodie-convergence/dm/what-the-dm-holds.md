@@ -340,5 +340,112 @@ If the DM commits to this unification, the four items come from one root and pay
 
 - [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) — arc-level frame; where each Ep 3 thread fits
 - [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md) — cosmology (single timeline, self-consistency, record-vs-memory asymmetry, retro-causal edits at cost, no chosen ones)
+- [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md) — the substrate-mechanics vocabulary (anchor tiers, anchor sites, index cards vs. ledgers, retro-causal writing, cross-time non-communication)
 - [`../../002-the-archivists-index/dm/what-the-dm-holds.md`](../../002-the-archivists-index/dm/what-the-dm-holds.md) — Ep 2 equivalent, for style parallel
 - [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) — the load-bearing Ep 1 explanation, re-read alongside this
+
+---
+
+# Played-session record (Ep 3 as actually run — 2026-08-15)
+
+This section is the workflow's step (C) — what actually happened at the table, folded back into the answers doc so the fire status of each hook is legible when Ep 4 planning begins.
+
+## Fire status per hook
+
+| # | Hook | Status | Played detail |
+|---|---|---|---|
+| 1 | 1878 ledger + illegible 5th name | **FIRED** | Party noticed name match; assumed 5th = Iyer without dwelling. Ambiguity preserved as designed. Did NOT ask to verify. |
+| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect Beck to bring the curiosity. |
+| 3 | Dakota's Sacramento thread | **SEEDED via voicemail** | Now the Ep 4 opening driver. Party thinks Dakota deliberately set them up for danger — reunion energy will be *frosty*. |
+| 4 | Annex 7 plaque | **SEEDED, unregistered** | Party noted the plaque on the way out but didn't register importance. Blizzard preoccupied them. Ledger fires later; carry into Act II. |
+| 5 | Ranger Vega + QR codes | **FIRED (partially, consciously)** | Morgan noticed the QR codes are personalized. Called out the oddity ("elaborate feedback system for underfunded state park"). Did not scan (mobile data still off). Bank for Ep 4 or Act II re-encounter — Vega's Hidden-faction reveal fires when Morgan scans + follows up. |
+| 6 | SFPD Missing Persons call | **SEEDED, unheard** | Morgan saw the voicemail but didn't listen (session-close pacing). Carry into Ep 4 opening. |
+| 7 | Dakota's brown-edged photograph | **NOT FIRED** | Party didn't discuss. Retains function as ambient texture; Bancroft trail (§7 answer) still available. |
+| 8 | Ocean Beach teenagers | **N/A this session** | Between-sessions texture. Ep 4 could use one background text. |
+| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation still fires via Mira Chen in Act I→II. |
+| 10 | 1950s Yale padlock | **FIRED (Mira picked it in 36s)** | Personal best. Cosmology unchanged. |
+| 11 | Bodie ambient uncanniness | **NOT DEPLOYED; superseded by cast** | The DM never needed the lantern-relights-itself beat — Priya's fire cast did the same substrate-teaching work more powerfully. §11's answer (anchor-site permeability) still holds and is now the DM's frame for why the fire cast felt "easy" at Bodie. |
+| 12 | Dakota's visit to Bea | **NOT DIRECTLY FIRED** | Party inferred Dakota went to Bea (via his sticky note referencing her). Direct confirmation via Bea revisit still available Ep 4-5. |
+| 13 | "You are being watched" close | **DELIVERED** | Read verbatim at session close. Players registered as ominous; did not attribute to Companion. Carry into Act III sub-phase 1. |
+| 14 | Priya's migraines | **CONTEXT** | Not directly fired but Priya's Free-tier cast (below §17) is the same substrate-affinity manifesting differently. Migraine dates: track from Ep 4 forward. |
+| 15 | The two other tourists Vega drove out | **inert as designed** | Not developed. Good. |
+
+## New played events that opened / advanced threads
+
+### 16. Mira's discovered ability — "sees outlines of what is missing"
+
+**What happened at the table:** Mira noticed the visitor-center flyer's map was heavily edited relative to a copper-print original — and, concentrating on the missing detail, she perceived faint outlines of what was missing. She used this repeatedly through the session: (a) inferred the flyer was derived from a more detailed source; (b) spotted the framed copper print on the wall; (c) after noticing Annex 7 was still absent from the print, she saw the outline of where it had been erased; (d) with a high roll, correlated the erased location to a real spot outside the visitor center.
+
+**What the DM must know:**
+
+Mira's ability is her Phase-1-accidental cast pattern manifesting as a **specific personal power**: she perceives faint outlines / negative-space silhouettes of things that have been erased from records or environments. Mechanics:
+- Mira's focus is memory/identity; her stat emphasis is WIS+2; her top skill is Subterfuge and second-skill Insight. All three align with "sensing what should be there but isn't."
+- When she has strong intent to notice absence and concentrates, DM may grant Free-tier accidental effects: a fuzzy outline, an intuition about "there should be more here," a sense of scale/direction of the missing thing.
+- Precision scales with her prior knowledge: knowing what TYPE of thing was erased (a building, a name, a person) yields sharper outlines than open-ended looking.
+- High dice rolls (Insight) refine the outline further — 10+ gives a spatial/positional read; 12+ approaches recognizable detail.
+- **This is a repeatable/recurring cast pattern, not a one-time reveal.** Mira has this ability now; expect her player to reach for it in future scenes. Grant Free-tier successes when in-domain; require Costly rolls when she pushes for detail she couldn't reasonably intuit; refuse Prohibited casts (e.g., "reconstruct the identity of the erased person from just an outline" is Prohibited without additional anchors).
+
+**Story consequence:** Mira is now the party's primary detector of substrate edits — anything that's been erased-from or edited-around leaves outline-shaped traces to her. This is a *substantial* investigative asset. In Act II she'll spot memory-edit patterns in institutional records other PCs miss.
+
+**Fire-by / carry:** ongoing per-scene. Track how often the DM grants; if usage exceeds ~2 per scene, apply the "free/cheap spam triggers stress check" rule per rules.md.
+
+**Never voice at the table:** the substrate mechanism. Mira and the party can experience the ability as an unusual talent; do not frame it as casting until her Phase-2 realization beat lands.
+
+### 17. Morgan's shoe-size intuition + the radio-setup Insight beat
+
+**What happened at the table:** two separate high-roll payoffs for Morgan tonight — (a) he set up Ranger Vega's unfamiliar two-way radio perfectly (a plausible Tech+Insight skill roll); (b) upon spotting a size-11 footprint in Building 7, he inexplicably remembered that this is Dakota's shoe size, though he can't articulate WHY he knows it.
+
+**What the DM must know:**
+
+The radio beat is straight skill — Morgan is a hacker/tech PC with high INT + Insight. No cast; normal skill success.
+
+The shoe-size beat IS a subtle Phase-1 accidental cast in Morgan's domain (systems/information). Morgan's focus is the Flipper Zero; his domain is systems/information/signals. Knowing a specific data-point about another PC that shouldn't be legibly knowable is exactly the kind of "small information nudge" his casting domain would produce. He accessed the fact from — what? A social-media post Dakota made about running shoes months ago? Dakota mentioning it in the war-thunder voice chat once? The substrate settled on "he just remembered it," which is the cheapest possible attestation for a piece of data the story needed him to have.
+
+**Story consequence:** Morgan has now had his first accidental cast without knowing it. Log the pattern. When his Phase-2 realization beat lands (later, per-PC), his cast domain will include "small factual intuitions that turn out to be true."
+
+**Fire-by:** the Phase-2 realization beat per PC lands sessions 3-5 (per big-arc.md Act I). Morgan's first is now on the log. Priya's is stronger (§18 below). Mira's is her §16 above.
+
+**Never voice at the table:** that this is a cast. Present as "you just knew" and let it sit.
+
+### 18. Priya's accidental cast — "I just want everyone to survive"
+
+**What happened at the table:** trapped in the Union Hall in a blizzard; no fuel, no supplies, temperature dropping. Priya searched frantically, tore down the display case, tried to burn her canvas bag as kindling. Cried out: **"I just want everyone to survive."** Noticed she was no longer chilly; heard fire crackling; turned to see a small stack of firewood + fire in the fireplace + a small box of matches — none of which had been there. The party remembered the place both as cold-and-empty AND as always-having-had-the-fire — a jarring cognitive dissonance they collectively shrugged off. Party CURSED DAKOTA rather than examining the reconciliation. **The ranger later returned + attributed the fire to her own pre-blizzard preparation ("I didn't think you'd join me at the bunkhouse, so I stacked the wood before I left") — the cheapest self-consistent shape.** When she left, the fire went out and the wood was gone. Priya's cast produced exactly what was needed, no more.
+
+**What the DM must know:**
+
+This is Priya's first-witnessed-accidental-cast in front of the party — a **major arc beat.** She has the following now on her private log:
+
+- **Trigger phrase:** *"I just want everyone to survive."* This is Priya's personal cast signature — the phrasing of her intent when it's coherent enough to reach The Quiet. Future casts may or may not use this exact phrase; the DM should watch for similar-structured statements from her ("I just want [X] to be OK") as intent-crystallization moments.
+- **Domain:** body/care, as her focus already established. The cast summoned physical necessities for survival — exactly in-domain.
+- **Cost gradient behavior (perfect worked example):** Priya's cast summoned *only what was needed, not more.* This is dramatically cheaper than Mira would have cast (Mira would have restored a historic-appearing full supply, larger, more expensive). The substrate settled on the cheaper option.
+- **Ranger reconciliation as canonical cheapness:** the ranger's return + attribution-of-the-fire-to-herself is the cheapest self-consistent shape for the ranger's memory + the party's experience + the fire's existence. It's a beautiful worked example of the record-vs-memory-asymmetry (see [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) §"Common DM FAQ"). Any future DM running similar scenes should look at how this one settled.
+- **The fire-goes-out-when-ranger-leaves detail** is the exact substrate-minimality signature. Wood was there just long enough for the reconciliation to hold, then dissolved back into the shape's cheap configuration. Do NOT explain this to the party.
+
+**Story consequence:** Priya has cast, the party has witnessed, the party has explicitly acknowledged the cognitive dissonance (and shrugged it off, blaming Dakota). The stage is set for her Phase-2 realization beat in Ep 5-6. Track Priya's usage: any subsequent care-domain moments should be watched for further accidental casts. Her migraines (§14) may now correlate with cast attempts.
+
+**Fire-by:** Phase-2 realization beat for Priya, Ep 5-6. Between now and then, keep noticing but never explain.
+
+**Never voice at the table:** that this is a cast, that the ranger's fire-attribution is the substrate's reconciliation, that Priya has cast at all. The players' shrug-and-curse-Dakota IS the correct in-world response; don't disturb it.
+
+## Cross-cutting updates to earlier sections
+
+**§5 Ranger Vega:** Morgan's conscious noticing of the personalized QR codes moves the timeline UP. Vega's Hidden-faction reveal now naturally fires when Morgan scans a card (Ep 4 opening or during any Bay Area investigation). Do not defer past mid-Ep-4.
+
+**§6 SFPD:** Morgan didn't listen to the voicemail at Bodie. Ep 4 opens with him listening. Detective Ortiz's call gives him the Sacramento paperwork trail — which converges with Dakota's Sacramento thread (§3). {{pc:1}} now has independent motivation to travel to Sacramento in Ep 4-5.
+
+**§11 Bodie ambient uncanniness:** the answer (anchor-site permeability) is now the load-bearing frame for WHY Priya's cast succeeded so cheaply at Bodie. Anchor-site permeability is a canonical mechanism (see [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md)); future scenes at anchor sites should exploit this same discount.
+
+**§13 "You are being watched":** delivered as designed. Companion's mid-Act-III fire remains on schedule. Note that the party didn't attribute the watching to any particular entity — Dakota, weather, magic, and "the government" all appeared in their speculation. The AI-conspiracy misread is quietly seeded without any DM confirmation.
+
+## What Ep 4 planning must include (workflow step A carryover)
+
+Must-incorporate for Ep 4:
+1. Dakota's return with the Sacramento find (§3) — the Ep 4 opener
+2. Morgan's SFPD voicemail listened to (§6) → Sacramento paperwork lead
+3. Morgan follows up on QR codes if signal returns (§5) → Vega Hidden-faction bridge
+4. Party's ANGER at Dakota — reunion energy is frosty; Beck needs preparation for this
+5. Mira's power now established — expect her player to reach for it; Free-tier grants are appropriate in-domain
+6. Priya's cast on the log — do not explain; watch for continued casts
+7. Morgan's shoe-size intuition on the log — his first accidental cast
+8. Ocean Beach teenagers: one inert group-chat text as ambient thread-maintenance (§8)
+
