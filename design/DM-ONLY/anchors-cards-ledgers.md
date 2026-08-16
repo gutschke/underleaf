@@ -71,7 +71,7 @@ Rules of the ledgers:
 
 Both cards and ledgers can contain writing that was **retro-causally informed** — writing that was physically composed at time T with real period materials, but whose CONTENT reflects events that hadn't yet occurred at time T. Examples:
 
-- **Eleanor Marsh's 1979 margin note** naming a Mira Chen who wasn't born yet.
+- **A ledger-keeper's margin note referencing a Bay Area coincidence-event that hadn't happened yet** (hypothetical worked example: a 1979 annotation naming a person who wouldn't be born for another decade).
 - **The 1878 mining ledger** listing surnames that match modern PCs whose parents hadn't been born.
 
 Mechanism (careful phrasing per [[single-timeline-cosmology]]): the ledger PHYSICALLY EXISTED in 1878 (or 1979) with actual period ink. What was retro-causally edited was not the ledger's material substance but the CONTENT the current-attested shape records the ledger as having had. From Eleanor's POV in 1979, she wrote the margin note because it felt right to write; she couldn't have said why; she was a soft-network Bea-adjacent figure whose hand was informed by the shape the world would need her to have attested by 2027. Same for the 1878 bookkeeper.
