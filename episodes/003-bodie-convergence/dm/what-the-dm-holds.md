@@ -1,7 +1,9 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> Every loose end Episode 3 opens has an answer the DM must hold. Some fire in Ep 4-5, some in Act II, some in Act III, some remain texture that never fully resolves. Read this file the night before Ep 3 runs, and again the night before Ep 4 planning starts.
+> Ep 3 plants many threads. Every one has a load-bearing answer the DM should hold, so it can either fire coherently later or remain deliberate texture. Fire windows range from Ep 4-5 to Act III; a few threads are never resolved by design.
+>
+> **When to read:** review before running Ep 3, and again when you start planning Ep 4.
 
 # What the DM holds — Episode 3
 
