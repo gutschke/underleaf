@@ -138,6 +138,14 @@ This is {{pc:4}}'s Sacramento lead. It names *Loewe* — a name the party has ne
 
 **{{pc:4}} leaves with:** a phone number, a promise to return with the others, and the sense that they have found something bigger than what they went looking for.
 
+### About who {{pc:4}} was in this room — character note
+
+**{{pc:4}} dropped the persona.** The party has spent months experiencing the Control-seeker archetype's carefully-cultivated public voice — the manipulator, the ambitious 21-year-old with a personal code, the person who volunteers a well-chosen fact only when it advances a plan. **Vivian did not get any of that.** With her, {{pc:4}} was quiet, careful, slower to speak, patient with her pauses, gentle when she needed to reach for something. They took the chair she pointed at without commentary. They asked one question at a time. They thanked her simply when she said something important. When it was time to go, they said so, said thank you, and left without lingering.
+
+**The player should know this about their PC** — even though the persona is a real defense, {{pc:4}} has a softer register they can drop into when the room asks for it, and Vivian's room asked for it. Elena (the aide) saw all of this from the kitchen doorway and it is why she'll welcome {{pc:4}} warmly two days later when the party returns.
+
+The DM does not need to voice this at the table if it's not being played out — but if {{pc:4}}'s player IS running this scene, invite them to try the register: *"This is not the same room as the group chat. What does {{pc:4}} sound like here?"*
+
 ### Beat 5 — The voicemail *(~2 min)*
 
 On the drive home from Sacramento, {{pc:4}} tries to call the party. They are at Bodie by now — no cell signal. {{pc:4}} leaves the voicemail from Scene 02 §voicemail (delivered here by the player rather than narrated):
