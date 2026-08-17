@@ -81,7 +81,7 @@ This lands when Nia Chen (peer-generation caster) explains it. She is not the Wi
 
 ### Hook to Act II
 
-Nia tells the PCs the network is structurally diffuse. Clustering creates social pressure that breaks intent integrity. *Magic punishes grouping.* PCs must find others by following loose social threads — never assembling more than three at a time.
+Nia tells the PCs the network is structurally diffuse. Clustering *unfamiliar* casters creates social pressure that breaks intent integrity — the substrate seems to soften what any of them can do while they are still strangers to each other's shape. The party's own five-person cohesion is stable: they have already paid the cost of coming to know each other, and their intent-integrity as a group is fine. The friction bites at the *boundary* between party and network — bringing multiple network casters into one meeting, or attempting to assemble a network *council*. Practical corollary: PCs meet network casters in ones and twos, following loose social threads that lead to individuals, not to gatherings.
 
 ## Act II — Pattern
 
@@ -89,7 +89,7 @@ Nia tells the PCs the network is structurally diffuse. Clustering creates social
 
 ### What happens
 
-The PCs follow Nia's threads. The Bay Area network is ~24 practitioners, diffuse, unorganized. The PCs' attempts to assemble more than three at a time *structurally fail* — one of the three always cancels, gets sick, has an emergency. The diffuseness is mechanical, not stylistic.
+The PCs follow Nia's threads. The Bay Area network is ~24 practitioners, diffuse, unorganized. Attempts to assemble *multiple network casters* into a single meeting structurally fail — one of the network members always cancels, gets sick, has an emergency. The party themselves being together is not the failure mode; gathering the *network* (or big cross-sections of it) is. The diffuseness is mechanical, not stylistic.
 
 Through scattered meetings, the PCs learn:
 
@@ -347,7 +347,7 @@ Compiled across acts for the DM's quick reference:
 2. The flattening is not visible to the PCs as a pattern until late Act I or early Act II.
 3. The trying-too-hard tax ends through an earned moment of release, not by DM declaration.
 4. No single figure explains the gate edit; there is no culprit to find. The network is real and discovered, but the inciting cause is held permanently open (authorless self-consistency).
-5. The network is structurally diffuse; gatherings of more than three fail.
+5. The network is structurally diffuse; the party's own five-person cohesion is stable, but assemblies of *multiple network casters* (or a party+network council) structurally fail — the friction bites at unfamiliar-caster clustering, not at any-casters-in-a-room.
 6. The institution is never a villain.
 7. The former caster is not fixable.
 8. The Engineer is misdirection; the UX Designer is the actual ally.
