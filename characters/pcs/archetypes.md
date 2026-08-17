@@ -15,6 +15,10 @@ These two should be **different PCs** so two players carry the technical plot.
 
 Beyond those two roles, anything goes. Subsequent episodes will not require this specific configuration; later episodes lean into social, investigative, and emotional work as much as technical.
 
+## A note on the intent-moment field
+
+Each archetype below lists a **Backstory direction** with a plausible way that shape of person might have learned to hold an intention against pressure. That's inspiration for the player's own answer — not a stand-in for it. The chargen `intent-moment` short-answer captures the player's specific, 2-4-sentence formative moment in the PC's own voice; it lands on the character sheet as its own `intentionUnderPressure` field (see [`README.md`](README.md) §The mandatory question). Use the archetype's direction to unblock a stuck imagination, then write the actual moment yourself.
+
 ## The five archetypes
 
 ### The Hacker

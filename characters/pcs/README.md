@@ -28,13 +28,15 @@ The PC schema is documented in [Quire's schema docs](https://github.com/gutschke
 
 ## The mandatory question
 
-There is one specific question your backstory should answer, even if obliquely:
+There is one specific question you must answer, in your PC's own words, in 2-4 sentences:
 
 > **What in your life taught you to hold an intention against pressure?**
 
-It might be a quiet thing — a parent who taught you to think before agreeing, a year of homesickness that made you find what you actually wanted, a job where standing firm mattered. It might be loud — adversity, betrayal, an experience of being right when everyone else was wrong. It doesn't have to be dramatic. It does have to be specific.
+It might be a quiet thing — a parent who taught you to think before agreeing, a year of homesickness that made you find what you actually wanted, a job where standing firm mattered. It might be loud — adversity, betrayal, an experience of being right when everyone else was wrong. It doesn't have to be dramatic. It does have to be **specific** and **a moment** (or a short stretch of time) that you can describe.
 
-You will not know why this question matters at the start. Trust that it does.
+**Where it lives.** Your answer is preserved on your character sheet as a first-class field called `intentionUnderPressure` — separate from your `backstory` prose. Both matter: the backstory is the wider arc of your life, and this field is the formative moment inside it that taught you what you now know. When the AI helps generate your backstory, it will reflect this moment obliquely (a habit that formed, a cost you carry) but will not restage the scene verbatim — the field itself preserves your exact words.
+
+You will not know at the start of the campaign *why* this question matters. Trust that it does. (The rules mechanic that pays it off is documented in [`world/rules.md`](../../world/rules.md), but reading it before play would spoil part of the discovery arc — the DM knows.)
 
 ## Five more things to decide
 
