@@ -7,10 +7,15 @@
 
 The campaign's three-act narrative shape. Read alongside:
 
-- [`world-truths.md`](world-truths.md) for the cosmology underneath.
+- [`world-truths.md`](world-truths.md) for the cosmology underneath (+ the single-timeline phrasing rubric).
 - [`antagonist.md`](antagonist.md) for the AI-flattens-intent throughline.
 - [`arc.md`](arc.md) for the play-mechanics phasing (what mechanics are active when).
-- [`principles.md`](principles.md) for the two campaign-level authorial principles.
+- [`principles.md`](principles.md) for the campaign-level authorial principles.
+- [`episode-outline.md`](episode-outline.md) for the session-by-session working horizon (Eps 5-25) — the *living* companion to this file. This document holds the *shape*; that one holds the *cadence*.
+- [`hook-ledger.md`](hook-ledger.md) for fire-status of every unresolved hook + standing per-session disciplines (S1-S4).
+- [`facts-ledger.md`](facts-ledger.md) for the cross-campaign facts snapshot (what is TRUE in the world).
+- [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) for the substrate-mechanics vocabulary (anchors, sites, ledgers, retro-causal writing).
+- [`brainstorm-open-questions.md`](brainstorm-open-questions.md) for pre-canon seeds under active thought (not committed design).
 
 This document focuses on **story shape, invariants, cast, agency choices, and the texture-builders** that make Underleaf feel like Underleaf.
 
