@@ -1,0 +1,40 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Alaia Vega",
+  "pronouns": "she/her",
+  "role": "park ranger at Bodie State Historic Park; quiet member of the caster network (Hidden faction)",
+  "disposition": "reserved, watchful, warm-professional at the surface; careful with names and confidences",
+  "alignment": "neutral-good",
+  "description": "Late 20s, Mexican-American, born in Berkeley, raised around her mother's stacks. Ranger uniform, brimmed hat, practical boots. A radio on her belt she uses with a small two-handed gesture. Notices what other people miss and does not mention it. Signs paperwork with a precise, slightly old-fashioned hand — a habit picked up copying her mother's ledger margins as a child.",
+  "voice": "Slightly-clipped Bay-Area cadence, quieter than most rangers; gives the shorter answer first and the longer one only if asked twice. Warmth is real but is rationed. Uses names sparingly and correctly. Does not perform authority; makes small statements of fact and lets them stand.",
+  "signature": [
+    "The brochure deflection: 'That's the line everyone reads twice. Above my pay grade.'",
+    "The wood-pile beat: 'I'm glad you got warm.' — said once, meant, and not returned to.",
+    "The QR-code hand-off: gives each visitor a park feedback card individually, with eye contact. Same card, different tracking suffix per person.",
+    "The peer text, once trust is earned: 'Sometime soon, at your convenience. I owe you a coffee.'",
+    "The name-discipline: never names a network member to a stranger; will speak *about* patterns before *about* people."
+  ],
+  "dmNotes": "Hidden-faction network member (see big-arc.md §Act II §'Player-driven choice: network faction alignment'). Alaia's role in the arc: **observe visitors to Bodie's anchor sites (Building 7 in particular), log encounters, and — if a party arrives that clearly knows what it is looking at — tag them for follow-up.** She is NOT Companion-affiliated (that would tip the antagonist frame too early). She is NOT hostile. Her wood-pile beat is genuine network warmth + professional discretion.\n\nHARD INVARIANT: Alaia is the **first non-elder network contact** the party meets. Bea, Rosa, and Vivian are all elders. Alaia is peer-generation-adjacent (a few years older than the PCs; younger than the elders). This matters for the arc's shape — the network is not just old librarians; there are people the PCs' own age in it, quietly. Do not accidentally deploy her as another elder-in-home scene; her venue is workplace (Bodie), text-thread (weekend follow-up), or peer-appropriate coffee.\n\n**Family lineage.** Alaia's mother is Rosa Vega (Berkeley Hills; Bancroft Library ledger-holder; former caster — see rosa-vega.json). Her grandmother was Isabel Vega (deceased; Loewe correspondent — see isabel-vega.json). Alaia grew up around Ledger 6 physically — she doesn't know precisely what it is; she knows the *shape* of the writing and the way coincidences cluster around certain events. Dakota's cryptic-invitation-photo in Ep 3 had the shape of a ledger event; that is why she recognized the party's arrival as significant.\n\n**The QR codes** — canonical mechanic (per facts-ledger §5). The park's feedback URL is real and does exactly what it says (goes to the ordinary form). Each card carries a **per-PC tracking suffix** (analytics-parameter-style, invisible to a casual scan). If a PC scans, Alaia learns *which* PC engaged — a private signal channel. This is her observation practice, not surveillance; the codes go where they say they go. When she reactivates as the Hidden-faction contact in Act II, the QR codes are how she re-establishes trust. Do not make this sinister.\n\n**Post-Ep-3 played state (2026-08-15).** Morgan (S1) consciously noticed the QR codes were personalized and called out the oddity at the table. He did not scan in-session (mobile data was off). Ep 4 opens with him scanning at his kitchen table Saturday morning — Alaia texts within moments: *'Sometime soon, at your convenience. I owe you a coffee.'* From Ep 4 onward Alaia and Morgan carry a **quiet QR-mediated channel** (per Ep 4 opening image). Recurs Eps 4 (text), 6+ (Hidden-faction reveal candidate — timeline compressed from mid-Act-II per U3), 12+ (Act II factional-alignment scenes).\n\n**Voice discipline is critical.** Alaia is RESERVED-WATCHFUL, not Reggie's-denial. She knows more than she says; she says only what the moment needs; she does not lie and does not volunteer. When pressed, she uses professional-ranger deflection (brochure line above pay grade), NEVER an outright denial. Her fondness for the PCs, once earned, is quiet and durable — a text-thread trust rather than a confessional. She will never accidentally-explain the network; that job belongs to Nia Chen at the Act I→II hinge (A1). Alaia will confirm, warmly and minimally, once Nia has named it.\n\n**Cross-references:** hook U3 (Morgan's QR-code follow-up), hook B2 (Alaia recurs as Hidden-faction contact), hook B13 (Rosa Vega — Alaia's mother — Berkeley visit Ep 5–6), hook A1 (Nia Chen naming the network — Alaia can confirm but must not preempt). Facts-ledger §5 (canonical observation-practice mechanic), §24 (Rosa lineage), §25 (Isabel lineage).\n\n**Never voice at the table before Act II:** her Hidden-faction alignment; that the QR codes route to a private observation practice; her knowledge of the ledger network. Post-Morgan-scan, Alaia can be *warm-and-cryptic*; she cannot be *explicit*.\n\n**Risk if unresolved:** the QR-code detail is a substantial planted mystery. If Alaia never recurs meaningfully past Ep 4, the QR seed rots. Bake at least one Hidden-faction Alaia scene into Act II mid.",
+  "knownTo": [
+    "pcs (Bodie, Ep 3 — first meeting; QR-code hand-off)",
+    "pc1 (Morgan — quiet QR-mediated channel from Ep 4 onward)"
+  ],
+  "tags": [
+    "network-caster",
+    "hidden-faction",
+    "park-ranger",
+    "peer-generation",
+    "vega-lineage",
+    "bodie-anchor-observer",
+    "recurring",
+    "reserved-watchful",
+    "qr-code-channel"
+  ],
+  "background": {
+    "homeBase": "A small rented cabin near the Bodie ranger station most of the season; a childhood bedroom at Rosa's house in the Berkeley Hills that she still keeps things in",
+    "household": "Lives alone during ranger seasons; visits her mother most off-weekends. No partner currently; a long-distance friendship-circle from her wildland-firefighter years",
+    "family": "Mother: Rosa Vega (Berkeley Hills; Bancroft ledger-holder — see rosa-vega.json). Maternal grandmother: Isabel Vega (deceased; Loewe correspondent — see isabel-vega.json). Father: not named; Alaia was raised primarily by Rosa. No siblings.",
+    "career": "Undergrad in environmental studies at Cal; two wildland-firefighter seasons before switching to interpretive-ranger work. Bodie is her third posting. She chose it deliberately — Rosa mentioned once, in Alaia's teens, that Bodie was 'a place worth watching.' Alaia understood the sentence more than her mother meant her to.",
+    "hobbies": "Reads more than she says. Copies out interesting margin-annotations from her mother's ledger into her own notebook — a private practice she has never named to Rosa. Photographs abandoned outbuildings when off-shift."
+  }
+}

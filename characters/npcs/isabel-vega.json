@@ -1,0 +1,33 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Isabel Vega",
+  "pronouns": "she/her",
+  "role": "post-annex correspondent of Dr. Erik Loewe; Rosa Vega's mother; Alaia Vega's grandmother; deceased",
+  "disposition": "sharp, kind — per Vivian's characterization; a private scholar of patterns",
+  "alignment": "neutral-good",
+  "description": "STUB — deceased. Referenced only through Vivian's memory ('sharp, kind') and through her daughter Rosa's household lineage. Born ~1920s in California; raised her family in the same Berkeley Hills cedar-shingled house Rosa now inhabits. A private scholar rather than a public academic. Left no published work; left letters.",
+  "voice": "STUB — voice reconstructed only from Vivian's characterization and from Rosa's occasional mother-quotes. Direct, warm, precise. Rosa's habit of ending a topic with 'my mother would say [X]' is the surviving cadence.",
+  "signature": [
+    "Vivian's whole characterization, verbatim: 'Very sharp woman, Isabel. Kind.'",
+    "The bridge line the party may hear via Vivian: 'My father wrote to her mother.' — the Loewe-Vega connection encapsulated in a single sentence."
+  ],
+  "dmNotes": "**STUB NPC — deceased offscreen; only referenced through Vivian and Rosa.** Bridges the Loewe-Vega family connection (facts-ledger §25).\n\n**Canonical outline** (per facts-ledger §25):\n- Born ~1920s.\n- Deceased by present-day (~2026).\n- **Post-annex correspondent of Dr. Erik Loewe** — her letters may be part of Loewe's surviving letter file (§22) OR may have been in the half he burned. DM decides at deployment time. If Loewe's file yields an Isabel letter, that letter becomes a hand-off surface to Rosa at the Berkeley visit ('I have a letter from your mother to my father — thought you should see it').\n- **Domain of interest is deliberately underspecified** — she may have been a mathematician, a librarian, a private scholar, or an amateur pattern-observer. Track her as: intelligent civilian, non-network, occasional letter correspondent of Loewe. Do NOT over-commit her professional identity in play.\n- Daughter: Rosa Vega (~1947; see rosa-vega.json). Rosa inherited her mother's pattern-observation interest and made a life around it.\n- Granddaughter: Alaia Vega (see alaia-vega.json). Alaia has quietly followed the interest one generation further.\n\n**Vivian's characterization** — 'sharp, kind' — is **the whole public picture.** Do not deepen it in dialogue unless the party specifically pushes and there is arc reason to. Vivian's line, delivered in Ep 4 Scene 3 Beat 2: *'My father wrote to her mother — Isabel. Very sharp woman, Isabel. Kind.'*\n\n**Whether Isabel was ever a caster** — DM's call, held open. **The party's default assumption should be: non-caster.** She corresponded with Loewe as an intelligent civilian who noticed patterns. If a later arc need surfaces (a specific Berkeley reveal that benefits from Isabel having been caster-adjacent), the DM can retcon within the ambiguity. Do NOT confirm caster-status casually at the table. Her daughter Rosa's former-caster status is what makes the Vega line load-bearing for the network arc; Isabel's own status can remain unresolved.\n\n**Cross-references:** hook B13 (Rosa Vega — Isabel's daughter — Ep 5-6 Berkeley visit; Isabel's letter as potential hand-off surface). Facts-ledger §25 (Isabel canonical entry), §24 (Rosa — daughter), §5 (Alaia — granddaughter), §20 (Erik Loewe — correspondent), §22 (Loewe letter file — Isabel-letter deployment surface). See also rosa-vega.json (daughter), alaia-vega.json (granddaughter), erik-loewe.json (correspondent), vivian-loewe.json (the sole living witness to Isabel-through-Loewe).\n\n**Never voice at the table:** anything more specific about Isabel than Vivian says. Rosa may add texture in Ep 5-6 (a mother-quote, a habit, a small memory) — that texture is Rosa's, delivered through her own voice, not a direct expansion of Isabel as a character. Isabel remains a two-word woman: sharp, kind.\n\n**Risk if unresolved:** low. Isabel is a hinge NPC, not a foreground character. If the arc never surfaces an Isabel letter, she remains a lineage bridge — which is all she needs to be.",
+  "knownTo": [],
+  "tags": [
+    "deceased",
+    "loewe-correspondent",
+    "mother-of-rosa",
+    "grandmother-of-alaia",
+    "vega-lineage-anchor",
+    "reference-only",
+    "berkeley-hills-lineage",
+    "hinge-npc"
+  ],
+  "background": {
+    "homeBase": "Deceased. In life: the cedar-shingled house in the Berkeley Hills that Rosa now inhabits (inherited from Isabel)",
+    "household": "In life: husband Julián Vega (Cal mathematics professor; kind, conventional, unaware of her substrate-adjacent correspondence with Loewe; deceased 1980s). Daughter Rosa (~1947)",
+    "family": "Husband: Julián Vega (deceased 1980s). Daughter: Rosa Vega (see rosa-vega.json). Granddaughter: Alaia Vega (see alaia-vega.json)",
+    "career": "Deliberately underspecified per DM discretion (see dmNotes). Track as: intelligent civilian, non-network, private scholar of patterns; corresponded with Loewe post-annex",
+    "hobbies": "Wrote long letters by hand. Read widely. Kept a garden Rosa still keeps"
+  }
+}

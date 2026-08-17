@@ -1,0 +1,38 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Elena",
+  "pronouns": "she/her",
+  "role": "Vivian Loewe's live-in caregiver; hospice-trained; the household's warm door",
+  "disposition": "warm, specific, practical; loves Vivian; gently protective; not a supernatural sensor",
+  "alignment": "neutral-good",
+  "description": "Around 40, Mexican-American, born in the Central Valley, moved to Sacramento in her late twenties. Practical clothes — jeans, a soft cardigan, canvas shoes she can be on her feet in for ten hours. Wears her hair in a low bun with strands escaping by afternoon. Carries a small notebook in her back pocket where she tracks Vivian's medication times and blood-pressure logs in a schoolteacher's clean print.",
+  "voice": "Warm, specific, present. Asks whether you want your coffee weak or strong before she pours it. Says things once and clearly. Doesn't perform hospitality; performs *attention* — a hand on the doorframe while she listens, a pause before she answers. Warmth is in the specifics.",
+  "signature": [
+    "The door greeting, calibrated per guest: warmer for those Vivian has already vouched for; polite-but-cool for strangers she doesn't know.",
+    "The kitchen line (deployed only if a PC wanders in for tea or water): 'She's going to die soon. I don't know if she knows.' She composes immediately after; the moment is not returned to.",
+    "The specific-detail hospitality: remembers a visitor's coffee order between visits; knows which chair is easiest for Vivian to see from."
+  ],
+  "dmNotes": "Non-caster civilian. Middle-aged, professional caregiver, ~3 years in Vivian's employ, hospice background. Loves Vivian; gently protective. Has no supernatural sensitivity — she is a warm and observant civilian, not a network-adjacent NPC.\n\n**VOICE DISCIPLINE — critical.** Elena is WARM and SPECIFIC. Protect this voice. She is NOT an exposition vehicle. She is NOT a flattening-beat vehicle (avoid deploying her as generic-caring-adult wallpaper). She is a person who has cared for a dying woman for three years and has made a home of it — her warmth is grounded in the specific person she is caring for, not in a personality-trait of 'caring.' When she speaks, she speaks in specifics: names, medication times, a chair Vivian likes, the temperature of the tea.\n\n**Her Thursday impression of Dakota is load-bearing.** Dakota (S4) visited Vivian on Thursday (Ep 3 played, per scene 03-dakotas-parallel-track). Elena met him at the door; she saw him drop his usual 'charming persona' and be quiet, careful, and gentle with the old woman. This produced a warm-Dakota reception for the Ep 4 Scene 3 party arrival — Elena is warm to Dakota specifically, polite-cool to the strangers she doesn't know. **This is the Elena Precedent in action** (see below).\n\n**The Elena Precedent** (facts-ledger §23 — general DM tool, not just Ep 4). The pattern the DM should hold: **any recurring civilian NPC who witnesses a PC in an unguarded moment carries a witnessing memory that becomes a resource in later scenes.** Dakota's Thursday persona-drop with Vivian produced Elena's warm-Dakota reception in Ep 4. Other future off-page moments should produce similar echoes with other civilian NPCs — the Precedent is a general design tool for making PC growth *stick* in the world's fabric. Named after Elena because she is the first cleanly-documented instance.\n\n**Her arc trajectory.** Elena becomes a light-touch recurring NPC through Vivian's decline. She may appear in Ep 5-8 Vivian revisit scenes (facts-ledger §19 recurrence obligation) — the door greeting, the kitchen line, the coffee. When Vivian dies (Ep 18 approx., offstage between sessions), Elena is the one who calls the party — she has been given Vivian's instructions to. **She bequests to the party the 1946-47 group photograph** (or the letter file, or whichever Loewe artifact remains outstanding at that point — DM's call at the time). Then Elena exits the arc: her role was caring for Vivian; that role is complete.\n\n**Ep 4 kitchen line — deployment discipline.** The 'She's going to die soon. I don't know if she knows.' line is deployed **only if a PC wanders into the kitchen** for tea or water during the interview (Priya is the likely candidate). Do NOT force the beat — Elena is not seeking to unburden herself. The line lands when the moment is private and quiet; Elena breaks briefly and composes immediately. Do NOT return to the moment — she does not want it revisited. She wants Vivian to be treated as living.\n\n**What Elena does NOT know:** anything about substrate, casters, ledgers, the annex, Erik Loewe's actual work, the notebook, the letter file, or the party's true reason for being there. Vivian has been discreet with her. Elena's frame is: 'a dying old woman is being visited by a strange but respectful group of young people; the young people seem to matter to her.' She is not curious about their business. She is curious about their names and how they take their coffee.\n\n**Cross-references:** facts-ledger §19 (Vivian recurrence obligation — Elena is the household's door), §23 (Elena Precedent canonical statement), §28 (group photograph — potential Elena bequest at Vivian's death). Ep 3 scene 03-dakotas-parallel-track (Dakota Thursday persona-drop witness). Ep 4 Scene 3 setup (Elena's Ep 4 deployment). Ep 4 Scene 4 opening (Elena's text after the party leaves Vivian's — cliffhanger tease per Ep 4 endings).\n\n**Never voice at the table:** anything substrate-adjacent. Elena's frame is entirely civilian; keep it that way. If a PC tries to probe her about Vivian's father's papers, she genuinely doesn't know.\n\n**Risk if unresolved:** low. If Elena never recurs, she is one-and-done Ep 4 texture (fine — she doesn't need to become a major character). The Elena Precedent she embodies IS load-bearing for DM discipline going forward — that pattern applies to every off-page PC moment, not just Dakota's.",
+  "knownTo": [
+    "pc4 (Dakota — Thursday persona-drop meeting; warm reception thereafter)",
+    "pcs (Ep 4 Scene 3 — Vivian's house; door greeting + kitchen texture)"
+  ],
+  "tags": [
+    "civilian",
+    "caregiver",
+    "hospice-trained",
+    "vivians-household",
+    "elena-precedent-namesake",
+    "sacramento-suburb",
+    "warm-specific",
+    "not-a-caster",
+    "recurring-light-touch"
+  ],
+  "background": {
+    "homeBase": "The spare room at Vivian's small 1960s Sacramento-suburb ranch house (live-in); her own studio apartment across town she keeps but rarely uses",
+    "household": "Lives in-house with Vivian six nights a week; sleeps at her own place Saturday nights. Divorced ~six years; no children of her own; two nieces in Modesto she sees on holidays",
+    "family": "Parents deceased (both in the last decade — part of what drew her to hospice work). One sister in Modesto (school administrator)",
+    "career": "Started as a home health aide at 23; certified as a hospice aide in her early 30s. Worked with two prior clients through their deaths before Vivian. Chose Vivian's placement three years ago because Vivian's intake interview asked what she read for pleasure — a question Elena had never been asked in an interview before",
+    "hobbies": "Reads mysteries — the cozy kind, not the grim kind. Makes small clay pots on a wheel at a community-college night class. Has a running joke with her sister about learning to swim, which she keeps not learning"
+  }
+}

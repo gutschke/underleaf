@@ -36,9 +36,11 @@ Phase change at the end: one of the coincidences was *too* coincidental. The PCs
 
 Backstory questions start to surface organically. The PCs compare notes and realize that the way they ended up here doesn't quite add up. Plus there's a pattern in how things resolve in their favor — not always, but often enough that the dice feel weighted.
 
-Magic-discovery arc: **Realization beat** for the first PC (around session 3-5). The DM picks a player and a moment — a confrontation with an older caster, a piece of evidence the PC encounters, a quiet conversation with an NPC who has noticed them. The pattern is named.
+Magic-discovery arc: **Realization beats land per-PC, sessions 3-6, delivered privately** when the party's collective rationalization posture (see `world/rules.md` §Realization mechanics) prevents at-the-table recognition. The DM constructs a 5-10 minute one-on-one moment showing the caster something the party missed — outline-vision reading a face that shouldn't be legible, an intuition landing on a fact that couldn't have been guessed. Realization lands privately; group ratification is not required.
 
-After realization, the **trying-too-hard tax** applies: -2 on intentional casts, dropping to -1 then 0 over 2-3 sessions. Each PC realizes on their own schedule.
+Ep 3 played established the rationalization dynamic (party's response to Priya's fire cast: "curse Dakota" rather than examine). Expect this pattern to recur for subsequent PC casts. When it does, do NOT force examination at the table; construct the private scene next session.
+
+After realization, the **trying-too-hard tax** applies: -2 on intentional casts, dropping to 0 when the PC experiences a moment of release. Each PC realizes and releases on their own schedule.
 
 Phase change at the end of phase II: the PCs accept that magic is real, that they can do it, that it's mediated by something they don't understand.
 

@@ -87,7 +87,7 @@ The 8 ledgers are the working-tool of **Bea Ferro's unbroken chain of archivists
 
 Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate. The chain is what connects Bodie's Annex 7 preservation (1942-1948) to Bea's Outer Sunset house today — one continuous institutional lineage rather than four independent explanations.
 
-**Fire-by:** the ledger network is the physical bridge from Bea's local Bay Area role to the larger caster-network arc (Mira Chen and beyond) in late Act I / early Act II. When Mira introduces the network, *"we don't have a guild hall; we have ledgers"* is one of her lines.
+**Fire-by:** the ledger network is the physical bridge from Bea's local Bay Area role to the larger caster-network arc (Nia Chen and beyond) in late Act I / early Act II. When Nia introduces the network, *"we don't have a guild hall; we have ledgers"* is one of her lines.
 
 **Risk if unresolved:** "eight" is a promise. If Act II never engages the ledger network, Dakota's voicemail feels like a cheap tease. Bake at least three of the four remaining ledger discoveries into Act II investigation cadence.
 
@@ -225,7 +225,7 @@ Four teens, ages 17-19, Sunset-District locals. Suggested names/textures (assign
 
 **Recurrence pattern**: 1-line group-chat texts as ambient signal. Best structural use: they are the **canary group** — casual observations that line up with substrate events the PCs did remotely. Examples: Ren texts *"whoa saw the weirdest sunset just now"* on the evening a PC accidentally cast. Maya sends a photo weeks later that has a background detail the PCs need.
 
-**Optional**: Ren is a candidate for a peer-generation network contact in late Act II (younger-cohort parallel to Mira Chen). Never required.
+**Optional**: Ren is a candidate for a peer-generation network contact in late Act II (younger-cohort parallel to Nia Chen). Never required.
 
 **Fire-by:** one inert text in Ep 4 (proof the thread is live); a meaningful signal by Act II. Optional Ren-becomes-caster hook in late Act II.
 
@@ -241,7 +241,7 @@ Four teens, ages 17-19, Sunset-District locals. Suggested names/textures (assign
 
 Reggie is an **unregistered high-substrate-sensitivity non-caster** — a person who dimly feels anomalies without knowing what they are (a common Act II network-adjacent NPC type). His memory of the actual gate-hold is un-restorable (per the record-vs-memory asymmetry). But his *somatic* recognition is real. Seeing the group's convergence hit him again — five people whose shape sits together wrong on his substrate-sense — is a body-level response, not a memory retrieval. That's why the escalation: one PC he doesn't quite recognize is uncomfortable; five is overwhelming.
 
-When Mira Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
+When Nia Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
 
 **Fire-by:** Act I → II network hinge; Mira's naming moment.
 
@@ -275,7 +275,7 @@ A brief follow-up team returned in the early Cold War (~1951-1954) to re-secure 
 
 **Do NOT deploy without holding this answer.** If the DM lets it slide into "haunted ghost town" framing, the players lock in a wrong theory that the arc has to route around later. If the DM holds the answer, the beat is a genuine teaching moment.
 
-**Fire-by:** small confirmation in Ep 5-6 (another anchor-site anomaly at Bea's house, at the archivist's, etc.); explicit teaching in Act II via Mira or Bea.
+**Fire-by:** small confirmation in Ep 5-6 (another anchor-site anomaly at Bea's house, at the archivist's, etc.); explicit teaching in Act II via Nia or Bea.
 
 **Never voice at the table** before Act II: "anchor sites are more permeable." Let players notice the pattern themselves.
 
@@ -398,7 +398,7 @@ This section is the workflow's step (C) — what actually happened at the table,
 | 6 | SFPD Missing Persons call | **SEEDED, unheard** | Morgan saw the voicemail but didn't listen (session-close pacing). Carry into Ep 4 opening. |
 | 7 | Dakota's brown-edged photograph | **NOT FIRED** | Party didn't discuss. Retains function as ambient texture; Bancroft trail (§7 answer) still available. |
 | 8 | Ocean Beach teenagers | **N/A this session** | Between-sessions texture. Ep 4 could use one background text. |
-| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation still fires via Mira Chen in Act I→II. |
+| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation still fires via Nia Chen in Act I→II. |
 | 10 | 1950s Yale padlock | **FIRED (Mira picked it in 36s)** | Personal best. Cosmology unchanged. |
 | 11 | Bodie ambient uncanniness | **NOT DEPLOYED; superseded by cast** | The DM never needed the lantern-relights-itself beat — Priya's fire cast did the same substrate-teaching work more powerfully. §11's answer (anchor-site permeability) still holds and is now the DM's frame for why the fire cast felt "easy" at Bodie. |
 | 12 | Dakota's visit to Bea | **NOT DIRECTLY FIRED** | Party inferred Dakota went to Bea (via his sticky note referencing her). Direct confirmation via Bea revisit still available Ep 4-5. |

@@ -17,8 +17,8 @@ This document focuses on **story shape, invariants, cast, agency choices, and th
 ## Length
 
 - **19-25 real-play sessions** total. (Tightened from earlier 25-40 drafts to keep pace high.)
-- **~1.5 in-game years.**
-- Act I: 6-8 sessions, ~2 in-game months.
+- **~1.5-2 in-game years.**
+- Act I: 6-9 sessions, ~5-6 in-game months. (Widened 2026-08-17: play established that per-PC realization + moment-of-release for 5 PCs plus the Sacramento arc-node runs 8-9 sessions in practice. In-game clock also stretched — Ep 3 played landed "late winter" ~5 months after the Bay Area reunion.)
 - Act II: 8-10 sessions, ~6-12 in-game months.
 - Act III: 5-7 sessions, ~3-6 in-game months.
 
@@ -46,7 +46,7 @@ They start noticing other "luck" in their lives — small things, easily explain
 
 **Deeper revelation (locked):** there is no single benefactor — and, on reflection, no culprit at all. The broader caster network is real and responds to distress **instinctively and unconsciously** (nobody decides; the cost is distributed thinly across casters who do not remember paying) — but *because* the network's casting is unconscious, **not even the network can know whether it caused this particular edit.** The cheapest self-consistent account of the inciting event is **authorless**: the world simply does not permit the version where these five were not here, so it threaded them together; the connector is the price of that consistency, not anyone's spell. Magic is an ambient property of a population, not powers held by individuals — and the cause of *this* event is held permanently open. This is the PCs' first encounter with self-consistency-as-cause. (See [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"Who did this?".)
 
-This lands when Mira Chen (peer-generation caster) explains it. She is not the Wise Old Sage; she is the slightly-older sibling who has done what the PCs are starting. She introduces the network *and* names the unknowability — she cannot give them a culprit, because there isn't one: *"People ask me who saved them. I used to think it was us — reaching out without knowing. Now I think the world just doesn't permit the version where you weren't here. We didn't do it. Nothing 'did.' I can't tell you what. Neither can anyone."* And, on the network's shape: *"We don't have a guild hall. We have lunch in twos."*
+This lands when Nia Chen (peer-generation caster) explains it. She is not the Wise Old Sage; she is the slightly-older sibling who has done what the PCs are starting. She introduces the network *and* names the unknowability — she cannot give them a culprit, because there isn't one: *"People ask me who saved them. I used to think it was us — reaching out without knowing. Now I think the world just doesn't permit the version where you weren't here. We didn't do it. Nothing 'did.' I can't tell you what. Neither can anyone."* And, on the network's shape: *"We don't have a guild hall. We have lunch in twos."*
 
 ### Invariants
 
@@ -60,11 +60,11 @@ This lands when Mira Chen (peer-generation caster) explains it. She is not the W
 - **Reggie Okeke** (gate agent): denial.
 - **Yui Tanaka** (flight attendant): parallel denial.
 - **The Archivist**: older NPC who keeps records of "lucky" events. Knows magic exists; will not discuss it. Possible role: retired insurance investigator.
-- **Mira Chen**: peer-generation caster, first network contact.
+- **Nia Chen**: peer-generation caster, first network contact. (Renamed from "Mira Chen" 2026-08-17 to avoid collision with PC Mira Sun.)
 
 ### Hook to Act II
 
-Mira tells the PCs the network is structurally diffuse. Clustering creates social pressure that breaks intent integrity. *Magic punishes grouping.* PCs must find others by following loose social threads — never assembling more than three at a time.
+Nia tells the PCs the network is structurally diffuse. Clustering creates social pressure that breaks intent integrity. *Magic punishes grouping.* PCs must find others by following loose social threads — never assembling more than three at a time.
 
 ## Act II — Pattern
 
@@ -72,7 +72,7 @@ Mira tells the PCs the network is structurally diffuse. Clustering creates socia
 
 ### What happens
 
-The PCs follow Mira's threads. The Bay Area network is ~24 practitioners, diffuse, unorganized. The PCs' attempts to assemble more than three at a time *structurally fail* — one of the three always cancels, gets sick, has an emergency. The diffuseness is mechanical, not stylistic.
+The PCs follow Nia's threads. The Bay Area network is ~24 practitioners, diffuse, unorganized. The PCs' attempts to assemble more than three at a time *structurally fail* — one of the three always cancels, gets sick, has an emergency. The diffuseness is mechanical, not stylistic.
 
 Through scattered meetings, the PCs learn:
 
@@ -285,7 +285,7 @@ The campaign rewards three layers (per [`principles.md`](principles.md)):
 | Reggie Okeke | Gate agent; denial | Act I |
 | Yui Tanaka | Flight attendant; parallel denial | Act I |
 | The Archivist | Records-keeper; knows but won't discuss | Act I-II |
-| Mira Chen | First network contact; peer-generation caster | Act I-II |
+| Nia Chen | First network contact; peer-generation caster | Act I-II |
 | Dr. Mei Bao | AI luminary, lecturer | Act II |
 | Dr. Anika Patel | Consciousness-studies ally; surface path to cybernetics | Act II-III |
 | Prof. Oren Vasiliev | Recently-deceased; papers found ambiently | Act II |

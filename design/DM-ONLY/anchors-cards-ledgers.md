@@ -41,6 +41,8 @@ This has story consequences:
 
 **Bodie is one of the campaign's designated anchor sites.** Ep 3's uncanny-town texture (optional lantern-relights-itself, etc.) is anchor-site permeability manifesting. If the DM ever wants a Phase-1 accidental cast to land easily, an anchor site is the right stage.
 
+**Multi-PC cascade at anchor sites.** Ep 3 played established that anchor-site permeability can allow *multiple concurrent* Phase-1 casts across the party in a single session (Priya's fire, Mira's outline, Morgan's shoe-size intuition all fired at Bodie). This is on-shape but was not anticipated by earlier design: the anchor-density that makes single casts Free also lowers the threshold for co-occurring casts. Plan for it when scheduling anchor-site sessions in Act II (the Central Valley temple; the Companion headquarters late Act II) — expect 2-3 concurrent Phase-1 casts, not one.
+
 ## Index cards
 
 **Bea Ferro's index cards** (Outer Sunset house, Ep 2) are the archivist role's working record. Each card records one anomaly that Bea (or a predecessor) personally witnessed or was reliably informed about. Contemporary observations; written now; kept forever.
@@ -66,6 +68,25 @@ Rules of the ledgers:
 - Ledger-keeping is a *distributed* role — 8 currently, mostly non-communicating.
 - Bea holds ONE ledger (the current-generation ledger of the archivist role's own line). The other 7 are held by keepers outside the archivist role's continuity.
 - The distinction matters: Bea's role is preserved by the house + the substrate's continuity preference; the ledgers are preserved by individual keepers' care and luck.
+
+### The 8 active ledgers — canonical assignment
+
+Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*), the count is 8 total. To avoid arithmetic contradictions when the party lays this out:
+
+| # | Ledger | Holder | Notes |
+|---|---|---|---|
+| L1 | Archivist-line current | Bea Ferro (Outer Sunset) | Bea's own ongoing ledger; current-generation |
+| L2 | Palo Alto | Dakota (Ep 3 acquired) | Estate of a Wiener-adjacent Cold-War-era researcher |
+| L3, L4 | Sacramento-locker predecessors | Dakota (Ep 3 acquired) | Bea's-predecessor archivist-line ledgers pulled into the Sacramento locker before Bea's predecessor died in 1987 |
+| L5 | Bancroft | Rosa Vega (Berkeley) | Rosa was the 1979 Bancroft cataloguer; she kept custody of the ledger informally after her official service ended |
+| L6 | San Bernardino (per Dakota's voicemail) | hoarder-collector (unnamed) | Private-collector; the holder does not know what he has |
+| L7 | Central Valley (per Dakota's voicemail) | Buddhist temple monk(s) | Preserved out of politeness; monks do not consult it |
+| L8 | Fourth-unfound (per Dakota's voicemail) | unknown | May not be findable in the campaign timeframe; deliberate DM slack — if the party reaches Ep 15+ without finding L8, retire to texture per hook-ledger W7 (unaccounted; the network doesn't have complete coverage) |
+
+**Design notes:**
+- Numbering is DM-facing. Do not present as "L1/L2/..." at the table; the party will refer to them by location or holder name.
+- If the party's investigation surfaces a candidate for L8 (a private collection, a small library), the DM can promote — do not force the L8-discovery narrative unless it feels earned. Retirement to texture is a valid ending for the ledger-hunt.
+- The Bancroft ledger's presence in Rosa's informal custody (rather than at Bancroft itself) is a small deliberate anomaly — Rosa took the ledger with her when she stepped back from active service. It reads as an old-woman kept-what-she-loved detail; it also protects the ledger from institutional scrutiny.
 
 ## Retro-causal writing (in ledgers and cards)
 

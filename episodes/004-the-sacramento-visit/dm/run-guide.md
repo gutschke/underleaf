@@ -140,6 +140,8 @@ Three ledgers on Dakota's dining table. Kettle on the stove. Party arrives one a
 
 **DM reign-in guidance.** Anger is real and gets played, but it must not derail the episode start. If the room is escalating past 20 min OR players are heating up out-of-character, **DM prompts the pivot**: *"OK — you can be angry, and you're still all here. What do you want to know?"* This is a legitimate DM tool, not railroading. Priya will most naturally hold anger longest — that's fine; she can carry it into the drive.
 
+**End Beat 1 with the anger *banked*, not resolved.** Do NOT let the party fully forgive Dakota in this scene. A partial-forgiveness landing ("we're still angry, but you're still here, and Vivian is 98") preserves the residual doubt-in-hidden-actors that Act II Institutional-frame redirect needs to hook into (see `design/DM-ONLY/hook-ledger.md` S3 for the discipline). A clean dissolution here ("we forgive Dakota, we're a team again") erases the frame that Companion's Act III conversation depends on. See the DM-guidance callout at the bottom of this file for the ongoing monitor.
+
 **Live-DM flag: Mira break.** If Mira breaks her silence with Dakota during this beat ({{pc:3}}'s player's play choice), it's a first: previously-silent PC directly contradicts Dakota. Actionable moves for the DM if it fires:
 - **Slow the moment.** Give the room 3-5 seconds. Let it land.
 - **{{pc:4}}'s player (as Dakota) reacts per his chosen stance** — Focused/Doubling-down likely defensiveness; Contrite may soften and thank her; Frightened may take it as validation. Don't scripted-force; let {{pc:4}}'s player play.
@@ -442,6 +444,21 @@ This is a **misdirection seed** from the campaign's seed bank (big-arc §Misdire
 > *"I watched. I wasn't invited into the work. What I know is what a daughter learns by not being told."*
 
 Use liberally. Keeps her a witness, not a mentor.
+
+#### The mailbox line — institutional-frame breadcrumb *(15 sec; drop at any natural pause)*
+
+Vivian, at a natural pause while she's talking about her father (or while handing over a letter, or looking out toward the fig tree):
+
+> *"He kept the letters in shoeboxes, three of them under the bench in the mudroom. His hand was small — you had to lean in. He wrote to people at Bell, at MIT — a woman at the Macy meetings whose name I could never keep straight. He used to say the field was small. Then a letter would come from someone new, and he'd hand it to me and say 'see, it isn't.' That's the part he couldn't say for the record."*
+
+**Function.** Plants *"network of noticers"* — institutions have been noticing this pattern for 80 years — as an atmospheric shape, not a named promise. Parallels what Companion IS at the campaign scale (a network of noticers). Low Chekov's-gun risk: no specific institution demands a fire; MIT / Bell / Macy meetings are innocent enough that a knowledgeable player recognizes cutting-edge-research context and a general player registers it as period atmosphere.
+
+**Guardrails.**
+- **Safe:** Bell, MIT, Macy Conferences (informal), Ratio Club. All natural correspondents for a wartime cybernetics-adjacent researcher.
+- **NEVER voice through Vivian:** Wiener, Turing, Shannon (reserved for Act III C6 dream-channel per facts-ledger §22). Perceptrons or any specific AI research topic (would give the game away too early).
+- **Vivian is not technical.** She knows names and letterheads because she saw the envelopes and heard her father say the names — she does not know significance. If the party asks "what were they working on?" her honest answer is *"I never asked. I don't think he would have told me."*
+
+**If the party asks who "the woman at the Macy meetings" was:** Vivian shrugs, apologizes for the failing memory. She'll try later; she never remembers. (The name stays open; the DM can revisit later or let it dissolve.)
 
 #### Vivian sees Dakota *[SCENE-DRIVER — {{pc:4}}'s player's landing beat]*
 
@@ -763,3 +780,25 @@ See `ep4-beck-support.md` for full stance-appropriate dialogue and Q&A. Summary:
 - Update `project_underleaf_play_state.md`
 - Add per-PC marks earned (max 1 per PC per session)
 - Prepare Ep 5 planning with load-check (Sunday-Vivian + Ortiz + Rosa + Loewe deep-read + Mars-follow-up + Priya-Phase-2 candidate)
+
+---
+
+## DM-guidance — ongoing monitoring after Ep 4
+
+Post-2026-08-17 arc-realignment pass identified three DM-facing monitoring items that begin firing from Ep 5 forward. Copy the shape into future episode run-guides.
+
+### Dakota-culprit frame monitor
+
+The Ep 3 played party consolidated on a *Dakota-as-culprit* reading (per hook-ledger cross-cutting notes + `the-cable.md` §"Three tempting wrong theories"). This is the campaign's actual party misread — different from the AI/institutional variant the design originally expected.
+
+**Do NOT dissolve cleanly.** Ep 4 Beat 1 lands the anger *banked*, not resolved. If the party continues reinforcing "Dakota did this on purpose" through Ep 5-6, redirect the frame — plant institutional-frame breadcrumbs (Vivian mailbox line if not already; Ortiz LLC angle; Bea old-clipping revisit) rather than adjusting Dakota. **The concern is not Dakota's behavior; it's the frame around him.** Trust the DM read of Dakota; give the party other things to project onto.
+
+Signal: 3 consecutive sessions where the party volunteers "Dakota did X on purpose" without new evidence = intervention required. See `design/DM-ONLY/hook-ledger.md` S3 for the discipline.
+
+### Rationalization → per-PC private scenes
+
+Per `world/rules.md` §Realization mechanics + `design/DM-ONLY/principles.md` §3 (both revised 2026-08-17): when the party collectively rationalizes a subsequent PC cast (Priya's next cast, Mira's outline in an interpersonal moment, Morgan's factual intuition, Mars's presence-cast), do NOT force examination at the table. Construct a 5-10 minute private per-PC scene next session. Priya's Ep 5-6 Phase-2 realization is the first test of this discipline.
+
+### Flattening seeding
+
+`antagonist.md` calls for flattening seeding throughout Phases I-IV. Zero beats delivered Eps 1-4. Ep 4 does NOT add one (the gas-station-attendant candidate was declined as too subtle for the table). Start Ep 5 with a blunter vehicle: Ortiz's dispatcher over-agrees with a specific-and-wrong scheduling detail Ortiz mentions; a colleague of Ortiz's reverses a former-firm position without noticing. 15 seconds. Then 1 per session going forward per hook-ledger S1. Menu: barista over-agrees with a specific-and-wrong menu order; delivery driver takes a suboptimal route "because the app said" and then explains it matches what they would have done anyway.

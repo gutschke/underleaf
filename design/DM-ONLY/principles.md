@@ -68,10 +68,32 @@ It does not mean dumbing down for surface players. It does not mean keeping deep
 
 It means: every layer is a complete game. A campaign run with five surface-engaged players is not a degraded campaign; it's a different campaign, equally good. A campaign run with five deep-engaged players is not the "right" campaign; it's a different campaign, equally good. The DM tunes the texture to the table.
 
-## How these two principles interact
+## 3. Rationalization is real; work with it, not against it
 
-The *possible future, not prophecy* principle keeps players safe from feeling personally targeted by the campaign's events. The *engagement layers* principle keeps players safe from feeling obliged to chase the campaign's deep machinery. Together they say:
+**When the party collectively rationalizes a cast, do NOT force examination at the table. Deliver realization privately in the next session.**
 
-> *"Underleaf is for you. The world looks like your world; the events do not have to be your events. The cosmology is here; you do not have to read it. Have the kind of fun you want to have."*
+Play through Ep 3 established that a rational adult party has a *cognitive-immune-system* against magic-recognition: when a PC casts in-scene, the party's default response is to explain the effect via coincidence, blame, weather, or an in-party culprit. This is not a failure of engagement — it is the same skepticism the players (correctly) apply to the real world. Trying to override it at the table produces awkward pauses, meta-arguments about "what really happened," and — worst — locks the party into a wrong-theory posture that carries through to Act III.
+
+### The discipline
+
+- Each PC's Phase-2 realization is an *individual* recognition, not a group ratification. Deliver it in a private per-PC scene the DM constructs (5-10 minutes, one-on-one, between other beats).
+- The party's shared interpretation of an event and the individual caster's knowledge of what they can do are *decoupled*. The party can maintain its wrong theory while the caster privately knows better.
+- Recurring wrong-theory postures are frame problems, not character problems. Redirect by giving the party OTHER things to project onto (institutional-frame breadcrumbs, network-scale seeds) rather than by adjusting individual characters the party has fixated on.
+
+### When this principle gets tested
+
+A player will sometimes want their PC to *publicly* announce their realization — "everyone, listen, I just cast a spell." Let them. The party will absorb it into their existing wrong theory ("okay, [PC] is projecting"), and the private recognition remains real regardless. The DM's job is not to force party consensus; it's to preserve the *reality* of what happened for the caster.
+
+### Why this matters for the arc
+
+Companion's Act III conversation depends on the party being able to *recognize* an emergent process rather than an individual antagonist. If the party has spent 12 sessions rationalizing every substrate event as *"someone is doing this to us,"* they arrive at the finale ready to blame the AI as they blamed the [in-party culprit]. The recognition then lands as plot-twist rather than as wonder.
+
+Working with the rationalization posture from Phase-2 forward is what lets Act III's *"the antagonist was never a person"* land as recognition.
+
+## How these three principles interact
+
+The *possible future, not prophecy* principle keeps players safe from feeling personally targeted by the campaign's events. The *engagement layers* principle keeps players safe from feeling obliged to chase the campaign's deep machinery. The *rationalization-is-real* principle keeps the arc's cosmology recognition intact even when the party has strong immune-responses against magic. Together they say:
+
+> *"Underleaf is for you. The world looks like your world; the events do not have to be your events. The cosmology is here; you do not have to read it. Your skepticism is welcome; it will not be argued against — the story will meet you where you are. Have the kind of fun you want to have."*
 
 These are the principles. Hold them when you DM.

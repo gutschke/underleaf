@@ -176,13 +176,49 @@ Standard 9-grid: Lawful/Neutral/Chaotic crossed with Good/Neutral/Evil. Chosen a
 For the sample campaign, PCs *can* cast from session one but do not know it. The three-phase arc:
 
 1. **Accidental** (sessions 1-3): players have no cast action on their sheets; the DM may silently grant Free or Cheap effects to strong intent, attributed in fiction to luck. Tracked in a DM-private out-of-session log.
-2. **Realization** (scripted beat, around session 3-5): DM reveals the pattern. The player gains access to cast mechanics on their sheet.
-3. **Trying-too-hard tax** (next 2-3 sessions): intentional casts take -2 until the PC learns to hold intent without forcing it.
+2. **Realization** (per-PC, sessions 3-6, private): the DM shows the caster something the party missed. See "Realization mechanics" below for how this differs from a scripted table beat.
+3. **Trying-too-hard tax** (next 2-3 sessions per PC): intentional casts take -2 until the PC learns to hold intent without forcing it.
 
 The tax is framed in-fiction: *"Now that you know magic exists, you're trying. Trying breaks intent. Until you re-learn how to hold an intention without forcing it."* The end-condition is concrete and player-perceivable: the PC must experience **one quiet moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast they didn't aim for. The release **drops the tax to 0** for that PC. Until then it stays at -2.
 
 This is not a fade-out (no gradual -2 → -1 → 0); it's a gating beat. The PC either has had their moment or hasn't.
 
 Each PC realizes on their own schedule. The moment of release is itself the cue for the act break in Underleaf's three-act structure.
+
+### Realization mechanics — party rationalization vs. per-PC private scenes
+
+Early drafts assumed Phase-2 realization was a scripted TABLE beat: DM picks a player and a moment, names the pattern, everyone at the table watches the reveal land. Play established that this doesn't work when the party has settled into a *rationalization posture* — the collective response *"it was just luck / it was because [PC-X] did [Y] / weather is weird"* absorbs any single reveal and defers realization for everyone at once.
+
+**When the party rationalizes, do NOT force examination at the table.** Instead:
+
+- Construct a **per-PC private scene** the next session — a 5-10 minute one-on-one moment (over a coffee-shop table between other beats; on the phone during a drive; in the hallway after another scene) where the DM shows the caster something the party missed. Their outline-vision reads a face that shouldn't be legible. Their intuition lands on a fact that couldn't have been guessed.
+- Realization lands PRIVATELY. The party doesn't have to agree with the caster's new theory; the caster's own recognition is what matters. Group ratification is a bonus, not a requirement.
+- Party consensus about "what happened" and the individual caster's *knowledge of what they can do* are decoupled. Each PC realizes on their own schedule; the whole party never realizes at once.
+
+The party's rationalization posture is not a failure mode — it's the cognitive-immune-system a rational adult population has against magic. Working with it is Underleaf's Phase-2 discipline.
+
+### Signature intent-phrases
+
+Some casters develop signature phrases that crystallize their intent under pressure — a syntactic shape they return to at the moment of casting. Example established Ep 3: Priya's *"I just want [X]"* pattern.
+
+When a player produces the same syntactic shape under coherent pressure in later sessions, treat it as an intent-crystallization cue: the caster is reaching for the pattern that has worked before. This can trigger a Free grant of a matching-tier effect (DM judgment) even for a caster still in Phase-1 or under trying-too-hard tax, provided the fiction supports it. It's not a rules bypass — it's the player showing the DM which anchor the character has learned to use.
+
+### Substrate-sensitive pings
+
+Some non-casting people are body-level sensitive to nearby casting or substrate-crisis events. Established example: Reggie Okeke feels the pattern without casting (Ep 3 played record). Priya has a body/care-domain sensitivity that pings during nearby anchor-site permeability or substrate-crisis events (Ep 4 running example: Vivian's syncope this morning correlates with Priya's threshold-release migraine).
+
+**Mechanic:** DM narrates the ping in the sensitive person's body — a migraine, a nausea, a sudden vertigo, an unaccountable exhaustion. Fires ~1-2 times per act at most. Do not voice the mechanism at the table until the sensitive person's Phase-2 realization beat lands (per silent-firewall discipline).
+
+### Anchor-site tier discount
+
+Cast tier is **contextual, not intrinsic**. The same effect can be Free at an anchor site and Hard elsewhere — because anchor-site permeability + witness-locality + focus-restoration bonuses drop the tier by one or two for the same fictional outcome. See [`../design/DM-ONLY/anchors-cards-ledgers.md`](../design/DM-ONLY/anchors-cards-ledgers.md) §Anchor sites + §Recent damage is cheap to undo. Consult that doc when a player attempts a casting the tier-table alone would price at Costly or higher.
+
+### Focus restoration during in-domain casts
+
+When a caster performs an in-domain cast during a scene in which their focus was damaged or destroyed, the substrate has a mild preference for restoring the focus as part of the cast. Cost is effectively zero on top of the primary effect. This is not a rules bypass — it falls out of the recent-damage-cheap-to-undo mechanic plus the substrate's preference for maintaining the caster's future casting capacity in-domain. See the Priya-canvas-satchel worked example in `anchors-cards-ledgers.md`.
+
+### Domain-specific casting triggers
+
+Not every domain fires the same way. Body/care, memory/identity, and systems/information domains cast from *strong intent under pressure* directly — an accidental fire, an outline-vision, a shoe-size intuition. Presence/posture domains (Mars, Dakota) need the caster to describe *both stance AND intent* — the WHY, not just the WHAT — before a cast lands. This is a design feature: presence-domain casts look "just like being charismatic" from outside, so the trigger has to demonstrate the caster is reaching for something *specific*. Document domain-specific triggers on individual PC files (see `characters/pcs/*.json` dmNotes.castDomain for the party's canonical triggers).
 
 This arc is specific to Underleaf and would not apply to a Quire campaign with different cosmology.

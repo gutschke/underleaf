@@ -1,17 +1,19 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> **Snapshot of the cross-campaign facts ledger as of Ep 4 prep (2026-08-16).** Canonical version lives at [`../../../design/DM-ONLY/facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md) — edit there; this file is regenerated at each episode's prep pass.
+> **Snapshot of the cross-campaign facts ledger as of Ep 4 prep (regenerated 2026-08-17 after arc-realignment pass — includes new §31 Kai Sun canon).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's printed Ep 4 binder.
 >
-> **When to use this file:** print at Ep 4 prep; carry to the table; use during play to look up any prior-episode continuity fact. The alphabetical index at the bottom is the fast-lookup surface during play.
+> **When to read:** before designing any episode; during play if a PC brings up something you might have forgotten.
+>
+> **How to grow it:** as part of each episode's post-design pass, add new load-bearing facts to the master (`design/DM-ONLY/facts-ledger.md`) tagged `**First established:** Ep N`. Re-snapshot to `episodes/00N-.../dm/continuity-through-ep-N.md` at prep time and render for the print bundle.
 >
 > **Related docs:**
-> - [`../../../design/DM-ONLY/hook-ledger.md`](../../../design/DM-ONLY/hook-ledger.md) — sibling: tracks *did the seed fire yet?* (per-hook status)
-> - [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md) — arc-level cosmology
+> - [`../../../design/DM-ONLY/hook-ledger.md`](../../../design/DM-ONLY/hook-ledger.md) — sibling: tracks *did the seed fire yet?* (per-hook status). Facts-ledger tracks *what is true in the world.*
+> - [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md) — arc-level cosmology (The Quiet, magic, retro-causality)
 > - [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) — arc-level frame
 > - [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md) — substrate-mechanics vocabulary
 
-# Facts ledger — through Ep 4 (The Sacramento Visit)
+# Facts ledger — cross-campaign
 
 The design principle: **every foreshadow is a promise.** This file records what each planted thread means, when it should pay off, and what breaks if the answer is left un-held. Content is grouped by originating episode; within an episode, sections are numbered.
 
@@ -113,7 +115,7 @@ The 8 ledgers are the working-tool of **Bea Ferro's unbroken chain of archivists
 
 Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate. The chain is what connects Bodie's Annex 7 preservation (1942-1948) to Bea's Outer Sunset house today — one continuous institutional lineage rather than four independent explanations.
 
-**Fire-by:** the ledger network is the physical bridge from Bea's local Bay Area role to the larger caster-network arc (Mira Chen and beyond) in late Act I / early Act II. When Mira introduces the network, *"we don't have a guild hall; we have ledgers"* is one of her lines.
+**Fire-by:** the ledger network is the physical bridge from Bea's local Bay Area role to the larger caster-network arc (Nia Chen and beyond) in late Act I / early Act II. When Nia introduces the network, *"we don't have a guild hall; we have ledgers"* is one of her lines.
 
 **Risk if unresolved:** "eight" is a promise. If Act II never engages the ledger network, Dakota's voicemail feels like a cheap tease. Bake at least three of the four remaining ledger discoveries into Act II investigation cadence.
 
@@ -251,7 +253,7 @@ Four teens, ages 17-19, Sunset-District locals. Suggested names/textures (assign
 
 **Recurrence pattern**: 1-line group-chat texts as ambient signal. Best structural use: they are the **canary group** — casual observations that line up with substrate events the PCs did remotely. Examples: Ren texts *"whoa saw the weirdest sunset just now"* on the evening a PC accidentally cast. Maya sends a photo weeks later that has a background detail the PCs need.
 
-**Optional**: Ren is a candidate for a peer-generation network contact in late Act II (younger-cohort parallel to Mira Chen). Never required.
+**Optional**: Ren is a candidate for a peer-generation network contact in late Act II (younger-cohort parallel to Nia Chen). Never required.
 
 **Fire-by:** one inert text in Ep 4 (proof the thread is live); a meaningful signal by Act II. Optional Ren-becomes-caster hook in late Act II.
 
@@ -267,7 +269,7 @@ Four teens, ages 17-19, Sunset-District locals. Suggested names/textures (assign
 
 Reggie is an **unregistered high-substrate-sensitivity non-caster** — a person who dimly feels anomalies without knowing what they are (a common Act II network-adjacent NPC type). His memory of the actual gate-hold is un-restorable (per the record-vs-memory asymmetry). But his *somatic* recognition is real. Seeing the group's convergence hit him again — five people whose shape sits together wrong on his substrate-sense — is a body-level response, not a memory retrieval. That's why the escalation: one PC he doesn't quite recognize is uncomfortable; five is overwhelming.
 
-When Mira Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
+When Nia Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
 
 **Fire-by:** Act I → II network hinge; Mira's naming moment.
 
@@ -301,7 +303,7 @@ A brief follow-up team returned in the early Cold War (~1951-1954) to re-secure 
 
 **Do NOT deploy without holding this answer.** If the DM lets it slide into "haunted ghost town" framing, the players lock in a wrong theory that the arc has to route around later. If the DM holds the answer, the beat is a genuine teaching moment.
 
-**Fire-by:** small confirmation in Ep 5-6 (another anchor-site anomaly at Bea's house, at the archivist's, etc.); explicit teaching in Act II via Mira or Bea.
+**Fire-by:** small confirmation in Ep 5-6 (another anchor-site anomaly at Bea's house, at the archivist's, etc.); explicit teaching in Act II via Nia or Bea.
 
 **Never voice at the table** before Act II: "anchor sites are more permeable." Let players notice the pattern themselves.
 
@@ -424,7 +426,7 @@ This section is the workflow's step (C) for Ep 3 — what actually happened at t
 | 6 | SFPD Missing Persons call | **SEEDED, unheard** | Morgan saw the voicemail but didn't listen (session-close pacing). Carry into Ep 4 opening. |
 | 7 | Dakota's brown-edged photograph | **NOT FIRED** | Party didn't discuss. Retains function as ambient texture; Bancroft trail (§7 answer) still available. |
 | 8 | Ocean Beach teenagers | **N/A this session** | Between-sessions texture. Ep 4 could use one background text. |
-| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation still fires via Mira Chen in Act I→II. |
+| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation still fires via Nia Chen in Act I→II. |
 | 10 | 1950s Yale padlock | **FIRED (Mira picked it in 36s)** | Personal best. Cosmology unchanged. |
 | 11 | Bodie ambient uncanniness | **NOT DEPLOYED; superseded by cast** | The DM never needed the lantern-relights-itself beat — Priya's fire cast did the same substrate-teaching work more powerfully. §11's answer (anchor-site permeability) still holds and is now the DM's frame for why the fire cast felt "easy" at Bodie. |
 | 12 | Dakota's visit to Bea | **NOT DIRECTLY FIRED** | Party inferred Dakota went to Bea (via his sticky note referencing her). Direct confirmation via Bea revisit still available Ep 4-5. |
@@ -563,7 +565,7 @@ She has been quietly waiting for someone to ask the right questions. Dakota (via
 - Whether her father's work "meant anything" cosmologically — she framed it as classified physics her whole life.
 - Who "the mathematician" is in the 1946–47 group photograph — she can only remember it if pressed hard (§28).
 
-**Fire-by:** ongoing through Act II. Vivian is the recurring Annex-arc witness (a Mira Chen analog for the Loewe thread, but non-caster + civilian).
+**Fire-by:** ongoing through Act II. Vivian is the recurring Annex-arc witness (a Nia Chen analog for the Loewe thread, but non-caster + civilian).
 
 **Never voice at the table:** any substrate-mechanics vocabulary. Vivian carries the *cover-story frame* — classified applied physics — as her worldview. Do not have her articulate cosmology; the DM must hold the substrate frame and let players triangulate.
 
@@ -616,7 +618,7 @@ The excised pages (47–52) held Loewe's **substrate-hypothesis of the annex tea
 
 **The cut is Loewe's own** — clean paper edges, not machine-cut. "This is a man in his own study, at his own desk, in his own retirement, choosing to remove a specific piece of his own thinking. He wasn't hiding it from the government. He was hiding it from history."
 
-**Fire-by:** Act II mid, when the network's own structure surfaces via Mira Chen or Rosa Vega (§24), the outline diagram Mira read gets retroactively meaningful — the party recognizes the six-figure network as the pattern Loewe had inferred.
+**Fire-by:** Act II mid, when the network's own structure surfaces via Nia Chen or Rosa Vega (§24), the outline diagram Mira read gets retroactively meaningful — the party recognizes the six-figure network as the pattern Loewe had inferred.
 
 **Never voice at the table before Act II:** what the six figures ARE. The notebook is a promise-of-later-meaning, not a decoder ring.
 
@@ -868,6 +870,63 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 ---
 
+# Ep 5+ sections (§31+) — added 2026-08-17 arc-realignment pass
+
+## §31. Kai Sun — Mira's brother (held answer, DEFAULT: truly lost)
+
+**First established:** Mira Sun's PC-file backstory (offscreen character); held here 2026-08-17 arc-realignment; revised 2026-08-17 by DM decision from earlier Option B to default-lost + reserved-card.
+
+**The seed** — Mira was four when her older brother Kai went to sleep in the bedroom next to hers and wasn't there the next morning. His room was clean, his clothes gone, his photographs gone from the family albums by that afternoon. Her parents told her — kindly, and they believed it — that she had never had a brother. She hid his note behind her nightstand: *"Dont listen to what they tell you about me. I still exsit and I will find you one day."* (Typos preserved as written.) Kai's world-attests-he-never-existed is Mira's foundational bond and the seed of her memory/identity casting domain.
+
+**What the DM must know** — Mira has a records-clerk job (San Mateo County recorder's office) AND her outline-power (per §16). She can run a records check on Kai at any point from Ep 5 forward. The DM must have a held answer to avoid improv into an alt-arc.
+
+### The default held answer: Kai is truly lost
+
+- **Kai's records do not exist.** Not in any database Mira can reach. The world's non-attestation is total. Every civil registry, school record, medical record, foster-care intake, background check — everywhere Mira looks with her records-clerk access and her outline power — comes back with *nothing*. Not deletion; not redaction; just the shape of a name-that-was-never-a-name.
+- **Mira and her note are the only carriers.** Nobody else remembers him. Even her parents believe, kindly, that she never had a brother. If Mira ever shows the note to another PC, the note is real ink on real paper — but the party can't verify its origin beyond Mira's account, and even careful outline-work on the note doesn't reveal *who wrote it when*. It just says what it says.
+- **Occasional breadcrumbs are allowed** — always ambiguous, never proof. Mira's outline power might read *the absence-of-Kai* in specific places (an empty spot on a family photograph her outline says should hold a fifth face; a name-shape her outline traces on a wall someone once painted over). These beats are for Mira's private texture — they anchor her sensitivity to what the world does not attest, they do not build a search-runway.
+
+**Why this is powerful:**
+- It's tragic but bearable — the party has no emotional connection to Kai (they never met him; he's Mira-only). The grief is Mira's texture, not the party's crisis.
+- It preserves cosmology cleanly — the world-attests-he-never-existed invariant is total.
+- It converts Mira's outline-power from *investigative tool* to *sensitivity to what is not there*. Every scene where she notices an absence carries Kai's shape without invoking his name.
+- Mira's Phase-2 realization (per §16 outline-power) lands on WHAT SHE CAN DO, not on what she can find. The Kai-arc is the grief that made her *hold intent against pressure*; the arc's payoff is that holding, not a reunion.
+
+### Reserved card: Kai revelation (high cost, DM's discretion, unlikely)
+
+The DM may — at some future point, if the perfect situation presents — decide to fill in more detail about Kai: revise the default, explain why he had to be edited out of reality, or (unlikely) even bring him back. This is **a powerful card, played only when the situation truly earns it.** The costs are real:
+
+- **Cosmology cost:** the world-attests-he-never-existed invariant softens or reverses. Every subsequent "the world does not attest X" event in the campaign loses weight.
+- **Sub-arc cost:** the campaign now has a Kai-arc that must be tracked, paid off, and given space at the table. Given the ~25-session budget already tight, this displaces other beats.
+- **Emotional cost:** the party has to *earn* an investment in Kai from a cold start. This works best only if the revelation lands during a session where Kai's absence has already been made visible in-fiction (a breadcrumb finally landing; a moment where Mira's holding has taught the party what it means to keep faith).
+
+**The default assumption is that we do NOT play this card.** The tragic-but-bearable read is the campaign's ending for Mira's sub-arc. If the DM chooses to revisit, the choice belongs at the mid-Act-II design cycle at earliest — do not commit at the table without a session-planning cycle to metabolize.
+
+### Contrast: Morgan's father (§6) is a different shape entirely
+
+Morgan's father is **NOT cosmological**. He hasn't disappeared for substrate reasons; he is gone from view because things got too scary in his line of work and with what he knew (per §6 canon). His disappearance is a **mundane, human explanation** — hiding, silence, choice under threat.
+
+This matters because it means Morgan's father has a different arc-shape than Kai:
+- Morgan's father *is still around*. At some point in Act II or III, the campaign should reveal that.
+- He can make **occasional cameos** — a random text message from an unknown number Morgan doesn't recognize, a used bookstore where a book has been left for him with a specific note, a moment where Ortiz says *"I got a call last week — nothing actionable, but someone asked if you'd been by."* These are freebies for the DM: cheap, texture-only, keep emotional investment warm across sessions.
+- **He is NOT load-bearing for the overall arc** — the campaign does not depend on his return for its ending. He is fed by the same discipline as the Ocean Beach teens (canary-group texture; occasional-message pings). Similar cost pattern.
+
+### Fire-by
+
+- **Kai:** never; the arc's payoff is the holding, not a reunion. Breadcrumbs (absence-outline moments) may appear ambiently at DM discretion, ~1-2 per act.
+- **Morgan's father:** he's still around. Occasional cameos possible from Ep 6+ onward (text messages, bookstore drops, Ortiz-relay-notes). Optional reveal that he's alive lands mid-late Act II (Ep 15-17 candidate) as a cheap-but-emotional beat. Full reunion (per hook B6) remains a late-Act-II / early-Act-III option if the party pursues it, but the campaign does not depend on it.
+
+### Risk if the default drifts
+
+If the DM improvs a *different* answer at the table when Mira first asks about Kai (e.g., accidentally gives her a shred; hints that Kai is alive somewhere), the tragic-but-bearable read collapses into an active investigation-arc that the campaign has not budgeted for. **Discipline: when Mira asks, the answer is nothing.** The note is all there is. Mira's own memory is all there is. That IS the answer.
+
+### Never voice at the table
+
+- Any meta-language about "the reserved card" or "the default answer."
+- Any characterization of Kai's fate — whether he was substrate-victim, network-adjacent, or anything else. The honest DM answer to "what happened to him?" is: *"That's not visible. The record ends where memory ends. What Mira has is the note — and everything she has made of what she remembers."*
+
+---
+
 # Alphabetical index (proper nouns)
 
 Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section; italics = the person/thing gets tangential mention in that section.
@@ -889,6 +948,7 @@ Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section;
 - **Illegible 5th name (1878 crew)** — [§1](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
 - **Isabel Vega** — [§25](#25-isabel-vega--rosas-mother-loewe-correspondent); *[§24 Rosa's mother](#24-rosa-vega--berkeley-ledger-holder-former-caster)*
 - **Ivan Krieger (Dr.)** — *[§26 fictional correspondent](#26-warren-mcculloch--the-safe-historical-namedrop)*
+- **Kai Sun** — **[§31 held answer, Option B](#31-kai-sun--miras-brother-held-answer-option-b)**
 - **Loewe's letter file** — [§22](#22-loewes-letter-file--half-burned-safe-correspondent-budget)
 - **Loewe's notebook (excised pages)** — [§21](#21-loewes-notebook--excised-pages-4752)
 - **Mars's neck-flare** — *[§30 Ep 4 canon](#30-priyas-migraine-mechanics-ep-4-extension-of-14)*

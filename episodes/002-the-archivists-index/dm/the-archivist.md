@@ -16,7 +16,7 @@ For Scene 6, the centerpiece. Bea Ferro's sheet: [`../../../characters/npcs/bea-
 2. **Being believed.** After Reggie's and Yui's denials, Bea is the first person who *doesn't* think they're crazy. That relief is the door paired with her refusal-wall.
 3. **The 1987 card** — the thesis statement (below).
 4. (Conditional) **The lock recategorization** — see [the-lock-callback.md](the-lock-callback.md).
-5. A bridge: she is the path to Mira Chen / the network, later. Plant the *existence* of "others like this," not the network itself.
+5. A bridge: she is the path to Nia Chen / the network, later. Plant the *existence* of "others like this," not the network itself.
 
 **Priority if the scene is tight.** Bea carries a lot. The **load-bearing trio** is 1 (scale / being believed), 3 (the 1987 card), and 5 (the unnamed bridge). The **lock recategorization** (4, see [the-lock-callback.md](the-lock-callback.md)) and the **Marsh seed** (below) are *droppable* — the lock resurfaces fine in sessions 3–5, and Marsh is pure Lore-Reader bonus. Cutting them protects both the clock and Bea's "one scene = one glimpse" economy; don't let her tip into an info-faucet by sheer volume of output, even when each item withholds its conclusion.
 
@@ -95,4 +95,4 @@ A yellowed clipping in her files: **Dr. Reuben Marsh**, the fringe physicist wit
 
 ## What this scene sets up
 
-Bea's existence is the bridge to **Mira Chen** (Act I→II), who — unlike Bea — will introduce the network *and* name the unknowability. A margin note, a referral, or the PCs' own follow-up leads toward Mira in a later episode. Plant the network here only as *"you are not the first"* — never named.
+Bea's existence is the bridge to **Nia Chen** (Act I→II), who — unlike Bea — will introduce the network *and* name the unknowability. A margin note, a referral, or the PCs' own follow-up leads toward Mira in a later episode. Plant the network here only as *"you are not the first"* — never named.
