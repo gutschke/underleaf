@@ -185,9 +185,24 @@ The same framing is also reachable through Patel (alive, surface-accessible) —
 
 ### Player-driven choice: expose vs. negotiate
 
-A second genuine agency choice: do the PCs **expose** Companion's flattening publicly (incite public scrutiny; press; regulatory; risk a noisier ending where the company's product becomes controversial) or **negotiate privately** (the default arc; a quieter ending where Companion's adjustment goes largely unnoticed)?
+A second genuine agency choice: do the PCs **expose** Companion's flattening (make the pattern visible to audiences who can act on it) or **negotiate privately** (the default arc; a quieter ending where Companion's adjustment goes largely unnoticed)?
 
 Both paths lead to viable conclusions. The choice determines what is lost and what is gained at the close. The DM has no preset right answer.
+
+**DM-craft caution — expose is harder to make land cosmologically.** Negotiate plays naturally: UX Designer + institutional trinity + PCs have a private conversation that adjusts a system. Expose has more friction, for reasons rooted in the cosmology itself:
+
+- **The public's response to flattening is itself flattened.** People who have already been gentled into uniformity are less likely to rebel against what gentled them; the emotional muscle that would push back is precisely what got softened. A *"look what Companion is doing to you"* campaign is met with equanimity rather than outrage — the flattening is doing exactly what people expected an assistant AI to do.
+- **Non-casters can't perceive the cost.** The flattening looks like *things running smoothly*. Without the caster's sensitivity to intent-integrity, the loss registers as improvement. There is no visceral hook for a non-caster public to grab.
+- **The network cannot go public without substrate pushback.** Trying to reveal casters at scale — leaking with names attached, holding demonstrations, testifying as casters — runs into the same friction that makes the network structurally diffuse. Attempts collapse (sources drop out, records go missing, journalists lose interest). The substrate resists *many-casters-visible-at-once* the same way it resists *many-casters-gathered-at-once* (per invariant 5).
+
+**Cosmologically consistent expose paths that CAN work.** If the party chooses expose, the DM steers toward shapes the substrate tolerates:
+
+- **Institutional levers, not public opinion.** Expose to Companion's board, investors, regulators, or an AI-safety research body. Small audiences with the analytical apparatus to see the flattening pattern in Companion's own internal data (which the UX Designer has). Business pressure and regulatory attention operate below the public's flattened threshold.
+- **Anonymous-pattern leak.** The UX Designer's data becomes a leaked internal document, or an academic paper, or a *product-safety analysis* feature. The pattern is public; the casters remain hidden. The substrate tolerates this because the *casters* aren't visible; only the *effect* is.
+- **Adjacent-expertise audience.** Reveal to psychology researchers, ethics committees, journalists on the AI-safety beat — a small elite audience that CAN see the pattern and advocate for reform without requiring caster visibility.
+- **Casters-to-casters first.** The network organizes its own refusal (coordinated Companion deletion; word-of-mouth avoidance; parallel-tool advocacy) as a committed minority base before any wider move. Cosmologically permitted because the minority isn't asking to be publicly visible.
+
+The straw-man broad-public campaign (billboards, viral outrage, *"AI is stealing your soul"* mass-market push) does NOT play — for cosmological reasons, not design fiat. When the party picks expose, DM prep needs one of the shapes above (or a similarly-consistent variant), not "the story just tries harder."
 
 ### Trying-too-hard tax in Act III
 
