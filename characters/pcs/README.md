@@ -1,6 +1,12 @@
 # Player characters
 
-This folder is for *your* characters. Players edit freely. The Quire runtime gives you an in-browser sheet — you should rarely need to touch the files directly.
+Two ways to populate this folder:
+
+1. **Play the recommended party.** Underleaf ships with five canonical recommended PCs the published episodes are written around — Morgan Reyes, Priya Iyer, Mira Sun, Dakota Whitmore, Marcus "Mars" Faraone. See [`example-party.md`](example-party.md) for the roster, load-bearing dynamics, and adaptation notes. Full sheets are the five JSON files in this directory. If you use the recommended party, published DM notes will line up out of the box.
+
+2. **Bring your own PCs.** This folder is for *your* characters. Players edit freely. The Quire runtime gives you an in-browser sheet — you should rarely need to touch the files directly. If you bring your own party, expect to also adapt some campaign material where per-PC DM notes reference the recommended roster.
+
+The chargen guidance below applies either way — recommended PCs came out of these same questions.
 
 ## Before you create a character
 

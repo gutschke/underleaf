@@ -1,0 +1,49 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Morgan Reyes",
+  "handle": "coredump",
+  "pronouns": "he/him",
+  "age": 23,
+  "alignment": "chaotic-good",
+  "archetype": "hacker",
+  "temperament": "goes quiet, watches, then decides",
+  "bayAreaRelation": "ambivalent local",
+  "neighborhood": "The Presidio — favours the abandoned Battery East",
+  "stats": { "str": 0, "dex": 1, "con": 0, "int": 2, "wis": 1, "cha": 1 },
+  "skills": ["Tech", "Insight"],
+  "tags": [
+    "former Red Team, [redacted] federal contract",
+    "self-taught RF/SDR hobbyist",
+    "Presidio urban explorer, knows every service door",
+    "keeps three separate phones"
+  ],
+  "focus": {
+    "name": "Flipper Zero",
+    "domain": "systems / information",
+    "description": "A gift from his father, who dropped off the grid two years ago and is presumed dead. Morgan's technical anchor and the object he touches when he needs to think clearly. In-domain: signals, RFID, subverting small electronics."
+  },
+  "backstory": "Morgan graduated undergrad early, walked straight into a federal red-team contract — third-party pentesters for a domestic surveillance program. It was his first real job. Six months in he found the program was **also** running against U.S. persons in ways the enabling statute didn't cover. He tried to raise it internally. The response was polished and cold and included a suggestion that he not.\n\nHe walked. He wasn't fired — he was *invited to move on to other opportunities* with a NDA that reads like a fence. Since then his devices misbehave at inconvenient moments and his credit reports carry small anomalies he can't get corrected. He's not sure whether he's actually surveilled or whether he only feels that way. He hasn't slept eight consecutive hours in a year and he still opens his laptop like it might bite him.\n\nHe met Mars on a War Thunder forum eight months ago and stayed in touch because Mars doesn't talk about \"the industry.\" The Taipei trip is Morgan's idea and Mars's excuse — a fresh start, or the pretence of one.\n\nThe Flipper Zero was his father's last gift before he stopped calling. His father worked telecom-adjacent his whole life and understood what his son had gotten into better than Morgan realised at the time. Two years ago he missed a birthday, then a phone call, then all of them. Morgan has an open missing-persons report and no body. He is not sure whether his father is dead, hiding, or something odder — and that \"something odder\" question has started to bother him more since Ep 2.",
+  "bonds": [
+    {
+      "name": "Mars Faraone",
+      "type": "PC",
+      "description": "Met on War Thunder eight months ago; became close friends over long late-night calls. Going to Taipei together — the bond is stronger than either of them says."
+    }
+  ],
+  "harm": 0,
+  "stress": 0,
+  "advancements": 0,
+  "marks": 0,
+  "knowsTheyCanCast": false,
+  "tryingTooHardSessionsRemaining": 0,
+  "dmNotes": {
+    "magicPhase": "Accidental (Phase 1). knowsTheyCanCast = false",
+    "castDomain": "systems / information — a lock disengages, an anti-static bag turns up in a bin it should not be in, a phone connects when it shouldn't. Small factual intuitions in his domain — 'you just knew' — are Free-tier and land as ordinary noticing at the table.",
+    "alignmentDriftWatch": "The 'chaotic-good hacker who quietly enjoys watching enemies burn' pull.",
+    "focusNotes": "The Flipper Zero is emotionally load-bearing. If it's ever broken, corrupted, or seized, Morgan is in trouble even before mechanical consequences.",
+    "openThreads": [
+      "Retcon door: Morgan's father is *presumed* dead, not confirmed. Recur available as a plot lever — vanished-father parallels Mira's vanished-brother (world-edited-around fingerprint) and is candidate material for Bea Ferro's index or a later pioneer/archivist revelation.",
+      "SFPD Missing Persons Det. Camila Ortiz is the assigned officer on his father's case."
+    ]
+  }
+}

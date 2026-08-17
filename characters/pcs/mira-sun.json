@@ -1,0 +1,46 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Mira Sun",
+  "pronouns": "she/her",
+  "age": 22,
+  "alignment": "chaotic-good",
+  "archetype": "outsider",
+  "temperament": "goes quiet, watches, then decides",
+  "bayAreaRelation": "child transplant (arrived from Portland at 4)",
+  "neighborhood": "the Sunset — a specific ice-cream shop on Judah",
+  "stats": { "str": 0, "dex": 1, "con": 0, "int": 1, "wis": 2, "cha": 1 },
+  "skills": ["Subterfuge", "Insight"],
+  "tags": [
+    "records clerk, San Mateo County (recorder's office) — first job out of college",
+    "deferred MA in linguistics at SF State; audits an evening class",
+    "notices what is not present in a photograph",
+    "can pick a Kwikset lock in under a minute"
+  ],
+  "focus": {
+    "name": "The note",
+    "domain": "memory / identity",
+    "description": "A folded scrap of yellowed paper carried in a small brass locket she wears under her collar. She has never shown it to anyone. In her brother's handwriting: 'Dont listen to what they tell you about me. I still exsit and I will find you one day.' (Preserved with the typos.) In-domain: what a photograph should show, what a record should say, what a person should remember."
+  },
+  "backstory": "Mira was four when her older brother Kai went to sleep in the bedroom next to hers and was not there the next morning. His room was clean, his clothes gone, his photographs gone from the family albums by that afternoon. Her parents — kind, decent people — told her she had never had a brother. They believed it. They still do.\n\nShe hid the note in the wall behind her nightstand. She kept it because she remembered him and the wall did not.\n\nShe grew up quiet and observant. She learned early that people are unreliable but the shape of a *missing thing* is not — a house with one too many bedrooms, a birthday photo three faces should be in, a story about a summer trip that has the wrong number of tents. She graduated last spring in linguistics; got the county records-clerk job that August because it was the first thing that would take her and because she'd realised, halfway through the interview, that it was a job where she'd see what gets *filed* to erase people. She's been sketching notes for a linguistics thesis on the grammar of denial ('Kai's *never existed*' is a very specific construction). She hasn't started applying to MA programs yet. She keeps meaning to.\n\nShe has never told anyone about her brother. She hasn't decided if the party is the first people she might.",
+  "bonds": [
+    {
+      "name": "Kai Sun",
+      "type": "NPC (offscreen)",
+      "description": "The world attests he never existed; Mira alone carries the pre-edit shape. 'When I was a child he disappeared. Everyone acted as though he never existed, when I mentioned him they told me I never had a brother but I know he's out there somewhere.'"
+    }
+  ],
+  "harm": 0,
+  "stress": 0,
+  "advancements": 0,
+  "marks": 0,
+  "knowsTheyCanCast": false,
+  "tryingTooHardSessionsRemaining": 0,
+  "dmNotes": {
+    "magicPhase": "Accidental (Phase 1). knowsTheyCanCast = false. **Most likely to realize first** in this party. Her lived experience of a world whose current shape omits someone she remembers primes her to notice the same pattern when she sees it elsewhere.",
+    "cosmologyPrecision": "Her brother Kai wasn't 'erased' by an agent; the world's current shape simply doesn't attest him. Mira alone still carries the pre-edit shape. Frame her scenes this way rather than as 'memory-editing,' or the players will hunt for a culprit that doesn't exist.",
+    "castDomain": "memory / identity — a name resurfaces when it should not, a face on a photograph steadies, someone remembers something the world forgot. Costs her sleep-thoughts and dream weight. Ep 3 established a specific power: outline-vision on erased/edited artifacts (default Free grant on strong intent; precision scales with Insight roll 10+/12+; third use in a scene triggers stress check per rules.md).",
+    "loadBearingIrony": "Dakota's 'gullible follower' bond targets her. Dakota genuinely believes Mira agrees with everything he says because she rarely contradicts him. She's not gullible — she's *watching*. This is the party's private dramatic irony. If she ever contradicts him openly, that's an act break for Dakota's arc.",
+    "alignmentDriftWatch": "If she ever gets confirmation about Kai, the drift will not be toward chaos — it will be toward *lawful*. She'll want to make the world *behave*.",
+    "focusNotes": "The note is her one true possession. If it is destroyed, the game changes."
+  }
+}

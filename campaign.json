@@ -293,7 +293,14 @@
     "004-the-sacramento-visit"
   ],
   "characters": {
-    "pcs": ["example-character"],
+    "pcs": [
+      "example-character",
+      "morgan-reyes",
+      "priya-iyer",
+      "mira-sun",
+      "dakota-whitmore",
+      "mars-faraone"
+    ],
     "npcs": ["yui-tanaka", "reggie-okeke", "bea-ferro", "vivian-loewe"]
   }
 }

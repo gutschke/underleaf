@@ -1,0 +1,52 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Dakota Whitmore",
+  "pronouns": "he/him",
+  "age": 21,
+  "alignment": "lawful-evil",
+  "alignmentNote": "As chosen — read as 'personal code, willing to sacrifice others for the plan,' not violent",
+  "archetype": "other — the political-history undergraduate who studies demagogues without irony",
+  "temperament": "acts unilaterally",
+  "bayAreaRelation": "ambivalent local",
+  "neighborhood": "the Sunset near 32nd; his 'place' is Battery Townsley, Marin Headlands",
+  "stats": { "str": 0, "dex": 0, "con": 1, "int": 1, "wis": 1, "cha": 2 },
+  "skills": ["Influence", "Knowledge (American political history, 1930–1975)"],
+  "tags": [
+    "poli-sci undergrad, SF State (junior; contemplating dropping out)",
+    "collects speeches (Long, Hampton, Goldwater — studied without preference)",
+    "engraves his own pipes; the mahogany one is his",
+    "knows every abandoned coastal battery from Fort Baker to Point Bonita"
+  ],
+  "focus": {
+    "name": "Mahogany pipe, engraved with his name",
+    "domain": "speech / presence",
+    "description": "Never smokes it in public. Taps it when he's constructing an argument. In-domain: getting a room to *listen*, getting a person to say the thing they were not going to say, getting a door to open because someone forgot he shouldn't be behind it."
+  },
+  "backstory": "Only child of two accomplished parents whose plans he made a career of demolishing. Discovered political speech-craft at 15 and taught himself the vocabulary of American populism. Idolizes Huey Long for the model — a man who could hold a crowd and did — not the policy. Reads speeches nightly, aloud, alone.\n\nHe is not violent. He *is* certain, in the specific way that certain 21-year-olds are, that he can see farther than the people around him and that this creates an obligation he must not decline. Alignment 'Lawful Evil' is the shape he picked because he read the description and thought *'yes, this is the honest lens.'* He would be startled to hear he was disliked. He is intermittently considering dropping out of school because he has decided school 'isn't teaching him anything worth staying for' — his parents don't know this yet.\n\nLives with three roommates in a shared house near Ocean Beach — Mira Sun lives eight blocks away and takes some of the same night classes at SF State. They've barely spoken outside of class; Dakota has decided she is his ally.\n\nOn the Taipei flight (Ep 1) because he had convinced himself that a small group he'd heard about *needed him* there. He was vague and self-important about it in the way people are when they don't yet have a real reason to travel abroad. The trip was fine. Nothing 'needed him.'",
+  "bonds": [
+    {
+      "name": "Huey Long",
+      "type": "historical (deceased)",
+      "description": "An idol. 'I know his speeches by heart. It's a damn shame he was killed. I've read every biography twice.'"
+    },
+    {
+      "name": "Mira Sun",
+      "type": "PC",
+      "description": "'Always listens to what I tell them and takes it as gospel. Always a pleasure when people are my unquestioning followers.' — DM note: Dakota is wrong about this. Mira is watching. Keep the irony load-bearing."
+    }
+  ],
+  "harm": 0,
+  "stress": 0,
+  "advancements": 0,
+  "marks": 0,
+  "knowsTheyCanCast": false,
+  "tryingTooHardSessionsRemaining": 0,
+  "dmNotes": {
+    "magicPhase": "Accidental (Phase 1). knowsTheyCanCast = false",
+    "castDomain": "speech / presence — a listener's attention snaps to him and stays, a hostile crowd cools, an official reconsiders a form they were about to reject.",
+    "personaDropCanon": "Established Ep 3 scene 03: with certain older/vulnerable NPCs (Vivian Loewe, Bea Ferro), Dakota can drop his public persona entirely — quiet, careful, gentle, patient. This is a real character choice available to the player; the persona is a defense, not the whole shape. When it drops, NPCs read it and remember.",
+    "controlSeekerHook": "Dakota is the party's Control-seeker. Give him worthy NPCs to work; give him a mystery whose meaning he can try to own; give him a bond that quietly casts another PC as his follower (see Mira bond above) as load-bearing dramatic irony.",
+    "alignmentDriftWatch": "If the party ever calls out his self-mythology and he *accepts* the read, he drifts toward Lawful Neutral fast. That would be earned character growth.",
+    "focusNotes": "The pipe was engraved by his uncle, who worked wood professionally and was the one relative he respected. If the pipe breaks, an argument follows."
+  }
+}
