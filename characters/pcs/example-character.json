@@ -18,6 +18,12 @@
   "marks": 0,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
+  "temperamentUnderPressure": "question",
+  "priorConnectionKind": "none",
+  "flightReason": "work",
+  "intentionHorizon": "childhood",
+  "meaningfulItem": "A small brass compass their grandfather carried on merchant ships. Not a working navigation instrument any more; a talisman for finding the direction of a thing.",
+  "specificPlace": "The observatory hill in Golden Gate Park at dusk, when the fog is coming in and no one is up there.",
   "intentionUnderPressure": "My father was an autodidact who insisted you should be able to defend any belief you held against a thoughtful adult. Family dinners were Socratic dialogues, sometimes brutal. I learned to test a thought against doubt before committing to it — and once committed, to stay committed even when others changed the subject.",
   "backstory": "An example PC template. Replace this freeform field with your character's actual story. The `intentionUnderPressure` field above is the 2-4-sentence answer to *What in your life taught you to hold an intention against pressure?* — kept as a first-class structured field so it survives sheet regeneration and remains available to the DM at Phase-2 realization. Your backstory prose here should REFLECT the intention moment obliquely (a habit that formed, a cost you carry, a pattern that shows in ordinary weeks) rather than restaging the scene."
 }
