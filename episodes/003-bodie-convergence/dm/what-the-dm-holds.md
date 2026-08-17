@@ -16,6 +16,38 @@ Structure of each section:
 - **Risk if unresolved** — what breaks or feels cheap
 - **Never voice at the table** — when the answer itself is cosmology-tipping
 
+## Contents
+
+Pre-play sections (planted at Ep 3, some already answered in Ep 4):
+
+- [§1 The 1878 mining-crew ledger + illegible 5th name](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
+- [§2 The eight ledgers — Dakota's voicemail](#2-the-eight-ledgers--dakotas-voicemail)
+- [§3 How does Dakota know? — the Sacramento thread + Vivian Loewe](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) — **Ep 4 handles**
+- [§4 The Field Annex 7 plaque — wartime 1942-1948](#4-the-field-annex-7-plaque--wartime-1942-1948) — **Ep 4 references via Vivian**
+- [§5 Ranger Alaia Vega — QR codes, wood pile](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile) — **Ep 4 opens with Morgan-texts-Vega**
+- [§6 SFPD Missing Persons — {{pc:1}}'s father](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call) — **Ep 4 plays Ortiz voicemail**
+- [§7 Dakota's brown-edged photograph](#7-dakotas-photograph--brown-edged-cropped-faces-clapboard-buildings)
+- [§8 The Ocean Beach teenagers](#8-the-ocean-beach-teenagers--recurring-texture-npcs)
+- [§9 Reggie's face changed twice](#9-reggies-face-changed-twice--the-escalation-on-seeing-the-rest-of-you)
+- [§10 The 1950s Yale padlock](#10-the-1950s-yale-padlock-on-building-7)
+- [§11 Bodie's ambient uncanniness](#11-bodies-ambient-uncanniness--the-optional-hot-table-beat)
+- [§12 Dakota's visit to Bea](#12-dakotas-visit-to-bea-between-ep-2-and-ep-3) — **Ep 4 references (Dakota-persona-drop)**
+- [§13 "You are being watched" — closing line](#13-you-are-being-watched--the-closing-line)
+- [§14 Priya's migraines](#14-priyas-migraines) — **Ep 4 handles (severity gradient + body-signal reminders)**
+- [§15 Two other tourists Vega drove out](#15-the-two-other-tourists-vega-drove-out--declared-inert)
+
+Cross-cutting:
+- [Cross-cutting notes for the DM](#cross-cutting-notes-for-the-dm)
+- [Cross-reference](#cross-reference)
+
+Post-Ep-3-played record (session recap + hook fire status):
+
+- [Played-session record (Ep 3 as actually run — 2026-08-15)](#played-session-record-ep-3-as-actually-run--2026-08-15)
+- [Fire status per hook](#fire-status-per-hook)
+- [New played events](#new-played-events-that-opened--advanced-threads) — §16 Mira outline power, §17 Morgan shoe-size cast, §18 Priya fire cast
+
+**For Ep 4 fire status of these hooks:** see also [hook-ledger.md](../../../design/DM-ONLY/hook-ledger.md) (cross-campaign index) and [ep4/dm/what-the-dm-holds.md](../../004-the-sacramento-visit/dm/what-the-dm-holds.md) (Ep 4 activation).
+
 ---
 
 ## 1. The 1878 mining-crew ledger with four matched names + one illegible

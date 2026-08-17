@@ -5,6 +5,42 @@
 >
 > DM notes for at-the-table play. Read linearly. Session target 2.5–3h. Assume all five PCs present.
 
+## Contents
+
+- [Session snapshot](#session-snapshot) — structure, companion documents, optional props
+- [Standing DM knowledge for this session](#standing-dm-knowledge-for-this-session)
+  - [What Priya's migraines ARE](#what-priyas-migraines-are-dm-holds-never-voice-at-the-table) — sub-threshold hum / migraine / debilitating gradient + firing rules
+  - [Mars's neck-flare policy](#marss-neck-flare-policy) — when to mention prominently vs log privately
+  - [Private-delivery protocol for silent player-specific beats](#private-delivery-protocol-for-silent-player-specific-beats) — pick a mechanism before session
+  - [The Elena precedent](#the-elena-precedent) — Thursday visit context for Elena's warmth
+- [**Scene 1 — The Reunion**](#scene-1--the-reunion-40-min)
+  - [Opening image](#opening-image-1-min-dm-voice--read-verbatim-if-you-like) — Morgan texts Vega through the QR
+  - [Beat 1 — Anger](#beat-1--anger-1520-min-dm-reigns-in-if-runaway-structure-m2)
+  - [Beat 2 — Ortiz's voicemail + Morgan opens up](#beat-2--ortizs-voicemail--morgan-opens-up-8-10-min-structure-m3)
+  - [Beat 3 — Dakota's reveal](#beat-3--dakotas-reveal-1015-min-crucial-structure-m5)
+  - [Beat 4 — Decision](#beat-4--decision-510-min-dm-can-drive-scene-driver)
+- [**Scene 2 — The Drive**](#scene-2--the-drive-20-min)
+  - [Beat 1 — Priya's migraine flares](#beat-1--priyas-migraine-flares-5-min-structure--dm-driven)
+  - [Beat 2 — Mars catches up on the Bodie voicemail](#beat-2--mars-catches-up-on-dakotas-bodie-voicemail-5-7-min-structure-m4)
+  - [Beat 3 — Arrival + threshold release](#beat-3--arrival--threshold-release-5-min-structure)
+- [**Scene 3 — Vivian's House**](#scene-3--vivians-house-75-min)
+  - [Vivian's active want](#vivians-active-want-dm-holds--engine-of-the-scene) + [Assay-cue](#playable-cue-for-the-assay-early-in-beat-2)
+  - [Beat 0 — Arrival](#beat-0--arrival-5-min-scene-driver) — Mira reads the wheelchair-ramp outline
+  - [Beat 1 — Elena at the door + Mars's first cast](#beat-1--elena-at-the-door--marss-first-cast-15-min-structure) — the escalation ladder + breadcrumbs A/B/C/D
+  - [Beat 2 — The interview](#beat-2--the-interview-4555-min-realistic-structure--scene-driver--texture) — assay, father story, misdirection crows seed, Dakota-seeing line, Rosa named, notebook handoff, Mira outline read, Bea callback, elder-witness line
+  - [Beat 3 — The closing exchange](#beat-3--the-closing-exchange-10-min-structure)
+- [**Scene 4 — Drive Home + Adaptive Ending**](#scene-4--drive-home--adaptive-ending)
+  - [Session-length checkpoint](#session-length-checkpoint-at-scene-4-start) — pick A/B/C
+  - [Vega ↔ Rosa level-3 fallback (all endings)](#level-3-vega-connection-fallback-applies-to-all-endings)
+  - [Ending A — Fast: Sunday coda](#ending-a--fast-sunday-coda-in-episode)
+  - [Ending B — Normal: Elena text cliffhanger](#ending-b--normal-elena-text-as-cliffhanger)
+  - [Ending C — Slow: session ends in car](#ending-c--slow-session-ends-in-the-car)
+- [Per-PC engagement audit](#per-pc-engagement-audit)
+- [Optional consequential rolls](#optional-consequential-rolls)
+- [Contingency handling](#contingency-handling) — Dakota stances + branch handling
+- [Firewall discipline — never voice at the table](#firewall-discipline--never-voice-at-the-table)
+- [Post-session workflow](#post-session-workflow)
+
 ---
 
 ## Session snapshot
