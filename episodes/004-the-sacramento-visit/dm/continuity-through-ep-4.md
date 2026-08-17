@@ -1,7 +1,7 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> **Snapshot of the cross-campaign facts ledger as of Ep 4 prep (regenerated 2026-08-17 after held-open-causation elaboration; §31 Kai Sun canon now includes the multi-cause frame).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's printed Ep 4 binder.
+> **Snapshot of the cross-campaign facts ledger as of Ep 4 prep (regenerated 2026-08-17 after memory-reference cleanup + inlining of the phrasing rubric into world-truths.md).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's printed Ep 4 binder.
 >
 > **When to read:** before designing any episode; during play if a PC brings up something you might have forgotten.
 >
@@ -394,7 +394,7 @@ If the DM commits to this unification, the four items come from one root and pay
 
 **Silent-player-firewall check — cosmology-tipping items.** Five sections above (§1 the ledger mechanism, §5 Vega's role, §11 anchor-site permeability, §13 "you are being watched", §14 Priya's migraines) carry cosmology payload. Each has an explicit "never voice at the table" directive. The DM's job is to hold these answers so they land LATER with weight, not now with a leak.
 
-**Retro-causal discipline.** Everything above uses single-timeline framing (see [[single-timeline-cosmology]] memory). No "the miners never existed" phrasing — the miners existed as real people; the retro-causal edit was to which surnames the current-attested shape records. Watch for slippage in the ledger and photograph sections in particular.
+**Retro-causal discipline.** Everything above uses single-timeline framing (see [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md) §"Precise phrasing — single-timeline discipline"). No "the miners never existed" phrasing — the miners existed as real people; the retro-causal edit was to which surnames the current-attested shape records. Watch for slippage in the ledger and photograph sections in particular.
 
 **Discipline reminder.** Every answer above is what the DM **holds** — not what the DM **shares**. Players discover the answers (or don't) through play. The DM's job is to keep the answers coherent so that when they DO emerge, they land with weight instead of feeling like DM fiat. If a player pushes toward an answer this doc says fires later, respond with *"could be, could not be — what does your character do?"* and log the push for future callback. **Never fully confirm any answer above at the table until its scheduled fire-by.**
 
@@ -856,7 +856,7 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 **Expected frequency across a campaign: ~1-2 migraines per act (3-6 total).** Not constant. Real signal.
 
-**Body-signal firewall discipline (Ep 4 canon):** the DM MUST NOT correlate multiple substrate events in a single line to Priya. Deliver each signal in isolation. Body-recognition lines that explicitly connect [event A] + [event B] + [event C] to Priya's body violate the silent-player firewall — a player reading "Priya felt X during driveway cast AND at Bodie AND at Union Hall" is being told the through-line before they earn it. Ep 4 revision dropped the Union Hall clause from Priya's Scene 2 Beat 1 body-recognition line specifically to preserve this firewall (see [[silent-player-firewall]] discipline).
+**Body-signal firewall discipline (Ep 4 canon):** the DM MUST NOT correlate multiple substrate events in a single line to Priya. Deliver each signal in isolation. Body-recognition lines that explicitly connect [event A] + [event B] + [event C] to Priya's body violate the *silent-player firewall* — telling a player that they hit a spoiler IS itself a spoiler. A player reading "Priya felt X during driveway cast AND at Bodie AND at Union Hall" is being told the through-line before they earn it. Ep 4 revision dropped the Union Hall clause from Priya's Scene 2 Beat 1 body-recognition line specifically to preserve this firewall.
 
 **Mars's neck-flare policy (analogous body-signal rule for Mars — companion mechanic):**
 - Fires PROMINENTLY on: his first cast (per-session); Costly-tier or higher casts.

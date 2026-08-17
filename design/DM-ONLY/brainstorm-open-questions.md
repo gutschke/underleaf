@@ -7,7 +7,7 @@
 >
 > **Do not treat entries here as invariants, promises, or planned beats.** They are seeds under thought.
 >
-> **Refinement cadence:** the LLM/DM cycles through this file's `active-brainstorm` entries during each episode-writing or arc-planning session. Low-energy: a sentence or a bullet if something occurs; nothing if not. When an entry has accumulated enough refinement to make an implement/discard decision, flag it for a decide-or-discard conversation. See memory item [[underleaf-brainstorm-refinement]] for the LLM discipline.
+> **Refinement cadence:** the LLM/DM cycles through this file's `active-brainstorm` entries during each episode-writing or arc-planning session. Low-energy: a sentence or a bullet if something occurs; nothing if not. When an entry has accumulated enough refinement to make an implement/discard decision, flag it for a decide-or-discard conversation.
 
 ## Legend
 

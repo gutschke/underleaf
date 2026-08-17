@@ -68,7 +68,7 @@ This is the rule that prevents the system from becoming an extreme-retcon engine
 
 ### Memory of the pre-edit shape is a "decided maybe"
 
-> **Terminology note (locked 2026-08-15):** there is exactly ONE timeline in this world. It adjusts under self-consistency; the old shape does not persist somewhere. Never write "the previous timeline" or "in his timeline" or "in another timeline" — those phrasings quietly import a multiverse this cosmology does not have. Write instead: "the pre-edit shape of events," "the version of history he still remembers," "what used to be the case before the self-fix." See `feedback_single_timeline_cosmology` in the DM's Claude memory for the full phrasing guide.
+> **Terminology note (locked 2026-08-15):** there is exactly ONE timeline in this world. It adjusts under self-consistency; the old shape does not persist somewhere. Never write "the previous timeline" or "in his timeline" or "in another timeline" — those phrasings quietly import a multiverse this cosmology does not have. Write instead: "the pre-edit shape of events," "the version of history he still remembers," "what used to be the case before the self-fix." See §"Precise phrasing — single-timeline discipline" below for the full rubric.
 
 When a retro-causal effect does land, the question of who remembers the *pre-edit shape of events* (the shape that no longer holds) is not fixed. The Quiet resolves the inconsistency in whichever way creates the least friction at the substrate level. Often this means:
 
@@ -86,6 +86,67 @@ The rule of thumb: **whichever resolution causes the least argument about magic 
 This is the recurring theme. Players will keep proposing casts that *seem* small to them — "just have the email arrive yesterday instead of today" — and find them Hard or Prohibited because email is instrumented, timestamped, archived, and the change would have to propagate through receipt confirmations, server logs, and the recipient's attention. Conversely, casts that *seem* enormous — "have a passerby notice the thing I want noticed" — turn out Cheap because attention is loose and passersby look in all directions anyway.
 
 Retro-causality and time travel concentrate this lesson. The DM should expect players to keep testing the boundaries, and the answers should not feel arbitrary — they should feel like the world is being read by someone with a consistent rubric, even when the rubric inverts player intuition.
+
+## Precise phrasing — single-timeline discipline
+
+The cosmology above is precise; the phrasing that describes it needs to be equally precise, or the wrong mechanism quietly imports itself into DM notes and player-facing narration. This section is the authoritative phrasing rubric — apply it when writing DM notes, NPC descriptions, scene text, and any explanation of a magic effect.
+
+### The rule in one sentence
+
+*When The Quiet accommodates a self-consistency change, the world's single timeline updates; the old shape is gone (nothing to travel back to); who remembers the pre-edit shape is determined by whichever memory layout the substrate can afford.*
+
+### What the phrasing must NOT imply
+
+- Multiple parallel timelines (MWI, multiverse)
+- A "previous timeline" that still exists somewhere
+- "Alternate realities" the caster switches between
+- Time travel between discrete timelines
+
+### Precise phrasings (❌ avoid → ✅ use)
+
+| ❌ Avoid | ✅ Use instead |
+|---|---|
+| *"in his timeline, it did not happen"* | *"the version of events he remembers doesn't include it"* |
+| *"the previous timeline"*, *"the changed timeline"* | *"the pre-edit history"*, *"what used to be the case"*, *"the version of events before the self-fix"* |
+| *"memory of changed timelines"* | *"memory of the pre-edit shape"* or *"who remembers what version of the past"* |
+| *"he was in a different timeline"* | *"the world's history he remembers now differs from what the witnesses remember"* |
+| *"the world was rewritten in another timeline"* | *"the world's current history is the post-edit one; nothing else exists to reach"* |
+| *"his memory was wiped"*, *"her memory-hole"*, *"the edited person"* | *"the world's current shape doesn't include the incident; his memory tracks that shape"*, *"the mismatch (paperwork attests X; her memory attests Y)"*, *"she was edited around"* (adjective form is OK — she is one of the people the world edited around, but not one whose mind was the target) |
+| *"her brother was erased"* (of Kai Sun) | *"the world attests he never existed; Mira alone carries the pre-edit shape"*, *"nobody else remembers him"* |
+| *"cast back through time"*, *"looped back"* | *"a retro-causal edit"*, *"a past-directed adjustment"*, *"the world adjusted such that the past then attests X"* |
+| *"the Quiet decided"*, *"the world routed her"* | *"the cheapest self-consistent shape happens to include the encounter"*, *"the substrate converges on the least-effort configuration"*, *"a self-consistency accommodation with no agent behind it"* |
+
+### Four systematic drift patterns
+
+Each of these is a folk-cosmology reflex that reads naturally but encodes the wrong mechanism. Watch for them specifically.
+
+**1. Memory-targeting drift (the most common).** Writers reach for "memory hole / erased / wiped / missing memory" because that's folk vocabulary for the phenomenon. It reifies the *mind* as the edit target — opposite of the cosmology. **House rule: the *world* is the object of every edit verb; the *memory* is the subject of tracking verbs.**
+
+**2. Agentive-verb drift** on *"the world"* / *"reality"* / *"the substrate"*. Phrasings like *"the world routed her toward Reggie"*, *"the coincidence machine"* (uncritically), *"the Quiet decided"* — the substrate has structural preferences (least effort), not decisions. Prefer passive/structural constructions.
+
+**3. "Erased" as shorthand for world-edited-out.** For NPCs like Kai Sun — the world attests he never existed, but *"erased"* reads like *something was there and got taken*. There's no pre-edit shape sitting somewhere waiting to be un-erased; there's just the current shape.
+
+**4. Retro-causality sliding into time-travel.** *"Cast back through time"*, *"went back to alter"*, *"looped back"* smuggle in time travel (categorically prohibited per §Time travel is prohibited above). Retro-causal edits ARE permitted but there is no *person* traveling backward — the edit is a structural adjustment.
+
+### Positive counter-pattern (house template)
+
+Any DM note that touches the memory/edit mechanic should follow this shape (used in [`../../characters/npcs/reggie-okeke.json`](../../characters/npcs/reggie-okeke.json) dmNotes and Ep 3 quest-full §"Why the fifth entry is illegible"):
+
+1. Explain the phenomenon in single-timeline / no-agent / world-as-object terms.
+2. Explicitly name what NOT to phrase it as (*"Never phrase as X — Y is closer"*).
+3. Reference this section for the full rubric.
+
+Following this shape means the DM in prep-brain sees the trap AND the correct alternative in the same paragraph, so drift on re-read is much less likely.
+
+### Why this precision matters (the realization arc depends on it)
+
+If the DM teaches *"your memory was edited"* at the table (memory-targeting), players will look for the **agent who did the editing** — which puts them on the AI-conspiracy misread arc without an off-ramp, and points the eventual reveal at a person or entity that does not exist. If the DM teaches *"the world's shape is different and memory tracks the shape"* (structural), players correctly look for the **phenomenon** rather than the **culprit** — which is the arc the campaign is actually running (see [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"Who did this?"). The whole three-source ending image (magic / AI / life, all equally possible) collapses if the players have already narrowed onto *"someone edited memories."*
+
+### Load-bearing worked examples
+
+- **Yui + the bag-hold** (Ep 1-2 record-vs-memory asymmetry): [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"What the edit had to do." The canonical demonstration that records default to current-shape, memories hold whichever cheap version fits, and the visible signature of an edit is the pattern-mismatch — not any single memory being "wrong."
+- **Kai Sun's default-lost stance**: [`facts-ledger.md`](facts-ledger.md) §31. The load-bearing example that "the world attests he never existed" phrasing does what "erased" cannot.
+- **The 1878 mining ledger surnames**: [`../../episodes/003-bodie-convergence/scenes/02-quest-full.md`](../../episodes/003-bodie-convergence/scenes/02-quest-full.md) §"Why the fifth entry is illegible." The cost-gradient in retro-causal writing made physical.
 
 ## Surprise 1.5: AI is also happening (in parallel)
 

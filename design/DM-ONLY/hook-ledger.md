@@ -1,7 +1,7 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> This file is the cross-campaign rollup index of every unresolved narrative hook across all Underleaf episodes. It's the workflow's fast index — checked at the start of every episode's planning per [[episode-answers-doc-workflow]] step (A). If a hook is here and its fire-by matches the next episode's arc window, incorporate it. Anything past its fire-by that hasn't fired is arc technical debt; either promote it or retire it.
+> This file is the cross-campaign rollup index of every unresolved narrative hook across all Underleaf episodes. It's the workflow's fast index — the DM checks it at the start of every episode's planning cycle: if a hook here has a fire-by that matches the next episode's arc window, incorporate it. Anything past its fire-by that hasn't fired is arc technical debt; either promote it (to the next episode's must-incorporate list) or retire it (retcon as ambient texture; no follow-up expected).
 
 # Hook ledger — cross-campaign
 
@@ -145,8 +145,8 @@ Three deferrals of the same hook triggers a design conversation about which path
 
 ## Related
 
-- [[episode-answers-doc-workflow]] — the standing procedure this file supports
-- [[chekov-gun-tracking]] — the older principle version
-- [big-arc.md](big-arc.md) — arc-level frame; where each fires
-- [anchors-cards-ledgers.md](anchors-cards-ledgers.md) — substrate-mechanics vocabulary
-- [world-truths.md](world-truths.md) — cosmology invariants
+- [`episode-outline.md`](episode-outline.md) — the session horizon this file's hooks fire against
+- [`big-arc.md`](big-arc.md) — arc-level frame; where each fires
+- [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) — substrate-mechanics vocabulary
+- [`world-truths.md`](world-truths.md) — cosmology invariants
+- [`facts-ledger.md`](facts-ledger.md) — sibling: tracks *what is true in the world* (this file tracks *did the seed fire yet?*)
