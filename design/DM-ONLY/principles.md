@@ -25,6 +25,10 @@ The original Underleaf run uses the San Francisco Bay Area because that's where 
 
 If you fork Underleaf and relocate it to your city — Boston, Berlin, Portland, Lagos — keep the same principle. Real locale. Fictional identities. Players play people who live in the city you all share, but the people are not the players.
 
+### Corollary — directors and pawns
+
+The PCs are also not necessarily the point of the world they are in. They are simultaneously *directors* (their intent under pressure shapes the substrate; their casts have real effects; their future actions can retrocausally condition present ones) AND *pawns* (they may have been assembled by the substrate's cost-calculus for reasons unrelated to them; some other cause used them as the cheapest configuration). Both readings are true at once. See [`big-arc.md`](big-arc.md) §Act I "First revelation" for the fuller reading-list the DM holds open. The corollary keeps the campaign humbler than a chosen-one story: the PCs matter because of what they *do*, not because the substrate chose them.
+
 ### When this principle gets tested
 
 A player will sometimes wander toward making their PC autobiographical. *"Actually my character's job is the same as my real job."* The DM should not stop this gently, but should ask one question: *"What's different about them from you?"* Find one substantial difference. That's enough. The player keeps the texture they want; the PC stays a distinct person.

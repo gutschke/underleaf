@@ -925,6 +925,16 @@ If the DM improvs a *different* answer at the table when Mira first asks about K
 - Any meta-language about "the reserved card" or "the default answer."
 - Any characterization of Kai's fate — whether he was substrate-victim, network-adjacent, or anything else. The honest DM answer to "what happened to him?" is: *"That's not visible. The record ends where memory ends. What Mira has is the note — and everything she has made of what she remembers."*
 
+### Cross-reference — Kai and the multi-cause frame
+
+Kai's erasure is one of the campaign's held-open mysteries (see [`big-arc.md`](big-arc.md) §Act I "First revelation" — DM's fuller reading-list). The default-lost stance above does NOT commit to a specific *cause* for Kai's erasure, only to the fact that Mira can't reach him. Causes the DM privately holds open (never voice; never confirm):
+- Kai was the collateral cost of some other substrate accommodation off-stage — no one arranged it, no one benefits, he was simply the cheapest thing to unmake.
+- Kai's erasure was retrocausally required by a Mira-in-her-future action — something Mira will do (perhaps in Act III) whose necessary shape required that she grew up alone-remembering. The world removed him earlier because it will (later) need her to have this specific pattern of holding.
+- A caster unrelated to the Sun family, unconscious, network-adjacent, reached out for reasons the substrate settled cheaply into Kai's removal.
+- Some combination — layered causes, none the "real" one.
+
+Holding all of these open reinforces the world's largeness. If the DM ever reveals one (see `big-arc.md` reveal-tax discipline), the other doors close.
+
 ---
 
 # Alphabetical index (proper nouns)
