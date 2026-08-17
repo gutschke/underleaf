@@ -17,10 +17,12 @@ This document focuses on **story shape, invariants, cast, agency choices, and th
 ## Length
 
 - **19-25 real-play sessions** total. (Tightened from earlier 25-40 drafts to keep pace high.)
-- **~1.5-2 in-game years.**
+- **~1.5-2 in-game years** — aspirational; play has run slower than originally planned. Ep 4 opens ~5-6 in-game months in; the 1.5-2 year total remains possible but is *tight, not comfortable*. In-game time is now an active DM discipline.
 - Act I: 6-9 sessions, ~5-6 in-game months. (Widened 2026-08-17: play established that per-PC realization + moment-of-release for 5 PCs plus the Sacramento arc-node runs 8-9 sessions in practice. In-game clock also stretched — Ep 3 played landed "late winter" ~5 months after the Bay Area reunion.)
 - Act II: 8-10 sessions, ~6-12 in-game months.
 - Act III: 5-7 sessions, ~3-6 in-game months.
+
+**In-game time discipline (DM + AI story-writing collaborators).** When drafting or revising any episode, pin the in-game date explicitly at the top of the run-guide. Check against: (a) prior episode's date; (b) NPC memory decay (Reggie wouldn't remember faces past a year; Vivian is dying so weeks matter); (c) PC social-bond strength (parties don't stay tight across many months apart); (d) thread hotness (unresolved threads cool). Avoid generic "a few months later..." fillers — they usually break at least one of those checks. Short breaks (days-weeks) between adjacent episodes are the default unless the story specifically requires longer. Occasional revisits + tightening of DM-only expectations (this file, `arc.md`, `hook-ledger.md`, `episode-outline.md`) are ENCOURAGED for consistency. **Full retcon of a played episode's in-game date is discouraged** — players notice — but silently adjusting expectations that were only raised with the DM is safe. See memory item `feedback_underleaf_in_game_time` for the LLM-collaborator discipline.
 
 Acts have soft boundaries; transitions are play-driven.
 
