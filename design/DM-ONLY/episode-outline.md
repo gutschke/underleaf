@@ -32,6 +32,57 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 
 ---
 
+## Act I open (Eps 1-4) — played / drafted canon (historical, for context)
+
+**These entries are retrospective.** Eps 1-3 played; Ep 4 drafted, awaiting play. They are included in the outline so the arc's full session-level flow is visible in one place. For load-bearing detail per episode, see the linked `dm/` docs. "Risk if slips" is not shown (past-tense) — replaced by *"Load-bearing detail"* pointing at where the played record + DM-held answers live.
+
+### Ep 1 — Unattended Baggage
+
+- **Status:** Played (in-game ~early autumn 2026)
+- **LOAD:** MEDIUM
+- **Setting/register:** SFO Terminal G (public transit-institutional) + gate + In-N-Out
+- **Arc-node:** the campaign's inciting event — ARINC 600 connector materializes in {{pc:1}}'s carry-on; PCs are the only people whose memories track the pre-edit shape. Two emergent spell-like events (connector-in-bag; combination-lock 1-3-2-4 opening the engineering bay).
+- **Plants:** the connector-in-bag cause (T11 permanent-open — closing image callback); the lock coincidence (T12); Reggie's denial texture; Yui as edited-around civilian; the Flight-887 shape (retrocausal threading — five PCs converged on this specific flight)
+- **Fires:** first substrate events witnessed by party (unattributed at the table)
+- **NPCs first appearing:** Reggie Okeke; Yui Tanaka
+- **Load-bearing detail:** [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md)
+
+### Ep 2 — The Archivist's Index
+
+- **Status:** Played, compressed 4-scene variant (in-game ~a few weeks after Ep 1 — Taipei-return + normal-life resumption + Yui's near-firing)
+- **LOAD:** MEDIUM
+- **Setting/register:** Ocean Beach (wilderness/beach) + Bea's Outer Sunset house (private-domestic archival) + In-N-Out (commercial)
+- **Arc-node:** record-vs-memory asymmetry surfaces at the table (Yui's near-firing paperwork doesn't match her memory; camera attests bag-hold she doesn't recall); Bea Ferro introduced as archivist
+- **Plants:** Bea's index-card system (T3); the archivist role's continuity + house-anchor mechanic; the mining-ledger network foreshadowed; Ocean Beach teens as canary group (T4); Marsh galaxies-sentient clipping — may have dropped in compressed play; see B15 for re-seed
+- **Fires:** first accidental cast witnessed at the table
+- **NPCs first appearing:** Bea Ferro; Ocean Beach teens (Ren, Cass, Diego, Maya)
+- **Load-bearing detail:** [`../../episodes/002-the-archivists-index/dm/the-archivist.md`](../../episodes/002-the-archivists-index/dm/the-archivist.md)
+
+### Ep 3 — Bodie Convergence
+
+- **Status:** Played 2026-08-15 (in-game late winter 2026-2027 — ~5 months after Ep 2; belief-softening period + Dakota's off-page Sacramento research window)
+- **LOAD:** HEAVY (multi-PC cascade at an anchor site)
+- **Setting/register:** Bodie ghost town (heritage/wilderness) + Union Hall + blizzard
+- **Arc-node:** anchor-site permeability established as worked mechanic (Priya's fire cast); three PCs cast in the same session (Priya's Union Hall fire; Mira's outline-vision of the 1878 ledger; Morgan's shoe-size intuition); Sacramento arc-node opens via Dakota's off-page investigation. **The party's rationalization posture is established** (curse-Dakota, don't examine the fire) — this is what shifts Phase-2 realization to per-PC-private-scene per `principles.md` §3 and shifts the party's misread from institutional to individual-perpetrator per `the-cable.md` §three-tempting-wrong-theories.
+- **Plants:** the 8 ledgers (B1) + numbering seeded (Dakota's voicemail); Vivian Loewe named as Sacramento target (U1); Alaia Vega as Hidden-faction contact (B2/B13); Rosa Vega inferable via later lineage (B13); Ortiz voicemail (U2); "you are being watched" closing (C1); Loewe's excised pages (U7); Loewe letter file (U9); Priya's signature intent-phrase pattern *"I just want [X]"*; Mira's outline-vision domain; Morgan's factual-intuition domain; QR-code Vega private channel (U3)
+- **Fires:** first Phase-1 casts logged for {{pc:2}}, {{pc:3}}, {{pc:1}} (unattributed by party); Reggie face-changed-twice pattern reinforced; Bodie 1878 ledger with 4 matched surnames + 1 illegible discovered
+- **NPCs first appearing:** Alaia Vega
+- **Load-bearing detail:** [`../../episodes/003-bodie-convergence/dm/what-the-dm-holds.md`](../../episodes/003-bodie-convergence/dm/what-the-dm-holds.md)
+
+### Ep 4 — The Sacramento Visit
+
+- **Status:** **DRAFTED — not yet played** (in-game: the Saturday after Ep 3, ~February 2027)
+- **LOAD:** HEAVY (2× over-packed per audit — 6+ arc-nodes in a 3h session; slippage expected; Ep 5 pre-plans to absorb Sunday-coda overflow)
+- **Setting/register:** Dakota's SF apartment (private-domestic) + I-80 drive (mobile) + Vivian's Sacramento ranch (private-domestic elder)
+- **Arc-node:** reunion anger with Dakota (must bank, not resolve — supports B-1 institutional-frame redirect); Vivian interview (annex-thread bridge; anti-mentor discipline); Mars's first cast (per escalation ladder — Mars Phase-1 debut); Loewe notebook reveal (Mira outline-reads six-figure diagram — U7 payoff seeded for Act II); Rosa Vega named as next lead (B13 primed for Ep 5-6 Berkeley); Priya's migraine mechanics extended (Ep 4 canon of §14)
+- **Plants:** Vivian's mailbox line (institutional network-of-noticers atmospheric; safe-list MIT/Bell/Macy Conferences per §22); Loewe letter file safe-list (McCulloch deployed; Pitts/Weaver/Grey Walter/von Foerster/Bush reserved for Ep 5+); crows misdirection (T14 animals-sense-magic per big-arc seed bank); Sunday-coda mathematician photo (T13 conditional on Ending A firing)
+- **Fires:** U1-U9 (all urgent Ep 4 hooks — see hook-ledger)
+- **NPCs first appearing:** Vivian Loewe (in-person; named Ep 3); Elena (Vivian's caregiver); Detective Ortiz (return call — in-person Ep 5). *Named but not in-person:* Rosa Vega, Isabel Vega, Erik Loewe.
+- **DM-guidance from Ep 4 tail:** start monitoring the Dakota-culprit frame + rationalization posture + flattening seeding from Ep 5 forward (per `hook-ledger.md` §Standing items S1-S4 + Ep 4 run-guide's closing callout)
+- **Load-bearing detail:** [`../../episodes/004-the-sacramento-visit/dm/run-guide.md`](../../episodes/004-the-sacramento-visit/dm/run-guide.md) + [`../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md`](../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md)
+
+---
+
 ## Act I close (Eps 5-9)
 
 ### Ep 5 — Monday: Institutional Echoes
