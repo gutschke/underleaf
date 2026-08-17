@@ -1,15 +1,24 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> Ep 3 plants many threads. Every one has a load-bearing answer the DM should hold, so it can either fire coherently later or remain deliberate texture. Fire windows range from Ep 4-5 to Act III; a few threads are never resolved by design.
+> This file is the **cross-campaign facts ledger** — the living continuity reference the DM consults during prep (before writing Ep N) and during play (when a PC surfaces an obscure earlier thread). Every fact is tagged with the episode where it was first established.
 >
-> **When to read:** review before running Ep 3, and again when you start planning Ep 4.
+> **When to read:** before designing any episode; during play if a PC brings up something you might have forgotten.
+>
+> **How to grow it:** as part of each episode's post-design pass, add new load-bearing facts here tagged `**First established:** Ep N`. Snapshot to `episodes/00N-.../dm/continuity-through-ep-N.md` at prep time and render for the print bundle.
+>
+> **Related docs:**
+> - [`hook-ledger.md`](hook-ledger.md) — sibling: tracks *did the seed fire yet?* (per-hook status). Facts-ledger tracks *what is true in the world.*
+> - [`world-truths.md`](world-truths.md) — arc-level cosmology (The Quiet, magic, retro-causality)
+> - [`big-arc.md`](big-arc.md) — arc-level frame
+> - [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) — substrate-mechanics vocabulary
 
-# What the DM holds — Episode 3
+# Facts ledger — cross-campaign
 
-The design principle: **every foreshadow is a promise.** Ep 3 plants a lot at once (belief-reactivation is thin; the party needs artifact-density to swing back into engagement). This doc records what each planted thread means, when it should pay off, and what breaks if the answer is left un-held. Cross-reference [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) for the arc-level frame.
+The design principle: **every foreshadow is a promise.** This file records what each planted thread means, when it should pay off, and what breaks if the answer is left un-held. Content is grouped by originating episode; within an episode, sections are numbered.
 
-Structure of each section:
+Structure of each fact section:
+- **First established** — episode where the fact was planted; status if it has evolved
 - **The seed** — what the players see/hear at the table
 - **What the DM must know** — the load-bearing answer (single-timeline cosmology-disciplined)
 - **Fire-by** — the arc window where this needs to pay off
@@ -18,12 +27,12 @@ Structure of each section:
 
 ## Contents
 
-Pre-play sections (planted at Ep 3, some already answered in Ep 4):
+### Ep 3 — planted at Bodie (§1–§18)
 
 - [§1 The 1878 mining-crew ledger + illegible 5th name](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
 - [§2 The eight ledgers — Dakota's voicemail](#2-the-eight-ledgers--dakotas-voicemail)
-- [§3 How does Dakota know? — the Sacramento thread + Vivian Loewe](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) — **Ep 4 handles**
-- [§4 The Field Annex 7 plaque — wartime 1942-1948](#4-the-field-annex-7-plaque--wartime-1942-1948) — **Ep 4 references via Vivian**
+- [§3 How does Dakota know? — the Sacramento thread + Vivian Loewe](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) — **Ep 4 handled**
+- [§4 The Field Annex 7 plaque — wartime 1942-1948](#4-the-field-annex-7-plaque--wartime-1942-1948) — **Ep 4 referenced via Vivian**
 - [§5 Ranger Alaia Vega — QR codes, wood pile](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile) — **Ep 4 opens with Morgan-texts-Vega**
 - [§6 SFPD Missing Persons — {{pc:1}}'s father](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call) — **Ep 4 plays Ortiz voicemail**
 - [§7 Dakota's brown-edged photograph](#7-dakotas-photograph--brown-edged-cropped-faces-clapboard-buildings)
@@ -31,22 +40,41 @@ Pre-play sections (planted at Ep 3, some already answered in Ep 4):
 - [§9 Reggie's face changed twice](#9-reggies-face-changed-twice--the-escalation-on-seeing-the-rest-of-you)
 - [§10 The 1950s Yale padlock](#10-the-1950s-yale-padlock-on-building-7)
 - [§11 Bodie's ambient uncanniness](#11-bodies-ambient-uncanniness--the-optional-hot-table-beat)
-- [§12 Dakota's visit to Bea](#12-dakotas-visit-to-bea-between-ep-2-and-ep-3) — **Ep 4 references (Dakota-persona-drop)**
+- [§12 Dakota's visit to Bea](#12-dakotas-visit-to-bea-between-ep-2-and-ep-3) — **Ep 4 referenced (Dakota-persona-drop)**
 - [§13 "You are being watched" — closing line](#13-you-are-being-watched--the-closing-line)
-- [§14 Priya's migraines](#14-priyas-migraines) — **Ep 4 handles (severity gradient + body-signal reminders)**
+- [§14 Priya's migraines](#14-priyas-migraines) — **Ep 4 extended (severity gradient + body-signal reminders)**
 - [§15 Two other tourists Vega drove out](#15-the-two-other-tourists-vega-drove-out--declared-inert)
+- [§16 Mira's outline power (played)](#16-miras-discovered-ability--sees-outlines-of-what-is-missing)
+- [§17 Morgan's shoe-size intuition (played)](#17-morgans-shoe-size-intuition--the-radio-setup-insight-beat)
+- [§18 Priya's fire cast (played)](#18-priyas-accidental-cast--i-just-want-everyone-to-survive)
 
-Cross-cutting:
-- [Cross-cutting notes for the DM](#cross-cutting-notes-for-the-dm)
-- [Cross-reference](#cross-reference)
+### Ep 4 — planted at Sacramento (§19–§30)
 
-Post-Ep-3-played record (session recap + hook fire status):
+- [§19 Vivian Loewe — the living witness](#19-vivian-loewe--the-living-witness)
+- [§20 Dr. Erik Loewe — the annex lead](#20-dr-erik-loewe--the-annex-lead)
+- [§21 Loewe's notebook + excised pages 47–52](#21-loewes-notebook--excised-pages-4752)
+- [§22 Loewe's letter file — half-burned, safe correspondent budget](#22-loewes-letter-file--half-burned-safe-correspondent-budget)
+- [§23 Elena — Vivian's caregiver + the Elena precedent](#23-elena--vivians-caregiver--the-elena-precedent)
+- [§24 Rosa Vega — Berkeley, ledger-holder, former caster](#24-rosa-vega--berkeley-ledger-holder-former-caster)
+- [§25 Isabel Vega — Rosa's mother, Loewe correspondent](#25-isabel-vega--rosas-mother-loewe-correspondent)
+- [§26 Warren McCulloch — the safe historical namedrop](#26-warren-mcculloch--the-safe-historical-namedrop)
+- [§27 Argonaut Records Holdings LLC — the discretionary trust](#27-argonaut-records-holdings-llc--the-discretionary-trust)
+- [§28 "The mathematician" — unnamed in Vivian's 1946–47 group photo](#28-the-mathematician--unnamed-in-vivians-194647-group-photo)
+- [§29 "Animals sense magic" misdirection seed — Loewe's crows](#29-animals-sense-magic-misdirection-seed--loewes-crows)
+- [§30 Priya's migraine mechanics (Ep 4 extension of §14)](#30-priyas-migraine-mechanics-ep-4-extension-of-14)
 
-- [Played-session record (Ep 3 as actually run — 2026-08-15)](#played-session-record-ep-3-as-actually-run--2026-08-15)
-- [Fire status per hook](#fire-status-per-hook)
-- [New played events](#new-played-events-that-opened--advanced-threads) — §16 Mira outline power, §17 Morgan shoe-size cast, §18 Priya fire cast
+### Cross-cutting + played-record + references
 
-**For Ep 4 fire status of these hooks:** see also [hook-ledger.md](../../../design/DM-ONLY/hook-ledger.md) (cross-campaign index) and [ep4/dm/what-the-dm-holds.md](../../004-the-sacramento-visit/dm/run-guide.md) (Ep 4 activation).
+- [Cross-cutting notes for the DM](#cross-cutting-notes-for-the-dm) — Ep 3 rollup
+- [Cross-cutting updates to earlier sections](#cross-cutting-updates-to-earlier-sections) — Ep 3 played
+- [Alphabetical index (proper nouns)](#alphabetical-index-proper-nouns) — quick lookup during play
+- [Cross-reference](#cross-reference) — sibling design docs
+
+---
+
+## Ep 3 sections (§1–§18)
+
+*All sections in this block: **First established:** Ep 3.*
 
 ---
 
@@ -56,7 +84,7 @@ Post-Ep-3-played record (session recap + hook fire status):
 
 **What the DM must know:**
 
-The 1878 miners **were real people** who really worked a real six-month season at the Standard Mill. Per [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md), every person is a real causal locus in The Quiet; there is no shape where the miners didn't exist. What the retro-causal edit adjusted is not whether they existed but **which surnames the current-attested shape records them under**. In the world's current shape, these five people have always had these names; their lives were their own; their descendants (if any) are ordinary people not connected to the PCs.
+The 1878 miners **were real people** who really worked a real six-month season at the Standard Mill. Per [`world-truths.md`](world-truths.md), every person is a real causal locus in The Quiet; there is no shape where the miners didn't exist. What the retro-causal edit adjusted is not whether they existed but **which surnames the current-attested shape records them under**. In the world's current shape, these five people have always had these names; their lives were their own; their descendants (if any) are ordinary people not connected to the PCs.
 
 Why THIS ledger (of many 1878 ones): because the 1942-1948 Field Annex 7 team catalogued and preserved it under federal seal (see §4). It is already institutionally anchored — filed, protected, physically preserved. Piggybacking the PCs' name-match onto an already-anchored artifact is *cheap* per the cost gradient; producing a matching shape on an unarchived 1878 ledger from a different mine would require inserting the artifact into a preservation chain (expensive). The substrate routed through the cheapest available anchor.
 
@@ -97,7 +125,7 @@ Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passiv
 
 **The seed** (Scene 05 §DM placeholder + voicemail): Dakota is off following a lead from Bea's index to a Sacramento self-storage unit paid up-front through 2035 by an LLC that dissolved in 1998. Inside: three of the eight ledgers, hand-annotated in the margins with a hand not Bea's. One margin note names a person Dakota has now driven to look for. Voicemail escalates: *"It's not what I thought it was, and it's bigger."*
 
-**Playable version — see [`../scenes/03-dakotas-parallel-track.md`](../scenes/03-dakotas-parallel-track.md).** That file is the canonical, playable version of {{pc:4}}'s off-page adventure — Bea revisit + Sacramento locker + drive + first Vivian meeting + the voicemail delivery. Runnable if {{pc:4}}'s player is present at Ep 3; narrated otherwise. The events herein remain canonical either way.
+**Playable version — see [`../../episodes/003-bodie-convergence/scenes/03-dakotas-parallel-track.md`](../../episodes/003-bodie-convergence/scenes/03-dakotas-parallel-track.md).** That file is the canonical, playable version of {{pc:4}}'s off-page adventure — Bea revisit + Sacramento locker + drive + first Vivian meeting + the voicemail delivery. Runnable if {{pc:4}}'s player is present at Ep 3; narrated otherwise. The events herein remain canonical either way.
 
 **What the DM must know:**
 
@@ -374,17 +402,17 @@ If the DM commits to this unification, the four items come from one root and pay
 
 ## Cross-reference
 
-- [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) — arc-level frame; where each Ep 3 thread fits
-- [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md) — cosmology (single timeline, self-consistency, record-vs-memory asymmetry, retro-causal edits at cost, no chosen ones)
-- [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md) — the substrate-mechanics vocabulary (anchor tiers, anchor sites, index cards vs. ledgers, retro-causal writing, cross-time non-communication)
-- [`../../002-the-archivists-index/dm/what-the-dm-holds.md`](../../002-the-archivists-index/dm/what-the-dm-holds.md) — Ep 2 equivalent, for style parallel
-- [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) — the load-bearing Ep 1 explanation, re-read alongside this
+- [`big-arc.md`](big-arc.md) — arc-level frame; where each Ep 3 thread fits
+- [`world-truths.md`](world-truths.md) — cosmology (single timeline, self-consistency, record-vs-memory asymmetry, retro-causal edits at cost, no chosen ones)
+- [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) — the substrate-mechanics vocabulary (anchor tiers, anchor sites, index cards vs. ledgers, retro-causal writing, cross-time non-communication)
+- [`../../episodes/002-the-archivists-index/dm/what-the-dm-holds.md`](../../episodes/002-the-archivists-index/dm/what-the-dm-holds.md) — Ep 2 equivalent, for style parallel
+- [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) — the load-bearing Ep 1 explanation, re-read alongside this
 
 ---
 
 # Played-session record (Ep 3 as actually run — 2026-08-15)
 
-This section is the workflow's step (C) — what actually happened at the table, folded back into the answers doc so the fire status of each hook is legible when Ep 4 planning begins.
+This section is the workflow's step (C) for Ep 3 — what actually happened at the table, folded back so hook status is legible for future planning. Any facts introduced by play (§16–§18) are promoted above alongside the pre-planted Ep 3 sections.
 
 ## Fire status per hook
 
@@ -456,7 +484,7 @@ This is Priya's first-witnessed-accidental-cast in front of the party — a **ma
 - **Cost gradient behavior (perfect worked example):** Priya's cast summoned *only what was needed, not more.* This is dramatically cheaper than Mira would have cast (Mira would have restored a historic-appearing full supply, larger, more expensive). The substrate settled on the cheaper option.
 - **The bag-restoration is a second worked example — recent damage is cheap to undo.** Priya's tearing-apart of the canvas satchel had happened moments earlier, with no witnesses outside the four PCs, and had produced no downstream consequences yet. Reversing it required only "this bag wasn't actually torn a minute ago" — a tiny localized retro-causal edit at negligible cost. The substrate reconciled it into the same package as the fire. **Rule of thumb:** damage or destruction of an object within the current scene, unwitnessed by anyone outside the caster's group, is cost-Free-to-Cheap to undo as part of an in-domain cast. Damage that's been documented (an insurance claim filed, a police report made, a photograph taken by someone outside the group) is dramatically more expensive because the reversal would require editing those records too.
 - **Priya noticed the bag FIRST.** This is not incidental — the bag is her focus. The substrate restoring her focus intact is part of what keeps future casts possible; a caster with a destroyed focus loses their tier-shifting bonus in-domain. Reading this reconciliation: the substrate settled the cast on a configuration that (a) delivered the requested survival supplies, (b) restored the caster's ability to cast again in future (by returning the focus), (c) reconciled with reality via the ranger's cover story. All three were cheaper together than any alternative. Priya noticing the bag first — before the fire — is her body-level recognition that her most personal, tactile possession was suddenly intact when she had felt it tearing apart in her hands moments ago.
-- **Ranger reconciliation as canonical cheapness:** the ranger's return + attribution-of-the-fire-to-herself is the cheapest self-consistent shape for the ranger's memory + the party's experience + the fire's existence. It's a beautiful worked example of the record-vs-memory-asymmetry (see [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) §"Common DM FAQ"). Any future DM running similar scenes should look at how this one settled.
+- **Ranger reconciliation as canonical cheapness:** the ranger's return + attribution-of-the-fire-to-herself is the cheapest self-consistent shape for the ranger's memory + the party's experience + the fire's existence. It's a beautiful worked example of the record-vs-memory-asymmetry (see [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"Common DM FAQ"). Any future DM running similar scenes should look at how this one settled.
 - **The fire-goes-out-when-ranger-leaves detail** is the exact substrate-minimality signature. Wood was there just long enough for the reconciliation to hold, then dissolved back into the shape's cheap configuration. Do NOT explain this to the party.
 
 **Story consequence:** Priya has cast, the party has witnessed, the party has explicitly acknowledged the cognitive dissonance (and shrugged it off, blaming Dakota). The stage is set for her Phase-2 realization beat in Ep 5-6. Track Priya's usage: any subsequent care-domain moments should be watched for further accidental casts. Her migraines (§14) may now correlate with cast attempts.
@@ -485,13 +513,13 @@ This is Priya's first-witnessed-accidental-cast in front of the party — a **ma
 
 **§6 SFPD:** Morgan didn't listen to the voicemail at Bodie. Ep 4 opens with him listening. Detective Ortiz's call gives him the Sacramento paperwork trail — which converges with Dakota's Sacramento thread (§3). {{pc:1}} now has independent motivation to travel to Sacramento in Ep 4-5.
 
-**§11 Bodie ambient uncanniness:** the answer (anchor-site permeability) is now the load-bearing frame for WHY Priya's cast succeeded so cheaply at Bodie. Anchor-site permeability is a canonical mechanism (see [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md)); future scenes at anchor sites should exploit this same discount.
+**§11 Bodie ambient uncanniness:** the answer (anchor-site permeability) is now the load-bearing frame for WHY Priya's cast succeeded so cheaply at Bodie. Anchor-site permeability is a canonical mechanism (see [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md)); future scenes at anchor sites should exploit this same discount.
 
 **§13 "You are being watched":** delivered as designed. Companion's mid-Act-III fire remains on schedule. Note that the party didn't attribute the watching to any particular entity — Dakota, weather, magic, and "the government" all appeared in their speculation. The AI-conspiracy misread is quietly seeded without any DM confirmation.
 
 ## What Ep 4 planning must include (workflow step A carryover)
 
-Must-incorporate for Ep 4:
+Must-incorporate for Ep 4 *(handled in Ep 4 design — retained here as workflow record)*:
 1. Dakota's return with the Sacramento find (§3) — the Ep 4 opener
 2. Morgan's SFPD voicemail listened to (§6) → Sacramento paperwork lead
 3. Morgan follows up on QR codes if signal returns (§5) → Vega Hidden-faction bridge
@@ -500,4 +528,388 @@ Must-incorporate for Ep 4:
 6. Priya's cast on the log — do not explain; watch for continued casts
 7. Morgan's shoe-size intuition on the log — his first accidental cast
 8. Ocean Beach teenagers: one inert group-chat text as ambient thread-maintenance (§8)
+
+---
+
+# Ep 4 sections (§19–§30)
+
+*All sections in this block: **First established:** Ep 4 (The Sacramento Visit).*
+
+## 19. Vivian Loewe — the living witness
+
+**First established:** Ep 4 (named Ep 3 §3 but only appears in-person Ep 4)
+
+**The seed** (Ep 4 Scene 3, Vivian's house in the Sacramento suburbs): a lucid 98-year-old woman receives the party in her front room. Wheelchair-ramp on the porch. Small home with old furniture, evidence of decades of quiet residence. Adult caregiver (Elena, §23) present. Vivian assays the party with small personal questions before answering anything about her father.
+
+**What the DM must know:**
+
+Vivian Loewe (b. 1928, currently 98) is the daughter of Dr. Erik Loewe (§20), the wartime lead of Field Annex 7 (Ep 3 §4). She was **14–20 during his tenure** (annex ran 1942–48) — old enough to remember what her father was doing, young enough that he treated her presence around the work as harmless. She never cast; she is not part of the caster network. She IS a **living carrier of the pattern-observation tradition** by non-caster inheritance: she watched her father, she read his correspondence when he left it out, she attended his retirement, and she kept his papers after he died in 1961.
+
+She has been quietly waiting for someone to ask the right questions. Dakota (via the Sacramento locker margin note, Ep 3 §3) is the first person to ask in decades. She receives the party as a *deliberate choice* — she has decided the moment has come to pass on what she knows.
+
+**Constraints (hard soft-rules for the DM to preserve):**
+- **Vivian does not die in Ep 4.** She has one syncope episode this morning; her doctor is not alarmed. DM soft-rule: she recurs at least once before her eventual death.
+- **Vivian recurs in Ep 5–8** if Ep 4's Ending A (Sunday coda) does not fire. If Ending A fires, she hands over the 1946–47 group photograph in that coda; her recurrence obligation is softened but not dissolved.
+- **Vivian is a witness, not a mentor.** Her anti-mentor line: *"I watched. I wasn't invited into the work. What I know is what a daughter learns by not being told."* Use liberally. Never let her become a cosmology teacher.
+- **Vivian is warm to Dakota specifically** because of the Thursday visit (see §23 Elena precedent). Her line: *"You remind me of a man who used to visit my father. He was very charming. I liked him a great deal."* She does not finish the thought.
+
+**What she knows (assay-gated — reveals only after the party earns it):**
+- Her father called his work *"listening to how the world keeps its books"* — the closest thing to a cosmology quote in the doc.
+- Her father corresponded with several researchers (see §22). Safe names to reveal: Warren McCulloch (§26), plus at DM's later discretion Pitts, Weaver, Grey Walter, von Foerster, Bush. **Never**: Wiener/Turing/Shannon (Act III dream-channel reserve).
+- Rosa Vega in Berkeley (§24) — Vivian names her by name and points the party there. This is the Ep 5 seed.
+- Her father excised pages from his own notebook in retirement (§21). *"A hypothesis I no longer believe."*
+- Her father's letter file survives, half-burned. She'll produce it Sunday (§22, Ep 4 Ending A) or later.
+
+**What she does NOT know:**
+- The word "substrate," "cast," "The Quiet," or any Underleaf-internal magic vocabulary.
+- Whether her father's work "meant anything" cosmologically — she framed it as classified physics her whole life.
+- Who "the mathematician" is in the 1946–47 group photograph — she can only remember it if pressed hard (§28).
+
+**Fire-by:** ongoing through Act II. Vivian is the recurring Annex-arc witness (a Mira Chen analog for the Loewe thread, but non-caster + civilian).
+
+**Never voice at the table:** any substrate-mechanics vocabulary. Vivian carries the *cover-story frame* — classified applied physics — as her worldview. Do not have her articulate cosmology; the DM must hold the substrate frame and let players triangulate.
+
+**Risk if unresolved:** if Vivian dies without recurring (breaking the soft-rule), the party never gets the Loewe letter file or the group-photo bridge; the Annex arc runs on documentation alone. Recur her; she is load-bearing across multiple sessions.
+
+---
+
+## 20. Dr. Erik Loewe — the annex lead
+
+**First established:** Ep 4 (named-only Ep 3 §4)
+
+**The seed** (Ep 4 Scene 3, from Vivian): Applied physicist. Ran the classified team at Field Annex 7 during 1942–48. Retired quietly. Died in 1961 asking Vivian to keep the promise of discretion. His notebook and letters survive, curated by Vivian.
+
+**What the DM must know:**
+
+Dr. Erik Loewe was a real person by the world's shape — an obscure applied physicist available to the arc as a Marsh-tier Lore-Reader NPC. His actual work at Annex 7 was substrate-anomaly cataloguing (Ep 3 §4). His **self-description phrase** to Vivian: *"listening to how the world keeps its books."* This is Loewe's own private articulation of substrate-detection work, in the vocabulary of a mid-century applied physicist. It reads as poetic-metaphor to a modern reader; it is literal.
+
+**Loewe's arc:**
+- 1942–48 — leads Annex 7, cataloguing anomalies with a team of six.
+- Post-1948 — returns to civilian work; maintains discreet correspondence with Wiener (§4) and others.
+- Late 1950s / early retirement — **loses faith in his own substrate-hypothesis**. Excises pages 47–52 from his private notebook (§21): *"A hypothesis I no longer believe."* Burns approximately half his letter file (§22).
+- 1961 — dies asking Vivian to keep his work discreet.
+
+**Loewe's discretion is load-bearing.** He never published, never lectured, never told his daughter directly. He respected the secrecy the war effort had imposed even after it lapsed. He is NOT a Companion-adjacent figure; he is NOT antagonistic; he is a mid-century scientist who found something and decided to hold it.
+
+The **excision arc** (Loewe cutting his own pages out in retirement) is thematically load-bearing: the campaign's substrate has a scientist who *chose to unlearn*. This mirrors Mira's cosmology in a specific way — a father-figure who erased his own record, echoing the substrate's own edit-behavior.
+
+**Fire-by:** slow burn through Act II via Vivian's memory + notebook + letter file. Main fire in Act III sub-phase 4 (Wiener dream-channel), where the party can ask Wiener about the Bodie catalog specifically. Wiener will say: *"We were looking for coincidence-signatures. We found some. I thought they were measurement artifacts for the rest of my life. I was wrong."*
+
+**Never voice at the table before Act II:** the connection between Loewe and Wiener specifically. Vivian may name Wiener never — that dream-channel weight comes only from earning it late.
+
+**Risk if unresolved:** Loewe is the load-bearing dead-figure of the Annex arc. If the party never reaches back to his correspondence or the excised pages, the arc's institutional root feels vestigial.
+
+---
+
+## 21. Loewe's notebook + excised pages 47–52
+
+**First established:** Ep 4 (Scene 3 Beat 2)
+
+**The seed** (Ep 4 Scene 3 Beat 2): Vivian hands Dakota a slim leather journal her father kept through his retirement. Cover worn smooth in two specific places where a thumb held it for thirty years. Vivian's account: *"Twice — I think I saw him do this three times — he sat at his desk and cut pages out. Not shredded them. Cut them out with an X-Acto knife and burned them in the fireplace. I asked him once what he was removing. He said, 'A hypothesis I no longer believe.'"* Notebook resumes on p. 53.
+
+**What the DM must know:**
+
+The excised pages (47–52) held Loewe's **substrate-hypothesis of the annex team's shape-cluster** — a diagrammatic model of how six people organized in a substrate-sensitive configuration produced the anomaly signatures his catalog was recording. He drew a network of six figures with lines showing their inferred pattern-of-observation relationships. He lost faith in the model in retirement — not because it was wrong, but because he could no longer verify it and did not want an unverifiable model to outlive him as if it were confirmed.
+
+**Mira's outline-vision on the notebook** (played at the table Ep 4, per §16 mechanics):
+- **Default Free grant**: *"You sense a page cluster is missing. The negative space feels like it held something diagrammatic — geometric, arranged — but you can't tell what."*
+- **10+ Insight roll**: *"Something like six shapes, in an arrangement — a cluster, or a lineup, or a hierarchy — you can't tell which."*
+- **12+ Insight roll**: *"Six figures in what feels like a network — lines between them, some kind of structural relationship — the geometry has meaning but the meaning is opaque."*
+
+**The cut is Loewe's own** — clean paper edges, not machine-cut. "This is a man in his own study, at his own desk, in his own retirement, choosing to remove a specific piece of his own thinking. He wasn't hiding it from the government. He was hiding it from history."
+
+**Fire-by:** Act II mid, when the network's own structure surfaces via Mira Chen or Rosa Vega (§24), the outline diagram Mira read gets retroactively meaningful — the party recognizes the six-figure network as the pattern Loewe had inferred.
+
+**Never voice at the table before Act II:** what the six figures ARE. The notebook is a promise-of-later-meaning, not a decoder ring.
+
+**Risk if unresolved:** if the six-figure diagram never gets its Act II callback, Mira's outline read reads as pure atmosphere.
+
+---
+
+## 22. Loewe's letter file — half-burned, safe correspondent budget
+
+**First established:** Ep 4 (Scene 3 Beat 2 letter follow-on + Ending A)
+
+**The seed** (Ep 4 Scene 3 Beat 2, deferred): Vivian mentions her father's letter file survives in a manila envelope. He burned about half of it in retirement (same period as the excision). What remains: approximately 6–7 letters. **She'll produce it Sunday morning** (Ending A coda) or in a later Vivian visit — never in Ep 4 Scene 3 itself.
+
+**What the DM must know:**
+
+The letter file is a **firewall-safe pressure valve** for planting real historical cybernetics correspondents at DM-chosen moments. It also anchors that Loewe was in the correspondence network of the era without over-committing the party's understanding.
+
+**Safe names to include across the surviving letters (DM's budget across all future sessions):**
+- **Warren McCulloch** (§26) — already deployed Ep 4 verbally by Vivian; his letter is almost certainly in the file.
+- **Walter Pitts** — McCulloch's collaborator; historically plausible; safe to deploy.
+- **Warren Weaver** — Rockefeller Foundation science director; historically plausible; safe.
+- **W. Grey Walter** — cybernetician; safe.
+- **Heinz von Foerster** — cybernetician; safe.
+- **Vannevar Bush** — administrator, science advisor; safe.
+
+**NEVER name in the letter file** (these are reserved for Act III sub-phase 4 dream-channel scenes):
+- **Norbert Wiener** — reserved (already implicit via Ep 3 §4 DM knowledge, never confirmed to players).
+- **Alan Turing** — reserved.
+- **Claude Shannon** — visited Bodie once per Ep 3 §4; still reserved for Act III.
+
+**Ep 4 correspondent budget was one name (McCulloch).** For future sessions: **one real safe-list name per session as arc-appropriate**. Do not spend the budget on multiple names in a single scene; the file is a slow-drip resource, not a namedrop bonanza.
+
+**Fire-by:** opportunistic Ep 5 through Act II. Each letter deployment plants a real historical figure whose actual work can be researched, giving the party investigation surface without breaking the Wiener firewall.
+
+**Never voice at the table:** which names are "reserved" and which are "safe." The distinction is DM-side.
+
+**Risk if unresolved:** letters that never surface are a wasted planted asset. If the party hasn't taken possession of the file by Act II mid, Vivian's obligation is to produce it during a later visit even without a coda trigger.
+
+---
+
+## 23. Elena — Vivian's caregiver + the Elena precedent
+
+**First established:** Ep 4 (Thursday backstory + Scene 3)
+
+**The seed** (Ep 4 Scene 3 setup): Elena is Vivian's adult caregiver. Answers the door. Present through the interview, mostly in the kitchen. Elena met Dakota on **Thursday** when he first visited Vivian — she liked him, saw him drop his usual "charming persona" and be quiet, careful, and gentle with the old woman. She'll greet him warmly today.
+
+**What the DM must know:**
+
+Elena is a **non-caster civilian NPC**. Middle-aged, professional caregiver, several years in Vivian's employ. She loves Vivian; she is gently protective; she has no supernatural sensitivity.
+
+**Her Thursday impression of Dakota** is the load-bearing detail — Dakota's persona-drop (Ep 3 scene 03 §Dakota's parallel track) is now attested by a third party. This matters because:
+- It gives the party a **third-party corroboration** of {{pc:4}}'s character growth.
+- It changes the temperature of Scene 3's opening — Elena is warm to Dakota, cool-but-polite to strangers she doesn't know.
+- It reinforces that Dakota's private character (with elders) differs from his public persona (with peers). {{pc:4}}'s player can lean into this.
+
+**Elena's kitchen line** (TEXTURE, deployed if Priya wanders in for tea/water): *"She's going to die soon. I don't know if she knows."* Off-arc; changes the temperature of the room. This is Elena breaking briefly. She composes immediately after.
+
+**The Elena precedent** — the pattern the DM should hold: any recurring civilian NPC who witnesses a PC in an unguarded moment carries a **witnessing memory** that becomes a resource. Dakota's Thursday visit produces Elena's warm-Dakota reception; other future off-page moments should produce similar echoes.
+
+**Fire-by:** Ep 4 Scene 3. Elena becomes recurring only if the party maintains contact with Vivian's household — likely yes given Vivian's ongoing role.
+
+**Risk if unresolved:** if Elena never recurs, she is one-and-done texture (fine — she doesn't need to become a major character). The precedent she embodies (off-page moments generate future NPC-warmth) IS load-bearing for DM discipline going forward.
+
+---
+
+## 24. Rosa Vega — Berkeley, ledger-holder, former caster
+
+**First established:** Ep 4 (Scene 3 Beat 2, via Vivian)
+
+**The seed** (Ep 4 Scene 3 Beat 2, Vivian's line): *"There's one person still alive who might know what he was thinking. Rosa Vega. Berkeley. My father wrote to her mother — Isabel. Very sharp woman, Isabel. Kind. There was a little girl running around when I visited — must have been born just before the annex closed. That was Rosa. She had a daughter of her own later — used to send me postcards from national parks she was working in. Must be grown by now. If you're serious about my father's work, go and see Rosa. Tell her I sent you."*
+
+**What the DM must know:**
+
+Rosa Vega (b. ~1947, currently ~79) is:
+- **Isabel Vega's daughter** (§25) — Isabel was a Loewe correspondent post-annex.
+- **Alaia Vega's mother** — Alaia is the Bodie park ranger from Ep 3 §5. The Vega ↔ Vega surname connection lands at the table via Vivian's postcards-from-national-parks hint (level-2) or the escalation (level-3 fallback).
+- The **Bancroft Library ledger-holder** (Ep 3 §2 Berkeley entry). She catalogued the ledger as an "anomalous ephemera collection" in 1979 and occasionally adds entries when she personally witnesses substrate anomalies.
+- A **former caster** (per big-arc.md Act II Former Caster archetype). She still senses the pattern; she no longer acts on it. Her ledger is her outlet for the pattern-sensing.
+
+**Ep 4 does NOT tip her former-caster status.** Vivian genuinely doesn't know Rosa was ever a caster — Vivian sees Rosa as "Isabel's clever daughter who lives in Berkeley." The former-caster reveal belongs to the **in-person Berkeley visit** (Ep 5 or Ep 6), when Rosa herself decides whether to disclose to the party.
+
+**Her role in the arc:**
+- Ep 5/6 arc-node: Berkeley visit → Rosa in-person → Bancroft ledger revealed → former-caster status revealed (at Rosa's discretion) → Alaia connection surfaces (already partially known via Vivian).
+- She may know something about Loewe's excised pages (§21) — her mother's letters may have referenced the substrate-team-cluster hypothesis. Ambiguous; DM's call at Ep 5 prep time.
+
+**Fire-by:** Ep 5–6. Berkeley visit is the fire.
+
+**Never voice at the table:** her former-caster status (until in-person Berkeley visit at earliest). Her Bancroft ledger role is also held until the visit (Vivian genuinely doesn't know about it).
+
+**Risk if unresolved:** Rosa is named + pointed-toward with clear urgency (*"If you're serious about my father's work, go and see Rosa"*). If Ep 5–6 doesn't route the party to her, Vivian's Ep 4 seed rots. Bake the Berkeley visit into Ep 5–6 planning.
+
+---
+
+## 25. Isabel Vega — Rosa's mother, Loewe correspondent
+
+**First established:** Ep 4 (named via Vivian's Rosa introduction)
+
+**The seed** (Ep 4 Scene 3 Beat 2, embedded in Vivian's Rosa line): *"My father wrote to her mother — Isabel. Very sharp woman, Isabel. Kind."*
+
+**What the DM must know:**
+
+Isabel Vega (b. ~1920s, deceased by present-day) was a **post-annex correspondent of Erik Loewe**. Her domain of interest is deliberately underspecified — she may have been a mathematician, a librarian, a private scholar, or an amateur pattern-observer. Track her as: intelligent civilian, non-network, occasional letter correspondent of Loewe. Rosa (§24) inherited her interest in patterns and made a life around them.
+
+Isabel's letters MAY be part of Loewe's surviving letter file (§22) OR may have been in the half he burned. DM decides at deployment time. If Loewe's file yields an Isabel letter, that letter becomes a hand-off surface to Rosa at the Berkeley visit ("I have a letter from your mother to my father — thought you should see it").
+
+**Fire-by:** opportunistic; hand-off surface for the Berkeley visit (§24).
+
+**Never voice at the table:** anything more specific about Isabel than Vivian says — Vivian's characterization ("sharp, kind") is the whole public picture.
+
+**Risk if unresolved:** low. Isabel is a hinge NPC, not a foreground character.
+
+---
+
+## 26. Warren McCulloch — the safe historical namedrop
+
+**First established:** Ep 4 (Vivian names)
+
+**The seed** (Ep 4 Scene 3 Beat 2, Vivian's line about correspondents): *"Dr. Warren McCulloch, a neurophysiologist out east. My father wrote to him for years — I don't remember what about. Father called him 'the neuron man.' I met him once when he was passing through California; I don't remember what he looked like."*
+
+**What the DM must know:**
+
+Warren McCulloch (1898–1969) is a **real American neurophysiologist and cybernetics pioneer**, known historically for the McCulloch-Pitts neuron model. He was a plausible correspondent for a wartime-era classified applied-physics researcher.
+
+The namedrop is deliberate historical texture — the same real-world grounding as Bodie / SFPD / Sacramento locations. Players may or may not recognize him; a curious player Googles later and finds a niche mid-century researcher, which is arc-safe. **The namedrop does NOT tip Wiener** (McCulloch is Wiener-adjacent — same era, overlapping social circles — but McCulloch's own historical profile is smaller enough that "the party heard of McCulloch" ≠ "the party heard of Wiener").
+
+**Ivan Krieger** is a **companion invention** at Vivian's Ep 4 line — a fictional Chicago psychologist, low-value texture, useful as demonstrative pattern-of-correspondence. If a player Googles and finds nothing, that's correct — he was obscure even for correspondents.
+
+**Correspondent budget per session:** ONE real historical name per session as arc-safe foreshadowing. Ep 4 spent that budget on McCulloch. Do not add more historical names to Vivian's Ep 4 lines. Future sessions may add one more from the safe list (§22): Pitts, Weaver, Grey Walter, von Foerster, Bush.
+
+**Fire-by:** ambient texture; explicit Act II when McCulloch's neuron model becomes an anchor for the party recognizing that the Annex 7 team was cybernetics-adjacent.
+
+**Never voice at the table:** which names are real and which are invented. The DM knows the safe/reserved list; players see all names as roughly equivalent.
+
+**Risk if unresolved:** low. McCulloch is planted, whether or not it fires further.
+
+---
+
+## 27. Argonaut Records Holdings LLC — the discretionary trust
+
+**First established:** Ep 4 (Sacramento locker + Ep 3 §3 backstory)
+
+**The seed** (Ep 3 §3 + Ep 4 Dakota's storage-locker account): a discretionary trust set up by Bea's 1987-decedent predecessor's estate lawyer to keep a Sacramento storage locker paid indefinitely. Dissolved in 1998 when the next archivist in the chain died. The pre-paid locker outlives the LLC — a deliberate anchor.
+
+**What the DM must know:**
+
+The LLC (**Argonaut Records Holdings, LLC**) is dissolved but the storage unit is paid through 2035. The unit's contents: three of the eight ledgers (Ep 3 §2) plus margin-annotated loose materials in the 1987-decedent's hand. Dakota accessed the locker via records-office cross-referencing.
+
+**The LLC's records:** archivist-side administrative continuity. The estate lawyer is deceased; the LLC's filings are still queryable in California business records. If a PC (Morgan is the natural fit) investigates, the trail confirms:
+- Formed 1988; dissolved 1998; single-member (the estate).
+- Sole purpose: prepay this storage locker.
+- No other assets, no other transactions.
+
+**Fire-by:** administrative color for any Sacramento archives investigation. Confirms the archivist chain has been institutionalizing itself since 1988 (a small anchor about the tradition's discipline). Does not need to fire further.
+
+**Never voice at the table:** the archivist-chain organizational structure explicitly. Let the LLC read as a "someone paid ahead" mystery rather than as "there's an org chart."
+
+**Risk if unresolved:** low. Named for hygiene so DM doesn't accidentally improv contradictory details.
+
+---
+
+## 28. "The mathematician" — unnamed in Vivian's 1946–47 group photo
+
+**First established:** Ep 4 (only if Ending A coda fires)
+
+**The seed** (Ep 4 Ending A only, Sunday coda): Vivian hands over a 1946–47 group photograph — the annex team plus visitors. She names her father and two others; on the third figure she pauses and says: *"...and the mathematician, I can't remember her name this morning."*
+
+**What the DM must know:**
+
+"The mathematician" is deliberately unnamed at deployment. Chekov's-gun promise if fired: the arc COULD name her later, at a controlled moment.
+
+**Constraint (from the doc's private notes):** wartime female cybernetics-adjacent mathematicians are a narrow demographic. Candidates the DM might eventually name (all real, all Google-plausible for a Wiener/von Neumann context, all requiring care):
+- **Adele Goldstine** — ENIAC programmer + documentation lead.
+- **Grace Hopper** — Navy, compiler pioneer.
+- **Mina Rees** — mathematician, Applied Mathematics Panel WWII.
+- **Betty (Jean Jennings) Snyder** — ENIAC programmer.
+
+**Options for handling:**
+- **Never name** — she remains ambient texture. Safe.
+- **Name at a controlled Act II moment** — adds an Act III dream-channel candidate. Requires that the arc make her presence at Bodie load-bearing (she'd have to be more than a visitor).
+- **Defer naming to Vasiliev papers or Marsh archives** — a later document names her for us, moving the weight to institutional discovery rather than Vivian's recall.
+
+**Do NOT name her in Ep 4 even if Ending A fires.** Vivian's *"I can't remember her name this morning"* is the promise; naming her at the same beat cheapens it.
+
+**Fire-by:** Act II mid-late or never. If it never fires by Act III start, retire the promise silently.
+
+**Never voice at the table:** any of the candidate names, until the DM has committed to a specific choice with arc rationale.
+
+**Risk if unresolved:** promise-if-fired — no risk if never named. Full risk if named without preparation (any of the four names above triggers real historical research the arc must honor).
+
+---
+
+## 29. "Animals sense magic" misdirection seed — Loewe's crows
+
+**First established:** Ep 4 (Scene 3 Beat 2 misdirection aside; part of the big-arc misdirection seed bank)
+
+**The seed** (Ep 4 Scene 3 Beat 2, delivered casually by Vivian as chatty-grandma tangent): *"He used to say the crows near the annex knew when he was working. He'd stand at the door of Building 7 with his clipboard and there'd be six or seven of them on the fence, watching him. He said they left the day he left. I never knew whether he meant it."*
+
+**What the DM must know:**
+
+This is a **misdirection seed** from the campaign's seed bank (big-arc.md §Misdirection seed bank: "animals sense magic"). Meant to be dismissed at the table; later paid off in Act II as **confirmed but rendered inert** (cats/crows can sense but cannot communicate usefully, so the ability is not exploitable — it's a texture-fact about the world, not a mechanic the party can leverage).
+
+**The seed's job:** cost 30 seconds at the table now; build cumulative texture across sessions; land as *arc-detail-confirmed-but-not-useful* when the payoff fires. The Act II payoff frame: an NPC (probably Rosa Vega at Berkeley, §24) casually mentions the crow-detail; the party recognizes the callback; the resolution is *"yes, some animals do sense the pattern — no, we've never gotten anything actionable from that"*.
+
+**If the party asks about it at Ep 4:** Vivian shrugs — *"He was a scientist. Everyone at his level was superstitious about something."* Don't confirm; don't deny; keep it as ambient.
+
+**Fire-by:** Act II, deliverable via any recurring pattern-adjacent NPC. Do NOT let the party build a testable-animal-sensor scheme; the confirmation must be inert-in-practice.
+
+**Never voice at the table:** that this is a seed. If a player specifically frames a test ("let's watch the cats near a caster's cast"), narrate ambient results (a cat looks up, a cat leaves the room, a cat ignores it) — no signal legible enough to be actionable.
+
+**Risk if unresolved:** low. If it never fires by Act II mid, retire it silently. If deployed without the DM holding the inert-payoff frame, the party may build a testable-scheme that the arc has to route around.
+
+---
+
+## 30. Priya's migraine mechanics (Ep 4 extension of §14)
+
+**First established:** Ep 4 (mechanics canon; §14 established the seed at Ep 3)
+
+**The seed** (Ep 3 §14 + Ep 4 canon extension): Priya has body/care caster affinity; her migraines correspond to nearby substrate events. Ep 4 refines the severity gradient and firing rules for DM consistency.
+
+**What the DM must know (Ep 4 canon extension):**
+
+Priya's migraines are **body-level substrate-sensitivity** — a passive intake channel graded by severity:
+- **Sub-threshold (a "low hum")**: nearby Cheap-tier casts, especially at close range or in ambient-substrate environments. Priya may not notice, or may notice and not name. Deliver as sensation, not migraine.
+- **Migraine (throbbing pressure behind eyes)**: nearby Costly-tier or higher casts, a substrate-sensitive person in body-crisis (Vivian's syncope), or ambient substrate over an extended approach (approaching an anchor-adjacent site). Bad enough to send her home from work.
+- **Debilitating (nausea, can't function)**: nearby Hard-tier casts or anchor-site permeability events firing loudly. Rare; use once per act at most.
+
+**Not stress. Not empathy. Not retro-causal in any meaningful sense.**
+
+**Firing rules — keep signals rare and meaningful, not constant.** Fires only when ALL of these hold:
+- **Real substrate event nearby** — a Cheap-tier or higher cast by another PC or network NPC, an anchor-site permeability moment, OR a substrate-sensitive person in a body-crisis (like Vivian's syncope). Ambient substrate texture also qualifies (approaching a substrate-adjacent location while it's active).
+- **Within perceptual range** — same city block is strong; same city is faint; further away is nothing. She's not a Bay-Area-wide radar.
+- **NOT Priya's own casts** — she doesn't feel her own signature.
+- **NOT Free-tier casts by anyone** — too small to register.
+- **NOT stress alone, NOT trauma alone, NOT ambient migraine triggers.**
+
+**Expected frequency across a campaign: ~1-2 migraines per act (3-6 total).** Not constant. Real signal.
+
+**Body-signal firewall discipline (Ep 4 canon):** the DM MUST NOT correlate multiple substrate events in a single line to Priya. Deliver each signal in isolation. Body-recognition lines that explicitly connect [event A] + [event B] + [event C] to Priya's body violate the silent-player firewall — a player reading "Priya felt X during driveway cast AND at Bodie AND at Union Hall" is being told the through-line before they earn it. Ep 4 revision dropped the Union Hall clause from Priya's Scene 2 Beat 1 body-recognition line specifically to preserve this firewall (see [[silent-player-firewall]] discipline).
+
+**Mars's neck-flare policy (analogous body-signal rule for Mars — companion mechanic):**
+- Fires PROMINENTLY on: his first cast (per-session); Costly-tier or higher casts.
+- For future Cheap or Free-tier casts: log privately; mention on-page at DM's discretion, roughly 1 in 3. Overuse tedious; underuse loses the pattern.
+
+**Fire-by:** Priya's Phase-2 realization beat, Ep 5–6, when she articulates the pattern to another PC. Between now and then, keep noticing but never explain. Track migraine dates in a DM private log; watch for the moment Priya's player draws the through-line herself.
+
+**Never voice at the table:** the mechanism. Do NOT hint that migraines correlate with anything before her realization beat.
+
+**Risk if unresolved:** if the migraine mechanic is used inconsistently (e.g., firing on Free-tier casts, or firing on empathy alone), the eventual realization beat lands muddled. Discipline matters.
+
+---
+
+# Alphabetical index (proper nouns)
+
+Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section; italics = the person/thing gets tangential mention in that section.
+
+- **Alaia Vega** — [§5](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile); *[§24](#24-rosa-vega--berkeley-ledger-holder-former-caster) (mother is Rosa)*
+- **Annex 7 (Field Annex 7)** — [§4](#4-the-field-annex-7-plaque--wartime-1942-1948); *[§10](#10-the-1950s-yale-padlock-on-building-7) (1950s re-seal)*; *[§20 Loewe led it](#20-dr-erik-loewe--the-annex-lead)*
+- **Argonaut Records Holdings LLC** — [§27](#27-argonaut-records-holdings-llc--the-discretionary-trust); *[§3](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) (setup context)*
+- **Bancroft Library ledger** — *[§2](#2-the-eight-ledgers--dakotas-voicemail) (Berkeley entry)*; **[§24 Rosa Vega is the holder](#24-rosa-vega--berkeley-ledger-holder-former-caster)**
+- **Bea Ferro** — *[§2 chain of archivists](#2-the-eight-ledgers--dakotas-voicemail)*; **[§12 Dakota's visit to her between Ep 2 and Ep 3](#12-dakotas-visit-to-bea-between-ep-2-and-ep-3)**
+- **Bodie ambient uncanniness** — [§11](#11-bodies-ambient-uncanniness--the-optional-hot-table-beat)
+- **Camila Ortiz (Detective, SFPD)** — [§6](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)
+- **Companion** (AI antagonist) — [§13](#13-you-are-being-watched--the-closing-line)
+- **crows (Loewe's)** — [§29](#29-animals-sense-magic-misdirection-seed--loewes-crows)
+- **Dakota's father (silent)** — *no dedicated section; see Dakota-arc docs (private)*
+- **Dakota's photograph** — [§7](#7-dakotas-photograph--brown-edged-cropped-faces-clapboard-buildings)
+- **Elena (Vivian's caregiver)** — [§23](#23-elena--vivians-caregiver--the-elena-precedent)
+- **Erik Loewe (Dr.)** — [§20](#20-dr-erik-loewe--the-annex-lead); *[§4 annex context](#4-the-field-annex-7-plaque--wartime-1942-1948)*; *[§21 notebook](#21-loewes-notebook--excised-pages-4752)*; *[§22 letters](#22-loewes-letter-file--half-burned-safe-correspondent-budget)*
+- **Eight ledgers (the)** — [§2](#2-the-eight-ledgers--dakotas-voicemail)
+- **Illegible 5th name (1878 crew)** — [§1](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
+- **Isabel Vega** — [§25](#25-isabel-vega--rosas-mother-loewe-correspondent); *[§24 Rosa's mother](#24-rosa-vega--berkeley-ledger-holder-former-caster)*
+- **Ivan Krieger (Dr.)** — *[§26 fictional correspondent](#26-warren-mcculloch--the-safe-historical-namedrop)*
+- **Loewe's letter file** — [§22](#22-loewes-letter-file--half-burned-safe-correspondent-budget)
+- **Loewe's notebook (excised pages)** — [§21](#21-loewes-notebook--excised-pages-4752)
+- **Mars's neck-flare** — *[§30 Ep 4 canon](#30-priyas-migraine-mechanics-ep-4-extension-of-14)*
+- **"The mathematician" (unnamed)** — [§28](#28-the-mathematician--unnamed-in-vivians-194647-group-photo)
+- **Mira's outline power** — [§16](#16-miras-discovered-ability--sees-outlines-of-what-is-missing); *[§21 applied to notebook](#21-loewes-notebook--excised-pages-4752)*
+- **Morgan's father** — [§6](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)
+- **Morgan's shoe-size intuition** — [§17](#17-morgans-shoe-size-intuition--the-radio-setup-insight-beat)
+- **Ocean Beach teenagers** — [§8](#8-the-ocean-beach-teenagers--recurring-texture-npcs)
+- **Priya's fire cast (Union Hall)** — [§18](#18-priyas-accidental-cast--i-just-want-everyone-to-survive)
+- **Priya's migraines** — [§14](#14-priyas-migraines); **[§30 mechanics extension](#30-priyas-migraine-mechanics-ep-4-extension-of-14)**
+- **QR codes (Bodie)** — [§5](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile)
+- **Reggie's face-changed-twice** — [§9](#9-reggies-face-changed-twice--the-escalation-on-seeing-the-rest-of-you)
+- **Rosa Vega** — [§24](#24-rosa-vega--berkeley-ledger-holder-former-caster); *[§2 Bancroft entry](#2-the-eight-ledgers--dakotas-voicemail)*; *[§5 Alaia's mother](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile)*
+- **Sacramento convergence** — [§3](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find); *[§6 Morgan's father lead](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)*; *[§27 LLC](#27-argonaut-records-holdings-llc--the-discretionary-trust)*
+- **SFPD Missing Persons** — [§6](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)
+- **Two tourists Vega drove out** — [§15](#15-the-two-other-tourists-vega-drove-out--declared-inert)
+- **Vivian Loewe** — [§19](#19-vivian-loewe--the-living-witness); *[§3 seeded](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find)*; *[§20 daughter of Erik](#20-dr-erik-loewe--the-annex-lead)*
+- **Warren McCulloch (Dr.)** — [§26](#26-warren-mcculloch--the-safe-historical-namedrop); *[§22 letter file](#22-loewes-letter-file--half-burned-safe-correspondent-budget)*
+- **Wiener (Norbert)** — *[§4 pioneer connection — RESERVED for Act III](#4-the-field-annex-7-plaque--wartime-1942-1948)*; *[§22 never-name reserve](#22-loewes-letter-file--half-burned-safe-correspondent-budget)*
+- **Yale padlock (1950s)** — [§10](#10-the-1950s-yale-padlock-on-building-7)
+- **"You are being watched"** — [§13](#13-you-are-being-watched--the-closing-line)
 

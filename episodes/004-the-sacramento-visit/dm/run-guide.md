@@ -1,9 +1,9 @@
-# Episode 4 — The Sacramento Visit
+# Episode 4 — The Sacramento Visit — DM run-guide
 
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> DM notes for at-the-table play. Read linearly. Session target 2.5–3h. Assume all five PCs present.
+> **DM's plot walkthrough for at-the-table play.** Read linearly. Session target 2.5–3h. Assume all five PCs present. For cross-campaign facts / continuity lookup during play, see companion doc [`continuity-through-ep-4.md`](continuity-through-ep-4.md) (canonical version at [`../../../design/DM-ONLY/facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md)).
 
 ## Contents
 
@@ -48,8 +48,9 @@
 **Structure:** cold-open image → 4 scenes → adaptive ending (fast/normal/slow, DM picks at start of Scene 4 based on clock).
 
 **Companion documents (open in tabs for quick lookup during play):**
+- [**Continuity facts through Ep 4**](continuity-through-ep-4.md) — the cross-campaign facts ledger, snapshot as of Ep 4 prep. Alphabetical index at the bottom is the fast-lookup surface during play.
 - **DM-only local:** if {{pc:4}}'s player is a returning character with tactical needs (per-stance dialogue, Q&A prep for a big reveal beat), prepare a private per-player support doc before the session — kept out of the public repo. Templates and prior examples live in your local session-notes tree.
-- [Ep 3 §14 — Priya's migraines canon](../../003-bodie-convergence/dm/what-the-dm-holds.md) — the answers doc's §14
+- [Ep 3 §14 — Priya's migraines original seed](../../003-bodie-convergence/dm/what-the-dm-holds.md) — Ep 3's original section; extended in Ep 4 as continuity §30 (mechanics)
 - [Ep 3 scene 03 — Dakota's parallel track](../../003-bodie-convergence/scenes/03-dakotas-parallel-track.md) — what {{pc:4}} did off-page (especially the persona-drop character note)
 - [Audio: Ortiz cold-case voicemail](../../../assets/audio/ortiz-cold-case-voicemail.mp3) + [transcript](../../../assets/audio/ortiz-cold-case-voicemail-transcript.txt)
 - [Audio: Ortiz outgoing greeting](../../../assets/audio/ortiz-outgoing-greeting.mp3) + [transcript](../../../assets/audio/ortiz-outgoing-greeting-transcript.txt) — plays if the party calls her back immediately
