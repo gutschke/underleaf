@@ -121,7 +121,7 @@ This is {{pc:4}}'s Sacramento lead. It names *Loewe* — a name the party has ne
 
 **What Vivian tells {{pc:4}} at this first meeting:**
 - Her father led a classified team at Bodie 1942–1948 under War Department cover
-- She was 8–14 during his tenure; joined tail-end summer trips
+- She was 14–20 during his tenure; joined summer trips as a child and worked briefly as a young hire in the annex's last two years (1946–1948)
 - The cover was strategic minerals; the real work was *"listening to how the world keeps its books"* (Loewe's phrase)
 - Her father died in 1961 asking her to keep his work private
 - She has kept the promise for 65 years

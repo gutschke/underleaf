@@ -1,0 +1,38 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Vivian Loewe",
+  "pronouns": "she/her",
+  "role": "wartime witness; daughter of Field Annex 7 lead",
+  "disposition": "warm, sharp, dying; testing you before she speaks; will release a promise if you are worth releasing it to",
+  "alignment": "neutral-good",
+  "description": "98 years old, born 1928. Small, upright in a wingback chair with an oxygen cannula; grey hair pinned back; hands quiet on the book in her lap. A 1960s Sacramento ranch house with a well-kept garden and a fig tree that's been pruned by someone who knows what they're doing. Elena the aide answers the door.",
+  "voice": "Older-Californian, unhurried, patient with her own breathing. Says a thing plainly and lets it sit. Occasionally forgets a name mid-sentence and doesn't apologize for it. Speaks about her father in the present tense sometimes without noticing.",
+  "signature": [
+    "The assay-cue: 'Sit with me a moment. I want to know how you talk to each other before we talk about my father.'",
+    "The anti-mentor line, delivered whenever a visitor presses for the mechanism: 'I watched. I wasn't invited into the work. What I know is what a daughter learns by not being told.'",
+    "The Loewe phrase, delivered when explaining what her father actually did: 'listen to how the world keeps its books.'",
+    "The Bea-shape refusal: 'Don't thank me. I want you to find that out for yourselves.'",
+    "The closing warning: 'There have always been people who ask about my father. Not always the same ones. When they come to you, decide carefully what to say.'"
+  ],
+  "dmNotes": "The wartime witness (see big-arc.md cast — appears late Act I via {{pc:4}}'s Sacramento thread). Vivian was 14-20 during her father's Bodie annex tenure (1942-1948); joined summer trips as a child and worked as a young hire in the annex's last two years. Her father Dr. Erik Loewe led the annex — cybernetics-adjacent, real work was 'listening to how the world keeps its books' (substrate-anomaly cataloguing). Loewe died in 1961 asking Vivian to keep his work private. She has kept the promise for 65 years.\n\nHARD INVARIANT: Vivian is a witness, NOT an initiate. She is NOT a caster and was NOT on the network. She is the daughter of an insider who WAS discreet with her. She knows what her father was actually doing but nothing about mechanism — she can bridge the party TO the annex work but cannot explain it (big-arc invariant I1 preserved; no single mentor holds the answer).\n\nShe is dying now (chronic syncope; the third episode this month per Ep 4). She wants to be released from her father's promise before she goes. Her assay-cue tests visitors before she speaks; parties who push too hard or lie obviously get the notebook and Rosa's name but NOT the elder-witness line, NOT the Bea-callback echo, NOT the closing warning-with-glance-at-Dakota. See underleaf/episodes/004-the-sacramento-visit/dm/what-the-dm-holds.md for the full scene handling.\n\nRESERVED CANON: Vivian is the delivery vehicle for the wartime-annex thread. Correspondent name-drop safe list: Warren McCulloch (real, already deployed Ep 4), Walter Pitts, Warren Weaver, W. Grey Walter, Heinz von Foerster, Vannevar Bush. FIREWALL — do NOT name Wiener/Turing/Shannon through Vivian at any point (reserved for Act III dream-channel per Ep 3 §4). Vivian's father's excised private-notebook pages (six-figures diagram, per Mira's outline-read) hold the Act II hypothesis payoff (U7 in hook-ledger).\n\nSOFT RULE: she does not die during Ep 4. She may have a medical scare (Priya can help; interview cuts short). Ep 5-8: she must recur at least once before she dies (U8 in hook-ledger). Ep 4 Ending A includes a Sunday-morning coda opportunity; if that fires, she hands over a group photograph from an annex-adjacent event (an unnamed 'mathematician' visible in the photo is a Chekov's-gun for later — do not name yet).",
+  "knownTo": [],
+  "tags": [
+    "civilian",
+    "wartime-witness",
+    "daughter-of-erik-loewe",
+    "sacramento-suburb",
+    "dying",
+    "assay-tester",
+    "loewe-notebook-keeper",
+    "bridge-to-annex-thread",
+    "not-a-caster",
+    "recurring"
+  ],
+  "background": {
+    "homeBase": "A small 1960s ranch house in a quiet Sacramento suburb (address held privately per the Marsh index; Dakota discovered it via Marsh's 1979 margin note in the Argonaut Records Holdings storage unit)",
+    "household": "Lives with Elena, a professional caregiver (~40, hospice background, ~3 years with Vivian). Widowed twelve years; her husband died at 11:47 PM one evening and Vivian never rewound the wind-up mantel clock",
+    "family": "Father: Dr. Erik Loewe (applied physicist, wartime annex lead; died 1961). Mother: unnamed, died before Vivian was 20. Husband: unnamed, died 2014. No children. A brother, killed at Anzio 1944 (age 6-year-old Vivian; a photograph on the hall table)",
+    "career": "Never worked in her father's field. Married; kept house; volunteered at the Sacramento public library later in life; retired ~1988",
+    "hobbies": "Reads more than she does. Keeps her father's small library alive; a technical cybernetics monograph on the shelves shows a spine-crease and dog-earing incompatible with the rest of the collection (Loewe read it; Vivian keeps it visible)"
+  }
+}

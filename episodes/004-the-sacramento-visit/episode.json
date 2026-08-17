@@ -1,0 +1,39 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "The Sacramento Visit",
+  "summary": "Two days after Bodie, {{pc:4}} returns from Sacramento with three of Eleanor Marsh's ledgers, a name, and a 98-year-old woman waiting to be asked. The party — angry with him about the blizzard, worried about their own arc, grieving what they suspect — drives to Vivian Loewe's house together. What they find is a wartime witness releasing a 65-year-old promise before she dies, her father's private notebook with pages he cut out with his own hands (Mira's outline-vision reads the excision as a six-figures diagram), and the specific next name: Rosa Vega, Berkeley — the ranger at Bodie's mother. Along the drive, {{pc:2}}'s substrate-sensitivity flares in a way she doesn't yet understand; at Vivian's threshold, it releases. {{pc:5}} holds the door open (his first accidental cast, presence-domain, Cheap-tier, invisible to him and to Elena the aide). Ends with Elena texting the party to return Sunday for something Vivian remembered.",
+  "prerequisites": ["001-unattended-baggage", "002-the-archivists-index", "003-bodie-convergence"],
+  "hooks": [
+    "{{pc:4}} comes back. The reunion is frosty — the party has spent weeks quietly rationalizing the strangeness and stewing about the storm-trap he set up. Beat 1 IS the anger; do not truncate it, but do reign it in past 20 min. See the DM's private per-player support doc for {{pc:4}}'s four possible stances (Focused/Contrite/Doubling-down/Frightened) — each shapes the reunion temperature and Vivian's read of him.",
+    "The lead is time-critical (Vivian is 98). The party's decision to drive up together — or not — is the scene-driver for the middle of the session. Adaptive endpoints at Scene 4: fast → include a Sunday-morning coda in the same session; normal → Elena's cliffhanger text; slow → session ends in the car with the text as Ep 5 opener.",
+    "The visit is a warmth-and-witness scene, not an action beat. Vivian is testing the party (the 'assay-cue' at Scene 3 Beat 2 is her early filter); they can pass or fail. First-cast opportunity for {{pc:5}}'s presence-domain as the party asks to be admitted as a group. The DM has an escalation ladder if the player doesn't reach for the cast spontaneously — presence-domain casts look 'just like being charismatic,' which is exactly why they need guided nudging early in the arc.",
+    "The Vega ↔ Rosa surname connection lands in Beat 2 (Vivian's 'postcards from national parks' → escalation → Scene 4 Vega text). Three tiers of explicitness ensure it lands; this is the small chill of 'wait — this is bigger than we thought.' Do NOT tip Rosa's former-caster status through Vivian; that's reserved for the Ep 5-6 Bancroft arc."
+  ],
+  "scenes": [],
+  "dmDocs": [
+    "dm/what-the-dm-holds.md"
+  ],
+  "assets": [
+    "../../assets/audio/ortiz-cold-case-voicemail.mp3",
+    "../../assets/audio/ortiz-cold-case-voicemail-transcript.txt",
+    "../../assets/audio/ortiz-outgoing-greeting.mp3",
+    "../../assets/audio/ortiz-outgoing-greeting-transcript.txt"
+  ],
+  "arcBeats": [
+    "post-blizzard-reunion-anger",
+    "sacramento-arc-node-opens",
+    "vivian-loewe-introduced",
+    "loewe-notebook-transferred",
+    "excised-pages-diagram-outline-read-by-{{pc:3}}",
+    "first-accidental-cast-{{pc:5}}-presence-domain",
+    "rosa-vega-named-as-alaia-mother",
+    "{{pc:2}}-body-signal-substrate-sensitivity-established",
+    "mccullough-namedrop-cybernetics-texture",
+    "misdirection-seed-crows-animals-sense-magic",
+    "elena-aide-introduced-with-thursday-precedent",
+    "ortiz-sfpd-inbound-voicemail-and-return-call",
+    "bea-callback-word-for-word-explicit-narration"
+  ],
+  "inGameDate": "The Saturday after Ep 3's Bodie weekend (late winter 2026-2027 in-game).",
+  "tags": ["act-1", "post-blizzard-reunion", "sacramento", "wartime-witness", "first-presence-cast", "network-behind-network-seeded", "adaptive-endpoints", "vega-surname-connection"]
+}
