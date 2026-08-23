@@ -1,7 +1,7 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> **Snapshot of the cross-campaign facts ledger as of Ep 4 prep (regenerated 2026-08-17 after memory-reference cleanup + inlining of the phrasing rubric into world-truths.md).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's printed Ep 4 binder.
+> **Snapshot of the cross-campaign facts ledger as of Ep 4 played (regenerated 2026-08-22 from the master after the Ep 4 session was played).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's Ep 4/5 binder and print bundle.
 >
 > **When to read:** before designing any episode; during play if a PC brings up something you might have forgotten.
 >
@@ -48,20 +48,25 @@ Structure of each fact section:
 - [§17 Morgan's shoe-size intuition (played)](#17-morgans-shoe-size-intuition--the-radio-setup-insight-beat)
 - [§18 Priya's fire cast (played)](#18-priyas-accidental-cast--i-just-want-everyone-to-survive)
 
-### Ep 4 — planted at Sacramento (§19–§30)
+### Ep 4 — planted at Sacramento (§19–§30) + played updates + new (§32–§35)
 
-- [§19 Vivian Loewe — the living witness](#19-vivian-loewe--the-living-witness)
+- [§19 Vivian Loewe — the living witness](#19-vivian-loewe--the-living-witness) — **Ep 4 played**
 - [§20 Dr. Erik Loewe — the annex lead](#20-dr-erik-loewe--the-annex-lead)
-- [§21 Loewe's notebook + excised pages 47–52](#21-loewes-notebook--excised-pages-4752)
-- [§22 Loewe's letter file — half-burned, safe correspondent budget](#22-loewes-letter-file--half-burned-safe-correspondent-budget)
-- [§23 Elena — Vivian's caregiver + the Elena precedent](#23-elena--vivians-caregiver--the-elena-precedent)
-- [§24 Rosa Vega — Berkeley, ledger-holder, former caster](#24-rosa-vega--berkeley-ledger-holder-former-caster)
+- [§21 Loewe's notebook + excised pages 47–52](#21-loewes-notebook--excised-pages-4752) — **Ep 4 played: handed to Dakota, Mira read pending**
+- [§22 Loewe's letter file — half-burned, safe correspondent budget](#22-loewes-letter-file--half-burned-safe-correspondent-budget) — **Ep 4 played: budget untouched**
+- [§23 Elena — Vivian's caregiver + the Elena precedent](#23-elena--vivians-caregiver--the-elena-precedent) — **Ep 4 played: door negotiation via Mars's 2nd cast; dying-line NOT delivered**
+- [§24 Rosa Vega — Berkeley, ledger-holder, former caster](#24-rosa-vega--berkeley-ledger-holder-former-caster) — **Ep 4 played: named + Alaia connection caught by party**
 - [§25 Isabel Vega — Rosa's mother, Loewe correspondent](#25-isabel-vega--rosas-mother-loewe-correspondent)
-- [§26 Warren McCulloch — the safe historical namedrop](#26-warren-mcculloch--the-safe-historical-namedrop)
+- [§26 Warren McCulloch — the safe historical namedrop](#26-warren-mcculloch--the-safe-historical-namedrop) — **Ep 4 played: NOT deployed**
 - [§27 Argonaut Records Holdings LLC — the discretionary trust](#27-argonaut-records-holdings-llc--the-discretionary-trust)
-- [§28 "The mathematician" — unnamed in Vivian's 1946–47 group photo](#28-the-mathematician--unnamed-in-vivians-194647-group-photo)
-- [§29 "Animals sense magic" misdirection seed — Loewe's crows](#29-animals-sense-magic-misdirection-seed--loewes-crows)
-- [§30 Priya's migraine mechanics (Ep 4 extension of §14)](#30-priyas-migraine-mechanics-ep-4-extension-of-14)
+- [§28 "The mathematician" — unnamed in Vivian's 1946–47 group photo](#28-the-mathematician--unnamed-in-vivians-194647-group-photo) — **Ep 4 played: not delivered (Ending A didn't fire)**
+- [§29 "Animals sense magic" misdirection seed — Loewe's crows](#29-animals-sense-magic-misdirection-seed--loewes-crows) — **Ep 4 played**
+- [§30 Priya's migraine mechanics (Ep 4 extension of §14)](#30-priyas-migraine-mechanics-ep-4-extension-of-14) — **Ep 4 played: drive-flare + threshold + low-hum all fired**
+- [Cross-cutting updates §19–§30 (Ep 4 played 2026-08-22)](#cross-cutting-updates-to-1930-ep-4-played-2026-08-22)
+- [§32 Little Jimmy — the boy who camped near Bodie one summer](#32-little-jimmy--the-boy-who-camped-near-bodie-one-summer)
+- [§33 Vivian's wind-up mantel clock](#33-vivians-wind-up-mantel-clock)
+- [§34 Vivian's Indian-visitor memory](#34-vivians-indian-visitor-memory--the-friendly-very-smart-guest-at-her-fathers-house)
+- [§35 Vega text to Morgan: "see you in Berkeley soon"](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
 
 ### Cross-cutting + played-record + references
 
@@ -125,7 +130,7 @@ Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passiv
 
 **The seed** (Scene 05 §DM placeholder + voicemail): Dakota is off following a lead from Bea's index to a Sacramento self-storage unit paid up-front through 2035 by an LLC that dissolved in 1998. Inside: three of the eight ledgers, hand-annotated in the margins with a hand not Bea's. One margin note names a person Dakota has now driven to look for. Voicemail escalates: *"It's not what I thought it was, and it's bigger."*
 
-**Playable version — see [`../../003-bodie-convergence/scenes/03-dakotas-parallel-track.md`](../../003-bodie-convergence/scenes/03-dakotas-parallel-track.md).** That file is the canonical, playable version of {{pc:4}}'s off-page adventure — Bea revisit + Sacramento locker + drive + first Vivian meeting + the voicemail delivery. Runnable if {{pc:4}}'s player is present at Ep 3; narrated otherwise. The events herein remain canonical either way.
+**Playable version — see [`../../episodes/003-bodie-convergence/scenes/03-dakotas-parallel-track.md`](../../episodes/003-bodie-convergence/scenes/03-dakotas-parallel-track.md).** That file is the canonical, playable version of {{pc:4}}'s off-page adventure — Bea revisit + Sacramento locker + drive + first Vivian meeting + the voicemail delivery. Runnable if {{pc:4}}'s player is present at Ep 3; narrated otherwise. The events herein remain canonical either way.
 
 **What the DM must know:**
 
@@ -405,8 +410,8 @@ If the DM commits to this unification, the four items come from one root and pay
 - [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) — arc-level frame; where each Ep 3 thread fits
 - [`../../../design/DM-ONLY/world-truths.md`](../../../design/DM-ONLY/world-truths.md) — cosmology (single timeline, self-consistency, record-vs-memory asymmetry, retro-causal edits at cost, no chosen ones)
 - [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md) — the substrate-mechanics vocabulary (anchor tiers, anchor sites, index cards vs. ledgers, retro-causal writing, cross-time non-communication)
-- [`../../002-the-archivists-index/dm/what-the-dm-holds.md`](../../002-the-archivists-index/dm/what-the-dm-holds.md) — Ep 2 equivalent, for style parallel
-- [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) — the load-bearing Ep 1 explanation, re-read alongside this
+- [`../../episodes/002-the-archivists-index/dm/what-the-dm-holds.md`](../../episodes/002-the-archivists-index/dm/what-the-dm-holds.md) — Ep 2 equivalent, for style parallel
+- [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) — the load-bearing Ep 1 explanation, re-read alongside this
 
 ---
 
@@ -484,7 +489,7 @@ This is Priya's first-witnessed-accidental-cast in front of the party — a **ma
 - **Cost gradient behavior (perfect worked example):** Priya's cast summoned *only what was needed, not more.* This is dramatically cheaper than Mira would have cast (Mira would have restored a historic-appearing full supply, larger, more expensive). The substrate settled on the cheaper option.
 - **The bag-restoration is a second worked example — recent damage is cheap to undo.** Priya's tearing-apart of the canvas satchel had happened moments earlier, with no witnesses outside the four PCs, and had produced no downstream consequences yet. Reversing it required only "this bag wasn't actually torn a minute ago" — a tiny localized retro-causal edit at negligible cost. The substrate reconciled it into the same package as the fire. **Rule of thumb:** damage or destruction of an object within the current scene, unwitnessed by anyone outside the caster's group, is cost-Free-to-Cheap to undo as part of an in-domain cast. Damage that's been documented (an insurance claim filed, a police report made, a photograph taken by someone outside the group) is dramatically more expensive because the reversal would require editing those records too.
 - **Priya noticed the bag FIRST.** This is not incidental — the bag is her focus. The substrate restoring her focus intact is part of what keeps future casts possible; a caster with a destroyed focus loses their tier-shifting bonus in-domain. Reading this reconciliation: the substrate settled the cast on a configuration that (a) delivered the requested survival supplies, (b) restored the caster's ability to cast again in future (by returning the focus), (c) reconciled with reality via the ranger's cover story. All three were cheaper together than any alternative. Priya noticing the bag first — before the fire — is her body-level recognition that her most personal, tactile possession was suddenly intact when she had felt it tearing apart in her hands moments ago.
-- **Ranger reconciliation as canonical cheapness:** the ranger's return + attribution-of-the-fire-to-herself is the cheapest self-consistent shape for the ranger's memory + the party's experience + the fire's existence. It's a beautiful worked example of the record-vs-memory-asymmetry (see [`../../001-unattended-baggage/dm/the-cable.md`](../../001-unattended-baggage/dm/the-cable.md) §"Common DM FAQ"). Any future DM running similar scenes should look at how this one settled.
+- **Ranger reconciliation as canonical cheapness:** the ranger's return + attribution-of-the-fire-to-herself is the cheapest self-consistent shape for the ranger's memory + the party's experience + the fire's existence. It's a beautiful worked example of the record-vs-memory-asymmetry (see [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"Common DM FAQ"). Any future DM running similar scenes should look at how this one settled.
 - **The fire-goes-out-when-ranger-leaves detail** is the exact substrate-minimality signature. Wood was there just long enough for the reconciliation to hold, then dissolved back into the shape's cheap configuration. Do NOT explain this to the party.
 
 **Story consequence:** Priya has cast, the party has witnessed, the party has explicitly acknowledged the cognitive dissonance (and shrugged it off, blaming Dakota). The stage is set for her Phase-2 realization beat in Ep 5-6. Track Priya's usage: any subsequent care-domain moments should be watched for further accidental casts. Her migraines (§14) may now correlate with cast attempts.
@@ -870,6 +875,119 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 ---
 
+# Ep 4 played updates — added 2026-08-22
+
+## Cross-cutting updates to §19–§30 (Ep 4 played 2026-08-22)
+
+**§19 Vivian Loewe** — The assay landed as designed. Party's small talk with her was correctly read by Mars/Mira/Dakota (rolled higher) as evaluation; Priya and Morgan read it as friendly banter. Vivian passed them and shared her father's tagline ("listen to how the world keeps its books"), her Bodie summer memories (crows, Little Jimmy — see §32, §29), the institution names (Bell / MIT / Macy meetings but NO specific researchers), notebook handoff to Dakota, and Rosa Vega. **"You remind me of a man who used to visit my father"** line landed at the notebook handoff, on Dakota, as designed. **Vivian did NOT die.** Priya gave her a covert medical exam through a "the tea is weak" excuse — her pulse was surprisingly strong and steady. On the way out Vivian spoke a **variant of the elder-witness line to Priya** (*"there have always been people who ask about my father..."*) — the specific "deciding what to do with the rest of your life" phrasing did NOT land. Vivian offered to search for more information if the party returns → recurrence obligation (U8) now player-baited.
+
+**§21 Loewe's notebook** — Vivian retrieved it from her locked *blue cabinet* in her office (Mars noticed the always-locked-doors household hygiene during his solo search attempt; every door was locked, he came back empty-handed). She handed the notebook to Dakota, who kept it. **Mira noticed the excised pages but did not get to read it in-scene.** The excision-vision read (Free-tier "six-figures arrangement" / Insight-10 shapes / Insight-12 network geometry) is preserved for the next PC-to-notebook moment — probably Ep 5 in the car or motel. Vivian confirmed she never snooped through her father's notebook out of respect for his privacy.
+
+**§22 Loewe's letter file** — **Not opened this session.** Nobody in the party asked Vivian to name specific correspondents. Full safe-name budget (McCulloch, Pitts, Weaver, W. Grey Walter, von Foerster, Bush) remains untouched. Institution-level names only (Bell, MIT, Macy meetings) — sufficient to plant the *network-of-noticers* atmospheric shape without expending the personal-name budget.
+
+**§23 Elena — the door negotiation** — Warm greeting for Dakota worked as designed. Mars's presence-cast fired at the door on his SECOND attempt; the first was interrupted by Priya speaking over him at exactly the wrong moment (in-fiction: bad roll; substrate cost = it didn't hold). Mars's second attempt landed via leaning-casually-on-the-railing + naming the honest thing (that he'd driven hours and needed to see for himself, whether or not Dakota was making it all up). Elena admitted all five. **Elena's dying-line about Vivian NOT delivered** — carried into Ep 5 candidacy or retire-to-texture per hook-ledger. Elena's household discipline of always-locked-doors is now canon (see also §21).
+
+**§24 Rosa Vega** — Named at level-1 (Vivian's plain naming). **Party immediately caught the Alaia-connection without any DM escalation** — no level-2 or level-3 hint needed. Berkeley trip is now double-motivated: Rosa named + Vega's own follow-up text to Morgan (§35). Rosa's former-caster status remains held for the in-person Berkeley visit.
+
+**§26 Warren McCulloch** — **NOT deployed.** Planning called for McCulloch as the safe cybernetics namedrop; played reality did not require it (nobody asked Vivian for correspondent names, and the institution-level texture landed sufficiently). McCulloch remains in the U9 letter-file budget for Ep 5+.
+
+**§28 "The mathematician" (unnamed photograph)** — **Not delivered.** Ep 4 Ending A did not fire (session ended before drive-home coda). The 1946–47 group photo and its "the mathematician" figure remain reserved. Available on the next Vivian recurrence.
+
+**§29 Crows misdirection seed** — Delivered as designed, as a chatty-grandma aside during Vivian's Bodie-summer reminiscing. Party did not dwell. Landed as texture per the seed-bank plan.
+
+**§30 Priya's migraine mechanics** — Fired cleanly: **(a) drive migraine** near Vacaville per plan; **(b) threshold release** at the driveway (Priya noticed all the changes in her migraine and Kaya has suspicions about the mechanism — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form); **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to Kaya as designed; **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Both privately delivered per protocol. Kaya's dawning theory should NOT be confirmed or denied at the table — silent-player-firewall discipline holds. Her realization is on track for Ep 5-6 Phase-2.
+
+## §32. Little Jimmy — the boy who camped near Bodie one summer
+
+**First established:** Ep 4 played, unplanned. Vivian's chatty-grandma texture during her Bodie-summer reminiscing.
+
+**The seed** — Vivian recalled that Bodie was mostly boring for her as a child, but *"the only other kid I remember was Little Jimmy — his family camped near the town one summer."* No last name, no year, no follow-up.
+
+**What the DM must know:**
+
+- **Default answer:** Jimmy is ambient texture only. A random tourist family camping near a working federal annex in the 1940s. Nothing more. This is the safest read and the campaign does not lose anything by holding it there.
+- **Reserved-card options** (if the party ever specifically follows up):
+  - Jimmy grew up and never returned; unremarkable.
+  - Jimmy sensed the substrate as a child (like Reggie does now — see §9 canon) and it shaped his life in a small way; he became a scientist or a musician or a monk. Never a caster. Ambient background.
+  - Jimmy is one of the "other archivists" Marsh named obliquely — the current holder of one of the four unaccounted ledgers (see §2). This is a high-cost card because it wires Jimmy into the load-bearing ledger network; play only if the DM wants to bring him back as a live NPC in mid-Act-II.
+
+**Default lean:** ambient texture, retire-to-flavor. Do NOT invent Jimmy backstory unless the party pushes.
+
+**Fire-by:** never (default) / TBD if the party pursues.
+
+**Never voice at the table:** any of the reserved-card options; they are DM-only holds.
+
+**Risk if unresolved:** none if held as texture. If accidentally elevated (a player asks about him and the DM improvs a shred of significance), Jimmy becomes an unplanned sub-arc that the campaign has to metabolize.
+
+## §33. Vivian's wind-up mantel clock
+
+**First established:** Ep 4 played, unplanned. Morgan noticed the clock in Vivian's living room and asked about it.
+
+**The seed** — Vivian said offhandedly that she hasn't touched the wind-up mantel clock since her husband's death. Nobody dwelled on the moment.
+
+**What the DM must know:**
+
+- **Default answer:** grief-anchor object with no substrate significance. Vivian's husband is a mundane deceased-decades-ago figure; she has never cast on or near the clock. The clock's stopped-at-a-specific-time state is a widow's private ritual.
+- **Reserved-card options** (if the party pursues, only via Morgan since he raised it):
+  - The clock is a small anchor-site permeability marker at Vivian's house — a grief-crystallized attention point that has become locally substrate-adjacent. Grade: much lower than Bodie. Would explain Priya's threshold-release-then-low-hum at Vivian's house being more than just Vivian's own body-crisis substrate texture.
+  - The clock is Vivian's own held-intent that stopped time at that specific moment — a Priya-style accidental cast Vivian made once, decades ago, and has never known she made. She would be a former caster in the way Bea and Rosa are. **This card is very high cost** — it wires Vivian herself into the caster network and reframes her entire arc from "the DM's living-witness" to "the DM's unwitting-former-caster." Play only in a design cycle, never at the table.
+
+**Default lean:** ambient texture, retire-to-flavor. **Do NOT elevate without a design cycle.**
+
+**Fire-by:** never (default) / TBD if pursued.
+
+**Never voice at the table:** any of the reserved-card options.
+
+**Risk if unresolved:** none if held as texture.
+
+**Cross-reference:** parallels the *wheelchair ramp* outline Mira read on the front walk — a physical present-in-absence object at Vivian's house. Both are grief-anchored, both are read as texture. Neither needs elevation.
+
+## §34. Vivian's Indian-visitor memory — the friendly, very smart guest at her father's house
+
+**First established:** Ep 4 played, unplanned. On learning that Priya is Indian by heritage (correcting Vivian's initial assumption that she was Taiwanese), Vivian brightened and recalled *a friendly and very smart Indian visitor to her father's house* who reminded her of how Priya looks.
+
+**The seed** — Vivian did not name the visitor, did not date the visit, and did not offer additional detail. Party did not ask follow-up questions.
+
+**What the DM must know:**
+
+- **Default answer:** ambient texture. A family friend from Loewe's non-work circle — perhaps a colleague from an academic setting, perhaps a Bay Area engineer, perhaps a musician. Not arc-load-bearing. Do NOT paint Priya's ancestry as arc-significant without user sign-off.
+- **Reserved-card options** (all high-cost; DO NOT play at the table):
+  - A specific real-history Indian cybernetics-adjacent figure Loewe corresponded with. Real-history sparse (M.G.K. Menon, C.R. Rao, D.D. Kosambi have some possible adjacency but all are Google-collision risks; safest is to invent a fictional annex-adjacent researcher).
+  - A foreign-node in the caster network — a parallel Loewe-style pioneer who ran his own network in India in the 1940s-60s. **This is a high-cost card:** the campaign is currently designed as a Bay-Area-plus-network story; adding a foreign-node dimension expands scope significantly.
+  - A biological connection to Priya (Loewe or someone in his circle sired a child with an Indian ancestress of Priya's) — **strongly discouraged**; converts Priya's PC from "one of the four ledger names via substrate accommodation" to "a genealogical descendant," which contradicts the world-truths cosmology.
+
+**Default lean:** ambient texture. **Retire-to-flavor unless Priya's player asks for depth. In that case, escalate via texture (Vivian remembers slightly more — a first name, a discipline) not via commitment.**
+
+**Fire-by:** never (default) / TBD if Priya pursues.
+
+**Never voice at the table:** any of the reserved-card options; especially the biological-connection option, which is a cosmology-breaker.
+
+**Risk if unresolved:** none if held as texture. Risk if elevated without design-cycle metabolization: Priya's ancestry becomes a load-bearing arc element the campaign has not budgeted for.
+
+## §35. Vega text to Morgan: "see you in Berkeley soon"
+
+**First established:** Ep 4 played, session close (cliffhanger). Ranger Alaia Vega texted Morgan directly with *"see you in Berkeley soon."*
+
+**The seed** — After a session where the party has just been told about Rosa Vega (Alaia's mother, Berkeley) via Vivian, Morgan receives a direct text from Alaia. Party has ended the session on this cliffhanger without responding.
+
+**What the DM must know:**
+
+- **Vega has independent means of contacting Morgan.** The QR codes (§5) implied per-PC tracking; this text confirms it (at minimum, Vega has his cell number and knows he was in Sacramento today — how she knows the timing is not established).
+- **Vega knows Morgan will be in Berkeley soon.** This is either predictive (she knows about Rosa's name-drop; she is somehow monitoring the party's information state) OR anticipatory (she assumes any group visiting Vivian will be pointed at Rosa). Both readings are load-bearing; the DM should keep both open until the Berkeley scene reveals which.
+- **Fire-by:** Ep 5 or Ep 6 (Berkeley visit). The text sets up Vega as an expected presence in Berkeley, converting her from Bodie-artifact NPC to active Hidden-faction contact per B2.
+- **Play options for the Berkeley encounter:**
+  - Vega meets the party at Rosa's front door, having anticipated their arrival — clean Hidden-faction reveal.
+  - Vega intercepts them earlier — coffee shop, motel lobby, campus — using the same "already knew" texture.
+  - Vega is deliberately absent when the party arrives at Rosa's — Rosa is expecting them, and mentions her daughter offhand ("Alaia said you'd be by").
+
+**Cross-reference** — this fires B2 (Vega recurs as Hidden-faction contact) and cross-motivates with B13 (Rosa Vega named). Convergent Berkeley arc-node for Ep 5-6.
+
+**Risk if unresolved:** if the Berkeley visit doesn't happen within 2-3 sessions, the text hangs and the Vega/Rosa/Alaia mystery loses momentum. Promote to overdue if Ep 5-6 don't touch it.
+
+**Never voice at the table:** any specifics of how Vega knows what she knows. Keep her methods opaque through Ep 5-6; her Hidden-faction reveal is a mid-Act-II beat per B2 canon.
+
+---
+
 # Ep 5+ sections (§31+) — added 2026-08-17 arc-realignment pass
 
 ## §31. Kai Sun — Mira's brother (held answer, DEFAULT: truly lost)
@@ -941,7 +1059,7 @@ Holding all of these open reinforces the world's largeness. If the DM ever revea
 
 Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section; italics = the person/thing gets tangential mention in that section.
 
-- **Alaia Vega** — [§5](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile); *[§24](#24-rosa-vega--berkeley-ledger-holder-former-caster) (mother is Rosa)*
+- **Alaia Vega** — [§5](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile); *[§24](#24-rosa-vega--berkeley-ledger-holder-former-caster) (mother is Rosa)*; **[§35 Vega text to Morgan re: Berkeley](#35-vega-text-to-morgan-see-you-in-berkeley-soon)**
 - **Annex 7 (Field Annex 7)** — [§4](#4-the-field-annex-7-plaque--wartime-1942-1948); *[§10](#10-the-1950s-yale-padlock-on-building-7) (1950s re-seal)*; *[§20 Loewe led it](#20-dr-erik-loewe--the-annex-lead)*
 - **Argonaut Records Holdings LLC** — [§27](#27-argonaut-records-holdings-llc--the-discretionary-trust); *[§3](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) (setup context)*
 - **Bancroft Library ledger** — *[§2](#2-the-eight-ledgers--dakotas-voicemail) (Berkeley entry)*; **[§24 Rosa Vega is the holder](#24-rosa-vega--berkeley-ledger-holder-former-caster)**
@@ -958,7 +1076,10 @@ Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section;
 - **Illegible 5th name (1878 crew)** — [§1](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
 - **Isabel Vega** — [§25](#25-isabel-vega--rosas-mother-loewe-correspondent); *[§24 Rosa's mother](#24-rosa-vega--berkeley-ledger-holder-former-caster)*
 - **Ivan Krieger (Dr.)** — *[§26 fictional correspondent](#26-warren-mcculloch--the-safe-historical-namedrop)*
-- **Kai Sun** — **[§31 held answer, Option B](#31-kai-sun--miras-brother-held-answer-option-b)**
+- **Indian visitor to Loewe's house** — [§34](#34-vivians-indian-visitor-memory--the-friendly-very-smart-guest-at-her-fathers-house)
+- **Kai Sun** — **[§31 held answer, default: truly lost](#31-kai-sun--miras-brother-held-answer-default-truly-lost)**
+- **Little Jimmy (Bodie summer)** — [§32](#32-little-jimmy--the-boy-who-camped-near-bodie-one-summer)
+- **Mantel clock (Vivian's)** — [§33](#33-vivians-wind-up-mantel-clock)
 - **Loewe's letter file** — [§22](#22-loewes-letter-file--half-burned-safe-correspondent-budget)
 - **Loewe's notebook (excised pages)** — [§21](#21-loewes-notebook--excised-pages-4752)
 - **Mars's neck-flare** — *[§30 Ep 4 canon](#30-priyas-migraine-mechanics-ep-4-extension-of-14)*
@@ -976,7 +1097,9 @@ Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section;
 - **SFPD Missing Persons** — [§6](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)
 - **Two tourists Vega drove out** — [§15](#15-the-two-other-tourists-vega-drove-out--declared-inert)
 - **Vivian Loewe** — [§19](#19-vivian-loewe--the-living-witness); *[§3 seeded](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find)*; *[§20 daughter of Erik](#20-dr-erik-loewe--the-annex-lead)*
-- **Warren McCulloch (Dr.)** — [§26](#26-warren-mcculloch--the-safe-historical-namedrop); *[§22 letter file](#22-loewes-letter-file--half-burned-safe-correspondent-budget)*
+- **Warren McCulloch (Dr.)** — [§26 (NOT deployed Ep 4)](#26-warren-mcculloch--the-safe-historical-namedrop); *[§22 letter file](#22-loewes-letter-file--half-burned-safe-correspondent-budget)*
+- **Vega text to Morgan** — [§35](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
+- **Wheelchair ramp (removed at Vivian's)** — *[§33 grief-anchor cross-ref](#33-vivians-wind-up-mantel-clock)*; *(originally planned in ep4 Scene 3 Beat 0 as Mira's outline-vision read; landed as designed)*
 - **Wiener (Norbert)** — *[§4 pioneer connection — RESERVED for Act III](#4-the-field-annex-7-plaque--wartime-1942-1948)*; *[§22 never-name reserve](#22-loewes-letter-file--half-burned-safe-correspondent-budget)*
 - **Yale padlock (1950s)** — [§10](#10-the-1950s-yale-padlock-on-building-7)
 - **"You are being watched"** — [§13](#13-you-are-being-watched--the-closing-line)

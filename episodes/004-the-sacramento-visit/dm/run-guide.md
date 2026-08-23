@@ -5,6 +5,62 @@
 >
 > **DM's plot walkthrough for at-the-table play.** Read linearly. Session target 2.5–3h. Assume all five PCs present. For cross-campaign facts / continuity lookup during play, see companion doc [`continuity-through-ep-4.md`](continuity-through-ep-4.md) (canonical version at [`../../../design/DM-ONLY/facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md)).
 
+## Played record (2026-08-22)
+
+**Session length:** ~2.5h. Reached many but not all planned milestones. All five PCs present.
+
+### What landed as designed
+- **Scene 1 anger + reveal.** Party's suspicion + Dakota's convoluted-condescending reveal fired well; the reveal DID land (Bea + Sacramento + Marsh + Vivian's identity) but party doubted whether Dakota was telling the truth or the whole truth. Dakota (as PC) appeared genuinely puzzled why they kept doubting. Mira publicly contradicted Dakota — that hit. Priya held her anger in check per the pre-session guidance.
+- **Ortiz voicemail played** in Scene 1 Beat 2 as Morgan's redirect attempt; briefly landed then Dakota reclaimed spotlight. Morgan did not open up further about his father.
+- **Decision to go** driven by Priya's reminder that Vivian was 98 and expecting. Dakota called Elena; she was noncommittal (Vivian still asleep, rough morning). Dakota told the party to leave anyway.
+- **Two cars for the drive** (party refused to share a car with Dakota) — Mars + Dakota in Mars's pickup, Morgan + Priya + Mira in Dakota's car. Deviation from planning ("one vehicle: Morgan's SUV"); improved the fiction (party split down suspicion lines).
+- **Priya's drive migraine** fired near Vacaville per plan; care from Mira/Morgan. Bad but they kept driving.
+- **Morgan-Dakota argument** continued through the drive; Dakota delivered a masterclass in *politician-speech* (talked freely about "this is so much bigger" while conveying no new information; genuinely didn't understand why that frustrated the party). Beck's play here was excellent.
+- **Mars played Dakota's Bodie voicemail on the car speakers** as U5 fire; it didn't help the mood.
+- **Mira's outline-vision** read the wheelchair-ramp negative-space at Vivian's front walk (Scene 3 Beat 0 as designed). She kept it to herself.
+- **Elena at the door** — Mars's first cast attempt fumbled: Priya interrupted at exactly the wrong moment (in-fiction: bad roll, substrate cost = didn't hold). Mars regrouped, leaned casual on the railing, named the honest thing about needing to see for himself, and Elena admitted all five. Priya's low-hum body-signal + Mars's neck-flare fired privately as designed.
+- **Vivian assay** landed: light personal questions (how you met — "on a plane" — where you work). Mars/Mira/Dakota rolled high and recognized it as evaluation; Priya/Morgan read it as friendly banter.
+- **Vivian's father's tagline** *"listen to how the world keeps its books"* deployed.
+- **Bodie-summer reminiscing** delivered the crows-misdirection-seed (T14 fired as texture) + Little Jimmy (new §32; ambient texture — see facts-ledger). Vivian's own spiritual disposition explained ("her father believed in observing, not believing").
+- **Bell / MIT / Macy meetings** named at institution-level; nobody asked for specific researchers so no personal names deployed (U9/§22/§26 budget untouched).
+- **Dakota asked about Huey Long** — Vivian said flatly she credits her longevity to never having paid attention to politics.
+- **"You remind me of a man who used to visit my father"** landed at the notebook handoff, on Dakota, as designed.
+- **Notebook handoff** — Vivian took the party into her office and unlocked the *blue cabinet* to retrieve the notebook. Mars used the interview to sneak out and try the house's doors — every door locked (see §21 played update — Vivian's father's practice of always-locking-sensitive-rooms is now canon). Vivian handed the notebook to Dakota, who kept it. Mira noticed excision but did not get to read.
+- **Rosa Vega named** at level-1; party immediately caught the Alaia-connection without escalation.
+- **Elder-witness variant to Priya on the way out:** *"there have always been people who ask about my father..."* — the specific "deciding what to do with the rest of your life" language did not land; the variant substitute is the equivalent beat.
+- **Vivian offered to search for more information** if the party returns (recurrence obligation U8 now player-baited).
+- **Priya's covert medical exam** via a "the tea is weak" excuse (in fact the tea was fine) — established Vivian's surprisingly-strong pulse. Nice player-craft; register as a fact about Vivian's ambiguous vitality.
+- **Cliffhanger:** Vega texted Morgan *"see you in Berkeley soon"* at session close (new §35 in facts-ledger).
+
+### What did NOT land — carry forward to Ep 5 planning
+- **Photograph** (T13 — 1946-47 group photo with "the mathematician"). Ep 4 Ending A did not fire — session ended before drive-home coda.
+- **Bea callback line** from Vivian ("if you're serious, go and see Bea about the older card") — time compression; the interview budget ran long.
+- **Elena's line about Vivian probably dying soon** — no natural moment for Elena to pull a PC aside; retire-to-texture or carry to next Vivian visit.
+- **Two researcher name-drops** (Loewe correspondents; McCulloch was on the planning list) — nobody asked, no need to force.
+- **Notebook read** (Mira's outline-vision escalation, U7) — Dakota kept the notebook; hold the escalation table for next PC-to-notebook opportunity.
+- **Ortiz callback** — Morgan didn't get a moment to call back the detective (though he MAY do so between sessions offscreen).
+
+### Unplanned but worth capturing (see facts-ledger §32–§35)
+- **Little Jimmy** (§32): Vivian's Bodie-summer memory of one other kid camping near town. Ambient texture; default hold-to-flavor.
+- **Wind-up mantel clock at Vivian's** (§33): Morgan asked; Vivian offhandedly said she hasn't touched it since her husband's death. Ambient texture; grief-anchor parallel to the wheelchair-ramp outline.
+- **Vivian's Indian-visitor memory** (§34): Vivian recalled a friendly and very smart Indian visitor to her father's house who reminded her of Priya. Ambient texture default; NOT arc-load-bearing without user sign-off.
+- **Vega's Berkeley text to Morgan** (§35): cliffhanger; sets up B2/B13 convergent Berkeley arc for Ep 5-6.
+
+### Party state at session end
+- Not actively angry at Dakota anymore, but *markedly warier* of his circumspect manner. They agree they share a common interest with him. They don't know whether they can trust him. **Soften-not-dissolve landed correctly** per S3 discipline. No institutional-frame breadcrumb needed this Ep.
+- Party has seen Dakota's tender-with-Vivian register (his softer-persona did slip out at times, though Beck kept it partial rather than full-slip). They don't know yet whether the loud version or the quiet version is the persona.
+- Notebook is with Dakota.
+- Berkeley trip is now double-motivated (Rosa named + Vega text).
+
+### DM notes on next-session prep
+- **Ep 5** should plan around the promoted-from-Ep-4 hooks (see [`../../../design/DM-ONLY/hook-ledger.md`](../../../design/DM-ONLY/hook-ledger.md) §Overdue for the punch list): photograph, Bea callback, Mira's notebook read, Ortiz callback + Morgan's father Sacramento thread, and the Vega/Rosa Berkeley encounter.
+- **S1 (flattening beat) starts Ep 5** — remember to plant one subtly-too-agreeable NPC beat per session going forward.
+- **S3 (Dakota-culprit-frame monitor)** — party's read has correctly softened; do not artificially reinforce or dissolve; watch for organic drift.
+- **Priya's Phase-2 realization arc** — Kaya has suspicions about the migraine mechanism per her player state; her realization is on-track for Ep 5-6 per A3 canon. Silent player firewall holds: do not confirm or deny at the table.
+- **Mars's first cast is now logged** (A7 fired); his Phase-2 arc opens.
+
+---
+
 ## Contents
 
 - [Session snapshot](#session-snapshot) — structure, companion documents, optional props

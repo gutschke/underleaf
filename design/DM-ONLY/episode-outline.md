@@ -71,29 +71,34 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 
 ### Ep 4 — The Sacramento Visit
 
-- **Status:** **DRAFTED — not yet played** (in-game: the Saturday after Ep 3, ~February 2027)
-- **LOAD:** HEAVY (2× over-packed per audit — 6+ arc-nodes in a 3h session; slippage expected; Ep 5 pre-plans to absorb Sunday-coda overflow)
-- **Setting/register:** Dakota's SF apartment (private-domestic) + I-80 drive (mobile) + Vivian's Sacramento ranch (private-domestic elder)
-- **Arc-node:** reunion anger with Dakota (must bank, not resolve — supports B-1 institutional-frame redirect); Vivian interview (annex-thread bridge; anti-mentor discipline); Mars's first cast (per escalation ladder — Mars Phase-1 debut); Loewe notebook reveal (Mira outline-reads six-figure diagram — U7 payoff seeded for Act II); Rosa Vega named as next lead (B13 primed for Ep 5-6 Berkeley); Priya's migraine mechanics extended (Ep 4 canon of §14)
-- **Plants:** Vivian's mailbox line (institutional network-of-noticers atmospheric; safe-list MIT/Bell/Macy Conferences per §22); Loewe letter file safe-list (McCulloch deployed; Pitts/Weaver/Grey Walter/von Foerster/Bush reserved for Ep 5+); crows misdirection (T14 animals-sense-magic per big-arc seed bank); Sunday-coda mathematician photo (T13 conditional on Ending A firing)
-- **Fires:** U1-U9 (all urgent Ep 4 hooks — see hook-ledger)
-- **NPCs first appearing:** Vivian Loewe (in-person; named Ep 3); Elena (Vivian's caregiver); Detective Ortiz (return call — in-person Ep 5). *Named but not in-person:* Rosa Vega, Isabel Vega, Erik Loewe.
-- **DM-guidance from Ep 4 tail:** start monitoring the Dakota-culprit frame + rationalization posture + flattening seeding from Ep 5 forward (per `hook-ledger.md` §Standing items S1-S4 + Ep 4 run-guide's closing callout)
-- **Load-bearing detail:** [`../../episodes/004-the-sacramento-visit/dm/run-guide.md`](../../episodes/004-the-sacramento-visit/dm/run-guide.md) + [`../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md`](../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md)
+- **Status:** **PLAYED 2026-08-22** — ~2.5h session; ~February 2027 in-game (the Saturday after Ep 3)
+- **LOAD (planned vs actual):** planned HEAVY (2× over-packed per audit); actual — session compressed to Scenes 1-3 only; drive-home coda not reached; several beats slipped forward (see below)
+- **Setting/register:** Dakota's SF apartment (private-domestic) + I-80 drive in TWO cars (mobile; party split down suspicion lines — deviation from planning) + Vivian's Sacramento ranch (private-domestic elder)
+- **What landed:** reunion anger (banked-not-resolved as designed; Mira's public contradiction hit); Dakota's convoluted-condescending reveal; Ortiz voicemail played; Priya's drive-migraine; Mars's first-cast at the door (2nd attempt after Priya inadvertently spoiled the 1st); Vivian assay; father's tagline + Bell/MIT/Macy institution names; Huey-Long deflection; crows misdirection; notebook handoff to Dakota (retrieved from her locked blue cabinet); Rosa Vega named + party caught Alaia connection unaided; "You remind me of a man…" line to Dakota; Priya's covert medical exam of Vivian; elder-witness variant to Priya on the way out; wheelchair-ramp outline by Mira; Vega text to Morgan re: Berkeley (cliffhanger).
+- **What did NOT land (promoted to Ep 5):** photograph (T13, Ending A didn't fire); Bea callback; Elena's dying-line; Mira's outline read of the notebook (Dakota kept it); Ortiz callback; two researcher name-drops (nobody asked; U9/§22/§26 budget untouched — McCulloch NOT deployed).
+- **New unplanned facts (see facts-ledger §32–§35):** Little Jimmy at Bodie (Vivian's memory); wind-up mantel clock (untouched since husband's death); Vivian's Indian-visitor memory (upon learning Priya's heritage); Vega's Berkeley text to Morgan.
+- **Party state at end:** Not actively angry at Dakota but markedly warier of his circumspect manner. They agree they share a common interest with him. They don't yet know whether the loud version or the quiet-with-Vivian version is the persona. Soften-not-dissolve landed correctly per S3 discipline.
+- **DM-guidance from Ep 4 tail:** S1 flattening beat begins Ep 5; S3 Dakota-culprit-frame is softening organically — do not force redirect; Priya's Phase-2 arc is on-track per A3; Mars's first-cast A7 fired.
+- **Load-bearing detail:** [`../../episodes/004-the-sacramento-visit/dm/run-guide.md`](../../episodes/004-the-sacramento-visit/dm/run-guide.md) §Played record — full played diff + [`../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md`](../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md); player-facing recap lives in the private session-notes tree
 
 ---
 
 ## Act I close (Eps 5-9)
 
-### Ep 5 — Monday: Institutional Echoes
+### Ep 5 — Monday: Institutional Echoes + Ep 4 overflow
 
-- **LOAD:** MEDIUM
-- **Arc-node:** Sacramento debrief crystallizes the *institutional* frame (redirect suspicion from Dakota-culprit → institutional-corporate); Ortiz gives Morgan a paperwork trail with a corporate footprint, not a personal one.
-- **Setting/register:** SFPD Bay Station (urban police-institutional — *kinetic*, whiteboard walk-through, not another elder-hands-over-documents shape). If Ep 4 Ending A/B/C fired, Sunday-Vivian coda in Vivian's ranch OR (variety substitute) hospital bedside where Vivian was admitted after Saturday-night syncope.
-- **Plants:** Institutional-suspicion seed (S3 redirect vehicle); flattening beat #1 (Ortiz's dispatcher agreeing with something specific-and-wrong Ortiz says — S1 begins). Consider: the "Argonaut Records Holdings LLC" thread reads as *institutional*, not personal.
-- **Fires:** U2 (Ortiz meeting); Ep 4 slippage overflow (Sunday-Vivian if Ep 4 ending fired); T4 Ocean Beach text.
-- **NPCs:** Ortiz (in-person for first time); background flatten-NPC (unnamed dispatcher or colleague).
-- **Risk if slips:** If Sunday coda didn't fire in Ep 4, Vivian recurrence and photo/letter file both slip to here → Ep 5 becomes HEAVY. Compress by dropping the flattening beat to Ep 6, NOT by dropping Ortiz.
+- **LOAD:** now HEAVY (revised post-Ep-4 played 2026-08-22) — absorbing Ep 4 slippage; consider a slack-drop later in Act I to compensate.
+- **Arc-node:** Sacramento debrief crystallizes the *institutional* frame (redirect suspicion from Dakota-culprit → institutional-corporate); Ortiz gives Morgan a paperwork trail with a corporate footprint, not a personal one. **Priya's Phase-2 realization arc is warm** — her Kaya-player's suspicions about the migraine mechanism should have a natural landing scene this session or Ep 6 (per A3, may accelerate).
+- **Setting/register:** SFPD Bay Station (urban police-institutional — *kinetic*, whiteboard walk-through). Vivian recurrence option: **not** at Vivian's house (already used); a phone call, a mailed envelope, or Elena's own outreach. Berkeley trip is likely Ep 6 rather than Ep 5.
+- **Plants:** Institutional-suspicion seed (S3 redirect vehicle); **S1 flattening beat #1 begins** (Ortiz's dispatcher agreeing with something specific-and-wrong Ortiz says); Argonaut Records Holdings LLC thread reads as *institutional*, not personal.
+- **Promoted-from-Ep-4 (must land or explicitly promote again):**
+  - **Ortiz callback** (U2 follow-on) — this is the anchoring scene.
+  - **Mira's outline-vision read of Loewe's notebook** (U7 completion) — natural moment: the party sits with the notebook at Dakota's, or in the car back from SFPD; preserve the Free / 10+ / 12+ escalation.
+  - **Photograph** (T13) — Vivian recurrence vehicle: Elena mails an envelope with the group photograph, or Vivian calls Priya (invoking the "there have always been people who ask about my father…" aside from Ep 4).
+  - **Bea callback** — plant naturally if the party detours through SF's Outer Sunset; Bea offers the older card / a Marsh-provenance beat that primes Berkeley trip.
+- **Fires:** U2 (Ortiz in-person); U7 (notebook read); T13 (photo, if the Vivian-recurrence vehicle chosen); T4 Ocean Beach text.
+- **NPCs:** Ortiz (in-person first time); background flatten-NPC (unnamed dispatcher); potentially Bea; possibly Elena (if she's the Vivian-recurrence vehicle).
+- **Risk if slips:** with 4+ promoted-from-Ep-4 items, this session risks becoming HEAVY like Ep 4 did. **Compression priority:** drop Bea callback → Ep 6 (it can be a Berkeley-detour beat) before dropping Ortiz or notebook read. **Do NOT drop the Priya-Phase-2 landing window** — her arc is the one most affected by an Ep-5 slip.
 
 ### Ep 6 — Berkeley: The Bancroft Ledger
 
