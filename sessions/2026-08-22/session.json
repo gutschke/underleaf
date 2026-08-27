@@ -1,0 +1,44 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "2026-08-22 — The Sacramento Visit",
+  "date": "2026-08-22",
+  "inGameDate": "A Saturday in February 2027 (two days after Bodie). Exact day not yet pinned — see design/DM-ONLY/facts-ledger.md timeline discipline.",
+  "episode": "004-the-sacramento-visit",
+  "scenes": [
+    "Scene 1 — The Reunion (Dakota's apartment)",
+    "Scene 2 — The Drive",
+    "Scene 3 — Vivian's House"
+  ],
+  "scenesNotReached": [
+    "Scene 4 — Drive Home + Adaptive Ending (session ran out of time; Ending A coda did not fire)"
+  ],
+  "presentPcs": ["Morgan Reyes", "Priya Iyer", "Mira Sun", "Dakota Whitmore", "Marcus \"Mars\" Faraone"],
+  "durationMinutes": 150,
+  "summary": "See summary.md in this directory — the player-facing recap, distributed to the table after the session.",
+  "playedHighlights": [
+    "Dakota's reveal (Bea, the Sacramento locker, Eleanor Marsh's three ledgers, the margin note naming Vivian Loewe) landed, but circuitously enough that the party doubted whether he was telling the whole truth. Mira publicly contradicted him — rare for her, and it registered.",
+    "Morgan played Detective Ortiz's voicemail about a paperwork echo on his father's SSN nine years ago. Dakota reclaimed the spotlight within a minute; Morgan did not open up further.",
+    "The party drove in two cars rather than one, splitting down suspicion lines — Mars and Dakota in Mars's pickup, the others in Dakota's car.",
+    "Priya's migraine flared near Vacaville, as designed.",
+    "Mars's first accidental cast (presence-domain, Cheap-tier) held Elena at the door after a fumbled first attempt. Invisible to him and to Elena.",
+    "Mira's outline-vision read the negative space of a wheelchair ramp at Vivian's front walk, and she kept it to herself.",
+    "Vivian assayed the party with light personal questions. Mars, Mira and Dakota recognized it as an evaluation; Priya and Morgan read it as friendly banter.",
+    "Vivian did not recognize 'Argonaut' — the word sent her into a warm tangent about a middle-school classics teacher, and she never returned to the question.",
+    "Vivian unlocked the blue cabinet and handed her father's notebook to Dakota, with pages he had cut out himself. Mira saw the excision but did not get to read it.",
+    "Mars slipped out during the interview and tried the house's doors. All locked.",
+    "Priya ran a covert medical exam of Vivian under cover of 'the tea is weak' (the tea was fine), establishing a surprisingly strong pulse.",
+    "Rosa Vega was named; the party immediately made the Alaia connection unprompted.",
+    "Session closed on Alaia Vega texting Morgan: 'see you in Berkeley soon.'"
+  ],
+  "carriedForward": [
+    "T13 — the 1946-47 group photograph was NOT delivered; Ending A did not fire.",
+    "Bea callback line from Vivian did not land (interview budget overran).",
+    "Elena's line about Vivian probably dying soon — no natural moment arose.",
+    "U7 — Mira's notebook read did not happen; Dakota kept the notebook.",
+    "U2 — Ortiz callback; Morgan did not call back during the session.",
+    "T4/U6 — Ocean Beach teenagers; no text fired."
+  ],
+  "partyStateAtEnd": "No longer actively angry at Dakota, but markedly warier of his circumspect manner. They accept a shared interest with him; they do not know whether they can trust him. The notebook is with Dakota. The Berkeley trip is now double-motivated (Rosa named, plus Alaia's text).",
+  "marks": [],
+  "notes": "Retrospective log, written 2026-08-27. Advancement marks were NOT collected at the end of this session — the post-session workflow omits the rules.md §Advancement prompt. Worth adding to the run-guide template. Player-facing recap in summary.md was distributed to the players."
+}

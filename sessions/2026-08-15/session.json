@@ -1,0 +1,16 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "2026-08-15 — The Bodie Convergence",
+  "date": "2026-08-15",
+  "inGameDate": "Late winter 2026-2027 (a Thursday; ~5 months after Ep 2)",
+  "episode": "003-bodie-convergence",
+  "scenes": [
+    "scenes/01-arrivals-and-convergence.md",
+    "scenes/02-quest-full.md",
+    "scenes/03-dakotas-parallel-track.md"
+  ],
+  "presentPcs": ["Morgan Reyes", "Priya Iyer", "Mira Sun", "Marcus \"Mars\" Faraone"],
+  "absentPcs": ["Dakota Whitmore"],
+  "summary": "Four of the five converged on Bodie State Historic Park, each drawn by a separate pretext sent by Dakota, who did not come himself. A storm closed the road out and trapped them overnight. In the visitor center Mira noticed that the printed trail map had been edited down from a more detailed copper-print original on the wall — and, concentrating on what was missing, began perceiving faint outlines of things that had been erased. She used it repeatedly through the session, eventually locating a spot outside the visitor center where a building should have been. They found an 1878 mining-crew ledger carrying four of their surnames, with a fifth entry water-damaged past reading. A wartime federal annex on the site had a plaque nobody wanted to discuss. Priya lit a fire she could not afterwards explain, in front of everyone. On the way out, Morgan noticed the park's feedback QR codes were individually personalized. Dakota's voicemail reached them late: he had been in Sacramento, there were eight ledgers, and he had known more than he said. The party drove home angry with him.",
+  "notes": "Retrospective log, reconstructed 2026-08-27 from episodes/003-bodie-convergence/dm/what-the-dm-holds.md §Played-session record. Dakota's player was absent; his convergence work was run off-screen and delivered by voicemail at session close. One DM doc (episodes/001-unattended-baggage/dm/the-cable.md) refers to this session as the '2026-08-16 Ep 3 played variant' — the 08-15 date is taken from the played-session record heading and is the one used here."
+}

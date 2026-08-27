@@ -1,7 +1,9 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> **Snapshot of the cross-campaign facts ledger as of Ep 4 played (regenerated 2026-08-22 from the master after the Ep 4 session was played).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's Ep 4/5 binder and print bundle.
+> **Snapshot of the cross-campaign facts ledger as of Ep 4 played + Ep 5 planning (regenerated 2026-08-23 with Argonaut/classics-teacher tangent + Vivian mental-texture canon added).** Canonical version lives at `design/DM-ONLY/facts-ledger.md`; this snapshot exists for the DM's binder and print bundle.
+>
+> **Source uses `{{pc:N}}` template variables (per public-repo hygiene). The PDF-render step for the print bundle substitutes real character names — see `tmp/ep4-planning/dm-prep/README.md` for the recipe.**
 >
 > **When to read:** before designing any episode; during play if a PC brings up something you might have forgotten.
 >
@@ -48,25 +50,27 @@ Structure of each fact section:
 - [§17 Morgan's shoe-size intuition (played)](#17-morgans-shoe-size-intuition--the-radio-setup-insight-beat)
 - [§18 Priya's fire cast (played)](#18-priyas-accidental-cast--i-just-want-everyone-to-survive)
 
-### Ep 4 — planted at Sacramento (§19–§30) + played updates + new (§32–§35)
+### Ep 4 — planted at Sacramento (§19–§30) + new post-play (§32–§36)
 
-- [§19 Vivian Loewe — the living witness](#19-vivian-loewe--the-living-witness) — **Ep 4 played**
+*Each Ep 4 section below is followed inline by an "**Ep 4 played update (2026-08-22)**" subsection — no separate cross-cutting section to hunt down. Read each section top-to-bottom for a linear view of design + played state.*
+
+- [§19 Vivian Loewe — the living witness](#19-vivian-loewe--the-living-witness) — knowledge sourcing + PCs-are-meant-to-know posture + what she has/hasn't shared
 - [§20 Dr. Erik Loewe — the annex lead](#20-dr-erik-loewe--the-annex-lead)
-- [§21 Loewe's notebook + excised pages 47–52](#21-loewes-notebook--excised-pages-4752) — **Ep 4 played: handed to Dakota, Mira read pending**
-- [§22 Loewe's letter file — half-burned, safe correspondent budget](#22-loewes-letter-file--half-burned-safe-correspondent-budget) — **Ep 4 played: budget untouched**
-- [§23 Elena — Vivian's caregiver + the Elena precedent](#23-elena--vivians-caregiver--the-elena-precedent) — **Ep 4 played: door negotiation via Mars's 2nd cast; dying-line NOT delivered**
-- [§24 Rosa Vega — Berkeley, ledger-holder, former caster](#24-rosa-vega--berkeley-ledger-holder-former-caster) — **Ep 4 played: named + Alaia connection caught by party**
+- [§21 Loewe's notebook + excised pages 47–52](#21-loewes-notebook--excised-pages-4752)
+- [§22 Loewe's letter file — half-burned, safe correspondent budget](#22-loewes-letter-file--half-burned-safe-correspondent-budget)
+- [§23 Elena — Vivian's caregiver + the Elena precedent](#23-elena--vivians-caregiver--the-elena-precedent)
+- [§24 Rosa Vega — Berkeley, ledger-holder, former caster](#24-rosa-vega--berkeley-ledger-holder-former-caster) — index-cards-vs-ledgers cross-ref
 - [§25 Isabel Vega — Rosa's mother, Loewe correspondent](#25-isabel-vega--rosas-mother-loewe-correspondent)
-- [§26 Warren McCulloch — the safe historical namedrop](#26-warren-mcculloch--the-safe-historical-namedrop) — **Ep 4 played: NOT deployed**
-- [§27 Argonaut Records Holdings LLC — the discretionary trust](#27-argonaut-records-holdings-llc--the-discretionary-trust)
-- [§28 "The mathematician" — unnamed in Vivian's 1946–47 group photo](#28-the-mathematician--unnamed-in-vivians-194647-group-photo) — **Ep 4 played: not delivered (Ending A didn't fire)**
-- [§29 "Animals sense magic" misdirection seed — Loewe's crows](#29-animals-sense-magic-misdirection-seed--loewes-crows) — **Ep 4 played**
-- [§30 Priya's migraine mechanics (Ep 4 extension of §14)](#30-priyas-migraine-mechanics-ep-4-extension-of-14) — **Ep 4 played: drive-flare + threshold + low-hum all fired**
-- [Cross-cutting updates §19–§30 (Ep 4 played 2026-08-22)](#cross-cutting-updates-to-1930-ep-4-played-2026-08-22)
+- [§26 Warren McCulloch — the safe historical namedrop](#26-warren-mcculloch--the-safe-historical-namedrop)
+- [§27 Argonaut Records Holdings LLC — the discretionary trust](#27-argonaut-records-holdings-llc--the-discretionary-trust) — **timeline discipline LOCKED, load-bearing for 9y-seam**
+- [§28 "The mathematician" — unnamed in Vivian's 1946–47 group photo](#28-the-mathematician--unnamed-in-vivians-194647-group-photo)
+- [§29 "Animals sense magic" misdirection seed — Loewe's crows](#29-animals-sense-magic-misdirection-seed--loewes-crows) — **fired STRONGLY at Ep 4 played**
+- [§30 Priya's migraine mechanics (Ep 4 extension of §14)](#30-priyas-migraine-mechanics-ep-4-extension-of-14)
 - [§32 Little Jimmy — the boy who camped near Bodie one summer](#32-little-jimmy--the-boy-who-camped-near-bodie-one-summer)
 - [§33 Vivian's wind-up mantel clock](#33-vivians-wind-up-mantel-clock)
 - [§34 Vivian's Indian-visitor memory](#34-vivians-indian-visitor-memory--the-friendly-very-smart-guest-at-her-fathers-house)
 - [§35 Vega text to Morgan: "see you in Berkeley soon"](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
+- [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
 
 ### Cross-cutting + played-record + references
 
@@ -112,6 +116,8 @@ Why 1878 specifically: Bodie's peak boom year; the Standard Mill's workforce is 
 **What the DM must know:**
 
 The 8 ledgers are the working-tool of **Bea Ferro's unbroken chain of archivists** (Ep 2 established the house has been owned by previous archivists going back decades). One ledger per archivist tenure; the chain has run 8 generations since the Annex 7 era (1948 → present, roughly one per generation, some tenures shorter/longer). Bea holds the current one. Three were pulled from active circulation into the Sacramento storage locker by Bea's immediate predecessor before she died in 1987 (see §3). Four remain scattered:
+
+> **Important succession invariant — see §36 for the full mechanic.** Archivists NEVER meet or train their predecessors. Succession happens by a subtle, naturally-occurring reality edit: when the current archivist dies, another person "coincidentally" steps into the physical, financial, and eventually procedural niche the predecessor left behind. The new archivist does not initially realize they have taken over anything; they grow into the role over months/years by discovering what the predecessor left behind. This preserves the chain even when a tenure ends abruptly.
 
 - **Palo Alto**, in a private library owned by the estate of a mid-20th-century AI researcher (a peer of Wiener's; not a household name). Held by an executor who inherited it without understanding what it was. **Dakota accessed this one** via records-office cross-referencing; it's one of the three he now has.
 - **Berkeley**, in the flat-file of a librarian at Bancroft Library who catalogued it as an "anomalous ephemera collection" in 1979 and occasionally adds new entries when she personally witnesses something. She IS a former caster (per big-arc.md Act II Former Caster archetype); the ledger is her outlet for the pattern-sensing she can no longer act on.
@@ -219,6 +225,17 @@ He is NOT a caster. He is a person whose life was quietly shaped by the same ins
 **Fire-by:** Ep 4 opening — {{pc:1}} reports the call to the group. Sacramento discovery mid-Act II. Reunion late Act II / early Act III.
 
 **Never voice at the table** before Act II: that the father is alive. The SFPD call in Ep 3 close is deliberately inconclusive.
+
+**TODO — 9-years-vs-2-years timeline seam (flagged Ep 4 played 2026-08-22).** Atticus (Morgan's player) noticed at the table that Ortiz's voicemail cites a paperwork echo from **nine years ago**, but per Morgan's PC-sheet backstory the father *"missed a birthday, then a phone call, then all of them"* only **two years ago**. That's a **~7-year gap** the DM has not yet reconciled in canon. **This is not a bug; treat it as arc-load-bearing raw material** — the campaign's cosmology already permits things being set in motion years before their visible effects, and single-timeline self-consistency accommodations often route through prior anchors. Held answers the DM may pick from (do NOT commit before Ep 6-7 planning):
+
+- **(a) Father-was-already-in-motion.** The 2017 paperwork ping is the moment the father's colleagues first flagged his security-adjacent past to him privately (or the moment he first ran his own quiet-exit plan). He kept working for 7 years but was making arrangements the whole time. The 2024 disappearance was the *completion*, not the beginning. **Cleanest mundane read; requires no cosmology.**
+- **(b) Substrate-anchored 7-year lag.** The father was quietly *shaped* by the same institutional-optimization pressures that later shape the campaign's arc (per current §6 canon), and the substrate's cheapest self-consistent path for that shaping required a 7-year setup — a paperwork anchor in 2017 that the 2024 disappearance settles onto. Same as anchor-site-permeability but time-shaped rather than place-shaped. Feeds Priya/Mira/Morgan Phase-2 pattern discipline nicely (they can *read* the temporal shape once they see it).
+- **(c) Two separate events.** The 2017 hit isn't Morgan's father at all — it's someone else with a name-and-partial-SSN match, whose independent Sacramento presence provides *cover* the substrate later exploits for the father's disappearance. Ortiz's honest *"I'm not saying it was him"* becomes literal truth. Lowest cosmological cost but loses the "his fate was set in motion earlier" narrative pull.
+- **(d) Retrocausal-self shape.** The 2017 paperwork echo *becomes* the father's after-the-fact when he disappears in 2024 — the world's cheapest self-consistent past for his 2024 vanishing routes through an already-attested 2017 SSN anomaly. Fits big-arc's *"future actions can retrocausally condition present ones"* frame. Ties to the same held-open causation reading-list that shapes §1 (the 1878 ledger) and §31 (Kai's erasure).
+
+**Player-facing framing (whichever answer wins):** when the party surfaces the discrepancy in-fiction, Ortiz should react as if she also noticed but doesn't emphasize it — *"Yeah. That's part of what caught my eye. I don't know what to make of it either."* Do NOT dismiss the observation; do NOT explain it prematurely. The 7-year gap is a live thread until the DM has committed to a reading — Ep 6-7 planning window latest.
+
+**Fire-by for reconciliation:** the DM should have picked a working answer by Ep 6-7 (before the party's Sacramento re-visit or Berkeley trip surfaces enough related material to force the DM to improv one). Log the pick as an update to this §6 when committed. Cross-ref [`../../../design/DM-ONLY/brainstorm-open-questions.md`](../../../design/DM-ONLY/brainstorm-open-questions.md) §Morgan-father-timeline-seam for further seed development.
 
 **Risk if unresolved:** {{pc:1}}'s father is a personal thread that grounds the macro theme in family. The user has flagged twice ("it's fine if it's nothing, but it needs to be written down"). Bake into mid-Act-II investigation cadence via the Sacramento convergence.
 
@@ -544,11 +561,40 @@ Must-incorporate for Ep 4 *(handled in Ep 4 design — retained here as workflow
 
 **First established:** Ep 4 (named Ep 3 §3 but only appears in-person Ep 4)
 
-**The seed** (Ep 4 Scene 3, Vivian's house in the Sacramento suburbs): a lucid 98-year-old woman receives the party in her front room. Wheelchair-ramp on the porch. Small home with old furniture, evidence of decades of quiet residence. Adult caregiver (Elena, §23) present. Vivian assays the party with small personal questions before answering anything about her father.
+**The seed** (Ep 4 Scene 3, Vivian's house in the Sacramento suburbs): a lucid 98-year-old woman receives the party in her front room. **The porch has no wheelchair ramp — but a concrete pad where one was, decades ago.** The ramp was built (likely for Vivian's late husband) and later removed after his death; Mira's outline-vision registered the removed-object outline on the front walk (see the Mira note below, and Ep 4 run-guide Scene 3 Beat 0 for the canonical staging). Small home with old furniture, evidence of decades of quiet residence. Adult caregiver (Elena, §23) present. Vivian assays the party with small personal questions before answering anything about her father.
 
 **What the DM must know:**
 
-Vivian Loewe (b. 1928, currently 98) is the daughter of Dr. Erik Loewe (§20), the wartime lead of Field Annex 7 (Ep 3 §4). She was **14–20 during his tenure** (annex ran 1942–48) — old enough to remember what her father was doing, young enough that he treated her presence around the work as harmless. She never cast; she is not part of the caster network. She IS a **living carrier of the pattern-observation tradition** by non-caster inheritance: she watched her father, she read his correspondence when he left it out, she attended his retirement, and she kept his papers after he died in 1961.
+Vivian Loewe (b. 1928, currently 98) is the daughter of Dr. Erik Loewe (§20), the wartime lead of Field Annex 7 (Ep 3 §4). She was **14–20 during his tenure** (annex ran 1942–48) — old enough to remember what her father was doing, young enough that he treated her presence around the work as harmless. She never cast; she is not part of the caster network.
+
+### How Vivian knows what she knows (canon)
+
+She is a **living carrier of the pattern-observation tradition** by non-caster inheritance. Her knowledge comes from four sources, all *during her father's life*:
+1. **Letters he left out in the open.** Loewe was discreet with the government but not with his own household; letters from his correspondents sat on his desk between his readings, and Vivian read them freely as a young woman.
+2. **Conversations with him directly.** He was willing to talk in general terms, especially about the *shape* of what he was studying, though he never named its mechanism.
+3. **Observing him.** She watched how he worked at his desk, how he treated the letters he wrote, when he was cheerful and when he was worried.
+4. **Overhearing visitors.** Correspondents visited the house occasionally over the years; she was near the kitchen or the hallway; she listened.
+
+### Since her father died in 1961 — her reserved posture (canon)
+
+**Vivian became more reserved after her father's death.** She feels reading through his personal notes without his living permission would be an *unearned privilege* — she was welcome to what he shared while he was alive; she is not welcome to help herself to what he kept private now that he is gone. She has held to this discipline for 65 years. **She has NOT read his private notebook.** She kept it as an object of respect, not as a document to study.
+
+She does, however, believe: **others will eventually deserve the role of receiving her father's material.** That's her calm about her own mortality — the pattern-observation work will be carried on by someone worthy, even if she never lives to see it.
+
+### Whom she chooses to answer (canon, established Ep 4 played)
+
+At the end of Ep 4 she warned Priya on the way out: *"there have always been people who ask about my father… not all of them deserve an answer."* She is discerning. Her assay in Scene 3 was real — the party could have failed it.
+
+**She is sure the PCs are meant to know.** What convinced her: **the 1878 mining-company ledger with the party's surnames on it.** For her, the ledger reads as a substrate anchor that predates any of them, and the world's cheapest self-consistent configuration attests these names as belonging on that page — that's not a coincidence she can rationalize away. It's the same shape her father spent his career cataloguing.
+
+Whether the 1878 ledger EXISTS *specifically to serve as an anchor for reality edits* — or exists for some other reason and has *become* an anchor over time — is deliberately undecided in canon. What is decided: it serves as an anchor for **Vivian's belief that she can trust the PCs specifically**. That's its load-bearing function this arc.
+
+### What she has physically shared with the party (per Ep 4 played, as of 2026-08-22)
+
+- **Shared:** her father's leather notebook, physically handed to Dakota. Dakota carried it out of the house. **She has read no more of it than the party will now.**
+- **NOT shared:** the 1946–47 group photograph (T13); her father's letter file (§22 / U9); any additional annex-era files; any additional index cards she may have accumulated during her father's lifetime.
+
+**Vivian has more to give — deliberately held back.** Whether she gives more via in-person visit, via Elena mailing envelopes, or via a phone-call summary is a design choice (see the *mail-vs-bring-back* analysis in the current session-notes for the recommendation).
 
 She has been quietly waiting for someone to ask the right questions. Dakota (via the Sacramento locker margin note, Ep 3 §3) is the first person to ask in decades. She receives the party as a *deliberate choice* — she has decided the moment has come to pass on what she knows.
 
@@ -569,6 +615,16 @@ She has been quietly waiting for someone to ask the right questions. Dakota (via
 - The word "substrate," "cast," "The Quiet," or any Underleaf-internal magic vocabulary.
 - Whether her father's work "meant anything" cosmologically — she framed it as classified physics her whole life.
 - Who "the mathematician" is in the 1946–47 group photograph — she can only remember it if pressed hard (§28).
+- **Argonaut Records Holdings, LLC** (per Ep 4 played — see below and §27). The LLC was set up by Marsh's estate lawyer, not by anyone in Loewe's circle; Vivian has no natural reason to have encountered the name.
+
+### Vivian's mental texture — sharp but distractible (Ep 4 played canon)
+
+Established at the Ep 4 table: Vivian's mind is *sharp as a tack* but **distractible**, and characterized by **tangential associative jumps** to mundane memories that made an outsized impression on her. She forgets details in-the-moment and often recalls them later; she sometimes asks **Elena** to confirm whether she said a particular thing before (Elena is her *memory-partner* — see §23). Her mental hopping is endearing and reads as fully in-character for a lucid 98yo who has lived a long, eventful life — it's not confusion, it's *density-of-past-that-doesn't-sort-linearly*.
+
+**Reserved craft tools for future Vivian scenes:**
+- **The tangent-to-mundane-memory move.** When a PC asks Vivian something she doesn't know, she may fondly recall a mundane detail triggered by an associative link. The tangent is warm, not evasive. Example established at Ep 4 played: when Dakota asked her about Argonaut LLC, she associated the word with Greek mythology and drifted into a memory of her middle-school classics teacher — *"He was quite hot, actually,"* delivered with the amused frankness of a 98yo who has nothing left to lose from admitting a 13-year-old crush. She never got back to the actual question.
+- **The "did I already tell you?" move.** Vivian may pause and ask Elena (or a PC) whether she said something before; sometimes she has, sometimes she hasn't. This is not memory-loss played for tragedy — it's the ordinary texture of a long life stored non-linearly. Deploy sparingly; use to soften scene transitions or to plant a repeat detail without stagey exposition.
+- **The classics-teacher recurring joke.** Optional. If Vivian recurs and something surfaces a classical-mythology reference (or ancient languages, or teenage-crush territory), she can circle back to the classics teacher with a fresh detail (his name; where he taught; whether she ever saw him again). Fully droppable — file under recurring-joke-if-fun / toss-aside-otherwise. **Do not force.** The joke works ONLY if it emerges naturally.
 
 **Fire-by:** ongoing through Act II. Vivian is the recurring Annex-arc witness (a Nia Chen analog for the Loewe thread, but non-caster + civilian).
 
@@ -629,6 +685,12 @@ The excised pages (47–52) held Loewe's **substrate-hypothesis of the annex tea
 
 **Risk if unresolved:** if the six-figure diagram never gets its Act II callback, Mira's outline read reads as pure atmosphere.
 
+### Ep 4 played update (2026-08-22)
+
+Vivian retrieved the notebook from her locked **blue cabinet** in her office — she took the party into the office to fetch it, casually unlocking the door on the way. **Mars had earlier slipped out during the interview** to search the house; every sensitive door was locked (Vivian's father's practice of always-locking-sensitive-rooms is still in force, per Elena's household hygiene; see §23). Mars came back empty-handed.
+
+Vivian handed the notebook **directly to Dakota**, who kept it. She reported she has always respected her father's memory and thus **never read the excised or the intact pages** — she preserved it as an object, not a document. **Mira noticed the excised pages but did NOT get in-scene access** to do the outline read. The Free / 10+ / 12+ escalation table above is **preserved for Ep 5's car-scene notebook read** (per Refined-B Ep 5 planning).
+
 ---
 
 ## 22. Loewe's letter file — half-burned, safe correspondent budget
@@ -662,6 +724,10 @@ The letter file is a **firewall-safe pressure valve** for planting real historic
 
 **Risk if unresolved:** letters that never surface are a wasted planted asset. If the party hasn't taken possession of the file by Act II mid, Vivian's obligation is to produce it during a later visit even without a coda trigger.
 
+### Ep 4 played update (2026-08-22)
+
+**Not opened this session.** Nobody in the party asked Vivian to name specific correspondents. Full safe-name budget (McCulloch, Pitts, Weaver, W. Grey Walter, von Foerster, Bush) remains untouched. Institution-level names only were named (Bell, MIT, Macy meetings) — sufficient to plant the *network-of-noticers* atmospheric shape without expending the personal-name budget. Vivian's letter file is now more valuable, not less — its opening is a genuine future beat.
+
 ---
 
 ## 23. Elena — Vivian's caregiver + the Elena precedent
@@ -679,6 +745,10 @@ Elena is a **non-caster civilian NPC**. Middle-aged, professional caregiver, sev
 - It changes the temperature of Scene 3's opening — Elena is warm to Dakota, cool-but-polite to strangers she doesn't know.
 - It reinforces that Dakota's private character (with elders) differs from his public persona (with peers). {{pc:4}}'s player can lean into this.
 
+**Elena as Vivian's memory-partner** (Ep 4 played canon addition): Vivian's mental texture (see §19 played update) — sharp but distractible, prone to associative tangents, sometimes forgets in-the-moment and recalls later — means she leans on Elena to confirm whether she said a particular thing before. Elena knows Vivian's speech-patterns well enough to be a reliable check without being intrusive; she's not correcting Vivian, she's completing her. If Vivian pauses and asks *"did I already say that?"* — Elena answers honestly (yes / no / *"you started to but you got interrupted"*). This is affectionate, not corrective. It's the professional-caregiver-plus-friend shape their relationship has settled into over 2+ years.
+
+**Play implication:** Elena can be a scene-flow assist. If Vivian trails off mid-thought or tangents (see §19 craft tools), Elena from the kitchen may quietly steer *"you were about to tell them about your father's letters, weren't you?"* — Vivian: *"Oh — yes. Thank you, dear."* — and back to the beat. Use to keep scenes from stalling without breaking Vivian's characterization.
+
 **Elena's kitchen line** (TEXTURE, deployed if Priya wanders in for tea/water): *"She's going to die soon. I don't know if she knows."* Off-arc; changes the temperature of the room. This is Elena breaking briefly. She composes immediately after.
 
 **The Elena precedent** — the pattern the DM should hold: any recurring civilian NPC who witnesses a PC in an unguarded moment carries a **witnessing memory** that becomes a resource. Dakota's Thursday visit produces Elena's warm-Dakota reception; other future off-page moments should produce similar echoes.
@@ -686,6 +756,14 @@ Elena is a **non-caster civilian NPC**. Middle-aged, professional caregiver, sev
 **Fire-by:** Ep 4 Scene 3. Elena becomes recurring only if the party maintains contact with Vivian's household — likely yes given Vivian's ongoing role.
 
 **Risk if unresolved:** if Elena never recurs, she is one-and-done texture (fine — she doesn't need to become a major character). The precedent she embodies (off-page moments generate future NPC-warmth) IS load-bearing for DM discipline going forward.
+
+### Ep 4 played update (2026-08-22)
+
+Warm greeting for Dakota worked as designed. **Mars's presence-cast fired at the door on his SECOND attempt** — the first was interrupted by Priya speaking over him at exactly the wrong moment (in-fiction: bad roll; substrate cost = it didn't hold). Mars's second attempt landed via leaning-casually-on-the-railing + naming the honest thing (that he'd driven hours and needed to see for himself, whether or not Dakota was making it all up). Elena admitted all five.
+
+**Elena's kitchen dying-line about Vivian was NOT delivered** — no natural moment for Elena to pull Priya aside; carried into Ep 5 candidacy or retire-to-texture per hook-ledger.
+
+**Elena's household discipline of always-locked-sensitive-rooms is now canon** (see §21 played update). Vivian's father's practice of always locking sensitive rooms has been quietly maintained by Elena for the household; Vivian doesn't consciously notice anymore.
 
 ---
 
@@ -700,8 +778,10 @@ Elena is a **non-caster civilian NPC**. Middle-aged, professional caregiver, sev
 Rosa Vega (b. ~1947, currently ~79) is:
 - **Isabel Vega's daughter** (§25) — Isabel was a Loewe correspondent post-annex.
 - **Alaia Vega's mother** — Alaia is the Bodie park ranger from Ep 3 §5. The Vega ↔ Vega surname connection lands at the table via Vivian's postcards-from-national-parks hint (level-2) or the escalation (level-3 fallback).
-- The **Bancroft Library ledger-holder** (Ep 3 §2 Berkeley entry). She catalogued the ledger as an "anomalous ephemera collection" in 1979 and occasionally adds entries when she personally witnesses substrate anomalies.
-- A **former caster** (per big-arc.md Act II Former Caster archetype). She still senses the pattern; she no longer acts on it. Her ledger is her outlet for the pattern-sensing.
+- The **Bancroft Library ledger-holder** (Ep 3 §2 Berkeley entry). She catalogued **a bound LEDGER** (per §36 — a fixed reality-anchor, not merely a card collection) as an "anomalous ephemera collection" in 1979; the ledger is one of the eight (§2) and stays at Bancroft. She occasionally adds entries when she personally witnesses substrate anomalies. **She likely also keeps her own index cards** (per §36 — every archivist accumulates cards; each holds one ledger + many cards), but the load-bearing artifact for her role is the Bancroft-housed ledger.
+- A **former caster** (per big-arc.md Act II Former Caster archetype). She still senses the pattern; she no longer acts on it. The ledger is her outlet for the pattern-sensing.
+
+**Index-cards-vs-ledgers reminder** (per §36 canon): the two are functionally distinct. Rosa's Bancroft holding is a LEDGER — bound, fixed, an anchor in reality that serves a heavier substrate function than observational index cards. When the party visits Bancroft in Ep 6+, don't casually conflate the two vocabularies; if Rosa or a librarian discusses the collection, they should be able to distinguish (a) the bound anomalous-ephemera book that lives in Bancroft's special collections from (b) any looser card-style annotations Rosa may have kept elsewhere for her own working notes. This distinction matters more the deeper the party goes.
 
 **Ep 4 does NOT tip her former-caster status.** Vivian genuinely doesn't know Rosa was ever a caster — Vivian sees Rosa as "Isabel's clever daughter who lives in Berkeley." The former-caster reveal belongs to the **in-person Berkeley visit** (Ep 5 or Ep 6), when Rosa herself decides whether to disclose to the party.
 
@@ -714,6 +794,10 @@ Rosa Vega (b. ~1947, currently ~79) is:
 **Never voice at the table:** her former-caster status (until in-person Berkeley visit at earliest). Her Bancroft ledger role is also held until the visit (Vivian genuinely doesn't know about it).
 
 **Risk if unresolved:** Rosa is named + pointed-toward with clear urgency (*"If you're serious about my father's work, go and see Rosa"*). If Ep 5–6 doesn't route the party to her, Vivian's Ep 4 seed rots. Bake the Berkeley visit into Ep 5–6 planning.
+
+### Ep 4 played update (2026-08-22)
+
+**Named at level-1** (Vivian's plain "Rosa Vega, Berkeley" naming). **The party immediately caught the Alaia-connection without any DM escalation** — no level-2 postcards-from-national-parks hint or level-3 fallback needed. **Berkeley trip is now double-motivated:** Rosa named by Vivian + Vega's own follow-up text to Morgan at session close (*"see you in Berkeley soon"* — see §35). Rosa's former-caster status remains held for the in-person Berkeley visit (deferred to Ep 6 per current Ep 5 planning — Refined-B Ep 5 focuses on SFPD/Bea/notebook).
 
 ---
 
@@ -759,36 +843,95 @@ The namedrop is deliberate historical texture — the same real-world grounding 
 
 **Risk if unresolved:** low. McCulloch is planted, whether or not it fires further.
 
+### Ep 4 played update (2026-08-22)
+
+**NOT deployed.** Planning called for McCulloch as the safe cybernetics namedrop; played reality did not require it (nobody in the party asked Vivian for correspondent names, and the institution-level texture — Bell / MIT / Macy meetings — landed sufficiently). McCulloch remains available in the U9 letter-file budget for Ep 5+ opportunistic deployment.
+
 ---
 
 ## 27. Argonaut Records Holdings LLC — the discretionary trust
 
-**First established:** Ep 4 (Sacramento locker + Ep 3 §3 backstory)
+**First established:** Ep 4 (Sacramento locker + Ep 3 §3 backstory). Substantially enriched 2026-08-23 with Ep 5 planning specifics that must not drift.
 
-**The seed** (Ep 3 §3 + Ep 4 Dakota's storage-locker account): a discretionary trust set up by Bea's 1987-decedent predecessor's estate lawyer to keep a Sacramento storage locker paid indefinitely. Dissolved in 1998 when the next archivist in the chain died. The pre-paid locker outlives the LLC — a deliberate anchor.
+**The seed** (Ep 3 §3 + Ep 4 Dakota's storage-locker account): a discretionary trust set up by Eleanor Marsh's estate lawyer in 1988 (the year after her 1987 death) to keep a Sacramento storage locker paid indefinitely. Dissolved in 1998. Pre-paid locker fee runs through 2035 — a deliberate anchor.
 
-**What the DM must know:**
+### Core canon (locked)
 
-The LLC (**Argonaut Records Holdings, LLC**) is dissolved but the storage unit is paid through 2035. The unit's contents: three of the eight ledgers (Ep 3 §2) plus margin-annotated loose materials in the 1987-decedent's hand. Dakota accessed the locker via records-office cross-referencing.
+The LLC is **Argonaut Records Holdings, LLC**. Formed 1988. Dissolved 1998. Single-member (Marsh's estate). Sole purpose: prepay the Sacramento storage locker. No other assets, no other transactions. **Filings persist in California business records even after dissolution** — dissolved LLCs' historical paperwork is queryable via ordinary records-office channels. This is real-world true and canon-load-bearing for the Argonaut/Morgan's-father plot twist (below).
 
-**The LLC's records:** archivist-side administrative continuity. The estate lawyer is deceased; the LLC's filings are still queryable in California business records. If a PC (Morgan is the natural fit) investigates, the trail confirms:
-- Formed 1988; dissolved 1998; single-member (the estate).
-- Sole purpose: prepay this storage locker.
-- No other assets, no other transactions.
+The storage unit's contents: three of the eight ledgers (§2) plus margin-annotated loose materials in Eleanor Marsh's hand. Dakota accessed the locker in ~Jan 2027 via records-office cross-referencing.
 
-**Fire-by:** administrative color for any Sacramento archives investigation. Confirms the archivist chain has been institutionalizing itself since 1988 (a small anchor about the tradition's discipline). Does not need to fire further.
+### Timeline discipline (LOCKED — do not drift)
 
-**Never voice at the table:** the archivist-chain organizational structure explicitly. Let the LLC read as a "someone paid ahead" mystery rather than as "there's an org chart."
+- **1987:** Eleanor Marsh (archivist; §2) dies. Natural causes. Her three ledgers are already in her possession.
+- **1988:** Marsh's estate lawyer sets up Argonaut Records Holdings, LLC as a single-purpose discretionary trust. The LLC signs a multi-decade pre-pay contract with a Sacramento self-storage facility. The three ledgers plus loose materials are moved into the locker. The estate lawyer's brief is administrative-only; he does not read the ledgers, does not know their significance, is not an archivist.
+- **1987–1998:** **The intermediate archivist** (unnamed in canon; §36 discipline — Bea's non-immediate predecessor between Marsh and Bea) holds the current-generation ledger and continues Marsh's work from a different residence. This archivist is NOT the Argonaut trustee; the LLC exists parallel to the intermediate archivist's own work.
+- **~1994:** Argonaut Records Holdings, LLC — at some point during its active decade — hires a security-cleared technical consultant to verify the storage facility's records-access protocols. **The consultant is Morgan's father** (per §6 canon: telecom-adjacent, security-cleared contract consulting was his career). His name and SSN appear on ONE Argonaut filing from ~1994 as "*technical consultant, authorized access.*" He signed a paper; he did not know its significance; he never accessed the locker himself. This is not a substrate event — it is mundane security-consulting work.
+- **1998:** The intermediate archivist dies. Marsh's estate lawyer (also elderly) has already died some years earlier. With no one aware of the LLC's purpose, Argonaut is dissolved as an unattended-single-member trust; the pre-paid locker contract, however, is a distinct instrument that outlives the LLC and continues honoring the fee schedule through 2035. Bea takes over the archivist role in 1998 by "coincidentally" moving into the intermediate's house (§36); she does NOT inherit the LLC or its administrative infrastructure.
+- **~2018 (Feb):** **Someone queries Argonaut's dissolved records in California business filings.** The query cross-matches SSNs historically named in the filings; Morgan's father's SSN pings on the ~1994 filing. The records-office logs the cross-match but does not flag it officially — someone at the office made a handwritten note in the margin (*"ARH → follow up"*) that never got followed up. **This is the 2018 "SSN echo" Ortiz will surface in Ep 5.** Do NOT commit at the table to who ran the 2018 query. Three DM-held candidates:
+  - **(i) Bea's insurance-investigator work** (per §36 — she investigates unlikely coincidences; the substrate's cheapest coordination). If it's Bea, she wouldn't remember; the query was a routine unlikely-coincidence check. **This is the most cosmologically elegant and the working lean, but do NOT surface Bea's role until at least Ep 7 to keep her held-mystery posture intact.**
+  - (ii) Heirs-locator firm or academic researcher on defunct Sacramento shell corps.
+  - (iii) Dissolved-trust-audit records-cleaning process.
+- **~2018–2025:** Morgan's father is informally warned by a telecom-industry colleague that his security-adjacent past is showing up in queries — he does not know the specifics, just that "someone is looking." He spends 7 years quietly arranging his exit while continuing to appear to work normally. **This is candidate (a) *father-was-already-in-motion* — the working answer for the 9y/2y seam.** See §6 TODO block for the full four-candidate reading list.
+- **~2025:** Morgan's father completes the arrangements and disappears. Missed birthday, phone calls, then all of them. Now living under a different name in the Sacramento area (per §6 canon).
+- **Feb 2027 (Ep 5 in-game):** Ortiz's routine SFPD Missing Persons cold-case cross-match surfaces the 2018 hit and brings it to Morgan.
+- **2035:** The pre-paid locker contract lapses. Nobody's arranged a renewal. What happens then is undecided canon — reserved-card for a possible late-Act-III beat.
 
-**Risk if unresolved:** low. Named for hygiene so DM doesn't accidentally improv contradictory details.
+### The 9y/2y seam — reconciliation
+
+The 2018-vs-2025 gap Atticus flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 TODO block for the four candidate reads; DM's working lean is (a) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `../../../design/DM-ONLY/brainstorm-open-questions.md` §Morgan-father-timeline-seam.
+
+### Player-facing (what the party can eventually learn without the DM committing more than needed)
+
+- The LLC name (Argonaut Records Holdings, LLC).
+- Its 1988–1998 dates.
+- Its sole purpose (pre-pay the storage locker; no other business).
+- Its single-member trust status (estate of "E. Marsh," Sacramento).
+- Morgan's father named on a 1994 filing as "technical consultant, authorized access."
+- The 2018 SSN cross-match query happened; Ortiz can't trace who ran it.
+- The handwritten margin note *"ARH → follow up."*
+
+### Ep 4 played beat — Vivian does NOT recognize "Argonaut" (2026-08-22)
+
+At the Ep 4 table Dakota asked Vivian whether she knew about **Argonaut LLC**. She did not — the LLC belongs to Marsh's estate lineage (§36) and Vivian has no natural point of contact with anyone in that chain (Marsh's lawyer, Marsh, the intermediate archivist, Bea). Instead, the word associated for her with Greek mythology and triggered a warm tangent-memory about her middle-school classics teacher (see §19 mental texture). She never got back to Dakota's question. **This is canon-consistent AND arc-useful:**
+
+- **Vivian is definitively OUT as a candidate for the 2018 Argonaut query.** Rules out one possible source; leaves the three DM-held candidates (Bea's insurance work / heirs-locator / dissolved-trust audit) untouched.
+- **The Loewe lineage and the Marsh lineage remain cleanly separate.** Vivian's non-recognition preserves the two-lineage structure of the arc: Loewe's institutional-annex thread on one side, Marsh's archivist-chain on the other, converging only via the substrate work itself and the Sacramento locker's chance geography.
+- **The "Argonaut" name itself is up to the DM to interpret.** Was it named for Greek-myth resonance (seekers of a treasured thing) by Marsh's estate lawyer preserving Marsh's known classical education? Or was it a bland shell-corp name that only *reads* thematic in retrospect? Undecided in canon. If it ever becomes load-bearing, either read works.
+
+**Play implication for Ep 5's Refined-B SFPD scene:** Morgan/Dakota naming the Argonaut connection to Ortiz still works cleanly — Vivian's non-recognition doesn't undercut the party's own discovery, it just clarifies that this thread comes to them via Dakota's Sacramento locker discovery (§3) and Marsh's marginalia, not via Vivian's testimony. Argonaut is a *Marsh-side* thread; Vivian's arc is *Loewe-side*.
+
+### Never voice at the table (this session, and likely for several sessions)
+
+- Who ran the 2018 query. Keep opaque.
+- The archivist-chain organizational structure explicitly. Let Argonaut read as a "someone paid ahead" mystery rather than "there's an org chart" (per prior canon).
+- Bea's possible role as the 2018 querier — save for Ep 7+ if it cashes out.
+- The father-was-already-in-motion working answer — the players earn it.
+
+### Cross-references
+
+- [§2 The eight ledgers](#2-the-eight-ledgers--dakotas-voicemail) — Argonaut houses three of eight
+- [§6 SFPD Missing Persons](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call) — Morgan's father, 9y/2y seam TODO block, four candidate reads
+- [§36 Archivist-succession mechanic](#36-the-archivist-succession-mechanic--canon-invariant) — Marsh → intermediate → Bea timing
+- [`../../../design/DM-ONLY/brainstorm-open-questions.md` §Morgan-father-timeline-seam](../../../design/DM-ONLY/brainstorm-open-questions.md) — active brainstorm
+
+### Fire-by
+
+Full deployment in Ep 5 (Refined-B): the Argonaut cross-match lands as the S3 institutional-frame breadcrumb. Continues as arc-anchor for Morgan's father sub-arc through mid-Act-II.
+
+### Risk if drifted
+
+**High.** This section has more locked timing detail than any other in facts-ledger; drift here breaks the Ep 5 twist AND the 9y/2y seam reconciliation AND the archivist-succession canon (§36) AND Morgan's father's arc (§6). Re-read this section before any Ep 5+ session that touches the LLC, Morgan's father, or the Sacramento storage locker.
 
 ---
 
 ## 28. "The mathematician" — unnamed in Vivian's 1946–47 group photo
 
-**First established:** Ep 4 (only if Ending A coda fires)
+**First established:** Ep 4 (planning; Ending A did NOT fire at played table).
 
-**The seed** (Ep 4 Ending A only, Sunday coda): Vivian hands over a 1946–47 group photograph — the annex team plus visitors. She names her father and two others; on the third figure she pauses and says: *"...and the mathematician, I can't remember her name this morning."*
+**Ep 4 played status (2026-08-22):** photograph was **NOT delivered**. Ending A coda did not fire — session ran out of time before drive-home. **Vivian has NOT physically shared the photograph or any additional annex-era files** — she has held them back deliberately (see §19 Vivian's canon posture: her father asked for discretion; she extends what she gives beyond the notebook only when the moment feels right). She offered on the way out: *"there might be additional information or files that she can potentially find if the party returned at a future time."* The photograph is one of them.
+
+**The seed** (still current — deployable at next Vivian recurrence): Vivian hands over a 1946–47 group photograph — the annex team plus visitors. She names her father and two others; on the third figure she pauses and says: *"...and the mathematician, I can't remember her name this morning."*
 
 **What the DM must know:**
 
@@ -826,6 +969,10 @@ The LLC (**Argonaut Records Holdings, LLC**) is dissolved but the storage unit i
 This is a **misdirection seed** from the campaign's seed bank (big-arc.md §Misdirection seed bank: "animals sense magic"). Meant to be dismissed at the table; later paid off in Act II as **confirmed but rendered inert** (cats/crows can sense but cannot communicate usefully, so the ability is not exploitable — it's a texture-fact about the world, not a mechanic the party can leverage).
 
 **The seed's job:** cost 30 seconds at the table now; build cumulative texture across sessions; land as *arc-detail-confirmed-but-not-useful* when the payoff fires. The Act II payoff frame: an NPC (probably Rosa Vega at Berkeley, §24) casually mentions the crow-detail; the party recognizes the callback; the resolution is *"yes, some animals do sense the pattern — no, we've never gotten anything actionable from that"*.
+
+**Ep 4 played landing (2026-08-22) — this seed fired STRONGLY.** Vivian delivered the crows aside as designed during her Bodie-summer reminiscing. Party did not dwell at the table. Post-session, **some players are actively wondering whether the crows are watching in an organized/institutional way** — the kind of "birds may not be what they seem" speculation that mirrors a certain contemporary alt-culture urban-legend meme about avian surveillance. **Do NOT quote or name the meme at the table** (it's tonally out-of-register for Underleaf and would collapse the fun of the misdirection), but the fact that the players are speculating in that direction is a **STRONG signal the misdirection is working exactly as intended.** The seed is doing arc-work without any DM prompting.
+
+**How to sustain this landing:** feed the misdirection with restraint. If players ask ("were the crows watching him?"), keep Vivian's original *"He was a scientist. Everyone at his level was superstitious about something"* posture; refuse to confirm or deny. When Rosa (or another Act-II NPC) eventually cashes out the seed as *"animals-do-sense-but-can't-communicate-usefully,"* the players' speculation will collapse into the intended inert-payoff shape — the misdirection lands harder BECAUSE they built the wrong theory themselves.
 
 **If the party asks about it at Ep 4:** Vivian shrugs — *"He was a scientist. Everyone at his level was superstitious about something."* Don't confirm; don't deny; keep it as ambient.
 
@@ -873,29 +1020,21 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 **Risk if unresolved:** if the migraine mechanic is used inconsistently (e.g., firing on Free-tier casts, or firing on empathy alone), the eventual realization beat lands muddled. Discipline matters.
 
+### Ep 4 played update (2026-08-22)
+
+**All four sub-signals fired cleanly per plan:**
+- **(a) drive migraine** near Vacaville — planned migraine-tier signal fired as designed.
+- **(b) threshold release** at Vivian's driveway — Priya noticed the release. **Kaya has active suspicions about the mechanism** — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form.
+- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to Kaya as designed.
+- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to Remi per protocol.
+
+Kaya's dawning theory should **NOT be confirmed or denied** at the table — silent-player-firewall discipline holds (per §30 canon above). Her realization is on track for Ep 5–6 Phase-2 landing; Ep 5 (Refined-B: SFPD/Bea/notebook) does NOT engineer a Phase-2 landing since no substrate-adjacent moment fits naturally; Ep 6 or later provides the vehicle.
+
 ---
 
 # Ep 4 played updates — added 2026-08-22
 
-## Cross-cutting updates to §19–§30 (Ep 4 played 2026-08-22)
-
-**§19 Vivian Loewe** — The assay landed as designed. Party's small talk with her was correctly read by Mars/Mira/Dakota (rolled higher) as evaluation; Priya and Morgan read it as friendly banter. Vivian passed them and shared her father's tagline ("listen to how the world keeps its books"), her Bodie summer memories (crows, Little Jimmy — see §32, §29), the institution names (Bell / MIT / Macy meetings but NO specific researchers), notebook handoff to Dakota, and Rosa Vega. **"You remind me of a man who used to visit my father"** line landed at the notebook handoff, on Dakota, as designed. **Vivian did NOT die.** Priya gave her a covert medical exam through a "the tea is weak" excuse — her pulse was surprisingly strong and steady. On the way out Vivian spoke a **variant of the elder-witness line to Priya** (*"there have always been people who ask about my father..."*) — the specific "deciding what to do with the rest of your life" phrasing did NOT land. Vivian offered to search for more information if the party returns → recurrence obligation (U8) now player-baited.
-
-**§21 Loewe's notebook** — Vivian retrieved it from her locked *blue cabinet* in her office (Mars noticed the always-locked-doors household hygiene during his solo search attempt; every door was locked, he came back empty-handed). She handed the notebook to Dakota, who kept it. **Mira noticed the excised pages but did not get to read it in-scene.** The excision-vision read (Free-tier "six-figures arrangement" / Insight-10 shapes / Insight-12 network geometry) is preserved for the next PC-to-notebook moment — probably Ep 5 in the car or motel. Vivian confirmed she never snooped through her father's notebook out of respect for his privacy.
-
-**§22 Loewe's letter file** — **Not opened this session.** Nobody in the party asked Vivian to name specific correspondents. Full safe-name budget (McCulloch, Pitts, Weaver, W. Grey Walter, von Foerster, Bush) remains untouched. Institution-level names only (Bell, MIT, Macy meetings) — sufficient to plant the *network-of-noticers* atmospheric shape without expending the personal-name budget.
-
-**§23 Elena — the door negotiation** — Warm greeting for Dakota worked as designed. Mars's presence-cast fired at the door on his SECOND attempt; the first was interrupted by Priya speaking over him at exactly the wrong moment (in-fiction: bad roll; substrate cost = it didn't hold). Mars's second attempt landed via leaning-casually-on-the-railing + naming the honest thing (that he'd driven hours and needed to see for himself, whether or not Dakota was making it all up). Elena admitted all five. **Elena's dying-line about Vivian NOT delivered** — carried into Ep 5 candidacy or retire-to-texture per hook-ledger. Elena's household discipline of always-locked-doors is now canon (see also §21).
-
-**§24 Rosa Vega** — Named at level-1 (Vivian's plain naming). **Party immediately caught the Alaia-connection without any DM escalation** — no level-2 or level-3 hint needed. Berkeley trip is now double-motivated: Rosa named + Vega's own follow-up text to Morgan (§35). Rosa's former-caster status remains held for the in-person Berkeley visit.
-
-**§26 Warren McCulloch** — **NOT deployed.** Planning called for McCulloch as the safe cybernetics namedrop; played reality did not require it (nobody asked Vivian for correspondent names, and the institution-level texture landed sufficiently). McCulloch remains in the U9 letter-file budget for Ep 5+.
-
-**§28 "The mathematician" (unnamed photograph)** — **Not delivered.** Ep 4 Ending A did not fire (session ended before drive-home coda). The 1946–47 group photo and its "the mathematician" figure remain reserved. Available on the next Vivian recurrence.
-
-**§29 Crows misdirection seed** — Delivered as designed, as a chatty-grandma aside during Vivian's Bodie-summer reminiscing. Party did not dwell. Landed as texture per the seed-bank plan.
-
-**§30 Priya's migraine mechanics** — Fired cleanly: **(a) drive migraine** near Vacaville per plan; **(b) threshold release** at the driveway (Priya noticed all the changes in her migraine and Kaya has suspicions about the mechanism — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form); **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to Kaya as designed; **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Both privately delivered per protocol. Kaya's dawning theory should NOT be confirmed or denied at the table — silent-player-firewall discipline holds. Her realization is on track for Ep 5-6 Phase-2.
+*Ep-4-played context has been folded into each parent section above as an "Ep 4 played update (2026-08-22)" subsection. This section now only contains genuinely NEW sections that opened after Ep 4 played (§32–§35) and the world-canon §36 archivist-succession invariant.*
 
 ## §32. Little Jimmy — the boy who camped near Bodie one summer
 
@@ -963,6 +1102,46 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 **Never voice at the table:** any of the reserved-card options; especially the biological-connection option, which is a cosmology-breaker.
 
 **Risk if unresolved:** none if held as texture. Risk if elevated without design-cycle metabolization: Priya's ancestry becomes a load-bearing arc element the campaign has not budgeted for.
+
+## §36. The archivist-succession mechanic — canon invariant
+
+**First established:** long-standing world-building; formalized here 2026-08-22 after DM correction of a mid-Ep-5-planning drift where an alternate suggested Bea had been "trained by" Marsh.
+
+**The seed** — Ep 2 established the house has passed through generations of archivists; §2 and §27 both reference the "unbroken chain." Ep 2's `dm/the-archivist.md` and hook-ledger T10 both encode Bea's *fearlessness re. mortality* as "role-continuity substrate effect." This section formalizes what that means.
+
+**What the DM must know (the invariant):**
+
+**Archivists do NOT meet or train their predecessors.** Succession happens through a subtle, naturally-occurring substrate mechanism — the same shape as any other self-consistency accommodation the world routinely performs. When an archivist dies (typically natural causes), the world quietly settles onto another person who "coincidentally" steps into the vacated niche: takes over the predecessor's job (or an adjacent one), buys or inherits the predecessor's house, encounters the ledgers and index cards left behind. The new archivist does not initially know they have taken over anything. Over weeks/months/years they grow into the role — discovering what the predecessor kept, continuing the practice, eventually recognizing themselves as the archivist even without ever being told.
+
+**Why this shape:** the archivists take genuine comfort in knowing their work is protected. Their role will be carried on even if something happens to them as a person. This isn't a mystical belief on their part — it's an empirically observed pattern (successive archivists all describe similar stumbling-into-the-role stories). What none of them fully understand is *why*.
+
+**How it works with the ledger/index-card division of labor:**
+- **Index cards** are more *observational* — less rigid, easier to write, expanded by every archivist. Each archivist accumulates many. They're the archivist's active working notes on unlikely coincidences they encounter.
+- **Ledgers** are *fixed anchors in reality* — bound documents that serve a different (heavier) function. Each archivist has one, sometimes a small number more. They can be moved (as with the three now in Sacramento storage) but not casually rewritten. There is some overlap in what the two record — an index card may become a ledger entry if the pattern proves durable.
+
+**How long has this been going on:** unknown. The chain runs at least back to Annex 7 (1948) for eight documented generations (§2). Whether it runs earlier is not established; there is a plausible pre-1948 archivist lineage the DM has NOT committed to. Keep this open.
+
+**Bea's specific origin story (2026-08-22 canon detail):**
+
+- **Before 1998:** Bea worked as an **insurance investigator specializing in unlikely coincidences** — a real profession that happens to align exactly with the archivist's observational discipline. This is the substrate's cheapest possible pre-adaptation: it selected a person whose day job was already the archivist's job.
+- **1998:** the intermediate archivist (Bea's immediate predecessor, unnamed in canon — the one who was archivist 1987-1998 between Eleanor Marsh and Bea; see §27) died. Bea may have taken over the intermediate's insurance job (canon is deliberately vague on this — DM discretion). She then "happened" to look for a house, "happened" to find the intermediate's house (or Marsh's original house if the intermediate had also inherited it), moved in.
+- **Within days** of moving in, Bea began continuing where her predecessor left off — first without realizing, then aware but not sure what she'd stepped into, eventually settling into the archivist role fully.
+- **The transition took years, not moments.** Bea grew into the role gradually. She discovered the index cards and ledgers left behind, incorporated them into her insurance work at first, then continued the practice on her own initiative.
+
+**Fire-by / never voice at the table (unless explicitly probed by a caster PC):** the substrate mechanism itself. What Bea (or any archivist) can honestly say about her succession: *"I moved in for the house. The cards were here. I sort of just… kept going. It took me years to realize I hadn't chosen this."* That's the level of self-understanding available to any archivist — genuine bewilderment softened by the years of doing the work.
+
+**Cross-reference:** two distinct Marshes in canon — do NOT conflate:
+- **Eleanor Marsh** (§2, §3) — Bea's non-immediate predecessor archivist; died 1987. She was NOT Bea's teacher. She and Bea overlap only in geography and role.
+- **Dr. Reuben Marsh** — fringe physicist with the galaxies-are-sentient hypothesis (Ep 2 `dm/the-archivist.md` §Marsh seed, big-arc misdirection seed bank). A completely different person. Named Marsh purely by ambient-canon coincidence.
+
+**Related hooks that must respect this invariant:**
+- Any Bea-revisit scene: she cannot say *"Marsh trained me"* or *"as my predecessor taught me"* or equivalent. Her honest posture is *"she left this behind and I recognize her hand."* She can *feel* the predecessor's practice without having received it.
+- The T10 fearlessness-re-mortality beat — Bea's comfort with dying is because she's seen the succession pattern from her side and knows it will continue with or without her. She has never met her successor either, and doesn't need to.
+- The Ep 6-7+ Berkeley trip and Rosa Vega (§24) — Rosa's Bancroft ledger keeper role fits the same succession pattern; her mother Isabel was NOT her teacher any more than Marsh was Bea's.
+
+**Risk if unresolved / drifted:** if any archivist is portrayed as having met/trained their predecessor, the whole T10 fearlessness posture collapses (the fearlessness comes from the substrate-guaranteed continuity, which is invisible if humans hand it off traditionally). Also breaks the cost-gradient teaching of `../../../design/DM-ONLY/world-truths.md` — the succession is one of the campaign's cleanest worked examples of substrate self-consistency accommodation on a human-scale timeline.
+
+---
 
 ## §35. Vega text to Morgan: "see you in Berkeley soon"
 
