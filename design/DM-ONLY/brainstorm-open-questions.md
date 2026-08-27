@@ -86,18 +86,29 @@ Atticus (Morgan's player) noticed at the Ep 4 table that Detective Ortiz's voice
 
 ### The four candidate reads (mirrored from facts-ledger §6 TODO)
 
-- **(a) Father-was-already-in-motion.** The 2017 hit = the moment father's colleagues privately flagged his security-adjacent past to him. He kept working for 7 years but was making arrangements the whole time. 2024 disappearance = *completion*, not *beginning*. Cleanest mundane read; no cosmology needed.
-- **(b) Substrate-anchored 7-year lag.** The substrate's cheapest self-consistent path for the father's disappearance required a 2017 paperwork anchor that the 2024 vanishing settles onto. Anchor-site permeability, but time-shaped rather than place-shaped. Feeds Phase-2 pattern-recognition beautifully — Priya/Mira/Morgan can *read* the temporal shape once they see it.
-- **(c) Two separate events.** The 2017 hit isn't him at all — it's a name-and-partial-SSN collision that the substrate later exploits as *cover* for his 2024 vanishing. Ortiz's literal *"I'm not saying it was him"* becomes true. Lowest cosmological cost; loses the "fate-set-in-motion-earlier" pull.
-- **(d) Retrocausal-self shape.** The 2017 echo *becomes* the father's after-the-fact when he disappears in 2024 — the substrate's cheapest past for his vanishing routes through an already-attested 2017 SSN anomaly. Fits big-arc's *"future actions can retrocausally condition present ones"* frame. Ties to the same reading-list as §1 (1878 ledger) and §31 (Kai's erasure).
+
+> [!IMPORTANT]
+> **2026-08-27 — RESOLVED. This seed is now largely closed; see [`facts-ledger.md`](facts-ledger.md) §6 *Canonical date set (LOCKED)*.**
+>
+> There was never an arithmetic contradiction — the two "two years" in canon are anchored to different dates (Morgan's sheet is as-of Ep 1 / autumn 2026; Ortiz's file-open is as-of Ep 3 close / Feb 2027). Canonical set: **query Feb 2018 · last contact autumn 2024 · report filed Feb 2025 · now Feb 2027.**
+>
+> **Reading (a) is COMMITTED** for the gap. **Reading (c) is RETIRED** (the Argonaut cross-match makes a coincidental collision implausible). **Readings (b) and (d) remain OPEN**, but attached to a smaller question: not *why the gap*, but *why a routine sweep surfaced it in the exact week the party's own Sacramento thread converged on the same locker.*
+>
+> Per the no-wavering discipline: this is decided. Do not reopen (a) or revive (c).
+
+
+- **(a) Father-was-already-in-motion.** The Feb-2018 hit = the moment father's colleagues privately flagged his security-adjacent past to him. He kept working for 7 years but was making arrangements the whole time. autumn-2024 disappearance = *completion*, not *beginning*. Cleanest mundane read; no cosmology needed.
+- **(b) Substrate-anchored 7-year lag.** The substrate's cheapest self-consistent path for the father's disappearance required a Feb-2018 paperwork anchor that the autumn-2024 vanishing settles onto. Anchor-site permeability, but time-shaped rather than place-shaped. Feeds Phase-2 pattern-recognition beautifully — Priya/Mira/Morgan can *read* the temporal shape once they see it.
+- **(c) Two separate events.** The Feb-2018 hit isn't him at all — it's a name-and-partial-SSN collision that the substrate later exploits as *cover* for his autumn-2024 vanishing. Ortiz's literal *"I'm not saying it was him"* becomes true. Lowest cosmological cost; loses the "fate-set-in-motion-earlier" pull.
+- **(d) Retrocausal-self shape.** The Feb-2018 echo *becomes* the father's after-the-fact when he disappears in 2024 — the substrate's cheapest past for his vanishing routes through an already-attested Feb-2018 SSN anomaly. Fits big-arc's *"future actions can retrocausally condition present ones"* frame. Ties to the same reading-list as §1 (1878 ledger) and §31 (Kai's erasure).
 
 ### Design considerations
 
 1. **Which read serves the campaign best?** (b) and (d) most reinforce cosmology; (a) is safest; (c) is escape-hatch.
 2. **Timing of commit.** Cross-refs the S3 institutional-frame redirect discipline — an Ortiz session that fires this reconciliation would also fire S3. Consider bundling.
 3. **Player-facing framing.** Ortiz should acknowledge the discrepancy quietly (*"Yeah — that caught my eye too. I don't know what to make of it either"*) without explaining. The 7-year gap stays open until the DM commits to a reading.
-4. **How does the reveal cash out?** Options: Morgan finds his father alive (per §6 canon) in a state consistent with the read (e.g., under (a) father says *"they warned me back in 2017 and I've been planning ever since"*; under (b) his disappearance-shape *fits* the substrate pattern the party is learning to read; under (d) his father genuinely does not know why he vanished when he did — *"it just felt like time"*).
-5. **Cross-linked to S3.** The Argonaut Records Holdings LLC (§27) dissolved 1998, was the trust vehicle for Dakota's Sacramento locker. If the 2017 hit is a records-cross-match with the LLC (as one of the Ep 5 alternates proposes), the father's timeline seam becomes the *bridge* between the personal (Morgan's arc) and the institutional (S3 frame).
+4. **How does the reveal cash out?** Options: Morgan finds his father alive (per §6 canon) in a state consistent with the read (e.g., under (a) father says *"they warned me back in '18 and I've been planning ever since"*; under (b) his disappearance-shape *fits* the substrate pattern the party is learning to read; under (d) his father genuinely does not know why he vanished when he did — *"it just felt like time"*).
+5. **Cross-linked to S3.** The Argonaut Records Holdings LLC (§27) dissolved 1998, was the trust vehicle for Dakota's Sacramento locker. If the Feb-2018 hit is a records-cross-match with the LLC (as one of the Ep 5 alternates proposes), the father's timeline seam becomes the *bridge* between the personal (Morgan's arc) and the institutional (S3 frame).
 
 ### Refinements
 

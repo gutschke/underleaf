@@ -76,16 +76,24 @@ Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*)
 | # | Ledger | Holder | Notes |
 |---|---|---|---|
 | L1 | Archivist-line current | Bea Ferro (Outer Sunset) | Bea's own ongoing ledger; current-generation |
-| L2 | Palo Alto | Dakota (Ep 3 acquired) | Estate of a Wiener-adjacent Cold-War-era researcher |
-| L3, L4 | Sacramento-locker predecessors | Dakota (Ep 3 acquired) | Bea's-predecessor archivist-line ledgers pulled into the Sacramento locker before Bea's predecessor died in 1987 |
-| L5 | Bancroft | Rosa Vega (Berkeley) | Rosa was the 1979 Bancroft cataloguer; she kept custody of the ledger informally after her official service ended |
-| L6 | San Bernardino (per Dakota's voicemail) | hoarder-collector (unnamed) | Private-collector; the holder does not know what he has |
-| L7 | Central Valley (per Dakota's voicemail) | Buddhist temple monk(s) | Preserved out of politeness; monks do not consult it |
-| L8 | Fourth-unfound (per Dakota's voicemail) | unknown | May not be findable in the campaign timeframe; deliberate DM slack — if the party reaches Ep 15+ without finding L8, retire to texture per hook-ledger W7 (unaccounted; the network doesn't have complete coverage) |
+| L2, L3, L4 | **Eleanor Marsh's three** (Sacramento locker) | **Dakota** (Ep 3 acquired) | The three the party physically saw on Dakota's dining table in Ep 4. Marsh's own annotated ledgers, pulled into the Sacramento locker before she died in 1987 |
+| L5 | Palo Alto | executor (unnamed) — **unfound** | Estate of a Wiener-adjacent Cold-War-era researcher; the executor does not know what she has |
+| L6 | Bancroft | Rosa Vega (Berkeley) — **unfound** | Rosa was the 1979 Bancroft cataloguer; she kept custody informally after her official service ended |
+| L7 | San Bernardino | hoarder-collector (unnamed) — **unfound** | Private collector; the holder does not know what he has |
+| L8 | Central Valley | Buddhist temple monk(s) — **unfound** | Preserved out of politeness; the monks do not consult it |
 
-**Design notes:**
+> [!IMPORTANT]
+> **Corrected 2026-08-27.** This table previously listed Palo Alto as **L2, held by Dakota**, left the Sacramento locker with only **two**, and invented a phantom **"L8 fourth-unfound, unknown holder"** to reach eight. All three were wrong:
+>
+> - **Dakota said it aloud at the Ep 3 table:** *"Bea has one. I have three. There are four more."* 1 + 3 + 4 = 8, exactly. There is no unaccounted ledger.
+> - The party **physically saw three ledgers** on Dakota's dining table in Ep 4 (played record). They came out of the Sacramento locker.
+> - Palo Alto has never been found. It is the Ep 10 arc-node.
+>
+> **Table-canon wins. Fix the design docs to match what was said at the table, never the reverse** — per the no-wavering discipline. `rosa-vega.json` and `alaia-vega.json` already call Bancroft "Ledger 6"; this table now agrees with them.
+
 - Numbering is DM-facing. Do not present as "L1/L2/..." at the table; the party will refer to them by location or holder name.
-- If the party's investigation surfaces a candidate for L8 (a private collection, a small library), the DM can promote — do not force the L8-discovery narrative unless it feels earned. Retirement to texture is a valid ending for the ledger-hunt.
+- **Stop numbering them in prose anywhere except this table.** Three files have already drifted apart on the numbering, and the party will never say "L6" — they will say "the Berkeley one" or "Rosa's".
+- **Not every ledger gets acquired, and that is the point.** `anchors-cards-ledgers.md` §Ledgers rule 2 and big-arc invariant 5 both hold that the tradition is diffuse by cosmological necessity — keepers do not communicate, and assemblies of unfamiliar casters structurally fail. **A completionist ledger hunt is the party trying to assemble the network by proxy; it must fail by design, or the artifact contradicts the cosmology it exists to teach.** A ledger may legitimately end as *confirmed to exist and safe but never seen*, or as *lost — the unit was re-auctioned*. Retirement to texture is a valid ending.
 - The Bancroft ledger's presence in Rosa's informal custody (rather than at Bancroft itself) is a small deliberate anomaly — Rosa took the ledger with her when she stepped back from active service. It reads as an old-woman kept-what-she-loved detail; it also protects the ledger from institutional scrutiny.
 
 ## Retro-causal writing (in ledgers and cards)

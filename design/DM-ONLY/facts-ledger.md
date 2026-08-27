@@ -117,7 +117,7 @@ The 8 ledgers are the working-tool of **Bea Ferro's unbroken chain of archivists
 
 > **Important succession invariant — see §36 for the full mechanic.** Archivists NEVER meet or train their predecessors. Succession happens by a subtle, naturally-occurring reality edit: when the current archivist dies, another person "coincidentally" steps into the physical, financial, and eventually procedural niche the predecessor left behind. The new archivist does not initially realize they have taken over anything; they grow into the role over months/years by discovering what the predecessor left behind. This preserves the chain even when a tenure ends abruptly.
 
-- **Palo Alto**, in a private library owned by the estate of a mid-20th-century AI researcher (a peer of Wiener's; not a household name). Held by an executor who inherited it without understanding what it was. **Dakota accessed this one** via records-office cross-referencing; it's one of the three he now has.
+- **Palo Alto**, in a private library owned by the estate of a mid-20th-century AI researcher (a peer of Wiener's; not a household name). Held by an executor who inherited it without understanding what it was. **UNFOUND** — this is the Ep 10 arc-node. *(Corrected 2026-08-27: this bullet previously also claimed "Dakota accessed this one; it's one of the three he now has", contradicting itself within a single sentence. Dakota's three are Eleanor Marsh's three from the Sacramento locker — the ones the party physically saw on his dining table in Ep 4. See [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) §The 8 active ledgers.)*
 - **Berkeley**, in the flat-file of a librarian at Bancroft Library who catalogued it as an "anomalous ephemera collection" in 1979 and occasionally adds new entries when she personally witnesses something. She IS a former caster (per big-arc.md Act II Former Caster archetype); the ledger is her outlet for the pattern-sensing she can no longer act on.
 - **San Bernardino County**, in a rented storage unit; part of an intestate estate lot a hoarder-collector bought at auction in 2013. He has no idea what he owns.
 - **A Buddhist temple's storeroom in the Central Valley**, given as a gift by a visiting scholar in the 1980s. The monks preserve it out of politeness without reading it.
@@ -210,7 +210,12 @@ Vega is a **quiet member of the caster network**, aligned with what will become 
 
 **What the DM must know:**
 
-The detective — **Detective Camila Ortiz** — has a paperwork artifact, not a sighting. She'll say (paraphrased): *"I don't normally cold-call after this long. A routine records cross-match flagged something on your father's SSN — someone ran a background check with a matching name and a partial-match number nine years ago, in Sacramento. Not a body, not a face. A paperwork echo. Nobody's looked at this file in nine years. I'm not saying it was him. I'm saying it deserves another look. Call me back when you can."*
+The detective — **Detective Camila Ortiz** — has a paperwork artifact, not a sighting. She says (**verbatim — this is the recorded asset the players actually heard at the Ep 4 table**; `assets/audio/ortiz-cold-case-voicemail.mp3` + transcript, which is AUTHORITATIVE over any paraphrase):
+
+> *"Hi Morgan, this is Detective Ortiz with SFPD Missing Persons. Look, I know it's been a while, and I don't normally cold-call after this long. But a routine records cross-match flagged something on your father's Social Security number. Nine years ago, somebody ran a background check in Sacramento. Matching name, partial-match number. It's not a body. It's not a face. It's a paperwork echo. **Nobody flagged it at the time.** I'm not saying it was him. I'm saying it deserves another look. Call me back when you can. I'll be at my desk Monday. Thanks."*
+
+> [!WARNING]
+> **Corrected 2026-08-27.** These docs previously paraphrased the last line as *"Nobody's looked at this file in nine years."* That is impossible — the missing-persons file did not exist until Feb 2025. The audio is right; the paraphrase was wrong and never reached the table. Do not reintroduce it.
 
 **What she doesn't know** (and the DM holds):
 
@@ -224,16 +229,76 @@ He is NOT a caster. He is a person whose life was quietly shaped by the same ins
 
 **Never voice at the table** before Act II: that the father is alive. The SFPD call in Ep 3 close is deliberately inconclusive.
 
-**TODO — 9-years-vs-2-years timeline seam (flagged Ep 4 played 2026-08-22).** Atticus (Morgan's player) noticed at the table that Ortiz's voicemail cites a paperwork echo from **nine years ago**, but per Morgan's PC-sheet backstory the father *"missed a birthday, then a phone call, then all of them"* only **two years ago**. That's a **~7-year gap** the DM has not yet reconciled in canon. **This is not a bug; treat it as arc-load-bearing raw material** — the campaign's cosmology already permits things being set in motion years before their visible effects, and single-timeline self-consistency accommodations often route through prior anchors. Held answers the DM may pick from (do NOT commit before Ep 6-7 planning):
+### Canonical date set — RESOLVED AND LOCKED (2026-08-27)
 
-- **(a) Father-was-already-in-motion.** The 2017 paperwork ping is the moment the father's colleagues first flagged his security-adjacent past to him privately (or the moment he first ran his own quiet-exit plan). He kept working for 7 years but was making arrangements the whole time. The 2024 disappearance was the *completion*, not the beginning. **Cleanest mundane read; requires no cosmology.**
-- **(b) Substrate-anchored 7-year lag.** The father was quietly *shaped* by the same institutional-optimization pressures that later shape the campaign's arc (per current §6 canon), and the substrate's cheapest self-consistent path for that shaping required a 7-year setup — a paperwork anchor in 2017 that the 2024 disappearance settles onto. Same as anchor-site-permeability but time-shaped rather than place-shaped. Feeds Priya/Mira/Morgan Phase-2 pattern discipline nicely (they can *read* the temporal shape once they see it).
-- **(c) Two separate events.** The 2017 hit isn't Morgan's father at all — it's someone else with a name-and-partial-SSN match, whose independent Sacramento presence provides *cover* the substrate later exploits for the father's disappearance. Ortiz's honest *"I'm not saying it was him"* becomes literal truth. Lowest cosmological cost but loses the "his fate was set in motion earlier" narrative pull.
-- **(d) Retrocausal-self shape.** The 2017 paperwork echo *becomes* the father's after-the-fact when he disappears in 2024 — the world's cheapest self-consistent past for his 2024 vanishing routes through an already-attested 2017 SSN anomaly. Fits big-arc's *"future actions can retrocausally condition present ones"* frame. Ties to the same held-open causation reading-list that shapes §1 (the 1878 ledger) and §31 (Kai's erasure).
+> [!IMPORTANT]
+> **There was never a contradiction.** Atticus (Morgan's player) correctly noticed at the Ep 4 table that Ortiz's voicemail cites a paperwork echo from **nine years ago** while Morgan's PC sheet says his father went quiet **two years ago**. Both are true, because the two "two years" in canon are **anchored to different dates and describe different events**:
+>
+> - Morgan's PC sheet was written at **chargen, i.e. as of Ep 1 (~late summer/early autumn 2026)**. "Two years ago he missed a birthday" → last contact ≈ **autumn 2024**.
+> - `characters/npcs/camila-ortiz.json` says her file has been *"open for two years"* as of **Ep 3 close (Feb 2027)** → report filed ≈ **Feb 2025**.
+>
+> A ~4-month lag between an adult going quiet and a son filing a police report is not a discrepancy — it is how missing-adult reports actually work, and it is exactly what the sheet describes (*a birthday, then a phone call, then all of them* — a gradual realisation, not an event).
+>
+> **Atticus's catch was real and correct. Let it be correct at the table.** Do not "correct" him.
 
-**Player-facing framing (whichever answer wins):** when the party surfaces the discrepancy in-fiction, Ortiz should react as if she also noticed but doesn't emphasize it — *"Yeah. That's part of what caught my eye. I don't know what to make of it either."* Do NOT dismiss the observation; do NOT explain it prematurely. The 7-year gap is a live thread until the DM has committed to a reading — Ep 6-7 planning window latest.
+| Date | Event | Attested by |
+|---|---|---|
+| ~1994 | Father named on one Argonaut filing, *"technical consultant, authorized access"* | §27 (locked) |
+| 1998 | Argonaut dissolved; Bea takes the archivist role | §27, §36 |
+| **Feb 2018** | Someone queries Argonaut's dissolved CA filings; SSN cross-match pings; margin note *"ARH → follow up"* | §27 (locked) + **played audio** |
+| Feb 2018 – autumn 2024 | Father informally warned; arranges quietly (~6½ years) | §27, reading (a) |
+| **~Sept/Oct 2024** | The missed birthday. Last direct contact | **Morgan's PC sheet** |
+| late 2024 → early 2025 | The missed calls, then all of them | Morgan's PC sheet |
+| **Feb 2025** | Morgan files SFPD Missing Persons; Ortiz assigned | `camila-ortiz.json` |
+| Aug 2026 | Ortiz's last contact with Morgan before the cold-call | §6 ("hasn't called in six months") |
+| **Feb 2027** | Eps 4/5. Two-year cold-case sweep re-runs the cross-match; the 2018 hit surfaces | Ep 4 played |
 
-**Fire-by for reconciliation:** the DM should have picked a working answer by Ep 6-7 (before the party's Sacramento re-visit or Berkeley trip surfaces enough related material to force the DM to improv one). Log the pick as an update to this §6 when committed. Cross-ref [`brainstorm-open-questions.md`](brainstorm-open-questions.md) §Morgan-father-timeline-seam for further seed development.
+**The arithmetic, all of it consistent:**
+
+- Feb 2018 → Feb 2027 = **9 years** ← the number the players have already heard, twice (the audio, and the emailed Ep 4 recap). Immovable.
+- Feb 2018 → Feb 2025 = **7 years** ← the number on Ortiz's two documents. This is the seam.
+- Feb 2018 → autumn 2024 = 6y 7m — the father's actual arranging window.
+- Feb 2025 → Feb 2027 = 2 years — why the sweep fired now (routine two-year cold-case review).
+
+**This is the *unique* date set consistent with everything already spoken at the table**, which means the DM can defend it under cross-examination. That matters at this table.
+
+**⚠️ These are relative-year phrasings, so they DRIFT.** "Nine years ago" is only true while in-game now is 2027. Rule: **speak absolute months, not intervals** ("February of '18", "February of '25") from Ep 5 onward. If in-game time passes into 2028, the query becomes "ten years ago" — the absolute dates never move.
+
+**Do NOT edit `characters/pcs/morgan-reyes.json`.** It is player-owned, public, and correct as of Ep 1. Editing it would be the DM rewriting a player's authorship to cover a DM error, and this table would notice.
+
+### What is committed, and what stays open
+
+**COMMITTED — reading (a), father-was-already-in-motion, for the *gap*.** The Feb-2018 cross-match generated internal chatter; a note travelled through backchannels to the father's telecom-security-adjacent colleagues; one warned him privately. He spent 2018–2024 arranging. His disappearance was the *completion*, not the beginning. **This is a mundane human story about silence-under-threat and requires no cosmology.** It holds up under any amount of player scrutiny because it is simply what frightened people do.
+
+**RETIRED — reading (c), two separate events.** The Argonaut cross-match (§27) makes a coincidental name-and-partial-SSN match implausible. Struck.
+
+**STILL OPEN — readings (b) substrate-anchored lag and (d) retrocausal-self**, but they now attach to a *different and much smaller question*: not "why the gap" (that's (a)) but **"why did a routine sweep surface it in the exact week the party's own Sacramento thread converged on the same storage locker?"** That touch is invisible by construction — Ortiz's sweep genuinely is an ordinary two-year cold-case review, so there is no anomaly to find. Per `world-truths.md`, this is the cheapest category: *attention is loose and passersby look in all directions anyway.* Held open indefinitely per [held-open causation](#); ties to the same reading-list as §1 (the 1878 ledger) and §31 (Kai).
+
+### Player-facing framing — say the numbers
+
+Previous guidance here was number-free (*"That's part of what caught my eye"*). **That was correct while the DM had no answer; it is now wrong.** This table metagames: a number-free deflection delivered to the player who just did the arithmetic reads as *the DM hasn't done the arithmetic*, not as mystique. Naming two dates off two documents and refusing causation commits to nothing — it is Bea's invariant (*shows records, never draws the conclusion*) transposed into an institutional register.
+
+Ortiz's recommended line, for the Ep 5 in-person meeting:
+
+> Ortiz taps the page twice.
+>
+> *"You caught that. Good — most people don't read the dates.*
+>
+> *The query's February of '18. I opened your father's file February of '25. Seven years apart, near enough. And nine to today, which is the only reason it surfaced at all — two-year cold-case sweep re-ran the cross-match and the old hit came up with it.*
+>
+> *So. Seven years between somebody pulling your father's number in Sacramento and your father going quiet the autumn before I opened this file.* (beat) *I've worked cases where a number gets pulled and it means nothing at all. I've worked one where it was the whole thing. I can't tell you which this is. I've been looking at those two dates since Friday and I don't have anything to hang on them."*
+
+**If Atticus raises the seam before Ortiz does** — better, use this instead:
+
+> *"…yeah."* (she pulls the page back, checks it, slides it back) *"February '18, February '25. You did that in your head faster than I did it on paper. Seven years.*
+>
+> *Nobody flagged it at the time — that's in the file too, and that's the part that actually bothers me. Not that it's seven years. That nobody thought seven years was worth a phone call."*
+
+This hands him the arithmetic win and pivots Ortiz's unease onto the *institution's* non-reaction rather than the interval — which lands the S3 institutional-frame redirect for free.
+
+**Delivery discipline:** say *"seven years, near enough"* — never *"exactly seven years to the day."* A tired detective reading a file is precise; a tired detective **emphasising** precision is the author talking.
+
+**Never voice:** reading (a) itself. Ortiz acknowledges the seam and stops.
 
 **Risk if unresolved:** {{pc:1}}'s father is a personal thread that grounds the macro theme in family. The user has flagged twice ("it's fine if it's nothing, but it needs to be written down"). Bake into mid-Act-II investigation cadence via the Sacramento convergence.
 
@@ -863,7 +928,7 @@ The storage unit's contents: three of the eight ledgers (§2) plus margin-annota
 
 - **1987:** Eleanor Marsh (archivist; §2) dies. Natural causes. Her three ledgers are already in her possession.
 - **1988:** Marsh's estate lawyer sets up Argonaut Records Holdings, LLC as a single-purpose discretionary trust. The LLC signs a multi-decade pre-pay contract with a Sacramento self-storage facility. The three ledgers plus loose materials are moved into the locker. The estate lawyer's brief is administrative-only; he does not read the ledgers, does not know their significance, is not an archivist.
-- **1987–1998:** **The intermediate archivist** (unnamed in canon; §36 discipline — Bea's non-immediate predecessor between Marsh and Bea) holds the current-generation ledger and continues Marsh's work from a different residence. This archivist is NOT the Argonaut trustee; the LLC exists parallel to the intermediate archivist's own work.
+- **1987–1998:** **The intermediate archivist** (unnamed in canon; §36 discipline — Bea's non-immediate predecessor between Marsh and Bea) holds the current-generation ledger and continues Marsh's work **in Marsh's house — the same house** (DM ruling 2026-08-27; see §36 *The archivists' house*). All three tenures are one address. This archivist is NOT the Argonaut trustee; the LLC exists parallel to the intermediate archivist's own work.
 - **~1994:** Argonaut Records Holdings, LLC — at some point during its active decade — hires a security-cleared technical consultant to verify the storage facility's records-access protocols. **The consultant is Morgan's father** (per §6 canon: telecom-adjacent, security-cleared contract consulting was his career). His name and SSN appear on ONE Argonaut filing from ~1994 as "*technical consultant, authorized access.*" He signed a paper; he did not know its significance; he never accessed the locker himself. This is not a substrate event — it is mundane security-consulting work.
 - **1998:** The intermediate archivist dies. Marsh's estate lawyer (also elderly) has already died some years earlier. With no one aware of the LLC's purpose, Argonaut is dissolved as an unattended-single-member trust; the pre-paid locker contract, however, is a distinct instrument that outlives the LLC and continues honoring the fee schedule through 2035. Bea takes over the archivist role in 1998 by "coincidentally" moving into the intermediate's house (§36); she does NOT inherit the LLC or its administrative infrastructure.
 - **~2018 (Feb):** **Someone queries Argonaut's dissolved records in California business filings.** The query cross-matches SSNs historically named in the filings; Morgan's father's SSN pings on the ~1994 filing. The records-office logs the cross-match but does not flag it officially — someone at the office made a handwritten note in the margin (*"ARH → follow up"*) that never got followed up. **This is the 2018 "SSN echo" Ortiz will surface in Ep 5.** Do NOT commit at the table to who ran the 2018 query. Three DM-held candidates:
@@ -1122,7 +1187,7 @@ Kaya's dawning theory should **NOT be confirmed or denied** at the table — sil
 **Bea's specific origin story (2026-08-22 canon detail):**
 
 - **Before 1998:** Bea worked as an **insurance investigator specializing in unlikely coincidences** — a real profession that happens to align exactly with the archivist's observational discipline. This is the substrate's cheapest possible pre-adaptation: it selected a person whose day job was already the archivist's job.
-- **1998:** the intermediate archivist (Bea's immediate predecessor, unnamed in canon — the one who was archivist 1987-1998 between Eleanor Marsh and Bea; see §27) died. Bea may have taken over the intermediate's insurance job (canon is deliberately vague on this — DM discretion). She then "happened" to look for a house, "happened" to find the intermediate's house (or Marsh's original house if the intermediate had also inherited it), moved in.
+- **1998:** the intermediate archivist (Bea's immediate predecessor, unnamed in canon — the one who was archivist 1987-1998 between Eleanor Marsh and Bea; see §27) died. Bea may have taken over the intermediate's insurance job (canon is deliberately vague on this — DM discretion). She then "happened" to look for a house, "happened" to find **the house** — Marsh's house, which the intermediate had also lived in — and moved in. **All three archivists have lived at the same address** (DM ruling 2026-08-27; see §36 *The archivists' house*).
 - **Within days** of moving in, Bea began continuing where her predecessor left off — first without realizing, then aware but not sure what she'd stepped into, eventually settling into the archivist role fully.
 - **The transition took years, not moments.** Bea grew into the role gradually. She discovered the index cards and ledgers left behind, incorporated them into her insurance work at first, then continued the practice on her own initiative.
 
@@ -1140,6 +1205,34 @@ Kaya's dawning theory should **NOT be confirmed or denied** at the table — sil
 **Risk if unresolved / drifted:** if any archivist is portrayed as having met/trained their predecessor, the whole T10 fearlessness posture collapses (the fearlessness comes from the substrate-guaranteed continuity, which is invisible if humans hand it off traditionally). Also breaks the cost-gradient teaching of `world-truths.md` — the succession is one of the campaign's cleanest worked examples of substrate self-consistency accommodation on a human-scale timeline.
 
 ---
+
+
+### The archivists' house — canon ruling (2026-08-27)
+
+**Eleanor Marsh, the unnamed intermediate archivist (1987–1998), and Bea Ferro have all lived in the same house.** The accumulated records of all three tenures are there — scattered, disorganized, and **not catalogued in any way the current archivist would necessarily recognize**. Some may have been moved into storage. **Bea honestly does not know the full extent of what she owns.**
+
+This disorganization is **cosmologically enforced, not accidental**: records have a habit of surfacing unexpectedly *when they help repair reality*.
+
+**This ruling does not weaken §36's succession invariant — it strengthens it.** The invariant forbids transmission *between persons*: meeting, training, handing off. Same-house succession is transmission via **place and artifact, with no person present**. Bea has Marsh's cards for the same reason she has the kitchen: she moved in. Nobody taught her anything. (This also supersedes the older "from a different residence" line in §27, and it is what `anchors-cards-ledgers.md` was already running on: *"The house itself is a stronger anchor than any individual card. Continuous inhabitation by the archivist role since the previous owner is what makes the cards preserved."*)
+
+**What it unlocks:** Bea can compare hands against Marsh-written cards (the Ep 5 three-hands beat depends on this). T10 gets sharper and less mystical — her fearlessness about dying is not a belief; she has physically stood in the evidence that this happened twice before her, in this kitchen, and will happen after her. Her *"I don't know what's in the garage"* stops being a refusal and becomes a fact. And the house becomes a defensible anchor-site candidate for the §11 beat.
+
+**The coincidence is now visible and large** — three consecutive people acquiring one specific Outer Sunset house across ~40 years. **Own it; do not hide it.** Hold a mundane mechanism in reserve (a small family landlord who sold to sitting tenants; a probate that kept routing through the same office) and deploy it **only if a player digs**. If they don't dig, the coincidence stands.
+
+### The surfacing budget — discipline against deus ex machina
+
+Same-house + "records surface when they help repair reality" hands the DM a building that contains, in principle, the answer to any question. That is a deus-ex-machina generator. Four clauses bind it:
+
+1. **Surfacing is retrospective, never responsive.** A record may surface *after* the party has established a shape, confirming one edge of it. It may **never** surface *because* the party is stuck. If it answers a question nobody had asked yet, refuse it. Bea's invariant, applied to the building: **the house shows records; it never draws the conclusion.**
+2. **A surfaced record may thicken a mystery, never thin one.** Before deploying, run the test: *does this narrow the multi-cause reading list?* If yes, don't. Surfacing is licensed to add a fourth reading, never to eliminate a first.
+3. **Rate limit, and it must cost something.** At most **one surfaced record per three sessions**. It never arrives by retrieval — it turns up *while Bea is looking for something else*, and it is damaged, or partial, or it cross-references a card that isn't in the box. Free retrieval reads as authorial; a thing found sideways and incomplete reads as a house.
+4. **The house never surfaces a record about a living PC's present.** It surfaces the past. The first card that names a PC by name tells the players they were chosen, which `principles.md` §directors-and-pawns explicitly refuses. (The 1878 ledger is the deliberate, already-spent exception; do not mint a second.)
+
+**Bookkeeping:** log every surfaced record here with two columns — *question it answered* / *question it opened*. **If the second column is ever empty, it was a deus ex machina and should be un-deployed.**
+
+| Session | Record surfaced | Question it answered | Question it opened |
+|---|---|---|---|
+| *(none yet)* | | | |
 
 ## §35. Vega text to Morgan: "see you in Berkeley soon"
 

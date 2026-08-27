@@ -173,7 +173,12 @@ Vega is a **quiet member of the caster network**, aligned with what will become 
 
 **What the DM must know:**
 
-The detective — **Detective Camila Ortiz** — has a paperwork artifact, not a sighting. She'll say (paraphrased): *"I don't normally cold-call after this long. A routine records cross-match flagged something on your father's SSN — someone ran a background check with a matching name and a partial-match number nine years ago, in Sacramento. Not a body, not a face. A paperwork echo. Nobody's looked at this file in nine years. I'm not saying it was him. I'm saying it deserves another look. Call me back when you can."*
+The detective — **Detective Camila Ortiz** — has a paperwork artifact, not a sighting. She says (**verbatim — this is the recorded asset the players actually heard at the Ep 4 table**; `assets/audio/ortiz-cold-case-voicemail.mp3` + transcript, which is AUTHORITATIVE over any paraphrase):
+
+> *"Hi Morgan, this is Detective Ortiz with SFPD Missing Persons. Look, I know it's been a while, and I don't normally cold-call after this long. But a routine records cross-match flagged something on your father's Social Security number. Nine years ago, somebody ran a background check in Sacramento. Matching name, partial-match number. It's not a body. It's not a face. It's a paperwork echo. **Nobody flagged it at the time.** I'm not saying it was him. I'm saying it deserves another look. Call me back when you can. I'll be at my desk Monday. Thanks."*
+
+> [!WARNING]
+> **Corrected 2026-08-27.** These docs previously paraphrased the last line as *"Nobody's looked at this file in nine years."* That is impossible — the missing-persons file did not exist until Feb 2025. The audio is right; the paraphrase was wrong and never reached the table. Do not reintroduce it.
 
 **What she doesn't know** (and the DM holds):
 
