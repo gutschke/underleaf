@@ -94,6 +94,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Fires:** U2 (Ortiz in person) · S3 institutional breadcrumb · **S1 flattening #1** · U7 partial (notebook, capped at geometry) · **§35 paid — Alaia in person** · B2 partial · U3 closed (QR channel) · **A1 planted** · T4/U6.
 - **NPCs:** Ortiz (in person, and then almost unreachable until Ep 11); Alaia Vega (first non-elder network contact); Bea (absent in body, present in effect); Elena (text).
 - **Deliberate deferrals, logged:** Priya's Phase-2 → Ep 6 (better room); Mars's A7 private beat → Ep 7; T13 photograph → Ep 10, in person.
+- **A6 — Dakota's realization is NOMINATED HERE.** It was scheduled nowhere in Eps 5-25 (fire-by Ep 5-7), which is the S2 failure arriving from the opposite direction: the outline was so careful to stop Dakota eating other PCs' arcs that it stopped giving him one. His sheet requires him to **drop the persona in a scene where the persona would have gotten him what he wanted** — and Scene 1's *"tell me what you know"*, in front of a cop, with Morgan needing her cooperation, is exactly that room. Do not force it; if Beck reaches for politician-speech and then stops himself, that is A6 and you log it.
 - **Risk if slips:** the pre-designated cut is in the run-guide. A1 is the one thing that cannot slip again — if the party skips Bea's, the card is mailed.
 
 ### Ep 6 — The Berkeley Hills
@@ -107,14 +108,14 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Coda:** Elena's note on the envelope — *"She asked me to say she's had a good week."* The dying-line displaced into understatement, which hurts more than the original.
 - **Risk if slips:** if Rosa dominates and A3 slips, every subsequent per-PC realization chain-slips.
 
-### Ep 7 ★ — The Third Birthday
+### Ep 7 — The Fourth Birthday  *(★ REVOKED — see the slack warning; this is MEDIUM)*
 
-- **LOAD:** LIGHT — **and this slack is now load-bearing. Do not spend it absorbing overflow.**
+- **LOAD:** **MEDIUM.** It was labelled LIGHT and simultaneously loaded with eight items. Compress **T1 + T2 + A8 into one combined beat** — Reggie is at the party, which covers all three — and it becomes genuinely light again. Either way, **do not spend this session absorbing overflow**: it carries the campaign's first moment-of-release.
 - **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
 - **Arc-node:** **MoR(Priya) — A9 FIRES. The campaign's first moment-of-release.** A kid goes down hard, or chokes; Priya is there before she decides to be; it resolves; **she was not trying**, and she notices afterward that she wasn't trying. Her sheet's own release condition: *the 17 moment without the crowd.*
 - **Second arc-node:** **R(Mira) begins** — at a folding table of family photographs she reads an absence that **is not Kai's** (someone else's: a divorce, a dead uncle) and for the first time understands it as *a thing she does* rather than a thing that happens to her. Private; do not resolve.
-- **Third:** **Mars's deferred A7 private beat lands here.** Logged from Ep 5.
-- **Setting/register:** Mei's third birthday, outdoors, kids underfoot. The only records present are photographs on a folding table.
+- **Third:** **Mars's deferred A7 private beat lands here** (logged from Ep 5) — this is his **realization**. His **moment-of-release** is separate and lands Ep 11. Do not schedule both in one session.
+- **Setting/register:** Mei's fourth birthday, outdoors, kids underfoot. The only records present are photographs on a folding table.
 - **Fires:** A9 · A8 (Yui check-in) · T1 (Reggie) · T2 · T4 (Ren + Maya, 3 min) · **B15 re-plant** — Bea's *unrequested* envelope arrives that week with the Marsh galaxies-sentient clipping.
 - **Hook out:** the party finally calls the number. Nia says yes to lunch. Phone only.
 - **Risk if slips:** this is the campaign's first recovery beat and the gate-opener for every subsequent MoR. **Do not add to this session.**
@@ -124,9 +125,24 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **LOAD:** HEAVY — the Act I→II hinge.
 - **PRIMARY SHAPE: negotiation**, with a substrate-friction escape as physical counterweight.
 - **Arc-node:** **A1 FIRES.** Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos."* Plus the authorless-cause line. She refuses the mentor frame explicitly. **A2** — Reggie named as substrate-sensitive non-caster.
-- **Second arc-node:** **R(Mira) completes (A4)** — private scene. **R(Morgan) begins (A5)** — his release condition is *naming the true thing to someone who will hear it*, and Nia is the first person in the campaign who would.
-- **THE MINOR BATTLE — form 1, "the world gets hard."** Nia tries to bring a second network caster to the table. Per big-arc invariant 5, assemblies of unfamiliar casters structurally fail — and so far the party has only been *told* that. **Show it.** The second caster cancels; then the room itself becomes difficult (a fire alarm, a delivery pallet in the doorway, a Muni platform closing with an inbound crowd), escalating for ninety seconds into genuine minor danger. Someone takes **Harm box 1** keeping a stranger off the tracks. Full combat vocabulary — Defend, Maneuver, Aid, adrenaline. **Nobody attacks anyone. The world just gets hard, and there is no one to be angry at.** That rehearses Act III's central recognition in the body rather than in dialogue.
-- **Coda:** Bea, in person, four minutes, at Ocean Beach with a coffee. Confirms nothing. **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again.
+- **Second arc-node:** **R(Mira) completes (A4)** — private scene.
+- **A5 (R(Morgan) begins) MOVED TO EP 6** — Bancroft's finding aid is a better vehicle (a systems/information Free-tier intuition landing on a fact he could not have guessed), and it unloads this session, which is the Act I→II hinge and must not be rushed. His release condition — *naming the true thing to someone who will hear it* — still pays off with Nia here or at Ep 9.
+- **THE MINOR BATTLE — form 1, "the meeting cannot happen."** Nia tries to bring a second network caster to the table. Per big-arc invariant 5, assemblies of unfamiliar casters structurally fail — and so far the party has only been *told* that. **Show it.**
+  - **The canonical mechanism is CANCELLATION and SOFTENING, not hostility.** The second caster cancels — sick, an emergency, a shift swap. Then the room declines to cooperate: a fire alarm, a delivery pallet in the doorway, a third person who joins the table and won't leave, a phone that rings. **Cap the escalation at "the meeting cannot happen."** Deflating and faintly absurd, never thrilling.
+  - **Add the softening, which is the half that carries the actual invariant:** the two casters who *are* present try the small thing either could do alone, and it doesn't take.
+  - **The felt lesson:** *"we cannot get four of us into one room, it is stupid, and it is nobody's fault."*
+
+> [!CAUTION]
+> **Do NOT run this as a physical set piece, and do NOT use combat vocabulary.** An earlier version of this entry escalated into a crowded platform, a near-miss on the tracks, and Harm box 1, with Defend/Maneuver/Aid rolls. **That was wrong and it was the most dangerous item in the plan.** Three reasons:
+>
+> 1. **A coordinated hostile environment reads as agency, and agency reads as an agent.** This party's established frame is culprit-hunting — S3 exists because they landed on Dakota-as-perpetrator and it has only *softened*.
+> 2. It violates, at set-piece scale, the rule the Ep 5 run-guide states at flattening scale: *every instance must be a default, never a choice a person makes.* A fire alarm **plus** a pallet **plus** a closing platform **plus** a crowd, inside ninety seconds, reads as a choice someone made.
+> 3. **It collides with Nia in the same ninety minutes.** She is here to say *"We didn't do it. Nothing 'did.'"* Staging an authorless-cause speech and a scary-coordinated-world set piece in one session puts the party's two readings in direct competition — **and set pieces beat speeches.** `antagonist.md`: *resist the temptation to give the AI a face.* A coordinated hostile environment is a face.
+>
+> If a physical set piece is genuinely wanted, **decouple it into a different session** so it is not causally adjacent to a caster meeting failing.
+
+- **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give the casters present Stress 1–2**, narrated as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9's confession-and-walk-and-talk session then clears it diegetically**, which is a far better joint than a bruise healing off-screen.
+- **The Bea coda MOVED TO EP 9's OPENING.** Ep 9 is a coast retreat with zero documents; a four-minute Bea beat with a coffee fits its register far better than a lunch-then-platform session, T10 lands harder next to two moments of release, and it unloads the hinge. **This session is the campaign's single largest exposition beat and Nia cannot be rushed.**
 - **Fires:** A1 · A2 · A4 · A5 begins · B3 seeded · S1 #4 · T10.
 
 ### Ep 9 ★ — Aftermath / The Party as Weather
@@ -134,9 +150,12 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **LOAD:** LIGHT (slack) — **also load-bearing; see Ep 7.**
 - **PRIMARY SHAPE: retreat / confession.** Zero documents.
 - **Arc-node:** MoR(Mira) + MoR(Morgan) both land in walk-and-talk pairs. Mira names Kai out loud for the first time; Morgan quietly names *the wrong thing about the world*.
-- **Also rehoused here:** **B3, the faction-choice conversation** (it lost its Ep 14 home when San Bernardino was cut).
+> [!WARNING]
+> **B3, the faction-choice conversation, was rehoused here and that is TOO EARLY.** Ep 9 is Act I close, and `big-arc.md` invariant 9 says the PCs choose a faction **in Act II**. Worse, the ordering is backwards: the Hidden faction is not *named* until Alaia's reveal (now Ep 13), so at Ep 9 they would be choosing between things they have not heard of. **Move B3 to Ep 13-14, after B2** — or have Nia name the two stances at Ep 8 so an Ep 9 conversation has referents. Do not run it cold.
+- **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
-- **Fires:** A9 (second/third MoR) · T4 · B3 · **B7** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it.
+- **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
+- **Fires:** A9 (second/third MoR) · T4 · B3 · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
 - **NPCs:** Ren + Maya via text/photo only; Ortiz by voicemail.
 
 **Act I closes at Ep 9.** Big-arc's 6-9 session budget accommodates.
@@ -158,16 +177,19 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **PRIMARY SHAPE: heist-of-paperwork**, with a closing-time clock. **Converted from a ledger hunt.** The ledger becomes the byproduct of a social-engineering job, not the object of a search. Time pressure without an antagonist; plays to Dakota (Influence) and Mars (presence) without a fight.
 - **Arc-node:** **VIVIAN IN PERSON — HARD FLOOR.** The 1946-47 photograph (T13) delivered **in her voice**, not by envelope. Second safe name spent. See the clock warning below.
 - **Setting/register:** a Cold-War-era garage-lab or an estate's conference room; then Vivian's.
-- **Fires:** B1 partial (Palo Alto — the last ledger actually acquired) · **T13** · U8 in person · U9 second name · Dakota MoR (theoretical).
+- **Fires:** B1 partial (Palo Alto — the last ledger actually acquired) · **T13** · U8 in person · U9 second name 
+
+> [!WARNING]
+> **Dakota's MoR does NOT belong in this session.** An earlier draft put it here. Ep 10 is a social-engineering job that *"plays to Dakota (Influence)"* — a scene where the persona **gets him what he wants**, which is the precise anti-condition his sheet names. His realization is nominated at **Ep 5 Scene 1**; his **MoR belongs in Ep 11-12**, in a room where the persona would have worked and he declines to use it. Per hook-ledger A9, release always comes AFTER realization — never in the same session.
 
 ### Ep 11 — Mars's Silo
 
 - **LOAD:** MEDIUM
 - **PRIMARY SHAPE: standing ground — minor physical threat.**
-- **Arc-node:** **Mars's realization + MoR — must land here at the latest.** Priya landed Ep 6 and Mira Ep 8; if Mars slips past Ep 11, Dakota's arc eats his again, which is the exact S2 failure the disciplines exist to prevent.
+- **Arc-node:** **Mars's MoR** — his realization already landed Ep 7. **This is the outside limit.** Priya's MoR landed Ep 7 and Mira/Morgan's Ep 9; if Mars slips past Ep 11, Dakota's arc eats his again, which is the exact S2 failure the disciplines exist to prevent.
 - **THE MINOR BATTLE — form 2, "standing ground."** A landlord's "property manager" and two men at a tenant meeting. Postures, a raised voice, a shove, a blocked door. Mars stands **without the pistol on him** — his sheet's named release condition — and the room re-shapes anyway. Press, Maneuver, Withdraw; possibly one Harm box. **No attack roll is ever made.**
-- **Also:** **Ortiz in person #2 — the agency beat.** The case is being reclassified inactive; she is fighting it and losing. She asks Morgan directly: **closure, or contact?** He can have the file formally closed, or she keeps pulling threads with no guarantee and no timeline. Interpersonal-conflict scene, not a paperwork scene, and the decision is the player's.
-- **Also:** **B2 full — Alaia's Hidden-faction reveal**, in person. The card that Ep 5 deliberately did not spend.
+- **Ortiz in person #2 — the agency beat — MOVED TO EP 10** (Palo Alto is already an institutional-paperwork register and an estate-and-executor session is the natural room for *closure or contact?*). Kept here only if Ep 10 overruns. **The beat:** The case is being reclassified inactive; she is fighting it and losing. She asks Morgan directly: **closure, or contact?** He can have the file formally closed, or she keeps pulling threads with no guarantee and no timeline. Interpersonal-conflict scene, not a paperwork scene, and the decision is the player's.
+- **B2 full — Alaia's Hidden-faction reveal — MOVED TO EP 13.** It needs air, Ep 12's grief register is wrong for it, and Ep 13 currently has no destabilizer at all. This is the card Ep 5 deliberately did not spend.
 - **Setting/register:** Pier 80 silos / Dogpatch.
 
 ### Ep 12 — The Central Valley Temple
@@ -181,14 +203,16 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 ### Ep 13 — Dr. Bao's Lecture
 
 - **LOAD:** MEDIUM. *(Consider moving up to Ep 11-12 to buy Act II close more runway.)*
-- **Arc-node:** the institutional frame acquires an intellectual vocabulary. **B1 retires here if the recognition line lands.**
+- **Arc-node:** the institutional frame acquires an intellectual vocabulary. **B1 retires here** on the evidence floor (Rosa's ledger naming no other keeper), whether or not a player voices the line.
+- **Also here (moved 2026-08-27):** **B2 full — Alaia's Hidden-faction reveal.** It needs air; Ep 12's grief register is wrong for it; and this session otherwise has no destabilizer at all.
+- **Destabilizer, in the Q&A:** an audience member asks Bao **the party's own question, phrased better than they can phrase it** — and Bao's answer is a courteous non-answer the room applauds. Three jobs at once: **S1 at institutional scale**; the reversal *"we are not the only people who noticed"*; and if the questioner cites Vasiliev, B14 lands as a scene rather than a document. **In the corridor afterwards the questioner is gone and nobody remembers them clearly.**
 - **PRIMARY SHAPE: public lecture → Q&A → the corridor afterwards.** A genuinely fresh register: the party as anonymous audience members rather than as investigators anyone is talking to.
 
 ### Ep 14 ★ — Road Trip *(re-pointed)*
 
 - **LOAD:** LIGHT (slack)
 - **PRIMARY SHAPE: road trip.** **The San Bernardino ledger is CUT** — the storage unit was re-auctioned and the trail dies helpfully; that ledger now carries the deliberately-unfindable slack function the deleted phantom eighth used to. **Keep the road-trip shape; re-point the destination at the second in-person Vivian visit.** A slack session driving to a dying woman is worth ten times a hoarder's storage unit, and it solves the Vivian-decay problem in the same move.
-- **Closed here:** T15 (Little Jimmy's reserved card — *"Jimmy holds one of the unaccounted ledgers"*) dies with the unaccounted ledger. Default was texture anyway; note it closed.
+- **Already closed, noted here for completeness:** T15 (Little Jimmy's reserved card) died on 2026-08-27 when the phantom eighth ledger was deleted — there are no unaccounted ledgers for him to hold. It did not need Ep 14 to kill it.
 
 > [!CAUTION]
 > **VIVIAN'S CLOCK — the sharpest scheduling risk in the campaign.** She is 98 and dying, and **U8, T13, U9/§22's six unused names, §26 and C6's living-bridge anchoring all route through her.** The Ep 6 mail substitution is allowed **exactly once**. Hard floor: **in person by Ep 10, a second visit by Ep 14**, or her Ep-18 death lands as a shrug instead of a loss.
@@ -287,14 +311,57 @@ Sub-phases compressible per `big-arc.md` §Act III.
 
 **25 sessions total** (Ep 1-4 played/drafted + Ep 5-25 outline). At the top of the 19-25 window per `big-arc.md` §Length. This is the honest number; anything less requires the party to run at Ep-4-density every session, which the game cannot sustain.
 
-**5 slack sessions of 21 total in the outline (Eps 5-25):** Eps 7, 9, 14, 18, 21. Ep 11 lost its ★ in the 2026-08-27 revision — it now carries Mars's realization + MoR, the standing-ground beat, Ortiz's agency scene and Alaia's faction reveal, which is not a slack session.
+> [!CAUTION]
+> **REAL ABSORBABLE SLACK IS ZERO. Do not trust a slack count in this file.**
+>
+> Five sessions carry a ★ (7, 9, 14, 18, 21) and **not one of them can absorb overflow**:
+> - **Ep 7** carries eight items (A9, R(Mira) begins, Mars's A7, A8, T1, T2, T4, B15) plus a medical emergency and the call to Nia. It is **MEDIUM**, not LIGHT, and it was over-loaded by the same 2026-08-27 revision that declared it protected. *(Compress T1/T2/A8 into a single combined beat — Reggie is at the party; that covers all three.)*
+> - **Ep 9** carries three arc-nodes (two MoRs + B3) — **MEDIUM** by this file's own legend.
+> - **Ep 14** was re-pointed at a **hard-floor** Vivian visit; hard floors are not slack.
+> - **Ep 18** carries Vivian's death, B3 lock-in, T3 and the Act III hinge.
+> - **Ep 21** is already flagged optional/compressible.
+>
+> **Ep 11 lost its ★** in the same revision and is **HEAVY** — four items across four locations, with a hard deadline on Mars's arc.
+>
+> **The honest budget is 27-28 sessions, not 25.** Calibration from actual play: Ep 4 budgeted ~150 minutes of scenes and delivered three of four, i.e. **real throughput is ~100-115 budgeted minutes per session, and the table consumes ~1.25-1.35× whatever the run-guide says.** Either accept 27-28, or take content out now. Do not plan against a slack number that does not exist.
 
 > [!WARNING]
 > **Act I's slack budget is already spent.** Ep 4's overflow consumed it. **Eps 7 and 9 are no longer available to absorb further overflow** — they are the moment-of-release sessions, and cannibalising them does not cost texture, it destroys the Act I close. Any further overflow must be paid for by **cutting content**, not by eating slack.
 >
 > **Where to find a session if one is genuinely needed:** Ep 13 (Bao) can move up and merge forward. Do NOT take it from Eps 7, 9, or 12.
 
+> [!WARNING]
+> **S1 FLATTENING DROUGHT, Eps 9-14.** Flattening beats are named in Eps 5, 6, 8 and 15 — and **nowhere in Eps 9 through 14**. That is six consecutive sessions with none, during exactly the phase `antagonist.md` says builds the soil for Act III's recognition. *(The numbering also jumps #2 → #4; one instance was lost in the edit.)*
+>
+> The cause is correctly diagnosed elsewhere in this file — the ledger episodes were quietly doing double duty as soil — but the stated remedy (bank time into Eps 15-18) **does not work**, because the soil has to be laid **before** the Founder arrives, not while he is on stage.
+>
+> **Name an S1 instance explicitly in each of Eps 9, 10, 11, 12, 13 and 14.** Candidates already in play: Ep 10 an estate lawyer's assistant over-agreeing with a wrong routing; Ep 11 **Ortiz mentioning, unprompted, that the reclassification request did not come from her supervisor — it came from the system, on a schedule**; Ep 13 an audience member asking Bao the party's own question, better phrased, and the room applauding a courteous non-answer. **This is the highest-leverage single fix in this file.**
+
 **Act II close (Eps 15-18) should be allowed to run to five sessions**, absorbing what the Act II open de-iteration reclaimed. The ledger episodes were quietly providing soil for flattening beats and institutional seeds; spending the reclaimed time on finishing early instead is how the Founder/Engineer/UX-Designer arrive with the party under-prepared — the precise failure mode in which the institution reads as a villain and invariant 6 breaks.
+
+---
+
+## In-game dates — PIN THESE
+
+> [!CAUTION]
+> **The Eps 5-14 block pins no in-game dates.** Eps 1-4 all carry them. **Vivian's Clock — this file's own "sharpest scheduling risk in the campaign" — is currently expressed entirely in session numbers, and a dying 98-year-old cannot be scheduled in session numbers.** If Eps 5-10 span eight in-game months she is dead before her hard floor; if they span three weeks the dying-woman pressure evaporates.
+
+| Ep | In-game date | Gap |
+|---|---|---|
+| 5 | **Monday, mid-Feb 2027** | +2 days from Ep 4 |
+| 6 | the following **Saturday**, late Feb 2027 | +5 days |
+| 7 | **mid-March 2027** (Mei's birthday) | +2-3 weeks |
+| 8 | **late March 2027** | +1-2 weeks |
+| 9 | the weekend after | +1 week |
+| 10 | **late April 2027** | +3-4 weeks |
+| 11 | **May 2027** | +2-3 weeks |
+| 12 | **June 2027** | +3-4 weeks |
+| 13 | **late June 2027** | +2 weeks |
+| 14 | **July 2027** | +2-3 weeks |
+
+**Vivian's Clock restated in months:** in person **by late April 2027**, second visit **by July 2027**. She dies around **Ep 18 / autumn 2027**.
+
+Per the standing time discipline: **jumps during exposition are fine; after Act I the plot should run more evenly.** The gaps above front-load the compression (Eps 5-9 span ~6 weeks) and then settle to a steady 2-4 weeks, which is the intended shape.
 
 ---
 
@@ -314,7 +381,7 @@ Per user directive: "*sub arcs are great and should be encouraged. but they need
 
 Per 2026-08-17 Expert 3 variety audit, fatigue-critical patterns in the outline as drafted:
 
-1. **Elder-visit-at-home** — 5 potential instances in 7 sessions. Substitutions embedded above: Rosa outdoors (Ep 6); Bea outdoors (Ep 8); Palo Alto industrial or corporate (Ep 10); Sunday-Vivian in hospital if Ep 5 (variety substitute).
+1. **Elder-visit-at-home** — 5 potential instances in 7 sessions. Substitutions embedded above: Rosa outdoors (Ep 6); Bea outdoors (Ep 8); Palo Alto industrial or corporate (Ep 10); Vivian-in-a-hospital-or-care-setting remains an unused variety substitute — but NOT in Ep 5, which has no Vivian scene. Earliest use is the Ep 10 in-person visit.
 2. **Records-hunt-in-archival-space** — 4 potential instances. Substitution embedded above: Ep 10 non-archival (garage-lab or legal conference room).
 3. **Domestic-private-conversation-about-the-past** — default DM drift even in non-repeat-shape sessions. Every session should include ONE physical activity (walking, cooking, driving, watching-crows) that anchors the scene in the body, not the conversation.
 

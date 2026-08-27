@@ -78,9 +78,9 @@ Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*)
 | L1 | Archivist-line current | Bea Ferro (Outer Sunset) | Bea's own ongoing ledger; current-generation |
 | L2, L3, L4 | **Eleanor Marsh's three** (Sacramento locker) | **Dakota** (Ep 3 acquired) | The three the party physically saw on Dakota's dining table in Ep 4. Marsh's own annotated ledgers, pulled into the Sacramento locker before she died in 1987 |
 | L5 | Palo Alto | executor (unnamed) — **unfound** | Estate of a Wiener-adjacent Cold-War-era researcher; the executor does not know what she has |
-| L6 | Bancroft | Rosa Vega (Berkeley) — **unfound** | Rosa was the 1979 Bancroft cataloguer; she kept custody informally after her official service ended |
-| L7 | San Bernardino | hoarder-collector (unnamed) — **unfound** | Private collector; the holder does not know what he has |
-| L8 | Central Valley | Buddhist temple monk(s) — **unfound** | Preserved out of politeness; the monks do not consult it |
+| L6 | Bancroft | Rosa Vega (Berkeley) — **read Ep 6, NOT acquired; Rosa keeps it** | Rosa was the 1979 Bancroft cataloguer; she kept custody informally after her official service ended |
+| L7 | San Bernardino | hoarder-collector (unnamed) — **GONE** | The unit was re-auctioned; the trail dies helpfully. Carries the deliberately-unfindable slack function. **Stage its death by Ep 12**; do not run a San Bernardino episode |
+| L8 | Central Valley | Buddhist temple monk(s) — **confirmed but never seen** | Preserved out of politeness; the monks do not consult it. **The party never sees this one** — a legitimate ending for a ledger, and it teaches diffuseness better than acquisition does |
 
 > [!IMPORTANT]
 > **Corrected 2026-08-27.** This table previously listed Palo Alto as **L2, held by Dakota**, left the Sacramento locker with only **two**, and invented a phantom **"L8 fourth-unfound, unknown holder"** to reach eight. All three were wrong:

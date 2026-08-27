@@ -113,20 +113,32 @@ Why 1878 specifically: Bodie's peak boom year; the Standard Mill's workforce is 
 
 **What the DM must know:**
 
-The 8 ledgers are the working-tool of **Bea Ferro's unbroken chain of archivists** (Ep 2 established the house has been owned by previous archivists going back decades). One ledger per archivist tenure; the chain has run 8 generations since the Annex 7 era (1948 → present, roughly one per generation, some tenures shorter/longer). Bea holds the current one. Three were pulled from active circulation into the Sacramento storage locker by Bea's immediate predecessor before she died in 1987 (see §3). Four remain scattered:
+> [!IMPORTANT]
+> **Corrected 2026-08-27.** This paragraph used to read that the 8 ledgers were *"the working-tool of Bea Ferro's unbroken chain of archivists — one ledger per archivist tenure, 8 generations since the Annex 7 era."* **That is wrong and it was load-bearing in the wrong direction.** Only **L1–L4** belong to the archivist line. **L5–L8 are held by an executor, a retired librarian, a hoarder and some monks — none of whom are archivists, and none of whom know the others exist.** Per [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) §Ledgers rule 2, keepers do not communicate; the tradition is diffuse *by cosmological necessity*. An unbroken institutional lineage owning all eight would contradict big-arc invariant 5 and would flatly contradict B1's own payoff line — *"there's no master ledger, is there. It's just eight people who each noticed the same thing and never met each other."*
+
+**The count is 8, and it breaks 4 + 4:**
+
+- **L1** — Bea's own current ledger.
+- **L2, L3, L4** — Eleanor Marsh's three, pulled out of circulation into the Sacramento locker before she died in 1987 (see §3), and recovered by Dakota in Ep 3. **These four are the archivist line.**
+- **L5–L8** — four ledgers that were never part of any chain. Each was started by someone who independently noticed the same thing, and each ended up wherever the world happened to put it. **They remain scattered:**
 
 > **Important succession invariant — see §36 for the full mechanic.** Archivists NEVER meet or train their predecessors. Succession happens by a subtle, naturally-occurring reality edit: when the current archivist dies, another person "coincidentally" steps into the physical, financial, and eventually procedural niche the predecessor left behind. The new archivist does not initially realize they have taken over anything; they grow into the role over months/years by discovering what the predecessor left behind. This preserves the chain even when a tenure ends abruptly.
 
 - **Palo Alto**, in a private library owned by the estate of a mid-20th-century AI researcher (a peer of Wiener's; not a household name). Held by an executor who inherited it without understanding what it was. **UNFOUND** — this is the Ep 10 arc-node. *(Corrected 2026-08-27: this bullet previously also claimed "Dakota accessed this one; it's one of the three he now has", contradicting itself within a single sentence. Dakota's three are Eleanor Marsh's three from the Sacramento locker — the ones the party physically saw on his dining table in Ep 4. See [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) §The 8 active ledgers.)*
 - **Berkeley**, in the flat-file of a librarian at Bancroft Library who catalogued it as an "anomalous ephemera collection" in 1979 and occasionally adds new entries when she personally witnesses something. She IS a former caster (per big-arc.md Act II Former Caster archetype); the ledger is her outlet for the pattern-sensing she can no longer act on.
-- **San Bernardino County**, in a rented storage unit; part of an intestate estate lot a hoarder-collector bought at auction in 2013. He has no idea what he owns.
+- **San Bernardino County** — was in a rented storage unit, part of an intestate estate lot a hoarder-collector bought at auction in 2013. **GONE as of the 2026-08-27 de-iteration: the unit was re-auctioned and the trail dies helpfully.** This ledger now carries the deliberately-unfindable slack function the deleted phantom eighth used to. **Stage its death by Ep 12** — a two-minute phone call to the facility is enough. Do NOT run a San Bernardino episode.
 - **A Buddhist temple's storeroom in the Central Valley**, given as a gift by a visiting scholar in the 1980s. The monks preserve it out of politeness without reading it.
 
-Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate. The chain is what connects Bodie's Annex 7 preservation (1942-1948) to Bea's Outer Sunset house today — one continuous institutional lineage rather than four independent explanations.
+Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate.
+
+**The archivist line (L1–L4) connects Bodie's Annex 7 preservation (1942–1948) to Bea's Outer Sunset house today.** The other four connect to nothing and to each other least of all. **That is the point, and it is the shape the party has to arrive at** — not a hidden institution, but the same noticing happening independently, eight times, with no one in charge. Resist the pull to tidy this into a lineage; the tidiness is exactly the wrong answer, and the party reaching for it is the S3 misread the campaign is built to dissolve.
 
 **Fire-by:** the ledger network is the physical bridge from Bea's local Bay Area role to the larger caster-network arc (Nia Chen and beyond) in late Act I / early Act II. When Nia introduces the network, *"we don't have a guild hall; we have ledgers"* is one of her lines.
 
-**Risk if unresolved:** "eight" is a promise. If Act II never engages the ledger network, Dakota's voicemail feels like a cheap tease. Bake at least three of the four remaining ledger discoveries into Act II investigation cadence.
+**Risk if unresolved:** "eight" is a promise. If Act II never engages the ledger network, Dakota's voicemail feels like a cheap tease.
+
+> [!WARNING]
+> **Corrected 2026-08-27.** This line used to end *"bake at least three of the four remaining ledger discoveries into Act II investigation cadence."* **That is now actively wrong and a DM following it would undo the de-iteration.** The four remaining are handled as: **Bancroft — read in Rosa's kitchen, not acquired (Ep 6); Palo Alto — acquired (Ep 10); Central Valley — confirmed to exist and be safe, never seen (Ep 12); San Bernardino — gone, the unit was re-auctioned.** The party ends Act II open holding **five of eight**, and that is the intended number. **B1 completes on RECOGNITION, not acquisition** — see `hook-ledger.md` B1. Keeping the promise means engaging the network, not collecting it.
 
 ---
 
@@ -138,7 +150,7 @@ Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passiv
 
 **What the DM must know:**
 
-The LLC was a discretionary trust — call it **Argonaut Records Holdings, LLC** — set up by Bea's 1987-decedent predecessor's estate lawyer to keep the storage unit indefinitely paid. The LLC dissolved in 1998 when the *next* archivist in the chain died (leaving Bea to take up the role without inherited infrastructure). The pre-paid locker was the 1987-decedent's deliberate act: an anchor she knew would outlast tenure changes.
+The LLC was a discretionary trust — call it **Argonaut Records Holdings, LLC** — set up by Bea's 1987-decedent predecessor's estate lawyer to keep the storage unit indefinitely paid. The LLC dissolved in 1998 when the *next* archivist in the chain died (leaving Bea to take up the role **without inherited administrative infrastructure** — no LLC, no lawyer, no trust. She did inherit the *house* and everything in it, per §36; the distinction matters). The pre-paid locker was the 1987-decedent's deliberate act: an anchor she knew would outlast tenure changes.
 
 Inside: three of the eight ledgers plus loose materials. Margin annotations are in the 1987-decedent's hand, cross-referencing observations across multiple ledgers before Bea's tenure. **One margin note names a person still alive today** — a very old former technician who worked at Field Annex 7 as a young hire (~1946-1948), now age ~98, still lucid, living in the Sacramento suburbs. Dakota's "OTHER thing that turned out bigger" is that this person is *alive and reachable* — a living bridge to the wartime pioneer generation.
 
@@ -470,7 +482,7 @@ A retired couple photographing ghost towns for a personal project; Vega cleared 
 Treat Sacramento as a **coordinated Act II arc-node** rather than three independent leads. This tightens the campaign and gives {{pc:1}} a solo reason to travel there that isn't Dakota-driven (agency).
 
 **The Annex → Archivist chain.** Four loose ends unify into one institutional lineage:
-- The 8 ledgers (§2) — one per archivist generation since 1948
+- The 8 ledgers (§2) — **four** of them the archivist line since 1948 (L1-L4); the other four independent and unconnected
 - Dakota's find (§3) — the 1987-decedent predecessor's storage cache
 - The Annex 7 preservation (§4) — the institutional root
 - The 1950s Yale padlock (§10) — the McCarthy-era re-seal
@@ -935,14 +947,14 @@ The storage unit's contents: three of the eight ledgers (§2) plus margin-annota
   - **(i) Bea's insurance-investigator work** (per §36 — she investigates unlikely coincidences; the substrate's cheapest coordination). If it's Bea, she wouldn't remember; the query was a routine unlikely-coincidence check. **This is the most cosmologically elegant and the working lean, but do NOT surface Bea's role until at least Ep 7 to keep her held-mystery posture intact.**
   - (ii) Heirs-locator firm or academic researcher on defunct Sacramento shell corps.
   - (iii) Dissolved-trust-audit records-cleaning process.
-- **~2018–2025:** Morgan's father is informally warned by a telecom-industry colleague that his security-adjacent past is showing up in queries — he does not know the specifics, just that "someone is looking." He spends 7 years quietly arranging his exit while continuing to appear to work normally. **This is candidate (a) *father-was-already-in-motion* — the working answer for the 9y/2y seam.** See §6 TODO block for the full four-candidate reading list.
-- **~2025:** Morgan's father completes the arrangements and disappears. Missed birthday, phone calls, then all of them. Now living under a different name in the Sacramento area (per §6 canon).
+- **~2018–2025:** Morgan's father is informally warned by a telecom-industry colleague that his security-adjacent past is showing up in queries — he does not know the specifics, just that "someone is looking." He spends about six and a half years quietly arranging (Feb 2018 - autumn 2024; see the §6 canonical date table) his exit while continuing to appear to work normally. **This is candidate (a) *father-was-already-in-motion* — the working answer for the 9y/2y seam.** See §6 *What is committed, and what stays open* for the full four-candidate reading list.
+- **autumn 2024:** Morgan's father completes the arrangements and goes quiet (last contact). **Feb 2025:** Morgan files the missing-persons report. See §6 for the locked date table. Missed birthday, phone calls, then all of them. Now living under a different name in the Sacramento area (per §6 canon).
 - **Feb 2027 (Ep 5 in-game):** Ortiz's routine SFPD Missing Persons cold-case cross-match surfaces the 2018 hit and brings it to Morgan.
 - **2035:** The pre-paid locker contract lapses. Nobody's arranged a renewal. What happens then is undecided canon — reserved-card for a possible late-Act-III beat.
 
 ### The 9y/2y seam — reconciliation
 
-The 2018-vs-2025 gap Atticus flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 TODO block for the four candidate reads; DM's working lean is (a) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `brainstorm-open-questions.md` §Morgan-father-timeline-seam.
+The 2018-vs-2025 gap Atticus flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 *What is committed, and what stays open* for the committed reading (a) plus the two still-open ones (b)/(d); **(a) is COMMITTED** (2026-08-27) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `brainstorm-open-questions.md` §Morgan-father-timeline-seam.
 
 ### Player-facing (what the party can eventually learn without the DM committing more than needed)
 
@@ -1182,7 +1194,7 @@ Kaya's dawning theory should **NOT be confirmed or denied** at the table — sil
 - **Index cards** are more *observational* — less rigid, easier to write, expanded by every archivist. Each archivist accumulates many. They're the archivist's active working notes on unlikely coincidences they encounter.
 - **Ledgers** are *fixed anchors in reality* — bound documents that serve a different (heavier) function. Each archivist has one, sometimes a small number more. They can be moved (as with the three now in Sacramento storage) but not casually rewritten. There is some overlap in what the two record — an index card may become a ledger entry if the pattern proves durable.
 
-**How long has this been going on:** unknown. The chain runs at least back to Annex 7 (1948) for eight documented generations (§2). Whether it runs earlier is not established; there is a plausible pre-1948 archivist lineage the DM has NOT committed to. Keep this open.
+**How long has this been going on:** unknown. The archivist chain runs at least back to Annex 7 (1948); **four** ledgers document it (L1-L4 per §2). The other four ledgers are not part of it and never were. Whether it runs earlier is not established; there is a plausible pre-1948 archivist lineage the DM has NOT committed to. Keep this open.
 
 **Bea's specific origin story (2026-08-22 canon detail):**
 
@@ -1215,7 +1227,7 @@ This disorganization is **cosmologically enforced, not accidental**: records hav
 
 **This ruling does not weaken §36's succession invariant — it strengthens it.** The invariant forbids transmission *between persons*: meeting, training, handing off. Same-house succession is transmission via **place and artifact, with no person present**. Bea has Marsh's cards for the same reason she has the kitchen: she moved in. Nobody taught her anything. (This also supersedes the older "from a different residence" line in §27, and it is what `anchors-cards-ledgers.md` was already running on: *"The house itself is a stronger anchor than any individual card. Continuous inhabitation by the archivist role since the previous owner is what makes the cards preserved."*)
 
-**What it unlocks:** Bea can compare hands against Marsh-written cards (the Ep 5 three-hands beat depends on this). T10 gets sharper and less mystical — her fearlessness about dying is not a belief; she has physically stood in the evidence that this happened twice before her, in this kitchen, and will happen after her. Her *"I don't know what's in the garage"* stops being a refusal and becomes a fact. And the house becomes a defensible anchor-site candidate for the §11 beat.
+**What it unlocks:** Bea can compare hands against Marsh-written cards. *(The three-hands beat — Marsh's / the intermediate's / Bea's, all in one card-box — was designed for Ep 5, cut when Bea's scene was reduced to the card in the door, and is now available for Ep 7 or Ep 8 whenever she is next on-screen. It is a good beat; don't lose it.)* T10 gets sharper and less mystical — her fearlessness about dying is not a belief; she has physically stood in the evidence that this happened twice before her, in this kitchen, and will happen after her. Her *"I don't know what's in the garage"* stops being a refusal and becomes a fact. And the house becomes a defensible anchor-site candidate for the §11 beat.
 
 **The coincidence is now visible and large** — three consecutive people acquiring one specific Outer Sunset house across ~40 years. **Own it; do not hide it.** Hold a mundane mechanism in reserve (a small family landlord who sold to sitting tenants; a probate that kept routing through the same office) and deploy it **only if a player digs**. If they don't dig, the coincidence stands.
 
