@@ -1053,7 +1053,7 @@ Kaya's dawning theory should **NOT be confirmed or denied** at the table — sil
 - **Reserved-card options** (if the party ever specifically follows up):
   - Jimmy grew up and never returned; unremarkable.
   - Jimmy sensed the substrate as a child (like Reggie does now — see §9 canon) and it shaped his life in a small way; he became a scientist or a musician or a monk. Never a caster. Ambient background.
-  - Jimmy is one of the "other archivists" Marsh named obliquely — the current holder of one of the four unaccounted ledgers (see §2). This is a high-cost card because it wires Jimmy into the load-bearing ledger network; play only if the DM wants to bring him back as a live NPC in mid-Act-II.
+  - ~~Jimmy is one of the "other archivists" Marsh named obliquely — the current holder of one of the four unaccounted ledgers.~~ **CLOSED 2026-08-27.** There are no unaccounted ledgers: 1 (Bea) + 3 (Dakota's) + 4 named-and-unfound = 8, and the phantom eighth has been deleted. This card died with it. Default (a) — ambient texture — stands, and T15 is struck as a live option in the hook-ledger.
 
 **Default lean:** ambient texture, retire-to-flavor. Do NOT invent Jimmy backstory unless the party pushes.
 
