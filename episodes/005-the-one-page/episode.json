@@ -1,0 +1,20 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "The One Page",
+  "summary": "Monday morning. Detective Ortiz finally has something on paper — a 2018 property-title cross-match that puts {{pc:1}}'s father's signature on a 1994 Argonaut Records Holdings filing, and a seven-year hole nobody thought was worth a phone call. On the drive east, {{pc:3}} reads the negative space in Loewe's excised pages and finds six figures in an arrangement she cannot interpret. In Berkeley, the ranger from Bodie buys her own coffee and tells them almost nothing, warmly. And on an Outer Sunset porch at dusk, in a dark house whose owner has not been seen since Thursday, an index card is wedged in the storm door at eye height with a name and a number on it.",
+  "prerequisites": [
+    "001-unattended-baggage",
+    "002-the-archivists-index",
+    "003-bodie-convergence",
+    "004-the-sacramento-visit"
+  ],
+  "hooks": [
+    "Two days after Sacramento, and the party is still travelling in two cars — out of habit, because nobody re-negotiated it.",
+    "{{pc:1}} caught a discrepancy in the detective's voicemail at the last session. He was right. This is the episode where being right gets him something.",
+    "The park ranger's text — 'see you in Berkeley soon' — is the campaign's outstanding promise. Pay it."
+  ],
+  "scenes": [],
+  "dmDocs": [
+    "dm/run-guide.md"
+  ]
+}
