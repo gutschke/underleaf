@@ -1,0 +1,20 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "2026-06-20 — Unattended Baggage",
+  "date": "2026-06-20",
+  "inGameDate": "Late summer 2026 (a Tuesday night, SFO→Taipei)",
+  "episode": "001-unattended-baggage",
+  "scenes": [
+    "scenes/01-wheels-up.md",
+    "scenes/02-the-threads.md",
+    "scenes/03-the-hack.md",
+    "scenes/04-the-stakes.md",
+    "scenes/05-the-snoop.md",
+    "scenes/06-the-bay.md",
+    "scenes/07-the-gate.md",
+    "scenes/08-lights-out.md"
+  ],
+  "presentPcs": ["Morgan Reyes", "Priya Iyer", "Mira Sun", "Dakota Whitmore", "Marcus \"Mars\" Faraone"],
+  "summary": "Five strangers in upper-deck business class on a Pacific crossing to Taipei. A mechanical fault, a flight attendant's strange kindness, and the first hint that their lives had been quietly knotted together for longer than any of them realized. Two events happened that nobody could account for: an ARINC 600 connector turned up sealed in Morgan's carry-on with no manufacturing trail, and a combination lock opened on 1-3-2-4 to let them into the engineering bay. The party are the only people whose memories still track the pre-edit shape of the evening; for everyone else, the world has always been this way.",
+  "notes": "Retrospective log, written 2026-08-27. The exact play date was never recorded — Eps 1 and 2 were played about a week apart at the end of June 2026, and the DM confirmed precise dates don't matter. 2026-06-20 and 2026-06-27 were chosen as consistent Saturdays. Character creation appears to predate this session (the PC exports on the DM's disk are dated 2026-05-31), though the app-side chargen event log was not captured until 2026-08-15. Load-bearing DM detail lives in dm/the-cable.md."
+}

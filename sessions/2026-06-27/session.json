@@ -1,0 +1,27 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "2026-06-27 — The Archivist's Index",
+  "date": "2026-06-27",
+  "inGameDate": "~3 weeks after Ep 1 (late summer / early autumn 2026)",
+  "episode": "002-the-archivists-index",
+  "scenes": [
+    "Reconvene at Ocean Beach + teenagers with a bonfire",
+    "Bag chain-of-custody inspection + Waymo to SFO",
+    "SFO ticketing — two frontal approaches, both fail",
+    "Reggie sighted in the departure hall → 11pm Daly City In-N-Out",
+    "Starbucks the next morning — Bea finds them",
+    "The Index — Bea's house",
+    "Lights Out"
+  ],
+  "presentPcs": ["Morgan Reyes", "Priya Iyer", "Mira Sun", "Dakota Whitmore", "Marcus \"Mars\" Faraone"],
+  "durationMinutes": 90,
+  "summary": "Weeks after Flight 887, the five reconvened at Ocean Beach and followed the empty anti-static bag back toward SFO. A teenager at a bonfire helped them notice that the chain of custody stopped at the airport. Two frontal approaches at ticketing failed and got them referred to a legal department. They spotted Reggie in the departure hall by coincidence; he was visibly rattled by Dakota and by Yui's name, and agreed to meet them at the Daly City In-N-Out at 11pm. The footage showed everything and proved nothing. The next morning at a Starbucks, Bea Ferro found them — and that afternoon, at her house in the Outer Sunset, showed them the index cards she had been keeping on exactly this kind of thing for forty years.",
+  "playedNotes": [
+    "Run as the compressed 4-scene variant rather than the canonical 7 (see episodes/002-the-archivists-index/dm/pacing.md).",
+    "The Ocean Beach teenagers were added to a second group chat — the origin of hook T4.",
+    "The flight-attendant scene was vestigial: the party tried, nothing came of it.",
+    "The compressed shape let Bea arrive as a coincidence coming to the PCs, which is thematically load-bearing.",
+    "Marsh's galaxies-sentient clipping did NOT surface — most trio-plus material was cut. This is hook B15, and it needs re-planting."
+  ],
+  "notes": "Retrospective log, written 2026-08-27. Exact play date not recorded; see sessions/2026-06-20/session.json. The pacing.md heading dates the compressed variant 2026-08-15, which is when the variant was written up, not when it was played."
+}
