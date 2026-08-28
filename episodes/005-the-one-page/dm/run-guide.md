@@ -7,9 +7,9 @@
 >
 > **Session target 2.5h; ceiling 3h** of active play, per the table's real norm. Assume all five PCs present.
 >
-> **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need to play. Print the **one-page pacing card** with it — that card is the clock, the gates and the cut order at a glance, and it is a companion, not a replacement.
->
-> **Optional deeper lookup** during play is in the printed **Ep 5 continuity insert** that ships in the same packet. You should not need it; nothing in this guide depends on it.
+> **Run the session from this document.** The one-page **clock card** rides alongside it and owns the timings, the gates and the cut order. The **continuity insert** is optional lookup.
+
+**{{pc:1}} · {{pc:2}} · {{pc:3}} · {{pc:4}} · {{pc:5}}** — character (player) throughout.
 
 ## Contents
 
@@ -123,13 +123,25 @@ She is also, per DM ruling, **allowed to be elusive** — recurring but hard to 
 
 ## Scene 0 — Recap
 
-**What happens:** you get everyone back into Saturday before you start Monday. Ep 4 ended with the party angry at {{pc:4}}, split across two cars, holding a notebook with pages cut out of it, and with a text arriving from a park ranger. **Two days have passed in fiction and nothing has happened in them.**
+**What happens:** you get everyone back into Saturday before you start Monday. **Two days have passed in fiction and nothing has happened in them.**
+
+**The recap, if you want to give it rather than draw it out of them** — six sentences:
+
+> *"Saturday, {{pc:4}} finally told you where he'd been: to Bea in the Outer Sunset, then to a self-storage unit in Sacramento leased by a company that dissolved in 1998. He came back with three ledgers annotated by a woman called Eleanor Marsh, dead since 1987, and a margin note pointing at a name — Vivian Loewe, ninety-eight years old, still living outside Sacramento.*
+>
+> *You didn't take it well. You drove up in two cars because several of you wouldn't get in one with him. {{pc:2}}'s migraine came on near Vacaville. {{pc:5}} talked your way past the caregiver at the door.*
+>
+> *Vivian sized you up over tea, told you about her father and about the crows at Bodie, and gave {{pc:4}} her father's private notebook — with six pages cut out of it. She named the one person still alive who might know what he was thinking: Rosa Vega, in Berkeley.*
+>
+> *On the way out, the park ranger from Bodie texted {{pc:1}}: see you in Berkeley soon.*
+>
+> *That was Saturday. Yesterday was nothing. It's Monday morning."*
 
 Not optional, and not free. Ep 4 was dense, angry, and ended on a cliffhanger text. Go around the table and let each player say what their PC is carrying into Monday — this doubles as the read on who is still angry at {{pc:4}}.
 
 **Ask {{pc:4}}'s player directly** whether {{pc:4}} has told anyone anything more since Saturday.
 
-**Account for Sunday.** Ep 4's designed Ending B had Elena texting the party to come back *Sunday*; that ending never fired, so **Sunday was an ordinary day and nobody heard from Sacramento.** Have that answer ready — somebody will ask, and improvising it risks contradicting the Ep 6 mail beat.
+**Account for Sunday.** Ep 4's designed Ending B had **Elena** — Vivian's live-in caregiver — texting the party to come back *Sunday*; that ending never fired, so **Sunday was an ordinary day and nobody heard from Sacramento.** Have that answer ready — somebody will ask, and improvising it risks contradicting the Ep 6 mail beat.
 
 *(Elena's un-landed Ep-4 line about Vivian probably not having long is NOT spent here. It is displaced into her written note on the Ep 6 envelope — understatement rather than a speech. Do not let it slip out in tonight's text.)*
 
@@ -226,7 +238,7 @@ It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's di
 
 - The **storage-unit address** on the prepay instrument — **the same one {{pc:4}} went to.** Let them make that connection; it is the only "discovery" beat in the scene actually still available.
 - **Argonaut Records Holdings, LLC**, active 1988–1998, dissolved 1998. The prepaid facility fee runs through **2035**. No successor entity.
-- Cross-matched SSNs, redacted except one: **{{pc:1}}'s father**, against a **1994 filing naming him "technical consultant, authorized access."**
+- Cross-matched SSNs, redacted except one: **{{pc:1}}'s father — Daniel Reyes** — against a **1994 filing naming him "technical consultant, authorized access."** He worked telecom-adjacent his whole life; this is the first document anyone has ever shown {{pc:1}} that puts his father's name somewhere unexpected.
 
 > [!NOTE]
 > **The voicemail's caveat is now spent, and {{pc:1}}'s player will notice.** The played audio said *"matching name, **partial-match** number… I'm not saying it was him."* The page names him. Give Ortiz the line rather than letting the shift pass unremarked:
@@ -281,6 +293,16 @@ Let the party explain, or refuse to. She listens.
 
 *(At his modifiers 6− is a ~9% tail — plan for the 7–9. Note the 7–9 result is also Level 2 of the A6 ladder, so it does the same work whether he rolls or not.)*
 
+### IF ASKED: "Who requested it?" *(they will, inside ninety seconds)*
+
+Have the answer ready:
+
+> *"A business-services vendor out of Sacramento. Records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred. They dissolved in 2021."* (beat) *"So: somebody paid a vendor to pull it, and the vendor is gone, and the paperwork doesn't say who paid. That's not sinister, that's just how the industry works. It's also why I can't tell you anything else."*
+
+That is opaque **and** concrete, and it closes the obvious question without opening a lead.
+
+**Do not reveal:** who wrote the margin note; **who ultimately commissioned** the 2018 query; anything about reading (a).
+
 ### Beat 1b — The two documents disagree *(4–5 min)* — {{pc:4}}'s beat
 
 ***MUST LAND — nudge, and if the nudge fails, have Ortiz do it.***
@@ -295,7 +317,11 @@ Let the party explain, or refuse to. She listens.
 
 **Put both objects on the desk.** Two pieces of paper beats a phone screen.
 
-**They match on everything except the signatories.** Ortiz's page lists **three** names against the 1994 filing; {{pc:4}}'s copy lists **two**, and the missing one is not {{pc:1}}'s father — it is a name neither document explains and nobody has heard. **Both documents are authentic.** Neither is a forgery, neither is a copy artifact.
+**They match on everything except the signatories.** Ortiz's page lists **three** names against the 1994 filing; {{pc:4}}'s copy lists **two**.
+
+**The name that appears on Ortiz's copy and not on {{pc:4}}'s is `H. ODEGAARD`** — initial and surname only, no title, no address. **Nobody has ever heard it.** Use that name; do not improvise a different one, because it is canon from tonight and Ep 6 onward can use it.
+
+*(What you hold and never say: you have not decided who Odegaard is either. That is correct. It is a name on one copy of one filing, and the campaign is under no obligation to explain it — but it must be the **same** unexplained name every time it comes up.)* **Both documents are authentic.** Neither is a forgery, neither is a copy artifact.
 
 > [!WARNING]
 > **Do NOT use the prepay end-date as the differing field.** 2035 is attested three times — §27, §3, and in ballpoint on the back of Bea's 1979 index card, **which {{pc:4}} photographed at her house.** The party holds a third copy, so the beat's premise (nothing to adjudicate against) collapses the moment someone scrolls back. Signatory count has no third attestation; dissolution month also works.
@@ -357,16 +383,6 @@ Then, quieter, off the record:
 
 **Delivery:** *"seven years, near enough."* Never *"exactly seven years to the day."* A tired detective is precise; a tired detective **emphasising** precision is the author talking.
 
-### "Who requested it?" — they will ask this in the first ninety seconds
-
-Have the answer ready:
-
-> *"A business-services vendor out of Sacramento. Records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred. They dissolved in 2021."* (beat) *"So: somebody paid a vendor to pull it, and the vendor is gone, and the paperwork doesn't say who paid. That's not sinister, that's just how the industry works. It's also why I can't tell you anything else."*
-
-That is opaque **and** concrete, and it closes the obvious question without opening a lead.
-
-**Do not reveal:** who wrote the margin note; **who ultimately commissioned** the 2018 query; anything about reading (a).
-
 ### Beat 3 — S1 flattening #1 *(90 sec)*
 
 **What happens:** a dispatcher walks past Ortiz's desk and, without looking at the paperwork, tells her the 2018 record should be logged under the 2025 file — because the case-management software already grouped them that way. Ortiz half-agrees and moves on. **Nobody chose this and nobody is troubled by it, and the seven-year gap she just said bothers her has now been filed out of existence.**
@@ -400,7 +416,7 @@ She photographs nothing and offers nothing. **She is not being obstructive; a de
 
 **Beat 1b depends on this.** Without a photograph, the comparison is {{pc:4}}'s paperwork against a page that has already left the building — and any skeptic at the table gets the easy out that somebody misremembered.
 
-**If nobody thinks of it and you don't want to hand it to {{pc:5}}:** Ortiz suggests it herself, casually, before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him ninety seconds later, which is worse for her and better for the scene.
+**If nobody thinks of it and you don't want to hand it to {{pc:5}}:** Ortiz suggests it herself, casually, before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him ninety seconds later.
 
 **This is what makes S1 land at a table not yet primed to notice flattening.** Ambient too-agreeable NPCs are atmosphere; a document going out of reach is a consequence.
 
@@ -458,9 +474,7 @@ They travel split again — **out of habit, not out of a decision.** Nobody re-n
 
 ### If you are ahead — play it instead *(10–15 min)*
 
-Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is a good scene.** It is also the first thing that should go, because its two load-bearing beats — the handover and the notebook read — have been moved somewhere safer.
-
-**Where its beats went:**
+Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is a good scene.** **Its two load-bearing beats already happened elsewhere:**
 
 - **The notebook handover and the split being named** → Scene 1 Beat 4, on the sidewalk outside SFPD, while all five are still together.
 - **{{pc:3}}'s notebook read** → Scene 3 Beat 1, at the Berkeley counter, which is a **better** room for it: the read is private either way, but at a coffee bar the other four are ordering and milling instead of watching you type on your phone in silence.
@@ -492,13 +506,25 @@ Four stools, five PCs, plus her. **Somebody is always standing, and somebody alw
 
 Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
 
+### What you need to know before this beat *(context, not read-aloud)*
+
+**The notebook.** A **slim leather journal** that Erik Loewe — Vivian's father — kept through his retirement. The cover is worn smooth in two specific places where a thumb held it for thirty years. Vivian handed it to {{pc:4}} on Saturday and has **never read it herself**, out of respect for her father's memory.
+
+**What's in the pages that remain:** ordinary retirement-years notes. Weather, reading, correspondence, the garden. Nothing anyone would keep secret. **That is what makes the gap conspicuous.**
+
+**What was cut:** pages **47–52**, removed with a blade. Vivian's account: *"Twice — I think I saw him do this three times — he sat at his desk and cut pages out. Not shredded. Cut."* He did it himself, unhurried, at his own desk, in his own house.
+
+**{{pc:3}}'s ability.** She perceives the **outline of what is missing** — the negative space where something has been erased from a record or an environment. She discovered it at Bodie in Ep 3 reading an edited trail map, and used it again on Saturday at Vivian's, reading a wheelchair ramp that isn't there any more. **She has never told anyone what it feels like.** It is not a spell she casts on purpose; it is something she notices when she concentrates on an absence.
+
+> **Her two prior uses, for the Level-2 line below:** the **map at Bodie** (a visitor-centre flyer edited down from a copper-print original — she saw the outline of a building that had been removed) and the **ramp at Vivian's** (a wheelchair ramp long gone from the front walk; she kept it to herself). **The "fourth time" in that line is Kai** — she has never had a name for what she does, but she has been doing it since she was four years old, to a bedroom. **Do not say that. It is the whole point of the line that she supplies it.**
+
 ### Beat 1 — {{pc:3}} reads the notebook *(10–12 min)* — {{pc:3}}'s beat
 
 **She does it at the counter, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and standing around a coffee bar is the one place a DM can hand one player a note without four people watching him type.
 
 Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 
-**Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** They are in a moving vehicle so there is no stepping into another room; a text to the player's phone is clean and costs nothing.
+**Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** A folded note, or a text to her phone — either works at a coffee bar, and neither needs the room to go quiet.
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
 
 | Result | What she gets |
@@ -557,7 +583,7 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 > **She needs to know exactly what happened in Building 7 after she left** — precisely, in order, who was where. She asks like someone taking a statement she will write down later. And **she notices if they shade it.**
 
-That single want turns a warm scene into a negotiation across an information asymmetry: they want to know what she is, she wants to know what they did, and neither side is willing to go first. **This is the interpersonal-conflict register the session claims in its header** and otherwise only delivers in a car.
+That single want turns a warm scene into a negotiation across an information asymmetry: they want to know what she is, she wants to know what they did, and neither side is willing to go first. 
 
 If they're straight with her, she gives more in Beat 6. If they manage her, she gives less — and says so.
 
@@ -571,7 +597,7 @@ Peer-to-peer, no elder's patience, no card spent. It is the best three minutes o
 
 ### Beat 5 — The QR codes, mechanically *(2 min)*
 
-{{pc:1}} is an RF/SDR hobbyist. Let him show her the suffix on his card; let her pull her own log up on her phone and confirm it, matter-of-factly. Yes, per-visitor suffixes. Yes, that is how she knew they came back to Building 7. No, it is not the park's idea. **U3 closes** — the orphaned channel becomes the thing that already worked, which is better than it quietly disappearing.
+{{pc:1}} is an RF/SDR hobbyist. Let him show her the suffix on his card; let her pull her own log up on her phone and confirm it, matter-of-factly. Yes, per-visitor suffixes. Yes, that is how she knew they came back to Building 7. No, it is not the park's idea. **U3 closes** — the orphaned channel becomes the thing that already worked, which closes the thread cleanly.
 
 Two minutes of concrete business beats five minutes of atmosphere.
 
@@ -605,7 +631,8 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 
 **Two things, and she offers both unprompted before she goes.** How straight they were with her in Beat 3 changes the warmth, not the content:
 
-1. **The referral, and she brings it up herself.** *"My mother has her own work. She's up the hill. Go and knock — but call first, she hates a surprise."* Peer-to-peer, rather than an elder's cryptic instruction. **If Beat 7 fires before you have delivered this, she says it over her shoulder on the way out** — losing it costs Ep 6 its opening.
+1. **The referral, and she brings it up herself.** *"My mother has her own work. She's up the hill. Go and knock — but call first, she hates a surprise."*
+   **Her mother is Rosa Vega** — Berkeley Hills, and the woman Vivian named on Saturday as the one person still alive who might know what her father was thinking. **The party should leave knowing the ranger from Bodie and the name Vivian gave them are mother and daughter.** If they don't connect it, Alaia says the surname. Peer-to-peer, rather than an elder's cryptic instruction. **If Beat 7 fires before you have delivered this, she says it over her shoulder on the way out** — losing it costs Ep 6 its opening.
 2. **A boundary, stated plainly rather than deflected:** she will not talk about her mother's past. *"That's hers. Ask her."*
 
 ### Beat 7 — She leaves early *(3 min)*
@@ -642,7 +669,21 @@ Wedged in the storm door, at eye height, where it could not be missed and could 
 
 **Do not have her come home. Do not have her call. Do not explain the card.**
 
-### They are going in — here is the house
+---
+
+**Play Scene 4 in this order. It is five steps and the session ends on step 5.**
+
+| # | | |
+|---|---|---|
+| **1** | Arrival, the dark house, **the card in the door** | 3 min |
+| **2** | **The break-in** — assume it happens | 7 min |
+| **3** | **The argument:** do we call this number tonight? | 4 min |
+| **4** | **The two texts land DURING step 3** — not after | 2 min |
+| **5** | **The call.** Four rings. Voicemail. **Stop.** | 4 min |
+
+---
+
+## Step 2 — The break-in
 
 {{pc:3}} picks a Kwikset in under a minute, {{pc:1}} knows every service door, {{pc:5}} knows every locked building on the waterfront, and {{pc:4}}'s whole focus is getting through a door he shouldn't be behind. **Assume the break-in happens.**
 
@@ -654,7 +695,58 @@ They will feel worse for having gone in, which is correct. **Do not reward the b
 
 **Her absence is mundane.** She is fine and she turns up in Ep 8. Play the ambiguity straight-faced and let their dread be their own — never confirm it either way.
 
-### What the number does
+## Step 3 — The argument: do we call tonight?
+
+Do not let five people stand in the dark and simply *receive an object*. Put a decision on the porch:
+
+> **Do we call this number tonight?**
+
+That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to know who they're calling first, and somebody will point out it is nearly ten at night. **The session ends on the party choosing**, not on being handed something.
+
+*(What the number does is in [Decide these before the session](#decide-these-before-the-session--the-party-will-force-them-tonight). Short version: voicemail, no callback tonight, and a text back the next morning if they leave a message.)*
+
+---
+
+## Step 4 — The two texts
+
+**Run these ON THE PORCH, during the call-or-don't argument — not as a separate scene afterwards.** If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
+
+Two phones go off within a minute of each other, while they are still standing there.
+
+**{{pc:2}}'s**, from **Elena — Vivian's live-in caregiver**, hospice-trained, the warm door of that household and the person who let all five of them in on Saturday: Vivian would like to send her something. Not *come and get it* — **send.** She'll post it this week.
+
+*(This is your one allowed mail-substitution for Vivian. See the hard floor in the post-session notes: she must appear **in person by Ep 10**. Five hooks route through a 98-year-old woman, and mail cannot carry them.)*
+
+**The group chat**, from the Ocean Beach teenagers. Not thread-maintenance — give Ren **one specific detail about a day the party was demonstrably elsewhere**: he thought he saw one of them at the beach on Saturday afternoon, waved, and they didn't wave back. Saturday afternoon the party was in Sacramento, in Vivian's front room.
+
+He is not worried about it. He mentions it the way you mention a near-miss. Nothing follows, nobody explains it, and **the DM never resolves it** — this is ambient wrongness, not a clue. Same fifteen seconds as a generic check-in, actual unease. **T4/U6 fires** after two sessions of silence.
+
+*(This does not violate the canary-group discipline: the teenagers notice things and report them casually; they are not investigating and are not in danger.)*
+
+> [!NOTE]
+> **Standing cadence, starting now.** Three threads must not go quiet. Each costs 15 seconds:
+>
+> - **The teenagers** — a group-chat line every 2-3 sessions. This session is one. ✓
+> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available: the notebook read is *literally* her reading a hole where something was.** See the escalation ladder below.
+> - **{{pc:1}}'s father** — Tier-1 cameo roughly once per act, from Ep 11. **Not this session**; Ortiz's page is the thread's content tonight.
+> **Audit every planning cycle: when did each last appear, and in what tier?** More than three sessions ago means fix it in the session you are planning. These threads die of neglect, not of bad scenes.
+
+
+
+> [!IMPORTANT]
+> **Then break the moment on purpose, and say so.** All five PCs hit 5/5 tonight, and advancement is a five-option menu — *a new focus*, *a relationship with an NPC who now appears when called for* — which is a conversation, not a checkbox. **That is 15–20 minutes and it cannot happen inside the ringing phone.**
+>
+> **DECIDED: advancement goes to the group chat.** You send a summary after every session anyway — put it in there. *"Everyone's at five marks. Pick an advancement and tell me before next time: +1 stat, a category mastery, a new tag, a new focus, or a relationship with an NPC who shows up when you call for them."*
+>
+> **So nothing lands after the phone rings.** Let the silence sit until somebody at the table breaks it, and end there. The advancement conversation is better in writing anyway — it gives them a week to think instead of ninety seconds at 10:40pm, and **a new focus chosen properly is worth more than one chosen tired.**
+>
+> **If they don't call**, the last image is five people who couldn't agree, standing in the dark, with the card. That is also good — and it is theirs.
+>
+
+
+---
+
+## Step 5 — The call
 
 ***FINE TO SKIP — but they will almost certainly call.***
 
@@ -673,62 +765,6 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 
 **If a player asks how she knew:** she isn't there to ask. That is the point. Log any theories privately.
 
-### The two texts — during the argument, before the call
-
-**Run this ON THE PORCH, during the call-or-don't argument — not as a separate scene afterwards.** If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
-
-Two phones go off within a minute of each other, while they are still standing there.
-
-**{{pc:2}}'s**, from Elena: Vivian would like to send her something. Not *come and get it* — **send.** She'll post it this week.
-
-*(This is your one allowed mail-substitution for Vivian. See the hard floor in the post-session notes: she must appear **in person by Ep 10**. Five hooks route through a 98-year-old woman, and mail cannot carry them.)*
-
-**The group chat**, from the Ocean Beach teenagers. Not thread-maintenance — give Ren **one specific detail about a day the party was demonstrably elsewhere**: he thought he saw one of them at the beach on Saturday afternoon, waved, and they didn't wave back. Saturday afternoon the party was in Sacramento, in Vivian's front room.
-
-He is not worried about it. He mentions it the way you mention a near-miss. Nothing follows, nobody explains it, and **the DM never resolves it** — this is ambient wrongness, not a clue. Same fifteen seconds as a generic check-in, actual unease. **T4/U6 fires** after two sessions of silence.
-
-*(This does not violate the canary-group discipline: the teenagers notice things and report them casually; they are not investigating and are not in danger.)*
-
-> [!NOTE]
-> **Standing cadence, starting now.** Three threads must not go quiet. Each costs 15 seconds:
->
-> - **The teenagers** — a group-chat line every 2-3 sessions. This session is one. ✓
-> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available: the notebook read is *literally* her reading a hole where something was.** See the escalation ladder below.
-> - **{{pc:1}}'s father** — Tier-1 cameo roughly once per act, from Ep 11. **Not this session**; Ortiz's page is the thread's content tonight.
-> **Audit every planning cycle: when did each last appear, and in what tier?** More than three sessions ago means fix it in the session you are planning. These threads die of neglect, not of bad scenes.
-
-> [!IMPORTANT]
-> **ORDER, and this is the session's last image — get it right.** The two texts arrive **while they are still arguing about whether to call.** Then the argument resolves. Then, if they call:
->
-> **It rings four times.** Five people standing in the dark, on the porch of a woman who is not home, listening to a phone ring. Then a stranger's voicemail — a woman's voice, unhurried, no name.
->
-> **Stop there. That is the end of the session.** Do not narrate them leaving, do not add a closing line, do not let a phone notification land after it.
-
-> [!IMPORTANT]
-> **Then break the moment on purpose, and say so.** All five PCs hit 5/5 tonight, and advancement is a six-option menu — *a new focus*, *a relationship with an NPC who now appears when called for* — which is a conversation, not a checkbox. **That is 15–20 minutes and it cannot happen inside the ringing phone.**
->
-> **DECIDED: advancement goes to the group chat.** You send a summary after every session anyway — put it in there. *"Everyone's at five marks. Pick an advancement and tell me before next time: +1 stat, a category mastery, a new tag, a new focus, or a relationship with an NPC who shows up when you call for them."*
->
-> **So nothing lands after the phone rings.** Let the silence sit until somebody at the table breaks it, and end there. The advancement conversation is better in writing anyway — it gives them a week to think instead of ninety seconds at 10:40pm, and **a new focus chosen properly is worth more than one chosen tired.**
->
-> **If they don't call**, the last image is five people who couldn't agree, standing in the dark, with the card. That is also good — and it is theirs.
->
-
-
----
-
-### End on the argument, not the card *(3–5 min)*
-
-Do not let five people stand in the dark and simply *receive an object*. Put a decision on the porch:
-
-> **Do we call this number tonight?**
-
-That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to know who they're calling first, and somebody will point out it is nearly ten at night. **The session ends on the party choosing**, not on being handed something.
-
-*(What the number does is in [Decide these before the session](#decide-these-before-the-session--the-party-will-force-them-tonight). Short version: voicemail, no callback tonight, and a text back the next morning if they leave a message.)*
-
----
-
 ## Per-PC engagement
 
 | PC | Weight | What they carry |
@@ -742,63 +778,36 @@ That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to k
 > [!WARNING]
 > **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first cast is logged (A7 fired). The standing rule is a **per-PC private scene the session after** the party rationalises a cast away. Ep 5 **is** the next session.
 >
-> This guide does not build him one, because the session has no substrate event in scope and manufacturing one would be worse. **This is therefore an explicit, logged deferral, not an oversight.** {{pc:5}}'s private beat must land in **Ep 7** (Yui's party, where {{pc:2}}'s moment-of-release also lands) or **Ep 8** at the outside. Record it in the hook-ledger against A7.
+> This guide does not build him one, because the session has no substrate event in scope and manufacturing one would be worse. {{pc:5}}'s private beat must land in **Ep 7** (Yui's party, where {{pc:2}}'s moment-of-release also lands) or **Ep 8** at the outside. Record it in the hook-ledger against A7.
 >
-> {{pc:2}}'s realization (A3) is deliberately deferred to **Ep 6**, where Rosa's garden gives it a proper vehicle and where it pays off her Ep-4 covert exam of Vivian. This is a considered inversion of the outline's "do not drop the Ep-5 landing window" note — the landing is not dropped, it is given a better room one week later.
+> {{pc:2}}'s realization (A3) is deliberately deferred to **Ep 6**, where Rosa's garden gives it a proper vehicle and where it pays off her Ep-4 covert exam of Vivian. Her landing is not dropped; it is given a better room one week later.
 
 ---
 
 ## Body cost-tells — in-place reminders
 
 - **Scene 1, lobby:** {{pc:5}}'s neck-flare. His Saturday cast is two days old and his sheet puts the flare next-day, i.e. Sunday. Monday is legitimate **lingering stiffness** — he rolls his shoulder without thinking about it. Not a ping.
-- **Scene 2, in the car:** {{pc:2}}'s baseline low-hum only. **No substrate event is in scope this session.** If {{pc:2}}'s player narrates a migraine anyway, keep it below threshold and do **not** correlate it to anything in-fiction.
+- **Scene 3, at the counter:** {{pc:2}}'s baseline low-hum only. **No substrate event is in scope this session.** If her player narrates a migraine anyway, keep it below threshold and do **not** correlate it to anything in-fiction.
 - **Scene 4, Bea's porch:** nothing. Bea's house is reserved as a possible anchor site for the §11 beat, whose fire-by is **Ep 5-6** — so it is live *now* and you are choosing not to spend it tonight — do not spend it early by improvising a ping here. Stated explicitly so it isn't improvised.
 
 ---
 
-## Rolls
+## Rolls — pre-session summary
 
-**Nobody is under the trying-too-hard tax.** No PC has had their Phase-2 realization yet, so no −2 applies to anyone tonight. If one lands tonight, the tax starts *next* session.
+**Full tables live in the scenes that call for them.** This is the one-glance version; do not run from it.
 
-**Every roll gets a 7–9.** On 2d6 it is the most likely band, and both of tonight's rolls need one written down.
+| Roll | Where | Note |
+|---|---|---|
+| **{{pc:4}} Influence** — managing Ortiz | Scene 1, Beat 1 | Real branch. The 7–9 is also Level 2 of the A6 ladder. |
+| **{{pc:3}} Insight** — the notebook | Scene 3, Beat 1 | Four bands incl. 7–9. **Hard cap at 12+.** |
 
-### {{pc:3}} — Insight, the notebook
+**Nobody is under the trying-too-hard tax** — no PC has had their Phase-2 realization, so no −2 applies to anyone tonight.
 
-This is an **Insight skill roll**, not a cast resolution — the *cast* is the Free-tier grant she gets without rolling, and Insight is her pushing past it.
-
-| | |
-|---|---|
-| **Free (no roll)** | Negative space. Something diagrammatic, geometric, arranged. She can't tell what. |
-| **7–9** | She gets the count — **six** — and nothing else. Shapes, not relationships. *And she is certain there was more on the page than she can reach.* |
-| **10+** | Six shapes in an arrangement — a cluster, a lineup, or a hierarchy; she can't tell which. |
-| **12+** | Six figures in a network — lines between them, a structural relationship. The geometry means something and the meaning is opaque. |
-
-**Cap at 12+ regardless.**
-
-**If she pushes a third time in the scene:** rapid-cast stress check, **2d6 + WIS**. On a miss she **marks a stress box**. *(House call for tonight: WIS alone, no category or tag bonus — this is the substrate pushing back, not a skill test. The book's trigger is "after the 3rd or 4th in a scene, DM judgment"; I'm calling it at the third because she's already read twice today.)*
-
-**Stress reminder:** Stress 2 = **−1 to all WIS rolls**. It clears one box per full night's sleep, or per meaningful conversation, art, or human connection — **never in-scene.**
-
-### {{pc:4}} — Influence, managing Ortiz
-
-Only if he tries it during *"tell me what you know."*
-
-| | |
-|---|---|
-| **10+** | She takes the party seriously as sources rather than as {{pc:1}}'s entourage. |
-| **7–9** | She goes along with him **and** starts addressing only {{pc:1}} for anything that matters. He got what he asked for and lost the room. |
-| **6−** | She stops addressing him entirely for the rest of the scene. |
-
-*(At his modifiers the 6− branch is a ~9% tail. Plan for the 7–9.)*
-
-**Do not call for:**
-
-- **An Insight roll to read whether Ortiz is holding back.** She isn't, on any result — so it is a "yes" you can simply narrate. Narrate it.
-- **Any roll whose outcome you have already decided.** It teaches the table that rolling doesn't matter, and they will notice within two sessions.
+**Do not call for:** a roll to read whether Ortiz is holding back (she isn't, on any result — narrate it), or any roll whose outcome you have already decided.
 
 ## Wild outcomes — pre-decided
 
-This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 6s** to the *player*, to narrate an unexpected positive detail of their own. Left unplanned, that rule hands {{pc:3}}'s player narration rights over precisely the thing the firewall forbids. So decide now:
+This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 6s** to the *player*, to narrate an unexpected positive detail of their own. **Decided:**
 
 - **Double 6s on the notebook read:** the grant is spent on **provenance, not content.** She can tell the cut was made with a fresh blade, in a warm room, unhurried — that the paper is pre-war, that the excision was done by someone who was not in a hurry and did not want it to look violent. Rich, true, and reveals nothing about the six figures.
 - **Double 1s:** pre-loaded complication, not an improvised reveal. The binding cracks and a page comes loose; or the car's navigation reroutes them and they lose fifteen minutes; or {{pc:2}}'s phone rings at the worst moment.
@@ -818,22 +827,10 @@ This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 
 
 ## If you are running long — the pre-designated cut
 
-Decide now, not at 10pm. **In order:**
-
-1. **Scene 0's go-around → a 3-minute DM summary plus one question to the whole table.** Buys the most for the least; Ep 4's anger has already resolved into *warier, not angry*, so there is less to re-litigate than it feels like.
-2. **Scene 1's lobby beats.** Compress to four minutes: {{pc:5}}'s carry decision only, and let the other two happen in a line each.
-3. **Merge Scene 2 into Scene 3's arrival** — the notebook read becomes a private aside at the Berkeley counter while the other four mill around.
-4. **Scene 1 Beat 2's second question** (the four-month filing delay). Keep the first.
+**The cut order is on the clock card.** It is one list, in one place, and this document deliberately does not print a second copy.
 
 > [!CAUTION]
-> **Do NOT compress Berkeley to protect the lobby — that is backwards, and it was the order this guide gave until it was checked.**
->
-> Alaia's four-stool rotation is the only place in the session where **{{pc:2}} gets a peer conversation and {{pc:5}} gets something that isn't a metal detector.** Cutting it first means **the compression lands on the two players who are already starving**, while preserving a logistics puzzle for the player who is one of them.
->
-> If you must take time out of Berkeley, take it from Beat 2 (the referral is two sentences) — **never from the rotation.**
-
-> [!CAUTION]
-> **Do NOT cut Scene 4.** The card is must-land #3 and the session's closing image. Mailing it turns A1 from a *moment* into a between-sessions group-chat message, and leaves Ep 8's arrival nothing to arrive from.
+> **Do NOT cut Scene 4.** The card in the door is must-land #3 and the session's closing image. Mailing it turns it from a *moment* into a between-sessions group-chat message, and leaves Ep 8's arrival nothing to arrive from.
 
 **Never cut:** Ortiz's seam beat (Scene 1 Beat 2), Alaia's referral (Ep 6's hook routes through it), or the card.
 

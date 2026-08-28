@@ -1,6 +1,7 @@
-# Ep 5 — The One Page — clock card
+# Ep 5 — clock card
+*Names below are character (player).*
 
-> **Companion to the run-guide, not a replacement.** **Target 2h30 · ceiling 3h.** ~141 min plus friction lands **2h55–3h05**. Plan to compress two rows.
+> **Companion to the run-guide.** **Target 2h30 · ceiling 3h.** ~137 min plus friction lands **2h50–3h00**. Plan to compress two rows.
 
 ## Gates
 
@@ -22,7 +23,6 @@
 | 1 · **The two documents disagree** | 5 | 3 | — |
 | 1 · The seam + her two questions | 14 | 10 | **the seam** |
 | 1 · Flattening + the page goes back | 6 | 4 | — |
-| 1 · Departure | 3 | 2 | — |
 | 1 · Departure + **sidewalk** (handover, split named) | 6 | 4 | the handover |
 | 2 · **The drive — TOLD, 90 sec** | 2 | 2 | — |
 | 3 · Berkeley — **notebook read** + Alaia | 40 | 30 | Mira's read · her early exit |
@@ -39,9 +39,7 @@
 2. **Alaia in person** — pays the Ep 4 cliffhanger; gives the Ep 6 referral.
 3. **The card in Bea's door** — *Nia Chen*. **Cannot slip again.**
 
-## Three settings, not two
-
-**PLAY · TELL · DROP.** Telling costs the interaction, not the information — 60–90 sec, and always end with *"unless somebody wants to stop me."* **The drive is already pre-set to TELL.**
+**PLAY · TELL · DROP** — telling costs the interaction, not the information. End with *"unless somebody wants to stop me."* The drive is pre-set to TELL.
 
 ## If you fall behind, in this order
 
