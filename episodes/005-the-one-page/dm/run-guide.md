@@ -53,7 +53,9 @@
 > [!IMPORTANT]
 > **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need. The one-page **pacing card** that ships with it is a *clock* — keep it beside you for the gates and the cut order — but it is not a substitute for this, and nobody can run three hours off a summary sheet.
 >
-> **Time:** ~133 minutes of content, landing at **2h45–2h55** with this table's friction — inside the 3h ceiling, over the 2h30 target. **Plan to compress two scenes.** The per-scene minutes below are the budget; the card repeats them with the clock gates: **out of SFPD by T+1:20, out of Berkeley by T+2:15.**
+> **The clock card owns time.** Per-beat minutes appear on the card, not here — one document should own the budget, and the card is the one you can see at a glance. Short version: **~133 min of content, landing 2h45–2h55**, so plan to compress two rows. Gates: out of SFPD by **T+1:20**, out of Berkeley by **T+2:15**.
+>
+> **The card's rows include the two drives** (SF→Berkeley, Berkeley→Outer Sunset). The scenes below do not — don't budget them twice, and don't forget the party is in *two cars* for both.
 
 ---
 
@@ -87,15 +89,12 @@ Who ran the 2018 query stays opaque. Bea's possible role in it is held for Ep 7+
 
 ### Decide these before the session — the party will force them tonight
 
-**1. What the number does when they call it.** There is a phone number on that card and somebody will dial it from the porch inside ninety seconds. **Answer: it rings four times and goes to voicemail** — a woman's voice, unhurried, no name, just *"Leave it after the tone and I'll get back to you."* No callback tonight. **If they leave a message, Nia texts back the next morning:** *"Bea gave you this? Then I suppose we should have lunch."* That is the Ep 7 phone beat arriving early and it is fine — it costs nothing and rewards them for acting. **She does not answer live**, because a voice on the phone spends the arrival Ep 8 is built on.
+These are decided. **Full text where you need it, in Scene 4** — this is the summary:
 
-**2. Whether Bea's absence is sinister.** **It is mundane.** She is fine; the outline has her at Ocean Beach in Ep 8. Play the *ambiguity* straight-faced and let the party's dread be their own. Never confirm at the table that she's fine, and never imply she isn't.
-
-**3. What is inside the house, because this party is going in.** {{pc:3}} picks a Kwikset in under a minute, {{pc:1}} knows every service door, {{pc:5}} knows every locked building on the waterfront, and {{pc:4}}'s whole focus is getting through a door he shouldn't be behind. **Do not be caught unbriefed.** If they go in: the house is tidy, cold, and lived-in — a cup rinsed and upturned by the sink, mail on the table two days *older* than the card, the kettle cold, the wooden card-box **not** on the kitchen table where it was in Ep 2. Nothing is disturbed, nothing is missing, nobody has searched the place. It is the house of someone who went out.
-
-They will feel worse for having gone in, which is the correct outcome. **Do not reward the break-in with a document.** Records in this house surface *retrospectively*, confirming a shape the party has already established — never *responsively*, because they went looking. A document found by breaking in is the second kind, and it cheapens the mechanic permanently.
-
-**4. Whether {{pc:1}} keeps the physical page.** See Scene 1 Beat 3 — he does not, and that is the point.
+1. **The number** → four rings, voicemail, no callback tonight. A text back next morning if they leave a message.
+2. **Bea's absence** → mundane. She is fine. Play the ambiguity straight and never confirm either way.
+3. **Inside the house** → they are going in. Tidy, cold, lived-in, nothing disturbed. **No document.**
+4. **{{pc:1}} keeps the page?** → No. The reclassification takes it back; a phone photo is fine.
 
 ### Bea, if the party asks about her
 
@@ -111,7 +110,7 @@ She is also, per DM ruling, **allowed to be elusive** — recurring but hard to 
 
 ## Scene 0 — Recap
 
-**Budget: 10–15 min.** Not optional, and not free. Ep 4 was dense, angry, and ended on a cliffhanger text. Go around the table and let each player say what their PC is carrying into Monday — this doubles as the read on who is still angry at {{pc:4}}.
+Not optional, and not free. Ep 4 was dense, angry, and ended on a cliffhanger text. Go around the table and let each player say what their PC is carrying into Monday — this doubles as the read on who is still angry at {{pc:4}}.
 
 **Ask {{pc:4}}'s player directly** whether {{pc:4}} has told anyone anything more since Saturday.
 
@@ -123,7 +122,7 @@ She is also, per DM ruling, **allowed to be elusive** — recurring but hard to 
 
 ## Scene 1 — SFPD Bay Station
 
-**Budget: 30–35 min.** Register: **urban police-institutional, kinetic.** Ortiz does not sit and slide a page across a desk. She walks.
+Register: **urban police-institutional, kinetic.** Ortiz does not sit and slide a page across a desk. She walks.
 
 ### Setup
 
@@ -145,7 +144,7 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 - **{{pc:4}}** does what {{pc:4}} does to a desk sergeant.
 
 > [!NOTE]
-> **Why {{pc:3}} is the one who reads the page.** She is a records clerk at the San Mateo County recorder's office, and she is about to be handed a property-title cross-match. She is the only person at the table who can say what is *wrong with the document's shape* — see Beat 1. Without this she is labelled DRIVER and has almost nothing to do until the car.
+> **{{pc:3}} reads the page.** She is a records clerk at the San Mateo County recorder's office — the only person at the table who can say what is *wrong with the document's shape.* See Beat 1.
 
 ### Beat 1 — The one page *(12–15 min)*
 
@@ -177,7 +176,7 @@ Once the page is on the desk, {{pc:3}} sees what nobody else in the room can:
 
 Ortiz did not know this — she is a detective, not a clerk — and it visibly lands on her. *"…huh. Say that again?"*
 
-**And then it does something**, which matters: a player told us the deduction currently *"just sits there."* So — Ortiz goes back to the file **because {{pc:3}} said that**, and pulls the requester's name off the retrieval header, which she had not thought to look at. **{{pc:3}}'s read is what produces the vendor answer below.** The party worked something out and the world moved. That is the first time in five sessions it has, and it costs nothing.
+**And then it does something.** Ortiz goes back to the file **because {{pc:3}} said that**, and pulls the requester's name off the retrieval header, which she had not thought to look at. **{{pc:3}}'s read is what produces the vendor answer below.** **The party worked something out and the world moved.**
 
 > [!NOTE]
 > The name **Argonaut is not a reveal any more.** {{pc:4}} already asked Vivian about it at the Ep 4 table. Do not budget suspense for the party recognising it — they will name it in three seconds. **The new thing on this page is {{pc:1}}'s father's signature on a 1994 Argonaut filing**, and that is what the beat is about: the personal thread and the institutional thread turning out to be the same piece of paper.
@@ -301,7 +300,7 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 
 ## Scene 2 — Two cars, again
 
-**Budget: 15 min.** Register: moving vehicles, crossing the bridge east.
+Register: moving vehicles, crossing the bridge east.
 
 ### Beat 0 — The handover, on the sidewalk *(3 min)* — do this BEFORE they get in the cars
 
@@ -336,8 +335,7 @@ Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 > [!CAUTION]
 > **STOP AT 12+.** No face-recognition, no party-shape-match, no Kai-adjacent breadcrumb. **The deeper read — five of the six figures matching the party, the sixth a face — belongs to Act II**, and it has its own delivery plan there. **Tonight the cap holds for its own reason: they have had the notebook two days, and geometry is all it has given up.** Six figures, geometry only.
 
-**Third use in the scene triggers a stress check.** Roll **2d6 + WIS** — WIS only, no skill or tag bonus. Her outline reads **are** casts, so this is the standard rapid-casting rule firing, not a house call; her own sheet says the same.
-> **Stress reminder:** Stress 2 is −1 to all WIS rolls (so −1 to casting) and clears only on a full night's sleep or a meaningful conversation.
+**Third use in the scene triggers a stress check — see Rolls, below, for the bands and the stress rule.**
 
 
 
@@ -368,7 +366,7 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 ## Scene 3 — Berkeley, a coffee counter
 
-**Budget: 35–40 min.** Register: **peer, urban, ordinary.** This is the session's payoff and its emotional centre.
+Register: **peer, urban, ordinary.** This is the session's payoff and its emotional centre.
 
 > [!IMPORTANT]
 > **Alaia is the first non-elder network contact in the campaign.** Bea, Rosa and Vivian are all elders. Per her hard invariant, do **not** stage her as another elder-in-a-home scene. Her venues are workplace, text thread, or peer-appropriate coffee. She is a few years older than the PCs. The point of her existing is that the network is not just old librarians — there are people the PCs' own age in it, quietly.
@@ -384,6 +382,14 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from B
 Four stools, five PCs, plus her. **Somebody is always standing, and somebody always drifts outside.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
 
 Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
+
+### What you need to know before this scene *(context, not read-aloud)*
+
+**Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
+
+**Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
+
+**The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
 
 ### Beat 1 — What she wants *(10 min)*
 
@@ -448,7 +454,7 @@ Do not explain it, this session or ever. If a player asks in Ep 11, Alaia is puz
 
 ## Scene 4 — Bea, missed
 
-**Budget: 5 min.** Do not let this expand.
+Do not let this expand.
 
 **Why they go** — supply this, because Ep 4's Bea-callback line never landed and the party has no standing reason to detour. Any one of these works; pick before the session:
 
@@ -468,9 +474,34 @@ Wedged in the storm door, at eye height, where it could not be missed and could 
 >
 > Nothing else. No note, no explanation, no indication of when it was left or how she knew they would come.
 
-**That is the entire scene.** Do not have her come home. Do not have her call. Do not explain the card.
+**Do not have her come home. Do not have her call. Do not explain the card.**
 
-**Why this works and the 55-minute kitchen scene didn't:** it plants A1 — the campaign's most overdue hook, fire-by "late Ep 4 or Ep 5" — *through Bea*, which is canonical; it honors her hard invariant absolutely (she shows; she does not interpret; she is not even present to be asked); it uses the elusiveness the DM sanctioned; and it costs five minutes instead of fifty-five.
+### They are going in — here is the house
+
+{{pc:3}} picks a Kwikset in under a minute, {{pc:1}} knows every service door, {{pc:5}} knows every locked building on the waterfront, and {{pc:4}}'s whole focus is getting through a door he shouldn't be behind. **Assume the break-in happens.**
+
+Inside: **tidy, cold, lived-in.** A cup rinsed and upturned beside the sink. Mail on the table two days *older* than the card. The kettle cold. And the **wooden card-box** — the one Bea keeps her forty years of index cards in, the one that sat on this kitchen table through the whole of Ep 2 — **is not there.**
+
+Nothing is disturbed. Nothing is missing. Nobody has searched the place. **It is the house of someone who went out.**
+
+They will feel worse for having gone in, which is correct. **Do not reward the break-in with a document** — records in this house surface *retrospectively*, confirming a shape the party has already established, never *responsively* because they went looking. A document found by breaking in is the second kind, and it spends the mechanic permanently.
+
+**Her absence is mundane.** She is fine and she turns up in Ep 8. Play the ambiguity straight-faced and let their dread be their own — never confirm it either way.
+
+### What the number does
+
+Somebody will dial it from the porch inside ninety seconds.
+
+**It rings four times.** Then a woman's voice, unhurried, no name:
+
+> *"Leave it after the tone and I'll get back to you."*
+
+**No callback tonight.** If they leave a message, **Nia texts back the next morning:**
+
+> *"Bea gave you this? Then I suppose we should have lunch."*
+
+**She does not answer live** — a voice on the phone spends the arrival Ep 8 is built on.
+
 
 **If a player asks how she knew:** she isn't there to ask. That is the point. Log any theories privately.
 
@@ -488,7 +519,7 @@ That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to k
 
 ## Coda
 
-**Budget: 5 min. Run this ON THE PORCH, and run it BEFORE the call — the call is the last thing that happens tonight.** — not as a separate scene afterwards. If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
+— not as a separate scene afterwards. If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
 
 Two phones go off within a minute of each other, while they are still standing there.
 
@@ -550,19 +581,45 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 
 ---
 
-## Rolls, and the ones I removed
+## Rolls
 
-**Keep:**
+**Nobody is under the trying-too-hard tax.** No PC has had their Phase-2 realization yet, so no −2 applies to anyone tonight. If one lands tonight, the tax starts *next* session.
 
-- **{{pc:3}}, Insight, notebook.** Canonical escalation; hard cap at 12+. If she pushes a third time in the scene: **2d6 + WIS**, WIS only — no skill or tag bonus. Her outline reads count as casts, so this is the standard rule, not a house call.
-- **{{pc:4}}, Influence,** if he tries to manage Ortiz during *"tell me what you know."* Genuine branch: 10+ she takes the party seriously as sources rather than as {{pc:1}}'s entourage; 6- she starts addressing only {{pc:1}} for the rest of the scene.
+**Every roll gets a 7–9.** On 2d6 it is the most likely band, and both of tonight's rolls need one written down.
+
+### {{pc:3}} — Insight, the notebook
+
+This is an **Insight skill roll**, not a cast resolution — the *cast* is the Free-tier grant she gets without rolling, and Insight is her pushing past it.
+
+| | |
+|---|---|
+| **Free (no roll)** | Negative space. Something diagrammatic, geometric, arranged. She can't tell what. |
+| **7–9** | She gets the count — **six** — and nothing else. Shapes, not relationships. *And she is certain there was more on the page than she can reach.* |
+| **10+** | Six shapes in an arrangement — a cluster, a lineup, or a hierarchy; she can't tell which. |
+| **12+** | Six figures in a network — lines between them, a structural relationship. The geometry means something and the meaning is opaque. |
+
+**Cap at 12+ regardless.**
+
+**If she pushes a third time in the scene:** rapid-cast stress check, **2d6 + WIS**. On a miss she **marks a stress box**. *(House call for tonight: WIS alone, no category or tag bonus — this is the substrate pushing back, not a skill test. The book's trigger is "after the 3rd or 4th in a scene, DM judgment"; I'm calling it at the third because she's already read twice today.)*
+
+**Stress reminder:** Stress 2 = **−1 to all WIS rolls**. It clears one box per full night's sleep, or per meaningful conversation, art, or human connection — **never in-scene.**
+
+### {{pc:4}} — Influence, managing Ortiz
+
+Only if he tries it during *"tell me what you know."*
+
+| | |
+|---|---|
+| **10+** | She takes the party seriously as sources rather than as {{pc:1}}'s entourage. |
+| **7–9** | She goes along with him **and** starts addressing only {{pc:1}} for anything that matters. He got what he asked for and lost the room. |
+| **6−** | She stops addressing him entirely for the rest of the scene. |
+
+*(At his modifiers the 6− branch is a ~9% tail. Plan for the 7–9.)*
 
 **Do not call for:**
 
 - **An Insight roll to read whether Ortiz is holding back.** She isn't, on any result — so it is a "yes" you can simply narrate. Narrate it.
 - **Any roll whose outcome you have already decided.** It teaches the table that rolling doesn't matter, and they will notice within two sessions.
-
----
 
 ## Wild outcomes — pre-decided
 
