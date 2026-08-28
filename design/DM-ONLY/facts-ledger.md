@@ -760,6 +760,17 @@ The excised pages (47–52) held Loewe's **substrate-hypothesis of the annex tea
 
 **Risk if unresolved:** if the six-figure diagram never gets its Act II callback, Mira's outline read reads as pure atmosphere.
 
+> [!CAUTION]
+> **DO NOT GATE THIS ON A PLAYER VOLUNTEERING THE RETROCAUSAL-SELF READING.** Earlier planning held the Option-5 version — *five of the six figures match the party, the sixth is a face* — behind a player first voicing the theory unprompted. **The DM can play NPCs; he cannot play PCs.** A gate whose key is held by a player is not a gate, it is a hope, and this one is attached to the campaign's largest artifact.
+>
+> **Keep the reading player-first as the *preferred* path, and add a DM-drivable floor:**
+>
+> - **Level 1 — a player voices it.** Best case. Do not confirm; *"Interesting. What does {{pc:3}} do with that?"*; log it privately. If this happens, everything below is unnecessary.
+> - **Level 2 — Act II mid, an NPC makes it possible to see.** Per the Fire-by above, when the network's structure surfaces via Nia or Rosa, **put the two shapes physically side by side** — Loewe's six-figure geometry and whatever the party has drawn of the network. Say nothing. A diagram on a table is DM-drivable and requires no player insight to arrive.
+> - **Level 3 — blatant, if it still hasn't landed by late Act II.** Rosa or Nia counts out loud: *"Six. He drew six."* — and then the count of the party. **Being heavy-handed here is correct**; this artifact has been carried since Ep 4 and it must pay.
+>
+> **The sixth figure stays unresolved regardless of level.** Levels 2 and 3 make the *shape* legible; they never confirm who is in it.
+
 ### Ep 4 played update (2026-08-22)
 
 Vivian retrieved the notebook from her locked **blue cabinet** in her office — she took the party into the office to fetch it, casually unlocking the door on the way. **Mars had earlier slipped out during the interview** to search the house; every sensitive door was locked (Vivian's father's practice of always-locking-sensitive-rooms is still in force, per Elena's household hygiene; see §23). Mars came back empty-handed.

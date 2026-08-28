@@ -185,7 +185,9 @@ Let the party explain, or refuse to. She listens.
 > [!IMPORTANT]
 > **This is the nominated vehicle for A6, {{pc:4}}'s Phase-2 realization.** His sheet requires him to drop the persona **in a scene where the persona would have gotten him what he wanted**, and this is that room — evasion would work here, and it would cost {{pc:1}} the thing he came for.
 >
-> **Do not engineer it and do not signal it.** If {{pc:4}}'s player reaches for the circuitous version and then stops himself — that is A6. Log it privately and build his private scene next session. If he doesn't, nothing is lost and the hook stays open. **Do not tell him what almost happened.**
+> **Do not engineer it and do not signal it.** If {{pc:4}}'s player reaches for the circuitous version and then stops himself — that is A6. Log it privately and build his private scene next session. **Do not tell him what almost happened.**
+>
+> **But do not count on it either** — the DM cannot play {{pc:4}}. If it doesn't happen tonight, nothing is lost and the hook stays open; A6's window runs to Ep 7. **What the DM CAN do is make the room expensive**, which is level 2: have Ortiz respond to evasion the way a tired detective actually would — she stops addressing {{pc:4}} entirely and talks only to {{pc:1}} for the rest of the scene. That is not a punishment, it is a consequence, and it lets {{pc:4}}'s player *feel* the persona cost him something without anyone naming it. Level 3, if the window is closing: another NPC in a later session gives him the same choice with higher stakes and less time.
 
 **If the party tells Ortiz nothing:** she keeps the file open anyway, but she stops volunteering. Play it as disappointment, not punishment — she is a professional and this is a Monday. The Influence roll below still applies; it just has less to work with.
 
@@ -303,6 +305,29 @@ Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 > **STOP AT 12+.** No face-recognition, no party-shape-match, no Kai-adjacent breadcrumb. Per [`facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md) §21, the retrocausal-self reading must be **player-voiced first**, and no player has voiced it. Six figures, geometry only.
 
 **Third use in the scene triggers a stress check** — 2d6 + WIS, per [`rules.md`](../../../world/rules.md) §Magic and {{pc:3}}'s own PC sheet (`castDomain`: *"third use in a scene triggers stress check"*). Her outline reads **are** casts; this is the canonical rapid-casting rule, not a house call.
+
+
+
+### The Kai adjacency — escalation ladder
+
+**The DM can play NPCs. He cannot play {{pc:3}}.** If this beat depends on {{pc:3}}'s player spontaneously connecting *"I am reading the shape of something that was removed from a record"* to *"my brother was removed from every record"*, it probably will not fire. Sometimes these players surprise you — and when they do it is the best thing that happens all night — but plan for the other case.
+
+**Deploy in order. Stop as soon as it lands. Do not run two levels in the same scene.**
+
+**Level 1 — the adjacency, unremarked.** Deliver the read as written. The words *excised*, *removed*, *what was there*, *negative space* are already doing the work. Say them plainly and **do not weight them.** If {{pc:3}}'s player makes the connection here, say nothing that confirms it — *"Interesting. What does {{pc:3}} do with that?"* — and log it privately. This is the version you want.
+
+**Level 2 — wait thirty seconds, then let the body do it.** If nothing lands, don't repeat yourself in narration. Give her a physical tell instead:
+
+> *"You've done this three times now — the ramp at Vivian's, the map at Bodie, this. It's the same feeling every time. And there's a fourth time you're not thinking about, because you think about it constantly."*
+
+That is blatant on purpose and **it is fine to be blatant.** Delivered privately, it names the pattern without naming Kai, and it hands her the sentence rather than the conclusion.
+
+**Level 3 — a later, mundane fallback.** If Level 2 also passes without traction, do not push in-scene. Land it somewhere ordinary in a subsequent session — a form with a *siblings* field, someone asking whether she has family, a photograph with the wrong number of people in it. **The thread survives; only this session's opportunity is spent.**
+
+> [!CAUTION]
+> **All three levels are itch, not clue.** Whatever she does with it, she finds nothing — the non-attestation is total per `facts-ledger.md` §31, and that is the default the arc keeps. The ladder exists to make sure the *hole stays visible*, not to open an investigation.
+>
+> And it is a ladder for helping her player produce the beat, **not for punishing them for missing it.** If she has clearly chosen not to go there, that is a real choice; let it stand and use Level 3 next session.
 
 ### Beat 3 — Share or hold *(2–3 min)*
 
@@ -444,9 +469,8 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 > **Standing cadence, starting now.** Per `episode-outline.md` §Standing presence, three threads must not go quiet, and each costs 15 seconds at Tier 1:
 >
 > - **The teenagers** — a group-chat line every 2-3 sessions. This session is one. ✓
-> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available and you should take it:** the notebook read is *literally* her reading a hole where something was. If {{pc:3}}'s player makes any connection to her brother, do **not** confirm or deny — *"Interesting. What does {{pc:3}} do with that?"* — but let the adjacency sit. It is an itch, not a clue.
+> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available: the notebook read is *literally* her reading a hole where something was.** See the escalation ladder below.
 > - **{{pc:1}}'s father** — Tier-1 cameo roughly once per act, from Ep 11. **Not this session**; Ortiz's page is the thread's content tonight.
->
 > **Audit every planning cycle: when did each last appear, and in what tier?** More than three sessions ago means fix it in the session you are planning. These threads die of neglect, not of bad scenes.
 
 **Order matters: the texts arrive, and then the argument resolves — or doesn't.** End on the dark house, the card, and five people who have not agreed on what to do. If you are out of time, push both texts to the opening of Ep 6 rather than tacking them on after the porch.

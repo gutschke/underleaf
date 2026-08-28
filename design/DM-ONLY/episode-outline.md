@@ -264,7 +264,24 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **LOAD:** HEAVY
 - **Arc-node:** Institutional trinity **#2 AND #3, in one room** (Ep 16 absorbed). The Engineer is being pressured to ship and says so loudly; the UX Designer approaches the party at the edge of the same event with the flattening pattern in her data. The Act II twist reveals — **the obvious ally isn't; the quiet one is.** Companion outreach begins *bounded* per B17.
 - **Stage it in the unusual location** — data-center service floor, Muni maintenance bay — not a conference room, so the absorbed session's diagnostic register survives.
-- **PRIMARY SHAPE: a clock, used literally.** The Engineer's ship deadline is a deploy window and **the party is in the building when it opens.** That converts a tour into a diagnostic under time pressure without adding a scene, and gives Act II close its only non-conversational verb.
+- **PRIMARY SHAPE: a clock, used literally — this is Act II close's only non-conversational verb, so run it as structure, not atmosphere.**
+
+  **The deploy window is a real countdown the party can see.** A wall screen, a channel on someone's laptop, a checklist being ticked. **~40 minutes of table time, and say the remaining time out loud every few minutes.** The Engineer cannot stop it; he can only ship or not ship.
+
+  | T-minus | What happens |
+  |---|---|
+  | **T-40** | They are in the building for the tour. The window is mentioned as ordinary logistics. Nobody is worried. |
+  | **T-25** | The UX Designer surfaces at the edge of the room with her folder. **The party now has two things to do and time for one.** |
+  | **T-15** | The Engineer asks one of them a direct question he should not be asking a stranger — *does this look right to you?* |
+  | **T-5** | Whatever they were going to do, they do now or not at all. |
+  | **T-0** | It ships, or it doesn't, and **either way nobody in the building treats it as a decision anybody made.** |
+
+  **The clock has no antagonist.** Nobody is pressuring the party; a calendar invite is. That is the whole point — per `antagonist.md`, pressure without a person to blame is the campaign's signature, and this is the one session that can deliver it in the body rather than in dialogue.
+
+  **What the party can actually do** (give them real options, or the clock is decoration): get the Engineer to delay; get him to look at the UX Designer's data before he ships; get themselves in front of someone senior; or simply watch, which is a legitimate and quietly awful choice.
+
+  > [!NOTE]
+  > **Do not let the deploy be sabotage-able.** If the party can stop the ship by an act of will, the session becomes a heist and the institution becomes an opponent — invariant 6 breaks. They can influence a person; they cannot stop a process.
 - **Give the Engineer the first third, played straight and sympathetic** (invariant 6), before the UX Designer surfaces.
 - **{{pc:5}} reads this room better than anyone** — he supervises a warehouse and knows the port's abandoned buildings by memory. Give him the space, not the Engineer.
 - **{{pc:3}} should be the one who sees what is missing from the UX Designer's data**, not the recipient of her summary. She is a county records clerk whose entire domain is what a record should say and doesn't.
@@ -341,6 +358,21 @@ Sub-phases compressible per `big-arc.md` §Act III.
 ### Ep 23 — Wiener's Dream
 - **LOAD:** HEAVY
 - **Arc-node:** CSP-4 The Quiet named; dream-channel to Wiener; Patel-cybernetic parallel path for surface layer.
+- **PRIMARY SHAPE: a constrained puzzle — decisions on a clock, with the party arguing.** Act III is otherwise four consecutive sessions whose only verb is *talk to someone*; this is the session that can be a different thing without adding a scene.
+
+  **The constraint:** they get **one night**. They must decide **what to ask before they sleep**, and **a wrong question is spent.** Say the number out loud and hold to it — **three questions**, agreed in advance, in order.
+
+  **Why this works and a monologue doesn't:** the interesting part is not Wiener's answers, it is **five people who want different things having to agree on three sentences.** {{pc:1}} wants a fact, {{pc:2}} wants to know whether anyone gets hurt, {{pc:3}} wants to ask about a person the world has no record of, {{pc:4}} wants leverage, {{pc:5}} wants to know what it costs. **That argument is the session**, and it should take longer than the dream does.
+
+  **Running it:**
+  - **The drafting, ~30 min.** They write the three questions down. Let them revise; make them commit before anyone sleeps.
+  - **The dream, ~20 min.** Ask exactly what they wrote, in the order they wrote it. **Answer literally**, the way a dream would — a badly-phrased question gets a true and useless answer, and that is the cost landing, not the DM being unfair.
+  - **The morning, ~15 min.** What they have, what they spent, and what they now cannot ask.
+
+  > [!CAUTION]
+  > **Pre-decide what an unanswerable question does**, or you will improvise a reveal at midnight. A question outside Wiener's frame — anything about Companion, or about the present — returns **the dream's own imagery rather than information**, and is spent. He is a dead cybernetician in 1964; he can speak to structure, feedback, purpose and loss. He cannot speak to a product that did not exist.
+  >
+  > **And do not let a wrong question be a punishment.** It is a cost. Play the useless answer straight and with warmth; the party will feel the loss without being told they failed.
 - **Note:** The Bodie/Annex pre-plants earn their weight; mathematician-photo callback if T13 was fired.
 
 ### Ep 24 — Negotiation
@@ -433,6 +465,43 @@ Sub-phases compressible per `big-arc.md` §Act III.
 **Vivian's Clock restated in months:** in person **by late April 2027**, second visit **by July 2027**. She dies around **Ep 18 / autumn 2027**.
 
 Per the standing time discipline: **jumps during exposition are fine; after Act I the plot should run more evenly.** The gaps above front-load the compression (Eps 5-9 span ~6 weeks) and then settle to a steady 2-4 weeks, which is the intended shape.
+
+---
+
+## The DM cannot play PCs — every player-gated beat needs a ladder
+
+> [!IMPORTANT]
+> **DM ruling 2026-08-27.** *"The DM knows where the story goes and can play NPCs, but he can't play PCs. If we count on a PC to take an action or make a discovery that they don't know about, it probably won't happen. This is the difference between TTRPG and traditional story telling."*
+
+This invalidates a whole class of plan. A beat that reads beautifully on the page — *"when a player volunteers the theory, confirm it"* — is, in practice, a beat that never fires. **A gate whose key is held by a player is not a gate. It is a hope.**
+
+**Sometimes these players surprise the DM, and when they do it is the best thing that happens all night.** Design for that upside — but never depend on it.
+
+### The ladder — write all three levels, even the ones you expect not to need
+
+| Level | When | What |
+|---|---|---|
+| **1 — Subtle** | Always try this first | The version you want. If it lands, stop; say nothing that confirms it; log it privately. |
+| **2 — Blatant, after ~30 seconds of nothing** | When the clue must propel the story | An NPC says it much more directly, or a consequence makes it physical. **Being heavy-handed here is fine and is explicitly sanctioned.** Do not simply repeat Level 1 louder. |
+| **3 — Later fallback** | Next scene or next session | A different NPC, a document, a text, a form with the wrong field on it. The thread survives; only this session's opportunity is spent. |
+
+**Do not run two levels in the same beat.** Ep 4's canonical example (`../../episodes/004-the-sacramento-visit/dm/run-guide.md` §"Rosa Vega named") says it: *"Do NOT deploy both — level 2 OR escalation, not both."*
+
+**The ladder helps a player produce the beat; it does not punish them for missing it**, and it never overrides a choice they actually made. If a player has clearly decided not to go somewhere, that is real. Use Level 3 next session.
+
+**The DM did not need Ep 4's ladder and specifically valued having it.** That is the standard: write it, expect not to use it.
+
+### Beats currently on a ladder
+
+| Beat | Where | Level 2 |
+|---|---|---|
+| **The Kai adjacency** | Ep 5, the notebook read | A private body-tell naming the *pattern* without naming Kai |
+| **A6 — {{pc:4}}'s persona drop** | Ep 5, *"tell me what you know"* | Ortiz stops addressing him and talks only to {{pc:1}} — consequence, not punishment |
+| **U7 — the six-figure diagram** | Act II mid | The two shapes physically side by side on a table; then, if needed, an NPC counting *"Six. He drew six."* |
+| **A3 — {{pc:2}}'s realization** | Ep 6, Rosa's garden | Rosa **visibly registers** it — stops mid-sentence, or changes the subject obviously |
+| **B1 — the network recognition** | Ep 12 | Not a ladder but an **evidence floor**: Rosa's ledger names no other keeper across forty years, and B1 retires on that whether or not anyone says the line |
+
+**When planning any session, ask: does anything here require a PC to do something they have no way of knowing is wanted?** If yes, it needs a ladder or a floor before the session runs.
 
 ---
 
