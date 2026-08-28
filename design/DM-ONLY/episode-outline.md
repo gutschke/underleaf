@@ -105,8 +105,10 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
   **But she must visibly register it, or this destabilizes nobody.** A destabilizer the players never witness is good authorship and zero table effect. Give her **one visible tell** {{pc:2}}'s player can chew on for three sessions: she stops mid-sentence, or changes the subject in a way that is obviously a change of subject. Do not explain it. This also pays off Priya's Ep-4 covert exam of Vivian — a 98-year-old with a surprisingly strong pulse and a 79-year-old whose tremor stopped make a shape.
 - **Setting/register:** Bancroft reading room (call slips, white gloves) → Rosa's terraced garden, hands in soil. **The archive fails them**: the finding aid points to a person in informal custody, not a shelf. That inverts the records-hunt fatigue pattern instead of repeating it.
 - **Give {{pc:5}} the call-slip desk.** A reading room and a 79-year-old's garden have no surface for a warehouse supervisor, and he has nothing else this session. His domain is *walking through a door as if he owns it* — so route the finding-aid failure through a clerk who will not be moved, and let {{pc:5}} be the one who is not dismissed.
-- **Plants:** peer-network seed — Rosa does **NOT** name the network (that line is Nia's, and it lands once); flattening #2 (a librarian over-agrees with a specific-and-wrong routing and sends them to the wrong desk).
-- **Fires:** A3 · B13 (Rosa in person) · **B1 partial — the Bancroft ledger arrives, it is not hunted** (it has been on her kitchen table the whole time; she offers it at the end because it was never the point) · U9 first letter (Vivian's mailed letter file; one safe name spent: **McCulloch**) · U8 partial (mail recurrence) · **T7 fires or retires** (Dakota's brown-edged photograph dead-ends at Bancroft as designed).
+- **A5 — R({{pc:1}}) BEGINS HERE.** It was moved out of Ep 8 in a note and never written into this session, so it existed in two places and was present in neither. **The vehicle:** Bancroft's finding aid. His domain is systems and information, and a Free-tier intuition lands him on a fact he could not have guessed from the catalogue — the record points at a *person*, and he knows it before the paperwork says so. Private, per `principles.md` §3.
+  **His release condition** is *naming the true thing to someone who will hear it*, and it pays off with Nia at Ep 8 **or** at Ep 9's cabin — **never in Ep 8 alongside the realization.** Release always follows realization; see hook-ledger A9.
+- **Plants:** peer-network seed — Rosa does **NOT** name the network (that line is Nia's, and it lands once); **S1 #2** (a librarian over-agrees with a specific-and-wrong routing and sends them to the wrong desk).
+- **Fires:** **A5 begins** · A3 · B13 (Rosa in person) · **B1 partial — the Bancroft ledger arrives, it is not hunted** (it has been on her kitchen table the whole time; she offers it at the end because it was never the point) · U9 first letter (Vivian's mailed letter file; one safe name spent: **McCulloch**) · U8 partial (mail recurrence) · **T7 fires or retires** (Dakota's brown-edged photograph dead-ends at Bancroft as designed).
 - **Coda:** Elena's note on the envelope — *"She asked me to say she's had a good week."* The dying-line displaced into understatement, which hurts more than the original.
 - **Risk if slips:** if Rosa dominates and A3 slips, every subsequent per-PC realization chain-slips.
 
@@ -147,7 +149,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 
 - **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give the casters present Stress 1–2**, narrated as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9's confession-and-walk-and-talk session then clears it diegetically**, which is a far better joint than a bruise healing off-screen.
 - **The Bea coda MOVED TO EP 9's OPENING.** Ep 9 is a coast retreat with zero documents; a four-minute Bea beat with a coffee fits its register far better than a lunch-then-platform session, T10 lands harder next to two moments of release, and it unloads the hinge. **This session is the campaign's single largest exposition beat and Nia cannot be rushed.**
-- **Fires:** A1 · A2 · A4 · A5 begins · B3 seeded · S1 #4 · T10.
+- **Fires:** A1 · A2 · A4 · **MoR({{pc:1}}) possible here or Ep 9** · B3 seeded · **S1 #3** · T10.
 
 ### Ep 9 ★ — Aftermath / The Party as Weather
 
@@ -160,7 +162,8 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
 - **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
-- **Fires:** A9 (second/third MoR) · T4 · B3 · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
+- **S1 #4:** at the cabin, a rental-app check-in message thanks them for a stay that hasn't happened yet, and the host's follow-up agrees it was lovely. Nobody corrects it.
+- **Fires:** A9 (second/third MoR) · T4 · **S1 #3** · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
 - **NPCs:** Ren + Maya via text/photo only; Ortiz by voicemail.
 
 **Act I closes at Ep 9.** Big-arc's 6-9 session budget accommodates.
@@ -182,7 +185,8 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **PRIMARY SHAPE: heist-of-paperwork**, with a closing-time clock. **Converted from a ledger hunt.** The ledger becomes the byproduct of a social-engineering job, not the object of a search. Time pressure without an antagonist; plays to Dakota (Influence) and Mars (presence) without a fight.
 - **Arc-node:** **VIVIAN IN PERSON — HARD FLOOR.** The 1946-47 photograph (T13) delivered **in her voice**, not by envelope. Second safe name spent. See the clock warning below.
 - **Setting/register:** a Cold-War-era garage-lab or an estate's conference room; then Vivian's.
-- **Fires:** B1 partial (Palo Alto — the last ledger actually acquired) · **T13** · U8 in person · U9 second name 
+- **S1 #5:** an estate lawyer's assistant over-agrees with a specific-and-wrong routing and sends them to the wrong floor — *"that's what I'd have done too."*
+- **Fires:** B1 partial (Palo Alto — the last ledger actually acquired) · **T13** · U8 in person · U9 second name · **S1 #4** 
 
 > [!WARNING]
 > **Dakota's MoR does NOT belong in this session.** An earlier draft put it here. Ep 10 is a social-engineering job that *"plays to Dakota (Influence)"* — a scene where the persona **gets him what he wants**, which is the precise anti-condition his sheet names. His realization is nominated at **Ep 5 Scene 1**; his **MoR belongs in Ep 11-12**, in a room where the persona would have worked and he declines to use it. Per hook-ledger A9, release always comes AFTER realization — never in the same session.
@@ -195,6 +199,14 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **THE MINOR BATTLE — form 2, "standing ground."** A landlord's "property manager" and two men at a tenant meeting. Postures, a raised voice, a shove, a blocked door. Mars stands **without the pistol on him** — his sheet's named release condition — and the room re-shapes anyway. Press, Maneuver, Withdraw; possibly one Harm box. **No attack roll is ever made.**
 - **Ortiz in person #2 — the agency beat — MOVED TO EP 10** (Palo Alto is already an institutional-paperwork register and an estate-and-executor session is the natural room for *closure or contact?*). Kept here only if Ep 10 overruns. **The beat:** The case is being reclassified inactive; she is fighting it and losing. She asks Morgan directly: **closure, or contact?** He can have the file formally closed, or she keeps pulling threads with no guarantee and no timeline. Interpersonal-conflict scene, not a paperwork scene, and the decision is the player's.
 - **B2 full — Alaia's Hidden-faction reveal — MOVED TO EP 14** (it went to Ep 13 first; Ep 13 is now a buffer slot). A long drive gives it more air than a lecture corridor did. This is the card Ep 5 deliberately did not spend.
+> [!IMPORTANT]
+> **{{pc:4}}'S MOMENT-OF-RELEASE LANDS HERE, and it needs a room built for it.** Five PCs, five releases, and his had no session — the S2 failure arriving from a third direction. It is also **the hardest case the ladder rule faces: a PC *declining* to act cannot be laddered.** Nothing makes a player not do something.
+>
+> **So build the room instead.** The tenant meeting must contain someone **the persona visibly fails on first** — a property manager immune to charm, or a form that does not care who is filling it in. Let {{pc:4}} try it and watch it not work. **Then give him a second, quieter opening**, where the persona would plainly work this time, and let him decline it at no cost to himself.
+>
+> That is his sheet's own condition — *drop the persona in a scene where the persona would have gotten him what he wanted* — and it is DM-drivable, because the DM controls whether the first attempt fails. If he takes the second opening anyway, nothing is lost; run it again in Ep 12.
+
+- **S1 #6 — the best one in the campaign, do not leave it as a candidate:** Ortiz mentions, unprompted, that **the reclassification request did not come from her supervisor. It came from the system, on a schedule.** She is not alarmed. She says it the way you'd mention weather.
 - **Setting/register:** Pier 80 silos / Dogpatch.
 
 ### Ep 12 — The Central Valley Temple
@@ -202,6 +214,8 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **LOAD:** MEDIUM
 - **PRIMARY SHAPE: grief / stillness.** A walking-meditation path. **The ledger is cut precisely so that nothing competes with this scene.**
 - **Arc-node:** **the B4 former-caster encounter** — the single-scene, not-fixable one, Act II's emotional centre. This needs *absence*, not incident.
+- **S1 #7:** a monk, asked when the ledger arrived, gives a date; the temple's own guest-book gives another; both are certain and neither is troubled by it.
+- **B1 condition (iii) — stage San Bernardino's death HERE.** A two-minute phone call to the storage facility: the unit was re-auctioned, the trail dies helpfully. This is one of B1's four completion conditions and it was assigned to no session.
 - **The ledger:** confirmed to exist and to be safe. **The party never sees it.** That is a legitimate ending for a ledger and it teaches diffuseness better than acquisition does.
 - **{{pc:3}} goes dark from Ep 10 to Ep 22 — twelve sessions — unless this session fixes it.** Her only named item in that span is B1's recognition line, which is not even assigned to a PC, while `B16` holds the default that Kai is *truly lost*. So her sub-arc's payoff is her holding, with nothing to hold *with*.
   **Fix, which also closes B21:** hook-ledger B21 already prescribes giving **Rosa a second session** because U7's six figures and T14's crows both route through carriers spent at Eps 6 and 8. **Put Rosa here, and put {{pc:3}} in that scene** — let Rosa be the one who finally makes the excised diagram mean something. One fix, three hooks.
@@ -224,6 +238,11 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 
 - **LOAD:** **HEAVY.** It was still labelled LIGHT ★ while carrying B2 full + B3's faction choice (both moved in from the absorbed Ep 13) on top of a **hard-floor** Vivian visit. Hard floors are not slack. It is also the **third Vivian visit** (Eps 4, 10, 14) and the second long Sacramento drive, against a discipline that flags elder-visit-at-home as the #1 fatigue pattern. **If this session needs unloading, move the second Vivian visit to an Ep 11 detour or Ep 12's cold open and let Ep 14 be the drive alone — B2 + B3 in a car and nothing else, genuinely light.**
 - **PRIMARY SHAPE: road trip.** **The San Bernardino ledger is CUT** — the storage unit was re-auctioned and the trail dies helpfully; that ledger now carries the deliberately-unfindable slack function the deleted phantom eighth used to. **Keep the road-trip shape; re-point the destination at the second in-person Vivian visit.** A slack session driving to a dying woman is worth ten times a hoarder's storage unit, and it solves the Vivian-decay problem in the same move.
+- **B2 full — Alaia's Hidden-faction reveal (moved from the absorbed Ep 13).** A long drive is a better room for it than a lecture corridor: she is a captive, peer-generation passenger and the conversation can breathe without a scene change. **This is the card Ep 5 deliberately did not spend.**
+- **B3 — the faction choice follows, in the same session.** The party now chooses between two stances **named in front of them minutes earlier** rather than choosing cold. `big-arc.md` invariant 9 puts this in Act II; Ep 14 is Act II. **Do not run B3 before B2.**
+- **S1 #8:** the faction conversation stalls because a passenger agrees too readily with something specific and wrong, and nobody in the car catches it for a mile.
+- **Fires:** B2 full · B3 · U8 (second in-person Vivian visit) · **S1 #8**
+- **Risk if slips:** B3 is the last clean room for the faction choice before Act II closes. If Ep 14 is de-loaded (see LOAD), B2+B3 move to Ep 11's drive to Dogpatch — **not** into Act III.
 - **Already closed, noted here for completeness:** T15 (Little Jimmy's reserved card) died on 2026-08-27 when the phantom eighth ledger was deleted — there are no unaccounted ledgers for him to hold. It did not need Ep 14 to kill it.
 
 > [!CAUTION]
@@ -376,13 +395,30 @@ Sub-phases compressible per `big-arc.md` §Act III.
 - **Note:** The Bodie/Annex pre-plants earn their weight; mathematician-photo callback if T13 was fired.
 
 ### Ep 24 — Negotiation
+
 - **LOAD:** HEAVY
-- **Arc-node:** CSP-5 intent-diversity as metric; expose-vs-negotiate choice locks; Kai-arc closes ambiguously.
-- **Note:** Player-agency choice landing; Founder scene.
+- **PRIMARY SHAPE: a decision with a cost, argued in a room.** This is the campaign's second locked agency choice and it was a two-line stub until 2026-08-27 — the least-authored and most load-bearing session in the file.
+- **Arc-node:** CSP-5 — **intent-diversity as the metric.** The thing the party has been circling since Ep 1 gets a name, and the naming has to come from them, not from Companion.
+- **THE LOCK: expose or negotiate.** Per `big-arc.md`, the DM has **no preset right answer**, and expose is cosmologically hard to stage — read its four permitted shapes before the session and pick which two you can actually run. **Do not let the party discover mid-argument that one option was never real.**
+
+  **Give the argument a spine, or five people will circle for ninety minutes:**
+  - **Put a clock on it that is not artificial** — a window that closes because of something already established, not because the DM says so.
+  - **Make each option cost a specific named thing** the party has spent sessions acquiring. A choice where both branches are free is not a choice.
+  - **Let each PC's domain argue its own case.** {{pc:1}} has spent the campaign wanting a fact confirmed; {{pc:2}} wants to know whether anyone gets hurt; {{pc:3}} has been reading absences and knows what exposure does to a person who is already gone; {{pc:4}} wants leverage and is the only one who will say so; {{pc:5}} wants to know the price. **That is the scene** — the DM should say very little.
+
+- **Kai-arc closes ambiguously.** *(Note: Ep 22 also claims this beat — **pick one.** The stronger case is Ep 22, where mirror-substrate makes the shape of a person-shaped absence legible. If it closes at 22, this session should carry a {{pc:3}} beat that is about the choice, not about Kai.)*
+- **Founder scene.** Third and last. He is sincere to the end; if he plays as a villain here, invariant 6 breaks in the final act.
+- **NPCs:** Companion; the Founder; the UX Designer as interpreter.
+- **Risk if slips:** everything downstream is the closing image. This session cannot slip; a buffer must absorb the overrun instead.
 
 ### Ep 25 — Closing Image
 - **LOAD:** LIGHT
-- **Arc-node:** The three-source ambiguous close; connector-in-bag callback per DM-note in `big-arc.md`:196-197.
+- **Arc-node:** The three-source ambiguous close; connector-in-bag callback.
+
+> [!CAUTION]
+> **The closing image is currently gated on an unprompted player utterance, and the new ladder rule forbids exactly that.** The instruction is *"one player must make the connection; the DM must not name it"* — a gate whose key is held by a player, with an explicit prohibition on the DM's Level 2. It is the last thing the table will ever remember of this campaign.
+>
+> **It needs a FLOOR, not a ladder — a physical object in the frame that makes the callback land whether or not anyone speaks.** Put the ARINC 600 connector on the table. Or {{pc:1}}'s Flipper Zero. Or simply hold the final scene in a boarding lounge. **The object does the work; nobody has to say the sentence.** If a player does say it, that is the best possible version — but the campaign must not depend on it.
 - **Note:** One player must make the connection; DM must not name it.
 
 **Act III is 7 sessions.** Compressible: Ep 21's Former Caster revisit is optional; Ep 20 and 22 could merge if the party runs deep-layer. Expandable: Ep 20 can absorb an extra session if the UX Designer scenes want it.
@@ -402,7 +438,16 @@ Sub-phases compressible per `big-arc.md` §Act III.
 > - **Ep 16** — a whole HEAVY session whose payload was deliberately withheld until Ep 17. Trinity #2 and #3 now share a room, and invariant 8 lands *better* compressed.
 > - **Ep 19** — CSP-1 and CSP-2 are the same conversation at two volumes. Merged, the session gains a shape: *first contact becoming dialogue.*
 >
-> Those two delete content rather than relocate it. **With four buffer slots against 21 authored sessions, 25 is now arithmetic rather than aspiration.**
+> Those two delete content rather than relocate it. **Four buffers against 17 authored future sessions.**
+
+> [!WARNING]
+> **The honest range is 23-27, not a single number — and which end you land on is a discipline question, not a planning one.** Nine of the seventeen authored sessions are HEAVY, which consumes the buffers arithmetically *before anything slips*. Two loads bear on it:
+> - **Recap is still unbooked.** At Ep 5's disciplined 3-minute-summary standard it costs ~0.7 sessions across the campaign. Run as a go-around it costs 1.4-2.8.
+> - **The one real throughput datum is worse than 1.35×.** Ep 4 was HEAVY, planned four scenes and delivered three — **75%**.
+>
+> **23-24 if the DM runs a 3-minute recap every week and compresses every HEAVY on sight. 26-27 at Ep 4's observed throughput.**
+>
+> **The fifth buffer, if needed, is Ep 14** — its own entry already says how: move the second Vivian visit to an Ep 11 detour or Ep 12's cold open, put B2+B3 in Ep 11's drive, and Ep 14 disappears. It is currently the third Vivian visit and the second long Sacramento drive, against this file's own #1 fatigue pattern.
 
 > [!WARNING]
 > **The remaining risk is not any single session — it is Act III's register.** As authored, Eps 20/22/23/24 are four consecutive HEAVYs in which the dominant verb is *talk to someone*, with zero puzzles, zero escapes, zero physical stakes and one location type: rooms with phones in them. Ten of the last eleven sessions were "go meet an interesting person and talk." Two fixes, neither needing a session:
@@ -415,7 +460,9 @@ Sub-phases compressible per `big-arc.md` §Act III.
 > **Cut breadth, not depth.** The moments-of-release, the per-PC realizations, the Act hinges and the closing image all keep their room. What comes out is coverage: a second science engagement, a standalone rest beat, and any hook that would need a session of its own to pay off.
 
 > [!CAUTION]
-> **REAL ABSORBABLE SLACK IS ZERO. Do not trust a slack count in this file.**
+> **Superseded 2026-08-27 (kept for the reasoning, not the numbers).** The box below was written against the old **two**-buffer state and its conclusion — *"the honest budget is 27-28"* — predates the Eps 16 and 19 cuts. **The current number is in the box above.** Its diagnosis of the ★ sessions still stands and is why Eps 7, 9 and 14 lost or should lose their markers.
+>
+> **REAL ABSORBABLE SLACK IS ZERO among the ★ sessions. Do not trust a ★ count in this file.**
 >
 > Five sessions carry a ★ (7, 9, 14, 18, 21) and **not one of them can absorb overflow**:
 > - **Ep 7** carries eight items (A9, R(Mira) begins, Mars's A7, A8, T1, T2, T4, B15) plus a medical emergency and the call to Nia. It is **MEDIUM**, not LIGHT, and it was over-loaded by the same 2026-08-27 revision that declared it protected. *(Compress T1/T2/A8 into a single combined beat — Reggie is at the party; that covers all three.)*
@@ -431,7 +478,7 @@ Sub-phases compressible per `big-arc.md` §Act III.
 > [!WARNING]
 > **Act I's slack budget is already spent.** Ep 4's overflow consumed it. **Eps 7 and 9 are no longer available to absorb further overflow** — they are the moment-of-release sessions, and cannibalising them does not cost texture, it destroys the Act I close. Any further overflow must be paid for by **cutting content**, not by eating slack.
 >
-> **Where to find a session if one is genuinely needed:** the two buffer slots (Eps 13 and 21) are the answer, and they are already reserved for exactly this. Do NOT take it from Eps 7, 9, or 12. If both buffers are spent and you are still over, cut a hook rather than adding a session — see §Total budget.
+> **Where to find a session if one is genuinely needed:** the **four** buffer slots (Eps 13, 16, 19, 21) are the answer, and they are already reserved for exactly this. Do NOT take it from Eps 7, 9, or 12. If both buffers are spent and you are still over, cut a hook rather than adding a session — see §Total budget.
 
 > [!WARNING]
 > **S1 FLATTENING DROUGHT, Eps 9-14.** Flattening beats are named in Eps 5, 6, 8 and 15 — and **nowhere in Eps 9 through 14**. That is six consecutive sessions with none, during exactly the phase `antagonist.md` says builds the soil for Act III's recognition. *(The numbering also jumps #2 → #4; one instance was lost in the edit.)*
