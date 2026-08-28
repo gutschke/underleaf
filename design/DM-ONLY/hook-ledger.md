@@ -138,7 +138,7 @@ These are not fire-and-forget hooks; they are ongoing DM disciplines that apply 
 | **U7 notebook read** | **Ep 5 Scene 2**, in the car, capped hard at Insight 12+ (geometry only). Delivered **privately**, so that {{pc:3}}'s player's share-or-hold decision remains hers. |
 | **U2 Ortiz callback** | **Ep 5 Scene 1 — and Ortiz initiates.** The scene must not rest on an offscreen action by the party's most reticent PC on this topic. |
 | **T4 / U6 Ocean Beach** | **Ep 5 coda** — one text, ~15 seconds, after two sessions of silence. |
-| **§35 Alaia's "see you in Berkeley soon"** | **Ep 5 Scene 3, paid in full** — in person, one session after it was thrown. The *meeting* moves forward; the **Hidden-faction reveal stays at Ep 11** so the card isn't spent early. |
+| **§35 Alaia's "see you in Berkeley soon"** | **Ep 5 Scene 3, paid in full** — in person, one session after it was thrown. The *meeting* moves forward; the **Hidden-faction reveal stays at Ep 14** so the card isn't spent early. |
 | **Two-car split / wariness of Dakota** | **Promoted from a dropped detail to a beat.** They travel split again out of habit, someone names it, and the party in the other car doesn't hear Mira's notebook read. |
 | **Priya's covert exam of Vivian** | **Becomes the engine of her realization in Ep 6**, not a dangling detail — two data points (a 98-year-old's strong pulse, a 79-year-old's stopped tremor) make a shape. |
 

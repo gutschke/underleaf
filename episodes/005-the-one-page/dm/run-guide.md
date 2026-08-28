@@ -367,7 +367,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 **She does not use the word "network." She names no one. She does not mention Nia.**
 
 > [!CAUTION]
-> **She does NOT reveal the Hidden faction.** That is Ep 11 (B2 full). Pulling her *meeting* forward pays the cliffhanger; pulling her *reveal* forward spends a card the campaign needs later.
+> **She does NOT reveal the Hidden faction.** That is Ep 14 (B2 full). Pulling her *meeting* forward pays the cliffhanger; pulling her *reveal* forward spends a card the campaign needs later.
 
 ### Beat 2 — What she gives *(8–10 min)*
 
@@ -564,7 +564,7 @@ Never voice at the table:
 - **T13, the photograph** — Vivian's mailed envelope in Ep 6 carries the letter file, not the photograph. The photograph needs her **voice**, in person, and is held for Ep 10.
 - **{{pc:2}}'s Phase-2 realization** — Ep 6, Rosa's garden. Deliberate; see the engagement note above.
 - **{{pc:5}}'s private beat** — Ep 7. Logged deferral.
-- **The Hidden-faction reveal** — Ep 11. Alaia confirms nothing this session.
+- **The Hidden-faction reveal** — Ep 14. Alaia confirms nothing this session.
 - **Nia Chen in person** — Ep 8. This session only puts her name in their hands.
 - **B18, the outside law firm** — Ep 9. *(Renumbered 2026-08-27; B7 is Companion-as-institution.)*
 - **Bancroft, Rosa, the Berkeley ledger** — Ep 6.

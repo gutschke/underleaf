@@ -49,7 +49,7 @@ Budgets sum to ~2h10. The rest is friction. **You are not ahead of schedule.**
 | Are there others? | *"Yes."* | **THE CRACK, once:** *"More of us than you think. And fewer than you'd want."* |
 | {{pc:1}}'s father? | — | **HARD NO:** *"No. And if I did I'd tell you, so please believe the no."* |
 
-**Never:** the word "network" · any name · Nia · the Hidden faction (that's Ep 11).
+**Never:** the word "network" · any name · Nia · the Hidden faction (that's Ep 14).
 
 ## Decided in advance — do not improvise
 
