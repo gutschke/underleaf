@@ -444,7 +444,7 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 > **Standing cadence, starting now.** Per `episode-outline.md` §Standing presence, three threads must not go quiet, and each costs 15 seconds at Tier 1:
 >
 > - **The teenagers** — a group-chat line every 2-3 sessions. This session is one. ✓
-> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available and you should take it:** the notebook read is *literally* her reading a hole where something was. If Ariadne makes any connection to her brother, do **not** confirm or deny — *"Interesting. What does {{pc:3}} do with that?"* — but let the adjacency sit. It is an itch, not a clue.
+> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available and you should take it:** the notebook read is *literally* her reading a hole where something was. If {{pc:3}}'s player makes any connection to her brother, do **not** confirm or deny — *"Interesting. What does {{pc:3}} do with that?"* — but let the adjacency sit. It is an itch, not a clue.
 > - **{{pc:1}}'s father** — Tier-1 cameo roughly once per act, from Ep 11. **Not this session**; Ortiz's page is the thread's content tonight.
 >
 > **Audit every planning cycle: when did each last appear, and in what tier?** More than three sessions ago means fix it in the session you are planning. These threads die of neglect, not of bad scenes.
