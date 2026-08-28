@@ -20,10 +20,9 @@
 - [Scene 2 — Two cars, again](#scene-2--two-cars-again)
 - [Scene 3 — Berkeley, a coffee counter](#scene-3--berkeley-a-coffee-counter)
 - [Scene 4 — Bea, missed](#scene-4--bea-missed)
-- [Coda](#coda)
 - [Per-PC engagement](#per-pc-engagement)
 - [Body cost-tells — in-place reminders](#body-cost-tells--in-place-reminders)
-- [Rolls, and the ones I removed](#rolls-and-the-ones-i-removed)
+- [Rolls](#rolls)
 - [Wild outcomes — pre-decided](#wild-outcomes--pre-decided)
 - [Contingencies](#contingencies)
 - [If you are running long — the pre-designated cut](#if-you-are-running-long--the-pre-designated-cut)
@@ -199,13 +198,26 @@ Let the party explain, or refuse to. She listens.
 >
 > **But do not count on it either** — the DM cannot play {{pc:4}}. If it doesn't happen tonight, nothing is lost and the hook stays open; A6's window runs to Ep 7. **What the DM CAN do is make the room expensive**, which is level 2: have Ortiz respond to evasion the way a tired detective actually would — she stops addressing {{pc:4}} entirely and talks only to {{pc:1}} for the rest of the scene. That is not a punishment, it is a consequence, and it lets {{pc:4}}'s player *feel* the persona cost him something without anyone naming it. Level 3, if the window is closing: another NPC in a later session gives him the same choice with higher stakes and less time.
 
-**If the party tells Ortiz nothing:** she keeps the file open anyway, but she stops volunteering. Play it as disappointment, not punishment — she is a professional and this is a Monday. The Influence roll below still applies; it just has less to work with.
+**If the party tells Ortiz nothing:** she keeps the file open anyway, but she stops volunteering. Play it as disappointment, not punishment — she is a professional and this is a Monday.
+
+**If {{pc:4}} tries to manage her — Influence, and it has a real branch:**
+
+| | |
+|---|---|
+| **10+** | She takes the party seriously as sources rather than as {{pc:1}}'s entourage. |
+| **7–9** | She goes along with him **and** starts addressing only {{pc:1}} for anything that matters. He got what he asked for and lost the room. |
+| **6−** | She stops addressing him entirely for the rest of the scene. |
+
+*(At his modifiers 6− is a ~9% tail — plan for the 7–9. Note the 7–9 result is also Level 2 of the A6 ladder, so it does the same work whether he rolls or not.)*
 
 ### Beat 1b — The two documents disagree *(4–5 min)* — {{pc:4}}'s beat
 
-**{{pc:4}} has photographs of the locker paperwork on his phone** from Sacramento. Somebody will think to compare. Let them.
+**{{pc:4}} has the loose paperwork from the locker** — physical, and already seen on his dining table in Ep 4. Somebody will think to compare. Let them, **and put both objects on the desk** — two pieces of paper beats a phone screen.
 
-**They match on everything except one field.** Pick one and hold to it — the prepay end-date (2035 on Ortiz's, 2031 on Dakota's photo), or the number of signatories, or the dissolution month. **Both documents are authentic.** Neither is a forgery, neither is a scan artifact, and there is no third copy to adjudicate.
+**They match on everything except the signatories.** Ortiz's page lists **three** names against the 1994 filing; {{pc:4}}'s copy lists **two**, and the missing one is not {{pc:1}}'s father — it is a name neither document explains and nobody has heard. **Both documents are authentic.** Neither is a forgery, neither is a copy artifact.
+
+> [!WARNING]
+> **Do NOT use the prepay end-date as the differing field.** 2035 is attested three times — §27, §3, and in ballpoint on the back of Bea's 1979 index card, **which {{pc:4}} photographed at her house.** The party holds a third copy, so the beat's premise (nothing to adjudicate against) collapses the moment someone scrolls back. Signatory count has no third attestation; dissolution month also works.
 
 Ortiz will assume a transcription error, because that is what a reasonable person assumes, and she is not wrong to.
 
@@ -272,7 +284,10 @@ That is opaque **and** concrete, and it closes the obvious question without open
 
 ### Beat 3 — S1 flattening #1 *(90 sec)*
 
-Deploy during Beat 1 or 2. **Put it on a PC, not past the table** — **{{pc:3}}** is in the room (she came back with {{pc:1}}) and she is a county records clerk, so she is exactly the person who would hear a filing-classification decision and object to it out loud. Let her, and let her be agreeably dismissed.
+> [!CAUTION]
+> **Do not run this within ten minutes of Beat 1b.** Two *the-record-is-wrong* beats back to back, at a table that has spent three sessions consolidating on {{pc:4}}-as-culprit, reads as **tampering** — which is exactly what S1's rate discipline exists to prevent. Beat 1b is the discrepancy; put daylight between them, and if the scene is tight, **move this flattening beat to Berkeley** (a barista over-agrees with a specific-and-wrong order) or drop it to Ep 6 entirely.
+
+Deploy well after Beat 1b. **Put it on a PC, not past the table** — **{{pc:3}}** is in the room (she came back with {{pc:1}}) and she is a county records clerk, so she is exactly the person who would hear a filing-classification decision and object to it out loud. Let her, and let her be agreeably dismissed.
 
 > A dispatcher passing Ortiz's desk, not looking at the paperwork: *"Hey — log that as a cold-lead follow-up on the '25 file, not the '18 file. The app grouped them under '25 automatically. It's what I would've done too."*
 >
@@ -341,9 +356,17 @@ Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 **Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** They are in a moving vehicle so there is no stepping into another room; a text to the player's phone is clean and costs nothing.
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 3 below is her player's decision to make — narrating the read to the room makes it for them.
 
-- **Free tier, no roll:** *"You sense the negative-space of what was there. Something diagrammatic — geometric — arranged. You can't tell what."*
-- **Insight 10+:** *"Something like six shapes in an arrangement — a cluster, or a lineup, or a hierarchy — you can't tell which."*
-- **Insight 12+:** *"Six figures in what feels like a network — lines between them, some structural relationship — the geometry has meaning but the meaning is opaque."*
+| Result | What she gets |
+|---|---|
+| **Free — no roll** | Negative space. Something diagrammatic, geometric, arranged. She can't tell what. |
+| **7–9** | **The count — six — and nothing else.** Shapes, not relationships. *And she is certain there was more on that page than she can reach.* |
+| **10+** | Six shapes in an arrangement — a cluster, a lineup, or a hierarchy; she can't tell which. |
+| **12+** | Six figures in a **network** — lines between them, a structural relationship. The geometry means something and the meaning is opaque. |
+
+**7–9 is the most likely band on 2d6. Do not skip past it to 10+.**
+
+> **Double 6s:** the extra grant is spent on **provenance, not content** — the cut was made with a fresh blade, in a warm room, unhurried, by someone who did not want it to look violent. Pre-war paper. **It reveals nothing about the six figures.**
+> **Double 1s:** the binding cracks and a page comes loose, or the navigation reroutes and they lose fifteen minutes. Never an improvised reveal.
 
 > [!CAUTION]
 > **STOP AT 12+.** No face-recognition, no party-shape-match, no Kai-adjacent breadcrumb. **The deeper read — five of the six figures matching the party, the sixth a face — belongs to Act II**, and it has its own delivery plan there. **Tonight the cap holds for its own reason: they have had the notebook two days, and geometry is all it has given up.** Six figures, geometry only.
@@ -481,9 +504,9 @@ They detour through the Outer Sunset on the way back. **She is not home.** The h
 
 Wedged in the storm door, at eye height, where it could not be missed and could not have been there long:
 
-> An index card. Bea's hand. A name and a phone number.
+> An index card. Bea's hand — the same square, unhurried capitals as everything in her box. A name and a phone number.
 >
-> **Nia Chen.**
+> **NIA CHEN — (415) 555‑0163**
 >
 > Nothing else. No note, no explanation, no indication of when it was left or how she knew they would come.
 
@@ -518,19 +541,7 @@ Somebody will dial it from the porch inside ninety seconds.
 
 **If a player asks how she knew:** she isn't there to ask. That is the point. Log any theories privately.
 
-### End on the argument, not the card *(3–5 min)*
-
-Do not let five people stand in the dark and simply *receive an object*. Put a decision on the porch:
-
-> **Do we call this number tonight?**
-
-That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to know who they're calling first, and somebody will point out it is nearly ten at night. **The session ends on the party choosing**, not on being handed something.
-
-*(What the number does is in [Decide these before the session](#decide-these-before-the-session--the-party-will-force-them-tonight). Short version: voicemail, no callback tonight, and a text back the next morning if they leave a message.)*
-
----
-
-## Coda
+### The two texts — during the argument, before the call
 
 **Run this ON THE PORCH, during the call-or-don't argument — not as a separate scene afterwards.** If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
 
@@ -560,10 +571,29 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 > **It rings four times.** Five people standing in the dark, on the porch of a woman who is not home, listening to a phone ring. Then a stranger's voicemail — a woman's voice, unhurried, no name.
 >
 > **Stop there. That is the end of the session.** Do not narrate them leaving, do not add a closing line, do not let a phone notification land after it.
+
+> [!IMPORTANT]
+> **Then break the moment on purpose, and say so.** All five PCs hit 5/5 tonight, and advancement is a six-option menu — *a new focus*, *a relationship with an NPC who now appears when called for* — which is a conversation, not a checkbox. **That is 15–20 minutes and it cannot happen inside the ringing phone.**
+>
+> So land the image, let the silence sit until somebody at the table breaks it, and then step out of it cleanly: **"That's the session. Before you go — sheets out, everybody's got a mark coming."**
+>
+> **Or push advancement to the group chat** and let them pick between sessions. Either is fine. **Deciding on Sunday is not optional** — discovering it at 10:40pm means either the ending or the advancement gets rushed.
 >
 > **If they don't call**, the last image is five people who couldn't agree, standing in the dark, with the card. That is also good — and it is theirs.
 >
 
+
+---
+
+### End on the argument, not the card *(3–5 min)*
+
+Do not let five people stand in the dark and simply *receive an object*. Put a decision on the porch:
+
+> **Do we call this number tonight?**
+
+That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to know who they're calling first, and somebody will point out it is nearly ten at night. **The session ends on the party choosing**, not on being handed something.
+
+*(What the number does is in [Decide these before the session](#decide-these-before-the-session--the-party-will-force-them-tonight). Short version: voicemail, no callback tonight, and a text back the next morning if they leave a message.)*
 
 ---
 
@@ -718,7 +748,7 @@ Never voice at the table:
 
    **Do not bend a beat to fit a bullet.** If it doesn't happen, it doesn't happen — the point of writing this down is so you *recognise* it when it does, not so you engineer it.
 
-   The five criteria, for reference — a PC may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **This was missed at the end of Ep 4** and is now a standing item — several PCs are plausibly owed marks toward a first advancement. Record them in the session log's `marks` field.
+   The five criteria, for reference — a PC may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **Ep 4's marks are already assigned** (one per PC, recorded in each PC's `markLog`), so tonight's are the fifth for everyone. Record them in the session log's `marks` field.
 4. Write `sessions/<date>/session.json` against the `session-log` schema, plus `summary.md` for the players. Run `quire lint .` before committing.
 5. Fold the played record into this file as a `## Played record (<date>)` section at the top, per the Ep 4 pattern.
 6. Update `hook-ledger.md` fire statuses. Expected fires: U2, **S3**, §35/B2-partial, U3 closed, **A1 planted**, S1 #1, U7 partial, T4/U6.

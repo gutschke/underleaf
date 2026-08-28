@@ -1,7 +1,6 @@
 # Ep 5 — The One Page — clock card
 
-> **Companion to the run-guide, not a replacement.** Run the session from the guide; keep this beside you for the clock, the gates and the cut order.
-> **Target 2h30 · ceiling 3h.** ~133 min of content lands at **2h45–2h55**. Plan to compress two rows.
+> **Companion to the run-guide, not a replacement.** **Target 2h30 · ceiling 3h — this session is AT the ceiling:** ~141 min plus friction lands **2h55–3h05**. Plan to compress two rows.
 
 ## Gates
 
@@ -27,11 +26,12 @@
 | 2 · Sidewalk handover | 3 | 2 | — |
 | 2 · Two cars + notebook read | 16 | 8 | Mira's private read |
 | 3 · Berkeley — Alaia | 30 | 24 | her early exit |
+| — · **Drive: Berkeley → Outer Sunset** | 8 | 5 | — |
 | 4 · Porch — card + the search | 12 | 7 | — |
 | 4 · Coda texts (**on the porch**) | 4 | 3 | — |
 | 4 · **The call — LAST THING TONIGHT** | 4 | 3 | **never cut** |
 
-*They are going into Bea's house. The porch row includes it; if they don't, take 5 back.*
+
 
 ## Must land
 
@@ -44,19 +44,23 @@
 1. Recap go-around → 3-min DM summary
 2. **Lobby → 4 min** (Mars's carry decision only)
 3. Merge the car scene into the Berkeley arrival
-4. Ortiz's second question (the four-month delay)
+4. **The break-in** at Bea's — cheapest real cut on the list (−5)
+5. Ortiz's second question (the four-month delay)
 
 **Never cut:** the seam · **Alaia's stool rotation** · the card · the call.
 
-> **Not the rotation.** It is the only place Priya gets a peer conversation and Mars gets something that isn't a metal detector. Compressing Berkeley first puts the squeeze on the two players who already have the least.
+> **Not the rotation** — it is the only place Priya gets a peer conversation and Mars gets anything but a metal detector.
 
-## Say it right
+## Pre-decided · say it right
 
-- **Absolute months**, never intervals: *"February of '18. February of '25."*
-- *"Seven years, **near enough**"* — never *"exactly seven years."*
-- Alaia's crack: *"I've met two of them. I didn't like either of them much."* **Never "more of us."**
-- After the two dates, **stop.** Let the table do the subtraction.
+- **The card:** *NIA CHEN — (415) 555‑0163*. **Four rings**, then voicemail, no name. No callback tonight.
+- **Beat 1b differing field: signatory count** (3 on Ortiz's, 2 on Dakota's). **Not** the 2035 date — they hold a third copy.
+- **Why they go to Bea's:** Mira wants to compare hands.
+- **Absolute months, never intervals:** *"February of '18. February of '25."* Then **stop** — let them subtract.
+- *"Seven years, **near enough**"* — never *"exactly."*
+- Alaia: *"I've met two of them. I didn't like either of them much."* **Never "more of us."**
 
 ## Before they leave the table
 
-**Advancement marks — one each.** Missed after Ep 4; backfill that one too.
+**Marks — one each, and it is everyone's FIFTH. All five advance tonight.**
+**Decide Sunday:** land the phone, break the moment (*"that's the session — sheets out"*), spend 15–20 min · **or** push advancement to the group chat.
