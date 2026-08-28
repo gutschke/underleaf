@@ -1,0 +1,133 @@
+# Writing an episode run-guide — the two-phase method
+
+> [!CAUTION]
+> **DM-ONLY.** Process document. No plot content.
+
+> [!IMPORTANT]
+> **Read this before writing or revising any episode run-guide.** It exists because Ep 5's guide had to be substantially rewritten twice after it was already "finished" — once for being written contingency-first, once for being written in private shorthand. Both were failures of *format*, not of story, and both were avoidable.
+
+---
+
+## The core insight: these are two different documents
+
+An episode gets written twice, for two different readers, and **trying to serve both at once produces a document that serves neither.**
+
+### Phase 1 — the working draft (for the author)
+
+**Reader: whoever is designing the episode.** Purpose: find the bugs.
+
+**Do all of this, generously:**
+
+- Reference hooks by code (`A6`, `S3`, `U7`), sections by number (`§27`), future episodes by number.
+- Spell out every *what-if* and contingency. Enumerate the branches.
+- Argue with earlier drafts in writing. Record why a thing was rejected.
+- Cross-reference other documents constantly.
+- Justify design choices at length.
+
+**This phase is not waste and must not be skipped.** It is what catches the canon collisions, the beats scheduled twice, the hooks with no home, the arithmetic that doesn't close. Ep 5's working draft caught a date attested three times, a realization scheduled in two places and present in neither, and a scene the party's own vehicle assignment made impossible. **Expert review belongs here** — reviewers can follow shorthand and want the reasoning.
+
+### Phase 2 — the table document (for the DM)
+
+**Reader: the DM, at the table, at 9:40pm, with five people talking, reading off paper.**
+
+**Assume they have never seen this episode before.** Their first encounter with it is this document. Their only other source is a spotty memory of previous sessions. **They were not present for the authoring and do not know what any of your shorthand means.**
+
+This is a rewrite, not a tidy-up.
+
+---
+
+## The Phase-2 rules
+
+### 1. Every scene and beat opens with what actually happens
+
+**Baseline first, contingency second, always.** The commonest failure is a beat that opens *"If the player raises it…"* — a recovery instruction for an event never described.
+
+State the room, the people in it, and what occurs. *Then* branch.
+
+### 2. No private shorthand
+
+The DM who does not recognise a code has to worry they are missing something important.
+
+| Don't write | Write |
+|---|---|
+| `U2 · S3 institutional-frame breadcrumb` | "the seven-year gap acknowledged but not explained — this is where suspicion turns from a person to an institution" |
+| `per §36` | the two sentences from §36 that actually matter here |
+| `That is Ep 14 (B2 full)` | "that is a later session — Ep 14, on the road — and it is the whole card she is holding" |
+| `LOAD: HEAVY` | "How full is this session? Very — expect to compress two scenes" |
+
+**Terms of art get introduced in a natural sentence on first use, or not used.** *Beat*, *load*, *flattening*, *Phase-2 realization* are all authoring vocabulary. If a word is worth keeping, define it in passing the first time. This includes the tag names below — the tags are only useful because the guide explains them before using them.
+
+### 3. Establish every object, person and prior event before it is needed
+
+Ep 5 shipped a version where **the notebook — twelve minutes of session — was never described**, and where a scripted line referenced three past events the DM had no account of.
+
+**The test:** for every proper noun and every object the DM must describe, hand the guide to someone who has not read the campaign and ask whether they could run that beat. Use a short *"What you need to know before this scene"* block — six lines is usually enough.
+
+### 4. Print in play order
+
+Everything the DM needs at a moment lives at that moment. If a callout exists to tell the reader the correct running order, **the layout is wrong** — fix the order and delete the callout.
+
+Roll tables go in the scene that calls for them, not in an appendix. Anticipated questions go in the beat that provokes them. Nothing important lives only in the front matter.
+
+### 5. One fact, one owner
+
+Any fact appearing in two documents will desynchronise, and did: two totals, two cut orders, three states of the advancement count. **Name the owner** ("the clock card owns time") and make the other document point rather than repeat.
+
+### 6. Tag anything that needs a player to start it, and supply the line
+
+**The DM can play NPCs. He cannot play the PCs.** A beat waiting on a player to notice an opportunity may simply never happen.
+
+| Tag | Means |
+|---|---|
+| **HAS TO HAPPEN** | A later scene or session breaks without it. Offer it; use the written fallback if the offer doesn't take. |
+| **THEIR ONLY MOMENT** | Nothing downstream depends on it, but it is the one thing that player gets tonight. **Cuts differently from the above when you are behind.** |
+| **OFFER IT** | A line to open the door. Still their choice. |
+| **FINE TO SKIP** | Pleasant if it happens, costs nothing if it doesn't. |
+
+**Every tag carries an actual line the DM can say.** A tag without a line is a wish.
+
+### 7. Three settings per scene: play it, tell it, or drop it
+
+**Telling** — narrating a scene in 60–90 seconds — costs the interaction, not the information. Right for texture and transit; wrong for anything containing a decision. Always end a telling with *"unless somebody wants to stop me."*
+
+**Pre-cut one scene** and offer it as the session's single add-back at a named clock gate. Relocate its load-bearing beats somewhere safer rather than losing them, and say in the guide where each went.
+
+### 8. Strip the authoring voice
+
+Delete on sight: first-person notes, arguments with earlier drafts, changelogs, justification of editorial choices, and the guide grading its own scenes ("this is better anyway", "it is a good scene", "for zero minutes").
+
+**Keep the ruling, drop the derivation.** If the reasoning is genuinely load-bearing, one short line, subordinated.
+
+### 9. Say what to DO, not only what not to do
+
+Every *"never explain this"* needs its paired *"say this instead."* A prohibition without an action leaves the DM improvising at the worst moment.
+
+### 10. Print-shape it
+
+One-page documents must actually fit one page — a two-page quick-reference is not a quick reference; cut content rather than let it wrap. Break at scene boundaries. Character sheets print single-sided so they can be spread out.
+
+---
+
+## The handover checklist
+
+Run this when converting Phase 1 → Phase 2. It is faster than another expert round and catches most of what those rounds found.
+
+- [ ] Every scene and beat opens with **what happens**
+- [ ] **Zero** hook codes, section numbers, or bare episode references in any table document
+- [ ] Every object, NPC and prior event the DM must describe is **established in the document**
+- [ ] Scenes print in **play order**; no callout exists to correct the order
+- [ ] Roll tables and anticipated questions sit **in their scenes**
+- [ ] Every duplicated fact has **one owner**; the others point
+- [ ] Every player-initiated beat is **tagged and carries a line**
+- [ ] Every *"don't"* has a paired *"do this instead"*
+- [ ] No first-person, no changelog, no self-grading
+- [ ] One-pagers fit one page; totals in different documents **agree**
+- [ ] A reader who has never seen the episode could run it
+
+---
+
+## Related
+
+- [`principles.md`](principles.md) — table-facing design discipline
+- [`episode-outline.md`](episode-outline.md) — where arc-level shorthand *is* appropriate, because its reader is the author
+- Ep 5's guide, [`../../episodes/005-the-one-page/dm/run-guide.md`](../../episodes/005-the-one-page/dm/run-guide.md), is the current best example of a finished Phase-2 document. Its `pacing.md` is the model for a one-page clock card.

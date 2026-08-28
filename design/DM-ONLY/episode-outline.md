@@ -658,6 +658,8 @@ Novel-register additions embedded above:
 
 ## Related
 
+- [`run-guide-style.md`](run-guide-style.md) — how to turn any of the episodes below into a guide a DM can actually run from. **The outline is allowed to use shorthand; a run-guide is not.**
+
 - [`big-arc.md`](big-arc.md) — the story-shape frame; locked invariants
 - [`arc.md`](arc.md) — play-mechanics phasing
 - [`principles.md`](principles.md) — design principles (including §3 rationalization-is-real)

@@ -59,3 +59,5 @@ Post-session:
 When you write a new DM-only document, copy the `> [!CAUTION]` alert block verbatim from the top of any file in this folder. The warning must be the first thing a reader sees if they open the file without context. GitHub renders these alerts as a red-barred warning block; other Markdown renderers degrade them to a regular blockquote, which is still visually distinct.
 
 When you write content that mixes spoiler and non-spoiler material, split the file: public content goes in the non-DM folder, private content goes here. Mixing the two in one file is what leads to accidental leaks.
+
+- [`run-guide-style.md`](run-guide-style.md) — **read before writing or revising any episode run-guide.** The two-phase method: a shorthand-heavy working draft for finding bugs, then a full rewrite as the document the DM actually runs from. Includes the handover checklist.
