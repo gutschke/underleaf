@@ -7,9 +7,9 @@
 >
 > **Session target 2.5h; ceiling 3h** of active play, per the table's real norm. Assume all five PCs present.
 >
-> **At the table, use [`pacing.md`](pacing.md), not this file.** One page: the clock, the cut order, Alaia's deflection ladder, and every pre-decided ruling. This document is for prep.
+> **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need to play. Print the **one-page pacing card** with it — that card is the clock, the gates and the cut order at a glance, and it is a companion, not a replacement.
 >
-> For cross-campaign facts during play, keep two docs open: [`../../004-the-sacramento-visit/dm/continuity-through-ep-4.md`](../../004-the-sacramento-visit/dm/continuity-through-ep-4.md) (the snapshot) and [`../../../design/DM-ONLY/anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md) (the ledger table — the snapshot does not contain it).
+> **Optional deeper lookup** during play is in the printed **Ep 5 continuity insert** that ships in the same packet. You should not need it; nothing in this guide depends on it.
 
 ## Contents
 
@@ -38,9 +38,9 @@
 
 **In-fiction date:** Monday, February 2027 — two days after the Saturday of Ep 4.
 
-**Primary shape:** **bureaucratic puzzle** (a single page that means more than it says) + **interpersonal conflict** (the two-car split, named out loud). Deliberately *not* an archival session — no elder hands anyone a document in a quiet room. Four registers, four locations, none of them a records room. See [`../../../design/DM-ONLY/episode-outline.md`](../../../design/DM-ONLY/episode-outline.md) §Variety-of-settings discipline reminder.
+**Primary shape:** **bureaucratic puzzle** (a single page that means more than it says) + **interpersonal conflict** (the two-car split, named out loud). Deliberately *not* an archival session — no elder hands anyone a document in a quiet room. **Four registers, four locations, none of them a records room.**
 
-**LOAD:** MEDIUM. The Bea scene that dominated the earlier draft is gone; Alaia replaces it.
+**LOAD:** MEDIUM.
 
 **The three things that must land:**
 
@@ -51,9 +51,9 @@
 **Everything else is negotiable.**
 
 > [!IMPORTANT]
-> **[`pacing.md`](pacing.md) is the single budget. The minute-ranges in the scene headers below are indicative only** — they were written separately, they disagreed with the pacing sheet on every scene, and two budgets is worse than a wrong one. **At the table, read the sheet.**
+> **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need. The one-page **pacing card** that ships with it is a *clock* — keep it beside you for the gates and the cut order — but it is not a substitute for this, and nobody can run three hours off a summary sheet.
 >
-> Short version: ~133 minutes of content, landing at **2h45–2h55** with this table's friction. That is inside the ceiling and over the target, so **plan to use the compress column on at least two rows.** Hard gates: out of SFPD by **T+1:20**, out of Berkeley by **T+2:15**.
+> **Time:** ~133 minutes of content, landing at **2h45–2h55** with this table's friction — inside the 3h ceiling, over the 2h30 target. **Plan to compress two scenes.** The per-scene minutes below are the budget; the card repeats them with the clock gates: **out of SFPD by T+1:20, out of Berkeley by T+2:15.**
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### The dates — memorise these, do not improvise them
 
-Per [`facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md) §6 *Canonical date set (LOCKED)*:
+**These are locked canon. Do not improvise around them.**
 
 | | |
 |---|---|
@@ -93,13 +93,13 @@ Who ran the 2018 query stays opaque. Bea's possible role in it is held for Ep 7+
 
 **3. What is inside the house, because this party is going in.** {{pc:3}} picks a Kwikset in under a minute, {{pc:1}} knows every service door, {{pc:5}} knows every locked building on the waterfront, and {{pc:4}}'s whole focus is getting through a door he shouldn't be behind. **Do not be caught unbriefed.** If they go in: the house is tidy, cold, and lived-in — a cup rinsed and upturned by the sink, mail on the table two days *older* than the card, the kettle cold, the wooden card-box **not** on the kitchen table where it was in Ep 2. Nothing is disturbed, nothing is missing, nobody has searched the place. It is the house of someone who went out.
 
-They will feel worse for having gone in, which is the correct outcome. **Do not reward the break-in with a document** — that would spend the surfacing budget (`facts-ledger.md` §36) on a *responsive* surfacing, which the discipline forbids.
+They will feel worse for having gone in, which is the correct outcome. **Do not reward the break-in with a document.** Records in this house surface *retrospectively*, confirming a shape the party has already established — never *responsively*, because they went looking. A document found by breaking in is the second kind, and it cheapens the mechanic permanently.
 
 **4. Whether {{pc:1}} keeps the physical page.** See Scene 1 Beat 3 — he does not, and that is the point.
 
 ### Bea, if the party asks about her
 
-She does not explain. Ever. Per [`../../002-the-archivists-index/dm/the-archivist.md`](../../002-the-archivists-index/dm/the-archivist.md): *"Bea shows records and never draws the conclusion… Recognition is fine and chilling; interpretation breaks the invariant."* She may show, hand over, mail, or point. She may not interpret.
+**She does not explain. Ever.** Her hard invariant, from Ep 2: *she shows records and never draws the conclusion.* **Recognition is fine and chilling; interpretation breaks the invariant.** She may show, hand over, mail, or point. She may not interpret, and she does not crack under pressure — the refusal is characterful and final.
 
 She is also, per DM ruling, **allowed to be elusive** — recurring but hard to pin down. The discipline that keeps this from reading as a missing NPC: **absent in body, never absent in effect.** Every session she ghosts, she still delivers something physical. This session it is a card in a door.
 
@@ -153,8 +153,8 @@ Ortiz walks {{pc:1}} back through the bay — third row from the window, a bulle
 
 It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's dissolved California business filings and, in the same query, cross-matched **every SSN historically named in those filings** — officers, signatories, authorized agents.
 
-> [!WARNING]
-> **Not a property-title search.** Argonaut *rented* the locker; it never owned property, and `facts-ledger.md` §27 (LOCKED, flagged high-drift) is explicit: *"single-member… sole purpose: prepay the Sacramento storage locker. No other assets, no other transactions."* An earlier version of this guide wrote it as a title cross-match, which §27 forbids.
+> [!IMPORTANT]
+> **Argonaut rented the locker. It never owned property.** Single-member LLC, sole purpose prepay the storage unit, no other assets and no other transactions. So there is no chain of title here and nobody should say "title" at the table — what exists is a filing history with people's names in it.
 
 **On the page:**
 
@@ -208,13 +208,11 @@ Let the party explain, or refuse to. She listens.
 Ortiz will assume a transcription error, because that is what a reasonable person assumes, and she is not wrong to. **She has no reason to care and does not.**
 
 > [!IMPORTANT]
-> **Why this is here.** Every piece of evidence in this campaign so far has been a *gap* — pages cut out, records that don't exist, a name water-damaged past reading, a memory that doesn't match a camera. A player put it exactly right: *"Give me one thing that has two versions. Not a gap. Not an erasure. A document that says one thing and a copy of the same document that says something else, both real, both in front of us."*
+> **Never explain it. Never resolve it.** There is no fact of the matter about which document is right. If they photograph both and check again later, both still say what they said.
 >
-> That is **record-versus-record** asymmetry, and it is an escalation of Ep 2's record-versus-memory rather than a repeat. It is cosmology-legal — see retro-causal writing in [`anchors-cards-ledgers.md`](../../../design/DM-ONLY/anchors-cards-ledgers.md) — and it costs four minutes.
+> **Why it matters:** every piece of evidence in this campaign so far has been a *gap* — pages cut out, records that don't exist, a name water-damaged past reading, a memory that doesn't match a camera. This is the first thing that exists in **two versions**, which is a different and more unsettling shape than absence. Ep 2 gave them record-versus-memory; this is record-versus-record.
 >
-> **Never explain it. Never resolve it.** Do not let anyone determine which one is "right"; there is no fact of the matter. If they photograph both and compare again later, both still say what they said. **Log which field you chose** — it is now canon, and Ep 6's Bancroft session can rhyme with it if you want.
->
-> **It also fixes {{pc:4}}'s billing.** He is the only person who can produce the second document, so he is materially useful in the room where he is otherwise on the back foot.
+> **Log which field you chose.** It is canon from tonight, and Ep 6's Bancroft session can rhyme with it.
 
 ### Beat 2 — The seam *(10–12 min)* — {{pc:1}}'s beat
 
@@ -256,11 +254,11 @@ Then, quieter, off the record:
 
 ### "Who requested it?" — they will ask this in the first ninety seconds
 
-Have the answer ready, because the guide previously had none:
+Have the answer ready:
 
 > *"A business-services vendor out of Sacramento. Records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred. They dissolved in 2021."* (beat) *"So: somebody paid a vendor to pull it, and the vendor is gone, and the paperwork doesn't say who paid. That's not sinister, that's just how the industry works. It's also why I can't tell you anything else."*
 
-That is opaque **and** concrete, it is per `camila-ortiz.json`, and it closes the obvious question without opening a lead.
+That is opaque **and** concrete, and it closes the obvious question without opening a lead.
 
 **Do not reveal:** who wrote the margin note; **who ultimately commissioned** the 2018 query; anything about reading (a).
 
@@ -297,7 +295,7 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 
 **Then start the joke.** She will be almost impossible to reach from here until Ep 11. Every subsequent contact is a real voicemail — use the audio assets. Phone tag with a stranger is a shrug; phone tag with a detective they like, who is fighting her own caseload to keep this file open, is funny *and* quietly sad.
 
-*(The outside-law-firm plant moves to Ep 9. Do not deploy it here — this scene is full. **Note: this is NOT hook B7** — B7 is Companion-as-institution, fire-by late Act II. The law firm has no hook ID yet; it is tracked as **B18** as of 2026-08-27.)*
+*(The outside-law-firm plant — hook **B18** — moves to Ep 9. Do not deploy it here; this scene is full.)*
 
 ---
 
@@ -322,22 +320,24 @@ They travel split again — **out of habit, not out of a decision.** Nobody re-n
 
 **Let a player notice, and if nobody does, have the most-affected PC notice at ~3 minutes.** *"We're doing it again."* Whether they consolidate is entirely theirs. Do not push.
 
-This is the Ep-4 loose end promoted into a beat instead of quietly reverted. Note also that an earlier draft of this guide put all five in one vehicle, which would have silently undone the party state Ep 4 actually ended on.
+**They ended Ep 4 in two cars and markedly warier of {{pc:4}}.** Nothing has happened since to change that, so do not quietly reunite them — the split re-forming on its own is the beat.
 
 ### Beat 2 — {{pc:3}} reads the notebook *(8–10 min)* — {{pc:3}}'s beat
 
 Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 
-**Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling {{pc:3}}'s player aside during a break.** They are in a moving vehicle, so there is no stepping into another room; a text to the player's phone is the clean mechanism and it costs nothing. Per [`principles.md`](../../../design/DM-ONLY/principles.md) §3 and `rules.md` §Realization mechanics, per-PC recognition is private — and Beat 3 below is {{pc:3}}'s player's decision to make, which the DM pre-empts by narrating it to the room.
+**Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** They are in a moving vehicle so there is no stepping into another room; a text to the player's phone is clean and costs nothing.
+> **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 3 below is her player's decision to make — narrating the read to the room makes it for them.
 
 - **Free tier, no roll:** *"You sense the negative-space of what was there. Something diagrammatic — geometric — arranged. You can't tell what."*
 - **Insight 10+:** *"Something like six shapes in an arrangement — a cluster, or a lineup, or a hierarchy — you can't tell which."*
 - **Insight 12+:** *"Six figures in what feels like a network — lines between them, some structural relationship — the geometry has meaning but the meaning is opaque."*
 
 > [!CAUTION]
-> **STOP AT 12+.** No face-recognition, no party-shape-match, no Kai-adjacent breadcrumb. **The cap is right; the old rationale was not.** [`facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md) §21 no longer gates the retrocausal-self reading on a player volunteering it — a gate whose key is held by a player is a hope, not a gate. §21 now carries a DM-drivable Level 2/3 floor that fires in **Act II**, not tonight. **Tonight the cap holds for its own reason: the party has had the notebook for two days and geometry is all it has given up.** Six figures, geometry only.
+> **STOP AT 12+.** No face-recognition, no party-shape-match, no Kai-adjacent breadcrumb. **The deeper read — five of the six figures matching the party, the sixth a face — belongs to Act II**, and it has its own delivery plan there. **Tonight the cap holds for its own reason: they have had the notebook two days, and geometry is all it has given up.** Six figures, geometry only.
 
-**Third use in the scene triggers a stress check** — 2d6 + WIS, per [`rules.md`](../../../world/rules.md) §Magic and {{pc:3}}'s own PC sheet (`castDomain`: *"third use in a scene triggers stress check"*). Her outline reads **are** casts; this is the canonical rapid-casting rule, not a house call.
+**Third use in the scene triggers a stress check.** Roll **2d6 + WIS** — WIS only, no skill or tag bonus. Her outline reads **are** casts, so this is the standard rapid-casting rule firing, not a house call; her own sheet says the same.
+> **Stress reminder:** Stress 2 is −1 to all WIS rolls (so −1 to casting) and clears only on a full night's sleep or a meaningful conversation.
 
 
 
@@ -358,7 +358,7 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 **Level 3 — a later, mundane fallback.** If Level 2 also passes without traction, do not push in-scene. Land it somewhere ordinary in a subsequent session — a form with a *siblings* field, someone asking whether she has family, a photograph with the wrong number of people in it. **The thread survives; only this session's opportunity is spent.**
 
 > [!CAUTION]
-> **All three levels are itch, not clue.** Whatever she does with it, she finds nothing — the non-attestation is total per `facts-ledger.md` §31, and that is the default the arc keeps. The ladder exists to make sure the *hole stays visible*, not to open an investigation.
+> **All three levels are itch, not clue.** Whatever she does with it, she finds nothing — **Kai's non-attestation is total** — his records do not exist anywhere, only {{pc:3}} and her note carry him, and that is the default the arc keeps. The ladder exists to make sure the *hole stays visible*, not to open an investigation.
 >
 > And it is a ladder for helping her player produce the beat, **not for punishing them for missing it.** If she has clearly chosen not to go there, that is a real choice; let it stand and use Level 3 next session.
 
@@ -427,9 +427,9 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 > [!CAUTION]
 > **She does NOT reveal the Hidden faction, and she does not confirm a collective.** That is Ep 14 (B2 full).
 >
-> **An earlier draft had her say *"there are more of **us** than you think."* That breaches her own sheet** — `alaia-vega.json`: *"she confirms nothing about the network… she will never accidentally-explain the network; that job belongs to Nia Chen at the Act I→II hinge. Alaia will confirm, warmly and minimally, once Nia has named it."* Nia names it at Ep 8. *"More of us"* **is** membership in a collective, three sessions early, and it takes Nia's line.
+> **The line she must not cross is the word "us."** *"Others have noticed"* is plurality. *"There are more of **us**"* is membership in a collective — and naming that collective is Nia's job at the Act I→II hinge, three sessions from now. Alaia confirms the network warmly and minimally **only after Nia has named it.**
 >
-> The replacement gives plurality without membership: other people have noticed, and she is not claiming to be organised with them. Pulling her *meeting* forward pays the cliffhanger; pulling her *reveal* forward spends a card the campaign needs later.
+> So: other people have noticed. She is not claiming to be organised with them.
 
 ### Beat 2 — What she gives *(8–10 min)*
 
@@ -503,7 +503,7 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 *(This does not violate the canary-group discipline: the teenagers notice things and report them casually; they are not investigating and are not in danger.)*
 
 > [!NOTE]
-> **Standing cadence, starting now.** Per `episode-outline.md` §Standing presence, three threads must not go quiet, and each costs 15 seconds at Tier 1:
+> **Standing cadence, starting now.** Three threads must not go quiet. Each costs 15 seconds:
 >
 > - **The teenagers** — a group-chat line every 2-3 sessions. This session is one. ✓
 > - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available: the notebook read is *literally* her reading a hole where something was.** See the escalation ladder below.
@@ -519,7 +519,7 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 >
 > **If they don't call**, the last image is five people who couldn't agree, standing in the dark, with the card. That is also good — and it is theirs.
 >
-> A player asked for exactly this: *"we call, and it rings four times and goes to a stranger's voicemail while five people stand in the dark on a porch of a woman who isn't home — honestly? That'd do it. Let it end on the ringing."*
+
 
 ---
 
@@ -534,7 +534,7 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 | **{{pc:2}}** | **Support, with one real action** | The woman with the folder *asks her for something*; a peer conversation at the counter; Elena's message. **See the A7/A3 note below.** |
 
 > [!WARNING]
-> **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first cast is logged (A7 fired). Both [`rules.md`](../../../world/rules.md) §Realization mechanics and [`principles.md`](../../../design/DM-ONLY/principles.md) §3 prescribe a **per-PC private scene the next session** when the party rationalises a cast away. Ep 5 **is** the next session.
+> **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first cast is logged (A7 fired). The standing rule is a **per-PC private scene the session after** the party rationalises a cast away. Ep 5 **is** the next session.
 >
 > This guide does not build him one, because the session has no substrate event in scope and manufacturing one would be worse. **This is therefore an explicit, logged deferral, not an oversight.** {{pc:5}}'s private beat must land in **Ep 7** (Yui's party, where {{pc:2}}'s moment-of-release also lands) or **Ep 8** at the outside. Record it in the hook-ledger against A7.
 >
@@ -554,19 +554,19 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 
 **Keep:**
 
-- **{{pc:3}}, Insight, notebook.** Canonical escalation; hard cap at 12+. If she pushes a third time in the scene, the rapid-cast stress check is **2d6 + WIS** per [`rules.md`](../../../world/rules.md) §Magic — *no +2*. **Her outline reads count as casts** (her PC sheet says so explicitly), so this is the canonical rule firing, not a house call.
+- **{{pc:3}}, Insight, notebook.** Canonical escalation; hard cap at 12+. If she pushes a third time in the scene: **2d6 + WIS**, WIS only — no skill or tag bonus. Her outline reads count as casts, so this is the standard rule, not a house call.
 - **{{pc:4}}, Influence,** if he tries to manage Ortiz during *"tell me what you know."* Genuine branch: 10+ she takes the party seriously as sources rather than as {{pc:1}}'s entourage; 6- she starts addressing only {{pc:1}} for the rest of the scene.
 
-**Removed from the earlier draft:**
+**Do not call for:**
 
-- *{{pc:1}} Insight to read whether Ortiz is holding back.* All three outcome tiers meant "no." A roll whose only function is to confirm a read is a "yes" you can simply narrate.
-- *{{pc:4}} Influence for the law-firm name*, which specified *"she declines regardless."* A roll with a predetermined outcome teaches players that rolling doesn't matter. The B7 plant moved to Ep 9 anyway.
+- **An Insight roll to read whether Ortiz is holding back.** She isn't, on any result — so it is a "yes" you can simply narrate. Narrate it.
+- **Any roll whose outcome you have already decided.** It teaches the table that rolling doesn't matter, and they will notice within two sessions.
 
 ---
 
 ## Wild outcomes — pre-decided
 
-This session caps {{pc:3}}'s notebook read hard, and `rules.md` hands **double 6s** to the *player* to narrate an unexpected positive detail. Left unplanned, that rule hands {{pc:3}}'s player narration rights over precisely the thing the firewall forbids. So decide now:
+This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 6s** to the *player*, to narrate an unexpected positive detail of their own. Left unplanned, that rule hands {{pc:3}}'s player narration rights over precisely the thing the firewall forbids. So decide now:
 
 - **Double 6s on the notebook read:** the grant is spent on **provenance, not content.** She can tell the cut was made with a fresh blade, in a warm room, unhurried — that the paper is pre-war, that the excision was done by someone who was not in a hurry and did not want it to look violent. Rich, true, and reveals nothing about the six figures.
 - **Double 1s:** pre-loaded complication, not an improvised reveal. The binding cracks and a page comes loose; or the car's navigation reroutes them and they lose fifteen minutes; or {{pc:2}}'s phone rings at the worst moment.
@@ -579,7 +579,7 @@ This session caps {{pc:3}}'s notebook read hard, and `rules.md` hands **double 6
 - **The party won't split for the lobby.** Ortiz comes out to the lobby and runs the scene standing in a public waiting area, which is worse for her and better for the table. Fine.
 - **They skip Berkeley.** Don't let them, gently — Alaia texts again mid-drive and names a time. If they genuinely refuse, she turns up at the Ocean Beach beach-fire in Ep 7 instead, and Ep 6's Rosa hook comes from Vivian's mailed letter file instead of from Alaia.
 - **They skip Bea's.** The card is mailed and arrives Wednesday. **A1 gets planted this week regardless** — it is the one thing in this session that cannot slip again.
-- **A player voices the retrocausal-self theory** (*"what if Loewe drew US on that page?"*): do **not** confirm. *"Interesting. What does {{pc:3}} do with that thought?"* Log the volunteer privately — it is the prerequisite for the six-figures reveal per `facts-ledger.md` §21.
+- **A player voices the retrocausal-self theory** (*"what if Loewe drew US on that page?"*): do **not** confirm. *"Interesting. What does {{pc:3}} do with that thought?"* Log the volunteer privately — it is the best possible route into the Act II reveal, and it is worth more than anything you could say here.
 - **A player asks whether all three archivists lived in the same house.** They can be told yes, if they've worked it out — that is now canon and Bea would not deny it. What Bea will never do is explain how three consecutive people came to acquire one house. Hold the mundane mechanism (a small family landlord selling to sitting tenants; a probate routing through the same office) in reserve and deploy it **only if a player digs**.
 
 ---
@@ -594,7 +594,7 @@ Decide now, not at 10pm. **In order:**
 4. **Scene 1's lobby beats.** Cut these **last**. They are {{pc:5}}'s only content in the session.
 
 > [!CAUTION]
-> **Do NOT cut Scene 4.** An earlier version of this guide listed the card as the first thing to drop, which contradicted its own must-land list. **The card is must-land #3 and the session's closing image.** Mailing it converts A1 from a *moment* into a between-sessions group-chat message, and gives Ep 8's arrival nothing to arrive from.
+> **Do NOT cut Scene 4.** The card is must-land #3 and the session's closing image. Mailing it turns A1 from a *moment* into a between-sessions group-chat message, and leaves Ep 8's arrival nothing to arrive from.
 
 **Never cut:** Ortiz's seam beat (Scene 1 Beat 2), Alaia's referral (Ep 6's hook routes through it), or the card.
 
@@ -602,7 +602,7 @@ Decide now, not at 10pm. **In order:**
 
 ## If you are running short — the extension module
 
-The old draft said *"if the session finishes early, end early."* Against a 2.5h norm that plans for the wrong failure. If you have 20–30 minutes spare:
+Unlikely, but if you have 20–30 minutes spare:
 
 - **{{pc:1}} calls Ortiz back** and actually reaches her — she has pulled two more Argonaut filings, one of which names a second consultant whose name means nothing yet.
 - **Rosa answers the phone** when they call ahead, and is briskly unhelpful in a way that makes Ep 6 more interesting.
@@ -629,7 +629,7 @@ Never voice at the table:
 
 1. **Run S2 and S3** — both are end-of-every-session disciplines starting this episode, per `hook-ledger.md`. **S2:** did {{pc:4}} drive the session again, and did anyone else get to? **S3:** where is the party's culprit-frame now — did it soften, harden, or shift to an institution? Write one line each; do not artificially push either.
 2. **Run the S4 ledger-arithmetic audit** before Ep 6, per hook-ledger. It is due and it is two minutes.
-3. **Collect advancement marks.** Each player may mark one, per [`rules.md`](../../../world/rules.md) §Advancement. **This was missed at the end of Ep 4** and is now a standing item — several PCs are plausibly owed marks toward a first advancement. Record them in the session log's `marks` field.
+3. **Collect advancement marks.** Each player may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **This was missed at the end of Ep 4** and is now a standing item — several PCs are plausibly owed marks toward a first advancement. Record them in the session log's `marks` field.
 4. Write `sessions/<date>/session.json` against the `session-log` schema, plus `summary.md` for the players. Run `quire lint .` before committing.
 5. Fold the played record into this file as a `## Played record (<date>)` section at the top, per the Ep 4 pattern.
 6. Update `hook-ledger.md` fire statuses. Expected fires: U2, **S3**, §35/B2-partial, U3 closed, **A1 planted**, S1 #1, U7 partial, T4/U6.
@@ -647,6 +647,6 @@ Never voice at the table:
 - **{{pc:5}}'s private beat** — Ep 7. Logged deferral.
 - **The Hidden-faction reveal** — Ep 14. Alaia confirms nothing this session.
 - **Nia Chen in person** — Ep 8. This session only puts her name in their hands.
-- **B18, the outside law firm** — Ep 9. *(Renumbered 2026-08-27; B7 is Companion-as-institution.)*
+- **B18, the outside law firm** — Ep 9.
 - **Bancroft, Rosa, the Berkeley ledger** — Ep 6.
 - **{{pc:3}}'s six-figures / face-recognition read** — held until a player volunteers the retrocausal-self theory.
