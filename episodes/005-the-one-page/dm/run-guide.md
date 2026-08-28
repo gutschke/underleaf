@@ -17,7 +17,7 @@
 - [Standing DM knowledge](#standing-dm-knowledge)
 - [Scene 0 — Recap](#scene-0--recap)
 - [Scene 1 — SFPD Bay Station](#scene-1--sfpd-bay-station)
-- [Scene 2 — Two cars, again](#scene-2--two-cars-again)
+- [Scene 2 — The drive east (TOLD)](#scene-2--the-drive-east--told-not-played-90-seconds)
 - [Scene 3 — Berkeley, a coffee counter](#scene-3--berkeley-a-coffee-counter)
 - [Scene 4 — Bea, missed](#scene-4--bea-missed)
 - [Per-PC engagement](#per-pc-engagement)
@@ -51,6 +51,12 @@
 
 > [!IMPORTANT]
 > **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need. The one-page **pacing card** that ships with it is a *clock* — keep it beside you for the gates and the cut order — but it is not a substitute for this, and nobody can run three hours off a summary sheet.
+>
+> **Every scene has three settings, not two: PLAY it, TELL it, or DROP it.**
+>
+> **Telling** a scene is the move this guide reaches for before dropping anything. You narrate what happened in sixty to ninety seconds, the content lands, and the table time doesn't. It costs the *interaction*, not the *information* — which is the right trade for a scene that is texture or transit, and the wrong trade for a scene containing a decision. **The drive east is pre-set to TELL** (Scene 2); everything else is PLAY unless the clock says otherwise.
+>
+> **When you tell a scene, always leave the door open** — *"unless somebody wants to stop me"* — so a player who has something can still spend it. A told scene should never take a choice away from a player who wanted to make it.
 >
 > **The clock card owns time.** Per-beat minutes appear on the card, not here — one document should own the budget, and the card is the one you can see at a glance. Short version: **~133 min of content, landing 2h45–2h55**, so plan to compress two rows. Gates: out of SFPD by **T+1:20**, out of Berkeley by **T+2:15**.
 >
@@ -316,21 +322,17 @@ That matters more than it looks: **Beat 1b only exists because he did it.** The 
 > [!WARNING]
 > **Rate discipline.** One per session, and every instance must be a *default, a dropdown, an app, or a tired human agreeing with one* — **never a choice a person makes.** The moment it reads as a person deleting things on purpose, the party has a villain, and hook S3 exists specifically to prevent that. If the party says *"someone is doing this"* twice, stop deploying for two sessions and let it cool.
 
-### Beat 4 — Departure *(3 min)*
+### Beat 4 — Departure, and the sidewalk *(5–6 min)*
 
 Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut filing trail over the week.
 
-**Then start the joke.** She will be almost impossible to reach from here until Ep 11. Every subsequent contact is a real voicemail — use the audio assets. Phone tag with a stranger is a shrug; phone tag with a detective they like, who is fighting her own caseload to keep this file open, is funny *and* quietly sad.
+**What she actually sends, so the promise isn't a stonewall.** She said *"give me a day."* She delivers — **Wednesday, by email, one page**: the Argonaut filing index, with the 1994 entry highlighted and the rest listed by date and type. No SSNs, no requester, nothing she isn't allowed to give. **It is genuinely useful and it answers nothing.**
+
+**Then start the joke.** From Thursday she is almost impossible to reach until Ep 11. Every subsequent contact is a real voicemail — the outgoing-greeting audio is `assets/audio/ortiz-outgoing-greeting.mp3`, and the most likely cue is tonight, from Bea's porch.
 
 *(The outside-law-firm plant — hook **B18** — moves to Ep 9. Do not deploy it here; this scene is full.)*
 
----
-
-## Scene 2 — Two cars, again
-
-Register: moving vehicles, crossing the bridge east.
-
-### Beat 0 — The handover, on the sidewalk *(3 min)* — do this BEFORE they get in the cars
+#### On the sidewalk, before they split up
 
 > [!IMPORTANT]
 > **The notebook is with {{pc:4}}**, and Ep 4 left **{{pc:4}} and {{pc:3}} in different vehicles** ({{pc:5}} + {{pc:4}} in {{pc:5}}'s pickup; {{pc:1}}, {{pc:2}} and {{pc:3}} in {{pc:4}}'s car). So the handover cannot happen in a car — stage it on the sidewalk outside the station, with all five present. This is better anyway: everyone watches it happen.
@@ -341,7 +343,7 @@ Register: moving vehicles, crossing the bridge east.
 
 **If he hands it over**, that is a real trust beat and the party will register it. **If he doesn't**, that is also in character and the notebook read simply moves to Berkeley — do not force it.
 
-### Beat 1 — The split, named *(4–5 min)* — interpersonal
+#### And they're doing it again
 
 They travel split again — **out of habit, not out of a decision.** Nobody re-negotiated it after Saturday, and the same two groupings re-form without anyone saying anything.
 
@@ -349,12 +351,60 @@ They travel split again — **out of habit, not out of a decision.** Nobody re-n
 
 **They ended Ep 4 in two cars and markedly warier of {{pc:4}}.** Nothing has happened since to change that, so do not quietly reunite them — the split re-forming on its own is the beat.
 
-### Beat 2 — {{pc:3}} reads the notebook *(8–10 min)* — {{pc:3}}'s beat
+## Scene 2 — The drive east — **TOLD, not played** *(90 seconds)*
+
+**This is the session's pre-set cut, and it is a telling rather than a drop.** They still travel in two cars, the split still gets named, and it still costs them — you narrate it instead of playing it.
+
+> *"You go east in two cars. Nobody discusses it; it just happens the way it happened on Saturday — {{pc:5}} and {{pc:4}} in the pickup, the other three following. Somewhere on the bridge {{pc:3}} says, to nobody in particular, 'we're doing it again,' and after that it's quiet for a while.*
+>
+> *Unless somebody wants to stop me there."*
+
+**That last line is not decoration.** If a player takes it, the drive becomes a scene and you have just spent 10–15 minutes you did not budget — which is fine if you are ahead of the T+1:20 gate and a mistake if you are not. **Check the clock before you offer it.**
+
+### If you are ahead — play it instead *(10–15 min)*
+
+Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is a good scene.** It is also the first thing that should go, because its two load-bearing beats — the handover and the notebook read — have been moved somewhere safer.
+
+**Where its beats went:**
+
+- **The notebook handover and the split being named** → Scene 1 Beat 4, on the sidewalk outside SFPD, while all five are still together.
+- **{{pc:3}}'s notebook read** → Scene 3 Beat 1, at the Berkeley counter, which is a **better** room for it: the read is private either way, but at a coffee bar the other four are ordering and milling instead of watching you type on your phone in silence.
+
+## Scene 3 — Berkeley, a coffee counter
+
+Register: **peer, urban, ordinary.** This is the session's payoff and its emotional centre.
+
+> [!IMPORTANT]
+> **Alaia is the first non-elder network contact in the campaign.** Bea, Rosa and Vivian are all elders. Per her hard invariant, do **not** stage her as another elder-in-a-home scene. Her venues are workplace, text thread, or peer-appropriate coffee. She is a few years older than the PCs. The point of her existing is that the network is not just old librarians — there are people the PCs' own age in it, quietly.
+
+### Setup
+
+She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from Bodie visiting her mother. She picks the place — a counter with four stools, not a table for six, so the party has to stand around and rotate. Good.
+
+**Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
+
+### Staging — use the stools, this is the whole trick
+
+Four stools, five PCs, plus her. **Somebody is always standing, and somebody always drifts outside.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
+
+Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
+
+### What you need to know before this scene *(context, not read-aloud)*
+
+**Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
+
+**Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
+
+**The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
+
+### Beat 1 — {{pc:3}} reads the notebook *(10–12 min)* — {{pc:3}}'s beat
+
+**She does it at the counter, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and standing around a coffee bar is the one place a DM can hand one player a note without four people watching him type.
 
 Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 
 **Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** They are in a moving vehicle so there is no stepping into another room; a text to the player's phone is clean and costs nothing.
-> **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 3 below is her player's decision to make — narrating the read to the room makes it for them.
+> **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
 
 | Result | What she gets |
 |---|---|
@@ -396,38 +446,11 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 >
 > And it is a ladder for helping her player produce the beat, **not for punishing them for missing it.** If she has clearly chosen not to go there, that is a real choice; let it stand and use Level 3 next session.
 
-### Beat 3 — Share or hold *(2–3 min)*
+### Beat 2 — Share or hold *(2–3 min)*
 
 {{pc:3}}'s player decides whether {{pc:3}} tells the party. Both are in character. **And the people in the other car don't hear it either way** — which is the split's cost, made concrete, without anyone having to moralise about it.
 
-## Scene 3 — Berkeley, a coffee counter
-
-Register: **peer, urban, ordinary.** This is the session's payoff and its emotional centre.
-
-> [!IMPORTANT]
-> **Alaia is the first non-elder network contact in the campaign.** Bea, Rosa and Vivian are all elders. Per her hard invariant, do **not** stage her as another elder-in-a-home scene. Her venues are workplace, text thread, or peer-appropriate coffee. She is a few years older than the PCs. The point of her existing is that the network is not just old librarians — there are people the PCs' own age in it, quietly.
-
-### Setup
-
-She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from Bodie visiting her mother. She picks the place — a counter with four stools, not a table for six, so the party has to stand around and rotate. Good.
-
-**Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
-
-### Staging — use the stools, this is the whole trick
-
-Four stools, five PCs, plus her. **Somebody is always standing, and somebody always drifts outside.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
-
-Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
-
-### What you need to know before this scene *(context, not read-aloud)*
-
-**Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
-
-**Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
-
-**The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
-
-### Beat 1 — What she wants *(10 min)*
+### Beat 3 — What she wants *(10 min)*
 
 **She is not here to give them things. She is here to collect one.** Give her a want, or the scene is inert and the players will feel it:
 
@@ -435,9 +458,9 @@ Name who sits. Move people. When a conversation stalls, someone gets up for a re
 
 That single want turns a warm scene into a negotiation across an information asymmetry: they want to know what she is, she wants to know what they did, and neither side is willing to go first. **This is the interpersonal-conflict register the session claims in its header** and otherwise only delivers in a car.
 
-If they're straight with her, she gives more in Beat 2. If they manage her, she gives less — and says so.
+If they're straight with her, she gives more in Beat 6. If they manage her, she gives less — and says so.
 
-### Beat 1b — The {{pc:4}} beat *(2 min)*
+### Beat 4 — The {{pc:4}} beat *(2 min)*
 
 She is warm right up until {{pc:4}}'s player deploys politician-speech, and then she names it, flatly, without heat:
 
@@ -445,7 +468,7 @@ She is warm right up until {{pc:4}}'s player deploys politician-speech, and then
 
 Peer-to-peer, no elder's patience, no card spent. It is the best three minutes of {{pc:4}}'s player's night and it quietly does S2/S3 work — someone outside the party sees through {{pc:4}}'s manner immediately, which the party has needed three sessions to half-manage.
 
-### Beat 1c — The QR codes, mechanically *(2 min)*
+### Beat 5 — The QR codes, mechanically *(2 min)*
 
 {{pc:1}} is an RF/SDR hobbyist. Let him show her the suffix on his card; let her pull her own log up on her phone and confirm it, matter-of-factly. Yes, per-visitor suffixes. Yes, that is how she knew they came back to Building 7. No, it is not the park's idea. **U3 closes** — the orphaned channel becomes the thing that already worked, which is better than it quietly disappearing.
 
@@ -473,14 +496,14 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 >
 > So: other people have noticed. She is not claiming to be organised with them.
 
-### Beat 2 — What she gives *(8–10 min)*
+### Beat 6 — What she gives *(8–10 min)*
 
 Two things, both earned by Beat 1:
 
 1. **The referral.** *"My mother has her own work. She's up the hill. Go and knock — but call first, she hates a surprise."* This is the Ep 6 hook, delivered peer-to-peer rather than by an elder's cryptic instruction.
 2. **A boundary, stated plainly rather than deflected:** she will not talk about her mother's past. *"That's hers. Ask her."*
 
-### Beat 3 — She leaves early *(3 min)*
+### Beat 7 — She leaves early *(3 min)*
 
 **Do not let her exit gracefully.** Mid-answer — ideally mid-*sentence*, on the second half of a two-part answer she was actually going to give — her phone goes. She looks at it. Her face changes. She stands up, puts money on the counter, and says something that is warm and clearly a substitute for what she was about to say.
 
@@ -575,9 +598,9 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 > [!IMPORTANT]
 > **Then break the moment on purpose, and say so.** All five PCs hit 5/5 tonight, and advancement is a six-option menu — *a new focus*, *a relationship with an NPC who now appears when called for* — which is a conversation, not a checkbox. **That is 15–20 minutes and it cannot happen inside the ringing phone.**
 >
-> So land the image, let the silence sit until somebody at the table breaks it, and then step out of it cleanly: **"That's the session. Before you go — sheets out, everybody's got a mark coming."**
+> **DECIDED: advancement goes to the group chat.** You send a summary after every session anyway — put it in there. *"Everyone's at five marks. Pick an advancement and tell me before next time: +1 stat, a category mastery, a new tag, a new focus, or a relationship with an NPC who shows up when you call for them."*
 >
-> **Or push advancement to the group chat** and let them pick between sessions. Either is fine. **Deciding on Sunday is not optional** — discovering it at 10:40pm means either the ending or the advancement gets rushed.
+> **So nothing lands after the phone rings.** Let the silence sit until somebody at the table breaks it, and end there. The advancement conversation is better in writing anyway — it gives them a week to think instead of ninety seconds at 10:40pm, and **a new focus chosen properly is worth more than one chosen tired.**
 >
 > **If they don't call**, the last image is five people who couldn't agree, standing in the dark, with the card. That is also good — and it is theirs.
 >

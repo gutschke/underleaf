@@ -1,6 +1,6 @@
 # Ep 5 — The One Page — clock card
 
-> **Companion to the run-guide, not a replacement.** **Target 2h30 · ceiling 3h — this session is AT the ceiling:** ~141 min plus friction lands **2h55–3h05**. Plan to compress two rows.
+> **Companion to the run-guide, not a replacement.** **Target 2h30 · ceiling 3h.** ~141 min plus friction lands **2h55–3h05**. Plan to compress two rows.
 
 ## Gates
 
@@ -23,9 +23,9 @@
 | 1 · The seam + her two questions | 14 | 10 | **the seam** |
 | 1 · Flattening + the page goes back | 6 | 4 | — |
 | 1 · Departure | 3 | 2 | — |
-| 2 · Sidewalk handover | 3 | 2 | — |
-| 2 · Two cars + notebook read | 16 | 8 | Mira's private read |
-| 3 · Berkeley — Alaia | 30 | 24 | her early exit |
+| 1 · Departure + **sidewalk** (handover, split named) | 6 | 4 | the handover |
+| 2 · **The drive — TOLD, 90 sec** | 2 | 2 | — |
+| 3 · Berkeley — **notebook read** + Alaia | 40 | 30 | Mira's read · her early exit |
 | — · **Drive: Berkeley → Outer Sunset** | 8 | 5 | — |
 | 4 · Porch — card + the search | 12 | 7 | — |
 | 4 · Coda texts (**on the porch**) | 4 | 3 | — |
@@ -39,13 +39,20 @@
 2. **Alaia in person** — pays the Ep 4 cliffhanger; gives the Ep 6 referral.
 3. **The card in Bea's door** — *Nia Chen*. **Cannot slip again.**
 
-## Cut in this order
+## Three settings, not two
+
+**PLAY · TELL · DROP.** Telling costs the interaction, not the information — 60–90 sec, and always end with *"unless somebody wants to stop me."* **The drive is already pre-set to TELL.**
+
+## If you fall behind, in this order
 
 1. Recap go-around → 3-min DM summary
 2. **Lobby → 4 min** (Mars's carry decision only)
-3. Merge the car scene into the Berkeley arrival
-4. **The break-in** at Bea's — cheapest real cut on the list (−5)
-5. Ortiz's second question (the four-month delay)
+3. **TELL the break-in** at Bea's rather than playing it (−5)
+4. Ortiz's second question (the four-month delay)
+
+## If you are AHEAD at T+1:20
+
+**Play the drive** as a real scene (+10–15). It is the only add-back — do not reach into Ep 6.
 
 **Never cut:** the seam · **Alaia's stool rotation** · the card · the call.
 
@@ -62,5 +69,5 @@
 
 ## Before they leave the table
 
-**Marks — one each, and it is everyone's FIFTH. All five advance tonight.**
-**Decide Sunday:** land the phone, break the moment (*"that's the session — sheets out"*), spend 15–20 min · **or** push advancement to the group chat.
+**Marks — one each, and it is everyone's FIFTH.** Note them; say nothing.
+**Advancement goes in the post-session summary**, not at the table. Nothing lands after the phone rings.
