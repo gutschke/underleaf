@@ -28,7 +28,7 @@
 | 3 · Berkeley — **notebook read** + Alaia | 40 | 30 | Mira's read · her early exit |
 | — · **Drive: Berkeley → Outer Sunset** | 8 | 5 | — |
 | 4 · Porch — card + the search | 12 | 7 | — |
-| 4 · Coda texts (**on the porch**) | 4 | 3 | — |
+| 4 · The two texts (**on the porch**) | 4 | 3 | — |
 | 4 · **The call — LAST THING TONIGHT** | 4 | 3 | **never cut** |
 
 
@@ -39,7 +39,7 @@
 2. **Alaia in person** — pays the Ep 4 cliffhanger; gives the Ep 6 referral.
 3. **The card in Bea's door** — *Nia Chen*. **Cannot slip again.**
 
-**PLAY · TELL · DROP** — telling costs the interaction, not the information. End with *"unless somebody wants to stop me."* The drive is pre-set to TELL.
+**Three settings per scene — play it, tell it, or drop it.** — telling costs the interaction, not the information. End with *"unless somebody wants to stop me."* The drive is pre-set to TELL.
 
 ## If you fall behind, in this order
 

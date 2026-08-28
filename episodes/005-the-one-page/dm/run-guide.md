@@ -39,26 +39,27 @@
 
 **Primary shape:** **bureaucratic puzzle** (a single page that means more than it says) + **interpersonal conflict** (the two-car split, named out loud). Deliberately *not* an archival session — no elder hands anyone a document in a quiet room. **Four registers, four locations, none of them a records room.**
 
-**LOAD:** MEDIUM.
+**How full is this session?** Middling — heavier than a quiet one, lighter than Ep 4. Four scenes, and the clock card says where the slack is.
 
 **The three things that must land:**
 
-1. **Ortiz in person**, the Argonaut page, and the seam acknowledged-not-explained. (U2 · S3 institutional-frame breadcrumb)
-2. **Alaia Vega, in person.** Ep 4 closed on her *"see you in Berkeley soon"*; this pays it one session later. (§35 · B2 partial)
-3. **Nia Chen's name enters the party's possession** via a card in Bea's door. (**A1 planted** — the single most overdue item in the campaign.)
+1. **Ortiz in person** — the Argonaut page, and the seven-year gap acknowledged but not explained. This is also where the party's suspicion starts turning away from {{pc:4}} and toward an institution.
+2. **Alaia Vega, in person.** Ep 4 closed on her *"see you in Berkeley soon"* — this pays that off one session later, without her revealing what she actually is.
+3. **Nia Chen's name reaches the party**, on a card in Bea's storm door. She is the person who will eventually explain the shape of all this, and getting her name into their hands is the most overdue thing in the campaign.
 
 **Everything else is negotiable.**
 
 > [!IMPORTANT]
 > **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need. The one-page **pacing card** that ships with it is a *clock* — keep it beside you for the gates and the cut order — but it is not a substitute for this, and nobody can run three hours off a summary sheet.
 >
-> **Beats that need a player to start them are marked, and every one carries a prompt.**
+> **A note on how this guide is laid out.** Scenes are broken into **beats** — short units of a few minutes each, run in order, each with its own heading. Where a beat needs a player to start it, it is tagged, and every tag comes with a line you can actually say.
 >
 > The DM can play NPCs. He cannot play the PCs — so any beat that depends on a player *noticing an opportunity* may simply not happen, because nobody told them it was there. Every such beat below is tagged:
 >
-> - **NUDGE IF NEEDED** — there is a line you can drop to open the door. It stays the player's choice; you are offering, not steering.
-> - **FINE TO SKIP** — pleasant if it happens, costs nothing if it doesn't. Do not chase it.
-> - **MUST LAND** — something later depends on it. Nudge, and if the nudge fails, take the fallback given.
+> - **HAS TO HAPPEN** — a later scene, or a later session, breaks without it. Offer it, and if the offer doesn't take, use the fallback written underneath.
+> - **THEIR ONLY MOMENT** — nothing downstream depends on it, but it is the one thing that player gets tonight. Losing it doesn't damage the story; it damages their evening. **These two cut very differently when you are behind.**
+> - **OFFER IT** — a line you can drop to open the door. It stays their choice; you are offering, not steering.
+> - **FINE TO SKIP** — pleasant if it happens, costs nothing if it doesn't. Don't chase it.
 >
 > **Every scene has three settings, not two: PLAY it, TELL it, or DROP it.**
 >
@@ -170,7 +171,7 @@ Open with that image. Then run the three beats below in any order the table offe
 
 #### {{pc:5}} and the metal detector
 
-***MUST LAND — this is {{pc:5}}'s content for the session.***
+***THEIR ONLY MOMENT — this is the one thing {{pc:5}} gets tonight.***
 
 **{{pc:5}} carries concealed, and there is a metal detector between him and the rest of the session.**
 
@@ -192,7 +193,7 @@ Open with that image. Then run the three beats below in any order the table offe
 
 #### {{pc:2}} and the woman with the folder
 
-***NUDGE IF NEEDED — this is {{pc:2}}'s only real beat tonight.***
+***THEIR ONLY MOMENT — apart from a text at the very end, this is {{pc:2}}'s whole night.***
 
 **A woman in her fifties is waiting with a manila folder on her knees.** She has the particular stillness of someone who has been here a long time and expects to be here longer.
 
@@ -211,7 +212,7 @@ Open with that image. Then run the three beats below in any order the table offe
 
 #### {{pc:4}} and the desk sergeant
 
-***FINE TO SKIP — nudge only if you want the texture.***
+***FINE TO SKIP — offer it only if you want the texture.***
 
 **If {{pc:4}} works the front desk**, he is after a faster route upstairs, a look at the visitor log, or simply the sergeant's good opinion.
 
@@ -249,7 +250,7 @@ It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's di
 
 ### {{pc:3}}'s read — give her this *(2 min)*
 
-***MUST LAND — this is the beat that makes the world respond to the party.***
+***HAS TO HAPPEN — this is the moment the world responds to something the party worked out.***
 
 **Once the page is on the desk, {{pc:3}} sees what nobody else in the room can.** Give it to her directly — she is a records clerk and this is her job, not an insight she has to earn:
 
@@ -275,11 +276,11 @@ Let the party explain, or refuse to. She listens.
 **This is {{pc:4}}'s player's scene as much as {{pc:1}}'s.** {{pc:4}} found Argonaut, and *"tell me what you know"* — in front of a cop, with {{pc:1}} needing her cooperation — is exactly where politician-speech is either a weapon or a liability.
 
 > [!IMPORTANT]
-> **This is the nominated vehicle for A6, {{pc:4}}'s Phase-2 realization.** His sheet requires him to drop the persona **in a scene where the persona would have gotten him what he wanted**, and this is that room — evasion would work here, and it would cost {{pc:1}} the thing he came for.
+> **This is the scene where {{pc:4}} could realise what he has been doing** — the campaign calls this his Phase-2 realization, and it is the only chance for it scheduled anywhere. His sheet requires him to drop the persona **in a scene where the persona would have gotten him what he wanted**, and this is that room — evasion would work here, and it would cost {{pc:1}} the thing he came for.
 >
-> **Do not engineer it and do not signal it.** If {{pc:4}}'s player reaches for the circuitous version and then stops himself — that is A6. Log it privately and build his private scene next session. **Do not tell him what almost happened.**
+> **Do not engineer it and do not signal it.** If {{pc:4}}'s player reaches for the circuitous version and then stops himself — that is the realization. Log it privately and build his private scene next session. **Do not tell him what almost happened.**
 >
-> **But do not count on it either** — the DM cannot play {{pc:4}}. If it doesn't happen tonight, nothing is lost and the hook stays open; A6's window runs to Ep 7. **What the DM CAN do is make the room expensive**, which is level 2: have Ortiz respond to evasion the way a tired detective actually would — she stops addressing {{pc:4}} entirely and talks only to {{pc:1}} for the rest of the scene. That is not a punishment, it is a consequence, and it lets {{pc:4}}'s player *feel* the persona cost him something without anyone naming it. Level 3, if the window is closing: another NPC in a later session gives him the same choice with higher stakes and less time.
+> **But do not count on it either** — the DM cannot play {{pc:4}}. If it doesn't happen tonight, nothing is lost and the hook stays open; the window for it runs through the next two sessions. **What the DM CAN do is make the room expensive**, which is level 2: have Ortiz respond to evasion the way a tired detective actually would — she stops addressing {{pc:4}} entirely and talks only to {{pc:1}} for the rest of the scene. That is not a punishment, it is a consequence, and it lets {{pc:4}}'s player *feel* the persona cost him something without anyone naming it. If the window starts closing: another NPC in a later session gives him the same choice with higher stakes and less time.
 
 **If the party tells Ortiz nothing:** she keeps the file open anyway, but she stops volunteering. Play it as disappointment, not punishment — she is a professional and this is a Monday.
 
@@ -291,7 +292,7 @@ Let the party explain, or refuse to. She listens.
 | **7–9** | She goes along with him **and** starts addressing only {{pc:1}} for anything that matters. He got what he asked for and lost the room. |
 | **6−** | She stops addressing him entirely for the rest of the scene. |
 
-*(At his modifiers 6− is a ~9% tail — plan for the 7–9. Note the 7–9 result is also Level 2 of the A6 ladder, so it does the same work whether he rolls or not.)*
+*(At his modifiers 6− is a ~9% tail — plan for the 7–9. This 7–9 result is also the second rung of the escalation ladder above, so it does the same work whether he rolls or not.)*
 
 ### IF ASKED: "Who requested it?" *(they will, inside ninety seconds)*
 
@@ -305,7 +306,7 @@ That is opaque **and** concrete, and it closes the obvious question without open
 
 ### Beat 1b — The two documents disagree *(4–5 min)* — {{pc:4}}'s beat
 
-***MUST LAND — nudge, and if the nudge fails, have Ortiz do it.***
+***HAS TO HAPPEN — offer it, and if that doesn't take, have Ortiz ask for the paperwork herself.***
 
 **{{pc:4}} has the loose paperwork from the locker** — physical, already seen on his dining table in Ep 4, and he has no reason not to have brought it.
 
@@ -383,12 +384,12 @@ Then, quieter, off the record:
 
 **Delivery:** *"seven years, near enough."* Never *"exactly seven years to the day."* A tired detective is precise; a tired detective **emphasising** precision is the author talking.
 
-### Beat 3 — S1 flattening #1 *(90 sec)*
+### Beat 3 — The first flattening beat *(90 sec)*
 
 **What happens:** a dispatcher walks past Ortiz's desk and, without looking at the paperwork, tells her the 2018 record should be logged under the 2025 file — because the case-management software already grouped them that way. Ortiz half-agrees and moves on. **Nobody chose this and nobody is troubled by it, and the seven-year gap she just said bothers her has now been filed out of existence.**
 
 > [!CAUTION]
-> **Do not run this within ten minutes of Beat 1b.** Two *the-record-is-wrong* beats back to back, at a table that has spent three sessions consolidating on {{pc:4}}-as-culprit, reads as **tampering** — which is exactly what S1's rate discipline exists to prevent. Put daylight between them, and if the scene is tight, **move this to Berkeley** (a barista over-agrees with a specific-and-wrong order) or drop it to Ep 6.
+> **Do not run this within ten minutes of Beat 1b.** Two *the-record-is-wrong* beats back to back, at a table that has spent three sessions consolidating on {{pc:4}}-as-culprit, reads as **tampering** — which is exactly what the flattening beats are supposed to avoid. Put daylight between them, and if the scene is tight, **move this to Berkeley** (a barista over-agrees with a specific-and-wrong order) or drop it to Ep 6.
 
 Deploy well after Beat 1b. **Put it on a PC, not past the table** — **{{pc:3}}** is in the room (she came back with {{pc:1}}) and she is a county records clerk, so she is exactly the person who would hear a filing-classification decision and object to it out loud. Let her, and let her be agreeably dismissed.
 
@@ -406,7 +407,7 @@ If a PC objects, the dispatcher is friendly and unmoved and the software has alr
 
 She photographs nothing and offers nothing. **She is not being obstructive; a default nobody chose has just moved a document out of reach**, ninety seconds after she said out loud that the seven-year gap was the part that bothered her.
 
-***MUST LAND — nudge it onto {{pc:5}}.***
+***HAS TO HAPPEN — offer it to {{pc:5}}.***
 
 **Somebody should photograph the page before it goes**, and {{pc:5}} is the right one — the warehouse supervisor who assumes on principle that a document you are shown once is a document you will not be shown twice.
 
@@ -418,12 +419,12 @@ She photographs nothing and offers nothing. **She is not being obstructive; a de
 
 **If nobody thinks of it and you don't want to hand it to {{pc:5}}:** Ortiz suggests it herself, casually, before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him ninety seconds later.
 
-**This is what makes S1 land at a table not yet primed to notice flattening.** Ambient too-agreeable NPCs are atmosphere; a document going out of reach is a consequence.
+**This is what makes the flattening pattern land at a table not yet primed to notice flattening.** Ambient too-agreeable NPCs are atmosphere; a document going out of reach is a consequence.
 
 **Never say "that's flattening."** Note the party's reaction, or lack of one, privately.
 
 > [!WARNING]
-> **Rate discipline.** One per session, and every instance must be a *default, a dropdown, an app, or a tired human agreeing with one* — **never a choice a person makes.** The moment it reads as a person deleting things on purpose, the party has a villain, and hook S3 exists specifically to prevent that. If the party says *"someone is doing this"* twice, stop deploying for two sessions and let it cool.
+> **How often to use these.** One per session, and every instance must be a *default, a dropdown, an app, or a tired human agreeing with one* — **never a choice a person makes.** The moment it reads as a person deleting things on purpose, the party has a villain, and hook S3 exists specifically to prevent that. If the party says *"someone is doing this"* twice, stop deploying for two sessions and let it cool.
 
 ### Beat 4 — Departure, and the sidewalk *(5–6 min)*
 
@@ -433,7 +434,7 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 
 **Then start the joke.** From Thursday she is almost impossible to reach until Ep 11. Every subsequent contact is a real voicemail — the outgoing-greeting audio is `assets/audio/ortiz-outgoing-greeting.mp3`, and the most likely cue is tonight, from Bea's porch.
 
-*(The outside-law-firm plant — hook **B18** — moves to Ep 9. Do not deploy it here; this scene is full.)*
+*(There is a second thread about an outside law firm that made inquiries eight months ago. It waits for a later session — do not deploy it here; this scene is full.)*
 
 #### On the sidewalk, before they split up
 
@@ -452,7 +453,7 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 
 They travel split again — **out of habit, not out of a decision.** Nobody re-negotiated it after Saturday, and the same two groupings re-form without anyone saying anything.
 
-***NUDGE IF NEEDED.***
+***OFFER IT.***
 
 **Let a player notice it first.** If nobody does within a minute or two, hand it to whoever is most affected:
 
@@ -593,11 +594,11 @@ She is warm right up until {{pc:4}}'s player deploys politician-speech, and then
 
 > *"You're doing a thing. Please don't."*
 
-Peer-to-peer, no elder's patience, no card spent. It is the best three minutes of {{pc:4}}'s player's night and it quietly does S2/S3 work — someone outside the party sees through {{pc:4}}'s manner immediately, which the party has needed three sessions to half-manage.
+Peer-to-peer, no elder's patience, no card spent. It is the best three minutes of {{pc:4}}'s player's night, and it quietly serves both standing questions above — someone outside the party sees through {{pc:4}}'s manner immediately, which the party has needed three sessions to half-manage.
 
 ### Beat 5 — The QR codes, mechanically *(2 min)*
 
-{{pc:1}} is an RF/SDR hobbyist. Let him show her the suffix on his card; let her pull her own log up on her phone and confirm it, matter-of-factly. Yes, per-visitor suffixes. Yes, that is how she knew they came back to Building 7. No, it is not the park's idea. **U3 closes** — the orphaned channel becomes the thing that already worked, which closes the thread cleanly.
+{{pc:1}} is an RF/SDR hobbyist. Let him show her the suffix on his card; let her pull her own log up on her phone and confirm it, matter-of-factly. Yes, per-visitor suffixes. Yes, that is how she knew they came back to Building 7. No, it is not the park's idea. **that closes the QR-code thread** left open since Ep 3 — the orphaned channel becomes the thing that already worked, which closes the thread cleanly.
 
 Two minutes of concrete business beats five minutes of atmosphere.
 
@@ -619,7 +620,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 **She does not use the word "network." She names no one. She does not mention Nia.**
 
 > [!CAUTION]
-> **She does NOT reveal the Hidden faction, and she does not confirm a collective.** That is Ep 14 (B2 full).
+> **She does NOT reveal the Hidden faction, and she does not confirm a collective.** That is a later session — Ep 14, on the road — and it is the whole card she is holding.
 >
 > **The line she must not cross is the word "us."** *"Others have noticed"* is plurality. *"There are more of **us**"* is membership in a collective — and naming that collective is Nia's job at the Act I→II hinge, three sessions from now. Alaia confirms the network warmly and minimally **only after Nia has named it.**
 >
@@ -627,7 +628,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 
 ### Beat 6 — What she gives *(8–10 min)*
 
-***MUST LAND — the referral is Ep 6's hook. She volunteers it; do not wait to be asked.***
+***HAS TO HAPPEN — this is how they find their way to next session. She volunteers it; don't wait to be asked.***
 
 **Two things, and she offers both unprompted before she goes.** How straight they were with her in Beat 3 changes the warmth, not the content:
 
@@ -748,7 +749,7 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 
 ## Step 5 — The call
 
-***FINE TO SKIP — but they will almost certainly call.***
+***FINE TO SKIP — though they will almost certainly call.***
 
 Somebody usually dials it from the porch inside ninety seconds. **If nobody does, do not push** — five people who couldn't agree, standing in the dark holding a card, is an equally good last image and it is theirs. Here is what happens if they do:
 
@@ -776,11 +777,11 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 | **{{pc:2}}** | **Support, with one real action** | The woman with the folder *asks her for something*; a peer conversation at the counter; Elena's message. **See the A7/A3 note below.** |
 
 > [!WARNING]
-> **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first cast is logged (A7 fired). The standing rule is a **per-PC private scene the session after** the party rationalises a cast away. Ep 5 **is** the next session.
+> **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first accidental cast is on the record. The standing rule is a **per-PC private scene the session after** the party rationalises a cast away. Ep 5 **is** the next session.
 >
-> This guide does not build him one, because the session has no substrate event in scope and manufacturing one would be worse. {{pc:5}}'s private beat must land in **Ep 7** (Yui's party, where {{pc:2}}'s moment-of-release also lands) or **Ep 8** at the outside. Record it in the hook-ledger against A7.
+> This guide does not build him one, because nothing in tonight's session touches the substrate and manufacturing one would be worse. {{pc:5}}'s private beat must land in **Ep 7** (Yui's party, where {{pc:2}}'s moment-of-release also lands) or **Ep 8** at the outside. Record it in the hook-ledger against A7.
 >
-> {{pc:2}}'s realization (A3) is deliberately deferred to **Ep 6**, where Rosa's garden gives it a proper vehicle and where it pays off her Ep-4 covert exam of Vivian. Her landing is not dropped; it is given a better room one week later.
+> {{pc:2}}'s realization is deliberately held for **Ep 6**, where Rosa's garden gives it a proper vehicle and where it pays off her Ep-4 covert exam of Vivian. Her landing is not dropped; it is given a better room one week later.
 
 ---
 
@@ -788,7 +789,7 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 
 - **Scene 1, lobby:** {{pc:5}}'s neck-flare. His Saturday cast is two days old and his sheet puts the flare next-day, i.e. Sunday. Monday is legitimate **lingering stiffness** — he rolls his shoulder without thinking about it. Not a ping.
 - **Scene 3, at the counter:** {{pc:2}}'s baseline low-hum only. **No substrate event is in scope this session.** If her player narrates a migraine anyway, keep it below threshold and do **not** correlate it to anything in-fiction.
-- **Scene 4, Bea's porch:** nothing. Bea's house is reserved as a possible anchor site for the §11 beat, whose fire-by is **Ep 5-6** — so it is live *now* and you are choosing not to spend it tonight — do not spend it early by improvising a ping here. Stated explicitly so it isn't improvised.
+- **Scene 4, Bea's porch:** nothing. Bea's house is reserved as a possible anchor site for the one confirmation beat about the house itself, which is due this session or next — so it is live *now* and you are choosing not to spend it tonight — do not spend it early by improvising a ping here. Stated explicitly so it isn't improvised.
 
 ---
 
@@ -798,7 +799,7 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 
 | Roll | Where | Note |
 |---|---|---|
-| **{{pc:4}} Influence** — managing Ortiz | Scene 1, Beat 1 | Real branch. The 7–9 is also Level 2 of the A6 ladder. |
+| **{{pc:4}} Influence** — managing Ortiz | Scene 1, Beat 1 | Real branch, and the 7–9 doubles as the escalation ladder's second rung. |
 | **{{pc:3}} Insight** — the notebook | Scene 3, Beat 1 | Four bands incl. 7–9. **Hard cap at 12+.** |
 
 **Nobody is under the trying-too-hard tax** — no PC has had their Phase-2 realization, so no −2 applies to anyone tonight.
@@ -819,7 +820,7 @@ This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 
 - **{{pc:1}} says he never called Ortiz.** Covered — she initiates. Do not build on an offscreen action.
 - **The party won't split for the lobby.** Ortiz comes out to the lobby and runs the scene standing in a public waiting area, which is worse for her and better for the table. Fine.
 - **They skip Berkeley.** Don't let them, gently — Alaia texts again mid-drive and names a time. If they genuinely refuse, she turns up at the Ocean Beach beach-fire in Ep 7 instead, and Ep 6's Rosa hook comes from Vivian's mailed letter file instead of from Alaia.
-- **They skip Bea's.** The card is mailed and arrives Wednesday. **A1 gets planted this week regardless** — it is the one thing in this session that cannot slip again.
+- **They skip Bea's.** The card is mailed and arrives Wednesday. **Nia's name reaches them this week regardless** — it is the one thing in this session that cannot slip again.
 - **A player voices the retrocausal-self theory** (*"what if Loewe drew US on that page?"*): do **not** confirm. *"Interesting. What does {{pc:3}} do with that thought?"* Log the volunteer privately — it is the best possible route into the Act II reveal, and it is worth more than anything you could say here.
 - **A player asks whether all three archivists lived in the same house.** They can be told yes, if they've worked it out — that is now canon and Bea would not deny it. What Bea will never do is explain how three consecutive people came to acquire one house. Hold the mundane mechanism (a small family landlord selling to sitting tenants; a probate routing through the same office) in reserve and deploy it **only if a player digs**.
 
@@ -863,8 +864,8 @@ Never voice at the table:
 
 ## Post-session workflow
 
-1. **Run S2 and S3** — both are end-of-every-session disciplines starting this episode, per `hook-ledger.md`. **S2:** did {{pc:4}} drive the session again, and did anyone else get to? **S3:** where is the party's culprit-frame now — did it soften, harden, or shift to an institution? Write one line each; do not artificially push either.
-2. **Run the S4 ledger-arithmetic audit** before Ep 6, per hook-ledger. It is due and it is two minutes.
+1. **Two questions to answer in writing, every session from now on.** First: **did {{pc:4}} drive the session again, and did anyone else get to?** Second: **where is the party's sense of who is to blame** — did it soften, harden, or move from a person to an institution? One line each. Don't artificially push either.
+2. **Check the ledger arithmetic before Ep 6.** One (Bea) + three ({{pc:4}}'s) + four unfound = eight. Two minutes, and it stops the party catching a contradiction when they whiteboard it.
 3. **Collect advancement marks.** **Everyone is at 4/5 and each PC needs one *specific* criterion** — the bullets are one-per-criterion, so nobody can double up. Three of the five map onto beats already in tonight's session:
 
    | PC | Needs | Tonight's candidate |
@@ -880,21 +881,21 @@ Never voice at the table:
    The five criteria, for reference — a PC may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **Ep 4's marks are already assigned** (one per PC, recorded in each PC's `markLog`), so tonight's are the fifth for everyone. Record them in the session log's `marks` field.
 4. Write `sessions/<date>/session.json` against the `session-log` schema, plus `summary.md` for the players. Run `quire lint .` before committing.
 5. Fold the played record into this file as a `## Played record (<date>)` section at the top, per the Ep 4 pattern.
-6. Update `hook-ledger.md` fire statuses. Expected fires: U2, **S3**, §35/B2-partial, U3 closed, **A1 planted**, S1 #1, U7 partial, T4/U6.
+6. Update the hook ledger. Expected to fire tonight: Ortiz in person · the institutional redirect · Alaia paid off · the QR-code thread closed · Nia's name planted · the first flattening beat · {{pc:3}}'s partial notebook read · the Ocean Beach text.
 7. Add played facts to `facts-ledger.md`, and re-snapshot as `continuity-through-ep-5.md`.
 8. Update `episode-outline.md`: Ep 5 → PLAYED; confirm Ep 6's shape.
-9. **Log {{pc:5}}'s A7 deferral explicitly** and confirm his private beat is scheduled for Ep 7.
+9. **Write down that {{pc:5}}'s private scene was deferred** and confirm his private beat is scheduled for Ep 7.
 10. **Check Vivian's clock.** She must appear in person by Ep 10. If Ep 6's mail beat lands well, resist the temptation to mail again.
 
 ---
 
 ## Not in this session
 
-- **T13, the photograph** — Vivian's mailed envelope in Ep 6 carries the letter file, not the photograph. The photograph needs her **voice**, in person, and is held for Ep 10.
+- **The 1946–47 photograph** — Vivian's mailed envelope in Ep 6 carries the letter file, not the photograph. The photograph needs her **voice**, in person, and is held for Ep 10.
 - **{{pc:2}}'s Phase-2 realization** — Ep 6, Rosa's garden. Deliberate; see the engagement note above.
 - **{{pc:5}}'s private beat** — Ep 7. Logged deferral.
 - **The Hidden-faction reveal** — Ep 14. Alaia confirms nothing this session.
 - **Nia Chen in person** — Ep 8. This session only puts her name in their hands.
-- **B18, the outside law firm** — Ep 9.
+- **The outside law firm** that made inquiries about the same SSN — a later session.
 - **Bancroft, Rosa, the Berkeley ledger** — Ep 6.
 - **{{pc:3}}'s six-figures / face-recognition read** — held until a player volunteers the retrocausal-self theory.
