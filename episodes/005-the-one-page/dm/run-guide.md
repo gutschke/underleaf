@@ -115,6 +115,8 @@ She is also, per DM ruling, **allowed to be elusive** — recurring but hard to 
 
 ## Scene 0 — Recap
 
+**What happens:** you get everyone back into Saturday before you start Monday. Ep 4 ended with the party angry at {{pc:4}}, split across two cars, holding a notebook with pages cut out of it, and with a text arriving from a park ranger. **Two days have passed in fiction and nothing has happened in them.**
+
 Not optional, and not free. Ep 4 was dense, angry, and ended on a cliffhanger text. Go around the table and let each player say what their PC is carrying into Monday — this doubles as the read on who is still angry at {{pc:4}}.
 
 **Ask {{pc:4}}'s player directly** whether {{pc:4}} has told anyone anything more since Saturday.
@@ -140,19 +142,46 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 
 **Run the lobby FIRST, as a block, then Ortiz.** Do not try to interleave two locations — one DM at one table cannot, and attempting it strands whoever isn't being addressed. **Brief {{pc:1}}'s player that {{pc:1}}'s scene starts second.**
 
-### The lobby *(8–10 min — not 3; this is three beats and four players)*
+### The lobby *(8–10 min)*
 
-- **{{pc:5}} and the metal detector.** He carries concealed, and per his sheet a government building is exactly where that becomes *real logistical friction, not a moral problem.* He knows it going in. Truck, declare at the desk, or stay outside? Expect the other players to weigh in — that's fine, it's the session's most-parked player holding the floor.
-  **Then let Ortiz find him about it later.** A cold-case detective and a man with a six-month-old carry permit have something real to say to each other, and it is three lines. It gives {{pc:5}}'s player an NPC relationship instead of a logistics puzzle. *(If he declares at the desk: yes, he gets it back on the way out; yes, there is now a log entry with his name on it. Don't emphasise it. It matters in Ep 11.)*
+**What happens:** Ortiz has asked them to come in. They arrive at the Bay Station together, and they do not get to walk straight through — Missing Persons is upstairs, past a public counter and a walk-through metal detector staffed by a bored civilian screener. Ortiz comes down to collect them, but not for ten minutes, and nobody tells them how long it will be. **So they wait, in a room with plastic chairs bolted in rows, a laminated sign about firearm storage, and other people also waiting.**
 
-> [!WARNING]
-> **The pistol is {{pc:5}}'s focus** (`characters/pcs/mars-faraone.json` §focusNotes). Whichever way he goes, he spends this session without his primary casting anchor on him — and his sheet already names the fallback: *"the holster clip on his keychain."* Do not spring this on {{pc:5}}'s player mid-scene; if he doesn't raise it, quietly remind him the clip is still on his keys. **Nothing in this session requires him to cast**, so the cost is atmosphere rather than mechanics — but it is a live rehearsal for Ep 11, where his release condition is standing his ground *without the pistol on him.*
-- **{{pc:2}} and the woman with the folder.** She has the particular stillness of someone who has been waiting a long time and expects to keep waiting. **She asks {{pc:2}} for something** — to hold her place while she finds a bathroom, or she stands up too fast and {{pc:2}} is the only one who sees it go wrong. Her brother has been missing eleven months. She is not a plot thread and never recurs.
-  This gives {{pc:2}}'s player an *action* instead of a perception, and it rhymes the theme — missing people are routine in this building — with no substrate involvement whatsoever, which is exactly what this session's body cost-tells section needs.
-- **{{pc:4}}** does what {{pc:4}} does to a desk sergeant.
+Open with that image. Then run the three beats below in any order the table offers them, and reconvene when Ortiz appears.
 
-> [!NOTE]
-> **{{pc:3}} reads the page.** She is a records clerk at the San Mateo County recorder's office — the only person at the table who can say what is *wrong with the document's shape.* See Beat 1.
+#### {{pc:5}} and the metal detector
+
+**{{pc:5}} carries concealed, and there is a metal detector between him and the rest of the session.** He knows it before anyone says anything — he reads permit conditions when he's nervous. **He has to choose, and he has to choose out loud:**
+
+- **Leave it in the truck.** Fastest. Nobody notices anything.
+- **Declare it at the desk.** He is treated politely and efficiently, it goes in a lockbox, **and there is now a log entry with his name and permit number on it.** He gets it back on the way out. *Do not emphasise this at the table.* It matters in Ep 11.
+- **Stay outside.** Also fine, and he misses the whole SFPD scene.
+
+**Expect the other players to weigh in.** Let them — this is the session's most-parked PC holding the floor for two minutes, and that is the point.
+
+> **The pistol is his focus, and he gets it back.** Truck or lockbox, it is his again within the hour, so he is without his anchor *inside one building*, not for the night. **Nothing tonight requires him to cast**, so this costs atmosphere rather than mechanics. If he doesn't raise it himself, quietly remind him the holster clip on his keychain is still a fallback anchor.
+
+**Later, once they're upstairs, Ortiz seeks him out about it.** Three lines, unprompted, while the others are reading the page: she saw the lockbox slip, she asks what he carries and why, and she does not moralise about the answer. She has met a lot of people who started carrying after something happened to them. **This is the only NPC relationship {{pc:5}} gets tonight — do not skip it.**
+
+#### {{pc:2}} and the woman with the folder
+
+**A woman in her fifties is waiting with a manila folder on her knees.** She has the particular stillness of someone who has been here a long time and expects to be here longer. If {{pc:2}} looks at her at all, she looks back.
+
+**She asks {{pc:2}} for something** — pick one:
+
+- to hold her place while she finds a bathroom, or
+- she stands up too fast, sways, and {{pc:2}} is the only one who sees it happen.
+
+**If asked, she volunteers it plainly:** her brother has been missing eleven months. She is not upset about it in front of strangers. She is just here again.
+
+**She is not a plot thread. She never recurs, and there is nothing to find.** She exists so that {{pc:2}} has something to *do* rather than something to notice, and so the room says *missing people are routine here* without anyone stating it.
+
+#### {{pc:4}} and the desk sergeant
+
+**{{pc:4}} will try to get something from the front desk** — a faster route upstairs, a look at the visitor log, or simply the sergeant's good opinion. He does this reflexively; you do not need to prompt him.
+
+**What he gets:** the sergeant is unhurried, unbothered, and entirely immune to him. Not hostile — she has been doing this for eleven years and she has met better. He does not get upstairs any faster. **If he pushes a third time, she starts calling him "sir."**
+
+Play it light. It costs ninety seconds, it is funny, and it quietly sets up the room where his manner *will* cost him something in Beat 1.
 
 ### Beat 1 — The one page *(12–15 min)*
 
@@ -242,7 +271,11 @@ Then she moves on and does not come back to it. **This is the first time in four
 
 ### Beat 2 — The seam *(10–12 min)* — {{pc:1}}'s beat
 
-**If {{pc:1}}'s player raises it himself** (likely — he caught it in Ep 4), use this:
+**What happens:** Ortiz puts the two dates side by side and lets {{pc:1}} do the arithmetic himself. She does not explain the gap, because she cannot — she has been looking at it since Friday and has nothing to hang on it. **The beat is her acknowledging a seven-year hole and stopping there.**
+
+**{{pc:1}}'s player caught this discrepancy at the Ep 4 table.** He was right, and tonight a detective confirms it. **Let him be right; do not correct him and do not deflect.**
+
+**If he raises it himself** (likely), use this:
 
 > She pulls the page back toward her, checks it, slides it back.
 >
@@ -290,8 +323,10 @@ That is opaque **and** concrete, and it closes the obvious question without open
 
 ### Beat 3 — S1 flattening #1 *(90 sec)*
 
+**What happens:** a dispatcher walks past Ortiz's desk and, without looking at the paperwork, tells her the 2018 record should be logged under the 2025 file — because the case-management software already grouped them that way. Ortiz half-agrees and moves on. **Nobody chose this and nobody is troubled by it, and the seven-year gap she just said bothers her has now been filed out of existence.**
+
 > [!CAUTION]
-> **Do not run this within ten minutes of Beat 1b.** Two *the-record-is-wrong* beats back to back, at a table that has spent three sessions consolidating on {{pc:4}}-as-culprit, reads as **tampering** — which is exactly what S1's rate discipline exists to prevent. Beat 1b is the discrepancy; put daylight between them, and if the scene is tight, **move this flattening beat to Berkeley** (a barista over-agrees with a specific-and-wrong order) or drop it to Ep 6 entirely.
+> **Do not run this within ten minutes of Beat 1b.** Two *the-record-is-wrong* beats back to back, at a table that has spent three sessions consolidating on {{pc:4}}-as-culprit, reads as **tampering** — which is exactly what S1's rate discipline exists to prevent. Put daylight between them, and if the scene is tight, **move this to Berkeley** (a barista over-agrees with a specific-and-wrong order) or drop it to Ep 6.
 
 Deploy well after Beat 1b. **Put it on a PC, not past the table** — **{{pc:3}}** is in the room (she came back with {{pc:1}}) and she is a county records clerk, so she is exactly the person who would hear a filing-classification decision and object to it out loud. Let her, and let her be agreeably dismissed.
 
@@ -311,7 +346,7 @@ She photographs nothing and offers nothing. **She is not being obstructive; a de
 
 **Give this to {{pc:5}}.** He is the one who thinks to photograph the page before it goes — the warehouse supervisor who knows how buildings and paperwork actually work, and who assumes on principle that a document you are shown is a document you will not be shown twice. **Say so out loud at the table.**
 
-That matters more than it looks: **Beat 1b only exists because he did it.** The session's best object — two authentic documents that disagree — is his, and it costs zero minutes. Without the photo the party is comparing {{pc:4}}'s phone against a page that has left the building, and every skeptic at the table gets the easy out (*"your camera did something"*).
+**Beat 1b depends on this.** Without a photograph, the comparison is {{pc:4}}'s paperwork against a page that has already left the building — and any skeptic at the table gets the easy out that somebody misremembered.
 
 **If nobody thinks of it and you don't want to hand it to {{pc:5}}:** Ortiz suggests it herself, casually, before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him ninety seconds later, which is worse for her and better for the scene.
 
@@ -334,6 +369,8 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 
 #### On the sidewalk, before they split up
 
+**What happens:** they come out onto the street together and stop to work out cars. This is the last moment tonight that all five are in one place, so two things happen here — the notebook changes hands, and somebody names the fact that they are splitting up the same way they did on Saturday.
+
 > [!IMPORTANT]
 > **The notebook is with {{pc:4}}**, and Ep 4 left **{{pc:4}} and {{pc:3}} in different vehicles** ({{pc:5}} + {{pc:4}} in {{pc:5}}'s pickup; {{pc:1}}, {{pc:2}} and {{pc:3}} in {{pc:4}}'s car). So the handover cannot happen in a car — stage it on the sidewalk outside the station, with all five present. This is better anyway: everyone watches it happen.
 
@@ -353,7 +390,9 @@ They travel split again — **out of habit, not out of a decision.** Nobody re-n
 
 ## Scene 2 — The drive east — **TOLD, not played** *(90 seconds)*
 
-**This is the session's pre-set cut, and it is a telling rather than a drop.** They still travel in two cars, the split still gets named, and it still costs them — you narrate it instead of playing it.
+**What happens:** they drive east across the bridge in two cars, in the same split as Saturday, and nobody discusses it. It takes about forty minutes and nothing occurs that changes the session.
+
+**So you tell it rather than play it.** Read this, roughly as written:
 
 > *"You go east in two cars. Nobody discusses it; it just happens the way it happened on Saturday — {{pc:5}} and {{pc:4}} in the pickup, the other three following. Somewhere on the bridge {{pc:3}} says, to nobody in particular, 'we're doing it again,' and after that it's quiet for a while.*
 >
@@ -383,12 +422,6 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from B
 
 **Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
 
-### Staging — use the stools, this is the whole trick
-
-Four stools, five PCs, plus her. **Somebody is always standing, and somebody always drifts outside.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
-
-Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
-
 ### What you need to know before this scene *(context, not read-aloud)*
 
 **Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
@@ -396,6 +429,12 @@ Name who sits. Move people. When a conversation stalls, someone gets up for a re
 **Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
 
 **The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
+
+### Staging — use the stools, this is the whole trick
+
+Four stools, five PCs, plus her. **Somebody is always standing, and somebody always drifts outside.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
+
+Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
 
 ### Beat 1 — {{pc:3}} reads the notebook *(10–12 min)* — {{pc:3}}'s beat
 
@@ -452,7 +491,13 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 ### Beat 3 — What she wants *(10 min)*
 
-**She is not here to give them things. She is here to collect one.** Give her a want, or the scene is inert and the players will feel it:
+**What happens:** she buys her own coffee, takes a stool, and asks them to walk her through Building 7 — what happened after she left, precisely, in order, who was where. **She asks like someone taking a statement she will write up later**, because that is what she is doing.
+
+**This is a real gap, not a test.** She let them into that building, she drove other visitors out ahead of the storm, and she left before they did. She genuinely does not know what happened inside, and she has wanted to know for months.
+
+**She notices if they shade it** — and if they do, she gives less in Beat 6. She does not call them on it.
+
+**The scene needs her to want something**, or it is five people interrogating a friendly stranger who has been told to refuse them:
 
 > **She needs to know exactly what happened in Building 7 after she left** — precisely, in order, who was where. She asks like someone taking a statement she will write down later. And **she notices if they shade it.**
 
@@ -513,9 +558,11 @@ Do not explain it, this session or ever. If a player asks in Ep 11, Alaia is puz
 
 ## Scene 4 — Bea, missed
 
-Do not let this expand.
+**What happens:** on the way back from Berkeley they detour through the Outer Sunset to Bea's house — and **she is not there.** The house is dark, the kettle is cold, and a neighbour hasn't seen her since Thursday. Wedged in the storm door at eye height, where it could not be missed and cannot have been there long, is **an index card in her handwriting with a name and a phone number on it.**
 
-**Why they go** — supply this, because Ep 4's Bea-callback line never landed and the party has no standing reason to detour. Any one of these works; pick before the session:
+That is the whole scene, and it is the session's closing image. **Do not let it expand** past the search, the card, and the argument about whether to call.
+
+**Why they go there at all** — supply a reason, because Ep 4's Bea-callback line never landed and the party has no standing reason to detour. Any one of these works; pick before the session:
 
 - **{{pc:3}} wants to compare hands.** {{pc:4}} has Marsh's three ledgers *(they were on his dining table in Ep 4 and they are still his)*, and she has just spent a car ride reading an excised page. Bea is the nearest person with comparable handwriting to hand — Rosa Vega has forty years of ledger entries too, but the party does not know that yet.
 - **{{pc:1}} wants the Argonaut name run past someone who keeps records for a living** — especially now that Ortiz has taken the page back.
@@ -627,7 +674,7 @@ That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to k
 | **{{pc:1}}** | **DRIVER** | Ortiz; the page; the seam he caught, confirmed correct; Alaia's text was to him |
 | **{{pc:3}}** | **DRIVER** | Reads what is wrong with the shape of Ortiz's query (her domain — she is a county records clerk); names the filing reclassification and is dismissed; the notebook read; the share-or-hold decision |
 | **{{pc:4}}** | **Substantial** | *"Tell me what you know"* in front of a cop; the desk sergeant; the notebook handover |
-| **{{pc:5}}** | **Real, small** | The concealed-carry problem at a government building — and it costs him his focus for the session; Ortiz seeks him out about the permit; a stool at the counter |
+| **{{pc:5}}** | **Real, small** | The carry decision at the metal detector, out loud, with everyone weighing in · Ortiz seeks him out about the permit upstairs · photographs the page before it goes · a stool at the counter |
 | **{{pc:2}}** | **Support, with one real action** | The woman with the folder *asks her for something*; a peer conversation at the counter; Elena's message. **See the A7/A3 note below.** |
 
 > [!WARNING]
