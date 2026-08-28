@@ -52,6 +52,14 @@
 > [!IMPORTANT]
 > **This document is what you run the session from.** It is written to be read at the table, in order, and it contains everything you need. The one-page **pacing card** that ships with it is a *clock* — keep it beside you for the gates and the cut order — but it is not a substitute for this, and nobody can run three hours off a summary sheet.
 >
+> **Beats that need a player to start them are marked, and every one carries a prompt.**
+>
+> The DM can play NPCs. He cannot play the PCs — so any beat that depends on a player *noticing an opportunity* may simply not happen, because nobody told them it was there. Every such beat below is tagged:
+>
+> - **NUDGE IF NEEDED** — there is a line you can drop to open the door. It stays the player's choice; you are offering, not steering.
+> - **FINE TO SKIP** — pleasant if it happens, costs nothing if it doesn't. Do not chase it.
+> - **MUST LAND** — something later depends on it. Nudge, and if the nudge fails, take the fallback given.
+>
 > **Every scene has three settings, not two: PLAY it, TELL it, or DROP it.**
 >
 > **Telling** a scene is the move this guide reaches for before dropping anything. You narrate what happened in sixty to ninety seconds, the content lands, and the table time doesn't. It costs the *interaction*, not the *information* — which is the right trade for a scene that is texture or transit, and the wrong trade for a scene containing a decision. **The drive east is pre-set to TELL** (Scene 2); everything else is PLAY unless the clock says otherwise.
@@ -150,7 +158,15 @@ Open with that image. Then run the three beats below in any order the table offe
 
 #### {{pc:5}} and the metal detector
 
-**{{pc:5}} carries concealed, and there is a metal detector between him and the rest of the session.** He knows it before anyone says anything — he reads permit conditions when he's nervous. **He has to choose, and he has to choose out loud:**
+***MUST LAND — this is {{pc:5}}'s content for the session.***
+
+**{{pc:5}} carries concealed, and there is a metal detector between him and the rest of the session.**
+
+**Do not wait for {{pc:5}}'s player to raise it — he may not remember what his PC is carrying.** Address it directly, in fiction, as something his character noticed on the way in:
+
+> *"{{pc:5}} — you clock the walk-through detector from the door, and the laminated sign beside it about firearm storage. You've been thinking about this since the parking garage."*
+
+**Then he chooses, out loud:**
 
 - **Leave it in the truck.** Fastest. Nobody notices anything.
 - **Declare it at the desk.** He is treated politely and efficiently, it goes in a lockbox, **and there is now a log entry with his name and permit number on it.** He gets it back on the way out. *Do not emphasise this at the table.* It matters in Ep 11.
@@ -164,7 +180,13 @@ Open with that image. Then run the three beats below in any order the table offe
 
 #### {{pc:2}} and the woman with the folder
 
-**A woman in her fifties is waiting with a manila folder on her knees.** She has the particular stillness of someone who has been here a long time and expects to be here longer. If {{pc:2}} looks at her at all, she looks back.
+***NUDGE IF NEEDED — this is {{pc:2}}'s only real beat tonight.***
+
+**A woman in her fifties is waiting with a manila folder on her knees.** She has the particular stillness of someone who has been here a long time and expects to be here longer.
+
+**Give her to {{pc:2}} directly rather than hoping she is noticed:**
+
+> *"{{pc:2}} — there's a woman across the aisle with a folder on her knees. You've watched enough people sit in enough waiting rooms to know she's been here a while, and that she expects to be here a lot longer."*
 
 **She asks {{pc:2}} for something** — pick one:
 
@@ -177,7 +199,15 @@ Open with that image. Then run the three beats below in any order the table offe
 
 #### {{pc:4}} and the desk sergeant
 
-**{{pc:4}} will try to get something from the front desk** — a faster route upstairs, a look at the visitor log, or simply the sergeant's good opinion. He does this reflexively; you do not need to prompt him.
+***FINE TO SKIP — nudge only if you want the texture.***
+
+**If {{pc:4}} works the front desk**, he is after a faster route upstairs, a look at the visitor log, or simply the sergeant's good opinion.
+
+**{{pc:4}}'s player may not notice the opening**, and that is fine — nothing later depends on this. **If you want it, put the sergeant in his path:**
+
+> *"There's a desk sergeant working the counter, and the queue isn't moving. She looks like she has all day."*
+
+That is an offer, not a cue. If he doesn't take it, move on and lose nothing.
 
 **What he gets:** the sergeant is unhurried, unbothered, and entirely immune to him. Not hostile — she has been doing this for eleven years and she has met better. He does not get upstairs any faster. **If he pushes a third time, she starts calling him "sir."**
 
@@ -207,7 +237,13 @@ It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's di
 
 ### {{pc:3}}'s read — give her this *(2 min)*
 
-Once the page is on the desk, {{pc:3}} sees what nobody else in the room can:
+***MUST LAND — this is the beat that makes the world respond to the party.***
+
+**Once the page is on the desk, {{pc:3}} sees what nobody else in the room can.** Give it to her directly — she is a records clerk and this is her job, not an insight she has to earn:
+
+> *"{{pc:3}} — you file things like this for a living, and something about the shape of this query is wrong. Not the contents. The shape."*
+
+What she sees:
 
 > **A dissolved-LLC records pull does not normally cross-match SSNs on every officer and signatory in the filing history.** You query a dissolved entity to check whether it still exists. You do not pull the people. **Somebody wasn't checking a company. Somebody was looking for a person.**
 
@@ -247,7 +283,17 @@ Let the party explain, or refuse to. She listens.
 
 ### Beat 1b — The two documents disagree *(4–5 min)* — {{pc:4}}'s beat
 
-**{{pc:4}} has the loose paperwork from the locker** — physical, and already seen on his dining table in Ep 4. Somebody will think to compare. Let them, **and put both objects on the desk** — two pieces of paper beats a phone screen.
+***MUST LAND — nudge, and if the nudge fails, have Ortiz do it.***
+
+**{{pc:4}} has the loose paperwork from the locker** — physical, already seen on his dining table in Ep 4, and he has no reason not to have brought it.
+
+**Do not wait for somebody to think of comparing them.** Two prompts, in order:
+
+> *"{{pc:4}} — you've got the locker paperwork in the bag at your feet. Some of this is the same filing."*
+
+**If nobody moves on that, Ortiz asks for it herself:** *"You said you'd been to the unit. Did you take anything with you? Bring it here."* She is a detective; wanting to see the other copy is the obvious professional move.
+
+**Put both objects on the desk.** Two pieces of paper beats a phone screen.
 
 **They match on everything except the signatories.** Ortiz's page lists **three** names against the 1994 filing; {{pc:4}}'s copy lists **two**, and the missing one is not {{pc:1}}'s father — it is a name neither document explains and nobody has heard. **Both documents are authentic.** Neither is a forgery, neither is a copy artifact.
 
@@ -344,7 +390,13 @@ If a PC objects, the dispatcher is friendly and unmoved and the software has alr
 
 She photographs nothing and offers nothing. **She is not being obstructive; a default nobody chose has just moved a document out of reach**, ninety seconds after she said out loud that the seven-year gap was the part that bothered her.
 
-**Give this to {{pc:5}}.** He is the one who thinks to photograph the page before it goes — the warehouse supervisor who knows how buildings and paperwork actually work, and who assumes on principle that a document you are shown is a document you will not be shown twice. **Say so out loud at the table.**
+***MUST LAND — nudge it onto {{pc:5}}.***
+
+**Somebody should photograph the page before it goes**, and {{pc:5}} is the right one — the warehouse supervisor who assumes on principle that a document you are shown once is a document you will not be shown twice.
+
+**Do not hope he thinks of it:**
+
+> *"{{pc:5}} — you've watched enough paperwork disappear into enough filing systems to know what happens to a page once somebody official has it in their hand."*
 
 **Beat 1b depends on this.** Without a photograph, the comparison is {{pc:4}}'s paperwork against a page that has already left the building — and any skeptic at the table gets the easy out that somebody misremembered.
 
@@ -384,7 +436,11 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 
 They travel split again — **out of habit, not out of a decision.** Nobody re-negotiated it after Saturday, and the same two groupings re-form without anyone saying anything.
 
-**Let a player notice, and if nobody does, have the most-affected PC notice at ~3 minutes.** *"We're doing it again."* Whether they consolidate is entirely theirs. Do not push.
+***NUDGE IF NEEDED.***
+
+**Let a player notice it first.** If nobody does within a minute or two, hand it to whoever is most affected:
+
+> *"You're about to do the same thing you did on Saturday, and nobody's said anything about it."* Whether they consolidate is entirely theirs. Do not push.
 
 **They ended Ep 4 in two cars and markedly warier of {{pc:4}}.** Nothing has happened since to change that, so do not quietly reunite them — the split re-forming on its own is the beat.
 
@@ -519,6 +575,8 @@ Peer-to-peer, no elder's patience, no card spent. It is the best three minutes o
 
 Two minutes of concrete business beats five minutes of atmosphere.
 
+> **If the party asks her nothing**, the scene does not stall — **she is the one conducting an interview**, not them. Run Beat 3, let her questions do the work, and deliver the crack and the referral on her way out. The ladder below is for when they *do* ask, which they usually will.
+
 ### The deflection ladder — WRITE THIS ON YOUR SHEET
 
 Her voice discipline is *"gives the shorter answer first and the longer one only if asked twice."* **Use it.** A friendly NPC who declines six times in a row reads as a wall, and the players will feel the author's hand. Deflection characterised *differently* each time reads as a person.
@@ -543,9 +601,11 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 
 ### Beat 6 — What she gives *(8–10 min)*
 
-Two things, both earned by Beat 1:
+***MUST LAND — the referral is Ep 6's hook. She volunteers it; do not wait to be asked.***
 
-1. **The referral.** *"My mother has her own work. She's up the hill. Go and knock — but call first, she hates a surprise."* This is the Ep 6 hook, delivered peer-to-peer rather than by an elder's cryptic instruction.
+**Two things, and she offers both unprompted before she goes.** How straight they were with her in Beat 3 changes the warmth, not the content:
+
+1. **The referral, and she brings it up herself.** *"My mother has her own work. She's up the hill. Go and knock — but call first, she hates a surprise."* Peer-to-peer, rather than an elder's cryptic instruction. **If Beat 7 fires before you have delivered this, she says it over her shoulder on the way out** — losing it costs Ep 6 its opening.
 2. **A boundary, stated plainly rather than deflected:** she will not talk about her mother's past. *"That's hers. Ask her."*
 
 ### Beat 7 — She leaves early *(3 min)*
@@ -596,7 +656,9 @@ They will feel worse for having gone in, which is correct. **Do not reward the b
 
 ### What the number does
 
-Somebody will dial it from the porch inside ninety seconds.
+***FINE TO SKIP — but they will almost certainly call.***
+
+Somebody usually dials it from the porch inside ninety seconds. **If nobody does, do not push** — five people who couldn't agree, standing in the dark holding a card, is an equally good last image and it is theirs. Here is what happens if they do:
 
 **It rings four times.** Then a woman's voice, unhurried, no name:
 
