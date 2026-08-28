@@ -440,6 +440,15 @@ He is not worried about it. He mentions it the way you mention a near-miss. Noth
 
 *(This does not violate the canary-group discipline: the teenagers notice things and report them casually; they are not investigating and are not in danger.)*
 
+> [!NOTE]
+> **Standing cadence, starting now.** Per `episode-outline.md` §Standing presence, three threads must not go quiet, and each costs 15 seconds at Tier 1:
+>
+> - **The teenagers** — a group-chat line every 2-3 sessions. This session is one. ✓
+> - **Kai** — an absence-outline moment {{pc:3}} notices, every 2-3 sessions. **This session has one available and you should take it:** the notebook read is *literally* her reading a hole where something was. If Ariadne makes any connection to her brother, do **not** confirm or deny — *"Interesting. What does {{pc:3}} do with that?"* — but let the adjacency sit. It is an itch, not a clue.
+> - **{{pc:1}}'s father** — Tier-1 cameo roughly once per act, from Ep 11. **Not this session**; Ortiz's page is the thread's content tonight.
+>
+> **Audit every planning cycle: when did each last appear, and in what tier?** More than three sessions ago means fix it in the session you are planning. These threads die of neglect, not of bad scenes.
+
 **Order matters: the texts arrive, and then the argument resolves — or doesn't.** End on the dark house, the card, and five people who have not agreed on what to do. If you are out of time, push both texts to the opening of Ep 6 rather than tacking them on after the porch.
 
 ---

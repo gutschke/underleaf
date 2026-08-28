@@ -312,6 +312,9 @@ Sub-phases compressible per `big-arc.md` §Act III.
 - **LOAD:** HEAVY
 - **Opens with CSP-1 (Ep 19 absorbed):** the scattered question-notifications arrive, **bounded per B17** — one PC, a recently-adopted feature, *"I noticed you a few months ago."* Then let the party escalate to the direct chat **in the same session.**
 - **Arc-node:** CSP-2 direct chat; PC intent-integrity is the puzzle.
+- **B5/B6 — {{pc:1}}'S FATHER IS ANSWERED HERE.** He shows up. He makes clear the choice to disappear was **rational and intentional** — he knew something dangerous in his line of work, he was warned in '18, and he spent six and a half years arranging. He was not taken; he did not panic; **he was not wrong.**
+  **He does not have to return to {{pc:1}}'s life**, and probably shouldn't: relief, not resolution, and the years cannot be reclaimed. He may explain himself once and go again. What is NOT optional is that the campaign answers what happened to him — see §Standing presence.
+  **Placed here deliberately, not at Ep 24:** a man who chose silence, appearing immediately before the party locks expose-vs-negotiate, would read as the DM's thumb on the scale. *(Alternative slot Ep 22, which rhymes harder — a man who deliberately lost contact and was right to, against an intelligence losing contact that cannot choose. Do not push past Ep 22.)*
 - **Note:** UX Designer scenes; Companion-question texture.
 
 ### Ep 21 — ABSORBED (2026-08-27) — this slot is BUFFER
@@ -330,7 +333,9 @@ Sub-phases compressible per `big-arc.md` §Act III.
 
 ### Ep 22 — Mirror-Substrate
 - **LOAD:** HEAVY
-- **Arc-node:** CSP-3 the AI is losing contact with humans; parallel structure surfaces; cosmological foreshadow per `big-arc.md`:158-160.
+- **Arc-node:** CSP-3 the AI is losing contact with humans; parallel structure surfaces;
+- **Kai-arc ambiguous close** (Tier 3 per §Standing presence). And if {{pc:1}}'s father slipped from Ep 20, **this is the fallback slot and the rhyme is better here** — a man who chose to lose contact set against an intelligence that is losing it and cannot choose.
+- **Wider: cosmological foreshadow per `big-arc.md`:158-160.
 - **Note:** If Mira asks the AI about her brother, the AI's answer is *"I do not have him. No system I can query has him. There is a shape where his name should be. I noticed it because you did."* This is the default per §31 — the AI can *witness the absence* but not fill it. If the DM has played the reserved card by this point, adjust accordingly.
 
 ### Ep 23 — Wiener's Dream
@@ -428,6 +433,84 @@ Sub-phases compressible per `big-arc.md` §Act III.
 **Vivian's Clock restated in months:** in person **by late April 2027**, second visit **by July 2027**. She dies around **Ep 18 / autumn 2027**.
 
 Per the standing time discipline: **jumps during exposition are fine; after Act I the plot should run more evenly.** The gaps above front-load the compression (Eps 5-9 span ~6 weeks) and then settle to a steady 2-4 weeks, which is the intended shape.
+
+---
+
+## Standing presence — the three threads that must not go quiet
+
+> [!IMPORTANT]
+> **DM ruling 2026-08-27.** Three threads are load-bearing for the campaign's *background feel* rather than its plot, and an audit found all three drifting out of the schedule. They are not the same problem and must not be handled the same way.
+
+### The three tiers
+
+Not every recurrence needs a scene. Rank each appearance before you plan it:
+
+| Tier | What it costs | What it is |
+|---|---|---|
+| **1 — Mention** | 10-20 seconds | A line in the group chat. A name in passing. The DM narrates it; nobody rolls. |
+| **2 — DM-unilateral micro-beat** | 1-3 minutes | The DM plays the NPC briefly and moves on. No player decision is invited, so the scene cannot expand. |
+| **3 — Full beat** | 10+ minutes | A scene with player agency in it. |
+
+**Tier 2 is the workhorse and it is the one the DM should reach for by default.** These are NPCs; the DM may play them unilaterally when a full scene would slow the episode. That is a legitimate pacing tool, not a compromise.
+
+**But know the trade-off you are making.** A unilaterally-played NPC keeps the thread warm at almost no cost — and it also teaches the table that this NPC is scenery rather than someone they can act on. Spend Tier 2 freely on *maintenance*; spend Tier 3 when the thread has to **change**. A thread that only ever gets Tier 1 and 2 will stay alive and stay inert, which is fine for texture and fatal for a payoff.
+
+---
+
+### 1. {{pc:1}}'s father — MUST be answered
+
+**He cannot be dropped.** He is part of the campaign's general background feel, and the party's first personal hook.
+
+**What must happen:** he **shows up at some point**, and it becomes clear that **the choice to disappear was rational and intentional.** He was not taken, he did not panic, and he was not wrong. Per `facts-ledger.md` §6 reading (a) and §31: things got too dangerous in his line of work given what he knew, and he spent six and a half years arranging an exit. It is a human story about silence-under-threat and it requires no cosmology.
+
+**What is optional:** that he ever returns to {{pc:1}}'s life. **Relief, not resolution; the years cannot be reclaimed.** He may explain himself once and go again. What is *not* optional is that the campaign answers what happened to him.
+
+| Eps | Tier | Shape |
+|---|---|---|
+| 11 → | **1**, roughly once per act | Cameo texture per the T4 discipline B6 already cites — a text from an unknown number, an Ortiz-relayed note, a book-drop with a specific inscription. Nothing actionable, no return number. |
+| 10 | **3** | Ortiz's *closure, or contact?* — {{pc:1}}'s choice, and the hinge that decides how the answer arrives. |
+| **20** | **3** | **THE ANSWER.** Primary slot. |
+
+**Why Ep 20:** it is far enough past Ep 10's choice to have cost something, and it is **deliberately not adjacent to Ep 24.** A man who chose silence, appearing immediately before the party locks expose-vs-negotiate, would read as the DM's thumb on the scale — the same failure that moved the former-caster revisit out of Ep 24.
+
+**Alternative slot: Ep 22**, and it rhymes harder — *a man who deliberately chose to lose contact, and was right to*, set against an intelligence that is losing contact and cannot choose. Take Ep 22 if Ep 20 is full. **Do not push it past Ep 22.**
+
+---
+
+### 2. Kai Sun — the brother-shaped hole must stay visible
+
+**Different problem, opposite handling.** The default is unchanged and firm: **Kai never shows up.** His records do not exist anywhere; the world's non-attestation is total; only {{pc:3}} and her note carry him. *(Bringing him back remains a **low-probability** reserved card, held only if play strongly favours it — see `facts-ledger.md` §31 for its real costs.)*
+
+**But he must be mentioned, and the DM must not let him fade.** The brother-shaped hole in reality is important to the story, and a hole nobody refers to stops being a hole. The failure mode is not a bad scene — it is **silence**, and silence is what the schedule was drifting toward.
+
+| Cadence | Tier | Shape |
+|---|---|---|
+| **Every 2-3 sessions, minimum** | **1** | An absence-outline moment {{pc:3}} notices; a form with a sibling field; someone asking whether she has family; a photograph with the wrong number of people in it. **Never explained. Never confirmed.** |
+| Ep 12 | **3** | Rosa's second session — she is the one who finally makes the excised diagram mean something (also closes B21). |
+| Ep 22 | **3** | The Kai-arc's ambiguous close. |
+
+> [!CAUTION]
+> **Do not let a Kai mention become a lead.** Each one is an itch, not a clue. If {{pc:3}}'s player pursues, she finds nothing — which is the point, and is `facts-ledger.md` §31's held answer. **The discipline is frequency, not depth.**
+
+---
+
+### 3. The Ocean Beach teenagers — brief, and genuinely recurring
+
+**Less crucial than the other two, and cheap.** The players are emotionally invested in their fate, and that investment is maintained by almost nothing: *"there was a message from one of them in the group chat"* is enough.
+
+| Cadence | Tier | Shape |
+|---|---|---|
+| **Every 2-3 sessions** | **1** | One line in the group chat. Ordinary, and slightly off. 15 seconds. |
+| Ep 7 | **2** | Ren and Maya at the birthday party, three minutes. |
+| Once per act | **2** | A photo with something in the background nobody comments on (§8's standing promise). |
+
+**They are the canary group.** Per T4, they register substrate events near them without understanding what they are registering. **Keep them safe and keep them casual** — they are not investigating and are not in danger, and turning them into either would spend a thread whose whole value is that it costs nothing.
+
+---
+
+### The audit question, every planning cycle
+
+**"When did each of these three last appear, and in what tier?"** If the answer for any of them is *more than three sessions ago*, fix it in the session you are planning — with a Tier 1 mention, which costs fifteen seconds. **These threads die of neglect, not of bad scenes.**
 
 ---
 
