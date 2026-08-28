@@ -8,8 +8,18 @@
   "temperament": "goes quiet, watches, then decides",
   "bayAreaRelation": "child transplant (arrived from Portland at 4)",
   "neighborhood": "the Sunset — a specific ice-cream shop on Judah",
-  "stats": { "str": 0, "dex": 1, "con": 0, "int": 1, "wis": 2, "cha": 1 },
-  "skills": ["Subterfuge", "Insight"],
+  "stats": {
+    "str": 0,
+    "dex": 1,
+    "con": 0,
+    "int": 1,
+    "wis": 2,
+    "cha": 1
+  },
+  "skills": [
+    "Subterfuge",
+    "Insight"
+  ],
   "tags": [
     "records clerk, San Mateo County (recorder's office) — first job out of college",
     "deferred MA in linguistics at SF State; audits an evening class",
@@ -39,7 +49,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 0,
+  "marks": 4,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -50,5 +60,45 @@
     "loadBearingIrony": "Dakota's 'gullible follower' bond targets her. Dakota genuinely believes Mira agrees with everything he says because she rarely contradicts him. She's not gullible — she's *watching*. This is the party's private dramatic irony. If she ever contradicts him openly, that's an act break for Dakota's arc.",
     "alignmentDriftWatch": "If she ever gets confirmation about Kai, the drift will not be toward chaos — it will be toward *lawful*. She'll want to make the world *behave*.",
     "focusNotes": "The note is her one true possession. If it is destroyed, the game changes."
-  }
+  },
+  "markBullets": {
+    "hardMoment": true,
+    "learned": true,
+    "risk": false,
+    "against": true,
+    "complication": true
+  },
+  "markLog": [
+    {
+      "episode": "001",
+      "date": "2026-06-20",
+      "bullet": "against",
+      "criterion": "Acted against your own short-term interest because the story demanded it",
+      "note": "Her instinct is to watch and say nothing. On a plane full of strangers behaving oddly, she engaged anyway.",
+      "reconstructed": true
+    },
+    {
+      "episode": "002",
+      "date": "2026-06-27",
+      "bullet": "complication",
+      "criterion": "Took on a complication or scar that will matter later",
+      "note": "Bea's archive gave her something she cannot now put down: proof that people get quietly written out of records. She has a brother who was. She did not say so.",
+      "reconstructed": true
+    },
+    {
+      "episode": "003",
+      "date": "2026-08-15",
+      "bullet": "learned",
+      "criterion": "Learned something true about The Quiet, the world, or another character",
+      "note": "Discovered she perceives the outlines of what has been erased — the edited flyer, the copper print, the missing annex. She learned something true about the world and about herself in the same hour.",
+      "reconstructed": true
+    },
+    {
+      "episode": "004",
+      "date": "2026-08-22",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment",
+      "note": "Goes quiet, watches, decides — and then publicly contradicted Dakota in front of everyone, which she does not do. She had watched, she had decided, and she acted. It landed."
+    }
+  ]
 }

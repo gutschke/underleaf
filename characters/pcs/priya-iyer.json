@@ -8,8 +8,18 @@
   "temperament": "acts unilaterally, moves first, explains later",
   "bayAreaRelation": "child transplant (Chennai → Fremont at 9)",
   "neighborhood": "Ocean Beach",
-  "stats": { "str": 0, "dex": 1, "con": 0, "int": 2, "wis": 1, "cha": 1 },
-  "skills": ["Medic", "Insight"],
+  "stats": {
+    "str": 0,
+    "dex": 1,
+    "con": 0,
+    "int": 2,
+    "wis": 1,
+    "cha": 1
+  },
+  "skills": [
+    "Medic",
+    "Insight"
+  ],
   "tags": [
     "ICU nurse, UCSF, night shift",
     "chronic migraines — well-managed, triggered by dehydration + sleep loss",
@@ -33,7 +43,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 0,
+  "marks": 4,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -44,5 +54,45 @@
     "focusNotes": "If the bag is separated from her, everyone at the table feels it.",
     "personalStakesLever": "A full migraine can knock her out for a scene without threatening her life — use if the DM needs personal pressure on Priya without harm-boxing her. Triggers: dehydration, sleep loss, long stretches of adrenaline. Do not overuse; once per arc.",
     "substrateSensitivity": "Body-level substrate-sensitivity in her care/body domain. Graded severity: sub-threshold 'low hum' for nearby Cheap-tier casts, migraine (throbbing pressure behind eyes) for nearby Costly+ casts or substrate-sensitive people in body-crisis, debilitating for Hard-tier / anchor-site permeability firing loudly. Fires ~1-2 per act at most. Never voice the mechanism at the table until her Phase-2 realization beat lands."
-  }
+  },
+  "markBullets": {
+    "hardMoment": true,
+    "learned": true,
+    "risk": true,
+    "against": true,
+    "complication": false
+  },
+  "markLog": [
+    {
+      "episode": "001",
+      "date": "2026-06-20",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment",
+      "note": "A mechanical fault at altitude among strangers. She is a NICU nurse; she is the one who steadies a cabin.",
+      "reconstructed": true
+    },
+    {
+      "episode": "002",
+      "date": "2026-06-27",
+      "bullet": "learned",
+      "criterion": "Learned something true about The Quiet, the world, or another character",
+      "note": "Bea's index cards. Forty years of somebody else quietly recording the same wrongness — the first evidence that this is older than them.",
+      "reconstructed": true
+    },
+    {
+      "episode": "003",
+      "date": "2026-08-15",
+      "bullet": "risk",
+      "criterion": "Took a meaningful risk for someone else",
+      "note": "Trapped in the Union Hall with the temperature dropping, she tore up her own canvas satchel — her focus, the thing she carries everywhere — to make kindling for the others. Then: 'I just want everyone to survive.'",
+      "reconstructed": true
+    },
+    {
+      "episode": "004",
+      "date": "2026-08-22",
+      "bullet": "against",
+      "criterion": "Acted against your own short-term interest because the story demanded it",
+      "note": "Held her anger at Dakota closer than she wanted to — she acts unilaterally under pressure and did not — then was the one who said out loud that a 98-year-old was expecting a call. She wanted to have it out; she went to Sacramento instead."
+    }
+  ]
 }

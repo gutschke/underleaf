@@ -9,8 +9,18 @@
   "temperament": "acts unilaterally",
   "bayAreaRelation": "ambivalent local",
   "neighborhood": "the Sunset near 32nd; his 'place' is Battery Townsley, Marin Headlands",
-  "stats": { "str": 0, "dex": 0, "con": 1, "int": 1, "wis": 1, "cha": 2 },
-  "skills": ["Influence", "Knowledge (American political history, 1930–1975)"],
+  "stats": {
+    "str": 0,
+    "dex": 0,
+    "con": 1,
+    "int": 1,
+    "wis": 1,
+    "cha": 2
+  },
+  "skills": [
+    "Influence",
+    "Knowledge (American political history, 1930–1975)"
+  ],
   "tags": [
     "poli-sci undergrad, SF State (junior; contemplating dropping out)",
     "collects speeches (Long, Hampton, Goldwater — studied without preference)",
@@ -45,7 +55,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 0,
+  "marks": 4,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -56,5 +66,45 @@
     "controlSeekerHook": "Dakota is the party's Control-seeker. Give him worthy NPCs to work; give him a mystery whose meaning he can try to own; give him a bond that quietly casts another PC as his follower (see Mira bond above) as load-bearing dramatic irony.",
     "alignmentDriftWatch": "If the party ever calls out his self-mythology and he *accepts* the read, he drifts toward Lawful Neutral fast. That would be earned character growth.",
     "focusNotes": "The pipe was engraved by his uncle, who worked wood professionally and was the one relative he respected. If the pipe breaks, an argument follows."
-  }
+  },
+  "markBullets": {
+    "hardMoment": true,
+    "learned": true,
+    "risk": true,
+    "against": false,
+    "complication": true
+  },
+  "markLog": [
+    {
+      "episode": "001",
+      "date": "2026-06-20",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment",
+      "note": "He was the one holding the bag at the counter, and the one at the lock. When the moment needed somebody to act as though they belonged there, he did.",
+      "reconstructed": true
+    },
+    {
+      "episode": "002",
+      "date": "2026-06-27",
+      "bullet": "risk",
+      "criterion": "Took a meaningful risk for someone else",
+      "note": "He put himself in front of Reggie as the bag-holder — the face Reggie was most rattled by — and took the exposure so the meeting happened.",
+      "reconstructed": true
+    },
+    {
+      "episode": "003",
+      "date": "2026-08-15",
+      "bullet": "learned",
+      "criterion": "Learned something true about The Quiet, the world, or another character",
+      "note": "Absent from the table, and working. He found Bea, then the Sacramento locker, then Marsh's three ledgers, and learned the count: eight.",
+      "reconstructed": true
+    },
+    {
+      "episode": "004",
+      "date": "2026-08-22",
+      "bullet": "complication",
+      "criterion": "Took on a complication or scar that will matter later",
+      "note": "Got what he wanted and paid for it. The party is no longer angry but is markedly warier, they travelled in two cars to avoid him, and he is holding a notebook the rest of them wanted to read."
+    }
+  ]
 }

@@ -12,7 +12,13 @@
   "scenesNotReached": [
     "Scene 4 — Drive Home + Adaptive Ending (session ran out of time; Ending A coda did not fire)"
   ],
-  "presentPcs": ["Morgan Reyes", "Priya Iyer", "Mira Sun", "Dakota Whitmore", "Marcus \"Mars\" Faraone"],
+  "presentPcs": [
+    "Morgan Reyes",
+    "Priya Iyer",
+    "Mira Sun",
+    "Dakota Whitmore",
+    "Marcus \"Mars\" Faraone"
+  ],
   "durationMinutes": 150,
   "summary": "See summary.md in this directory — the player-facing recap, distributed to the table after the session.",
   "playedHighlights": [
@@ -39,6 +45,32 @@
     "T4/U6 — Ocean Beach teenagers; no text fired."
   ],
   "partyStateAtEnd": "No longer actively angry at Dakota, but markedly warier of his circumspect manner. They accept a shared interest with him; they do not know whether they can trust him. The notebook is with Dakota. The Berkeley trip is now double-motivated (Rosa named, plus Alaia's text).",
-  "marks": [],
-  "notes": "Retrospective log, written 2026-08-27. Advancement marks were NOT collected at the end of this session — the post-session workflow omits the rules.md §Advancement prompt. Worth adding to the run-guide template. Player-facing recap in summary.md was distributed to the players."
+  "marks": [
+    {
+      "pc": "Morgan Reyes",
+      "category": "learned-something-true",
+      "note": "Played Ortiz's voicemail into a hostile room, then sat with a paperwork echo on his father's SSN that does not fit the story he has told himself for two years. He noticed the nine-years-versus-two seam himself."
+    },
+    {
+      "pc": "Priya Iyer",
+      "category": "against-own-short-term-interest",
+      "note": "Held her anger at Dakota closer than she wanted to — she acts unilaterally under pressure and did not — then was the one who said out loud that a 98-year-old was expecting a call. She wanted to have it out; she went to Sacramento instead."
+    },
+    {
+      "pc": "Mira Sun",
+      "category": "hard-moment-in-line-with-alignment",
+      "note": "Goes quiet, watches, decides — and then publicly contradicted Dakota in front of everyone, which she does not do. She had watched, she had decided, and she acted. It landed."
+    },
+    {
+      "pc": "Dakota Whitmore",
+      "category": "complication-that-will-matter",
+      "note": "Got what he wanted and paid for it. The party is no longer angry but is markedly warier, they travelled in two cars to avoid him, and he is holding a notebook the rest of them wanted to read."
+    },
+    {
+      "pc": "Marcus \"Mars\" Faraone",
+      "category": "hard-moment-in-line-with-alignment",
+      "note": "The door at Vivian's. His first attempt fumbled when Priya interrupted; he regrouped, leaned on the railing and named the honest thing — that he needed to see for himself. Elena let all five in. He does not know he cast anything."
+    }
+  ],
+  "notes": "Retrospective log, written 2026-08-27. Advancement marks were not collected at the end of this session; the DM assigned them retroactively on 2026-08-27, one per PC, each tied to a played beat (see `marks`). The Ep 5 run-guide's post-session workflow now prompts for them. Note: the PC JSONs carried `marks: 0` while the Ep-4 character sheets showed 3/5, i.e. the JSON counters had never been maintained — they were set to 4 to match the sheets plus this session's mark. The Eps 1-3 marks were reverse-engineered on 2026-08-27 from the played records and are flagged `reconstructed: true` in each PC's `markLog`; only the Ep 4 entry is a contemporaneous assignment. Player-facing recap in summary.md was distributed to the players."
 }

@@ -686,7 +686,19 @@ Never voice at the table:
 
 1. **Run S2 and S3** — both are end-of-every-session disciplines starting this episode, per `hook-ledger.md`. **S2:** did {{pc:4}} drive the session again, and did anyone else get to? **S3:** where is the party's culprit-frame now — did it soften, harden, or shift to an institution? Write one line each; do not artificially push either.
 2. **Run the S4 ledger-arithmetic audit** before Ep 6, per hook-ledger. It is due and it is two minutes.
-3. **Collect advancement marks.** Each player may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **This was missed at the end of Ep 4** and is now a standing item — several PCs are plausibly owed marks toward a first advancement. Record them in the session log's `marks` field.
+3. **Collect advancement marks.** **Everyone is at 4/5 and each PC needs one *specific* criterion** — the bullets are one-per-criterion, so nobody can double up. Three of the five map onto beats already in tonight's session:
+
+   | PC | Needs | Tonight's candidate |
+   |---|---|---|
+   | **{{pc:5}}** | *complication or scar* | **Strong.** He walks into a government building carrying, and spends the night without his focus. If he declares at the desk there is now a log entry with his name on it. |
+   | **{{pc:4}}** | *against own short-term interest* | **Strong.** *"Tell me what you know"* — evasion would work and would cost {{pc:1}} the thing he came for. If he answers straight, that is the mark **and** it is A6. |
+   | **{{pc:1}}** | *meaningful risk for someone else* | **Possible.** Thin tonight unless he spends something for the party in front of Ortiz. Do not force it. |
+   | **{{pc:3}}** | *meaningful risk for someone else* | **Possible.** Sharing the notebook read rather than holding it is a risk taken for the party. |
+   | **{{pc:2}}** | *complication or scar* | **Possible.** The woman with the folder, if she takes something on there. |
+
+   **Do not bend a beat to fit a bullet.** If it doesn't happen, it doesn't happen — the point of writing this down is so you *recognise* it when it does, not so you engineer it.
+
+   The five criteria, for reference — a PC may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **This was missed at the end of Ep 4** and is now a standing item — several PCs are plausibly owed marks toward a first advancement. Record them in the session log's `marks` field.
 4. Write `sessions/<date>/session.json` against the `session-log` schema, plus `summary.md` for the players. Run `quire lint .` before committing.
 5. Fold the played record into this file as a `## Played record (<date>)` section at the top, per the Ep 4 pattern.
 6. Update `hook-ledger.md` fire statuses. Expected fires: U2, **S3**, §35/B2-partial, U3 closed, **A1 planted**, S1 #1, U7 partial, T4/U6.

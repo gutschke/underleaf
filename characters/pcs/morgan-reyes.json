@@ -9,8 +9,18 @@
   "temperament": "goes quiet, watches, then decides",
   "bayAreaRelation": "ambivalent local",
   "neighborhood": "The Presidio — favours the abandoned Battery East",
-  "stats": { "str": 0, "dex": 1, "con": 0, "int": 2, "wis": 1, "cha": 1 },
-  "skills": ["Tech", "Insight"],
+  "stats": {
+    "str": 0,
+    "dex": 1,
+    "con": 0,
+    "int": 2,
+    "wis": 1,
+    "cha": 1
+  },
+  "skills": [
+    "Tech",
+    "Insight"
+  ],
   "tags": [
     "former Red Team, [redacted] federal contract",
     "self-taught RF/SDR hobbyist",
@@ -40,7 +50,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 0,
+  "marks": 4,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -53,5 +63,45 @@
       "Retcon door: Morgan's father is *presumed* dead, not confirmed. Recur available as a plot lever — vanished-father parallels Mira's vanished-brother (world-edited-around fingerprint) and is candidate material for Bea Ferro's index or a later pioneer/archivist revelation.",
       "SFPD Missing Persons Det. Camila Ortiz is the assigned officer on his father's case."
     ]
-  }
+  },
+  "markBullets": {
+    "hardMoment": true,
+    "learned": true,
+    "risk": false,
+    "against": true,
+    "complication": true
+  },
+  "markLog": [
+    {
+      "episode": "001",
+      "date": "2026-06-20",
+      "bullet": "complication",
+      "criterion": "Took on a complication or scar that will matter later",
+      "note": "The connector materialised in HIS carry-on. Of the five, he is the one the anomaly attached itself to, and he has carried that ever since.",
+      "reconstructed": true
+    },
+    {
+      "episode": "002",
+      "date": "2026-06-27",
+      "bullet": "against",
+      "criterion": "Acted against your own short-term interest because the story demanded it",
+      "note": "Ex-red-team, and his instinct is to stay invisible — and he walked up to an airline counter and put his name in front of their legal department anyway.",
+      "reconstructed": true
+    },
+    {
+      "episode": "003",
+      "date": "2026-08-15",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment",
+      "note": "Set up Ranger Vega's unfamiliar two-way radio under blizzard pressure, and clocked that the park's feedback QR codes were personalised when nobody else did. Goes quiet, watches, decides — and it paid.",
+      "reconstructed": true
+    },
+    {
+      "episode": "004",
+      "date": "2026-08-22",
+      "bullet": "learned",
+      "criterion": "Learned something true about The Quiet, the world, or another character",
+      "note": "Played Ortiz's voicemail into a hostile room, then sat with a paperwork echo on his father's SSN that does not fit the story he has told himself for two years. He noticed the nine-years-versus-two seam himself."
+    }
+  ]
 }

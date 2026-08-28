@@ -9,8 +9,18 @@
   "temperament": "argues — turns it into a debate",
   "bayAreaRelation": "lifer, born Dogpatch",
   "neighborhood": "the abandoned grain silos on the Pier 80 side of the port",
-  "stats": { "str": 1, "dex": 0, "con": 1, "int": 0, "wis": 1, "cha": 2 },
-  "skills": ["Subterfuge", "Influence"],
+  "stats": {
+    "str": 1,
+    "dex": 0,
+    "con": 1,
+    "int": 0,
+    "wis": 1,
+    "cha": 2
+  },
+  "skills": [
+    "Subterfuge",
+    "Influence"
+  ],
   "tags": [
     "warehouse supervisor, Pier 80 (SFMTA-adjacent cold-storage)",
     "part-time tenants'-rights organizer, Dogpatch/Bayview",
@@ -41,7 +51,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 0,
+  "marks": 4,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -52,5 +62,45 @@
     "bringAGunWatch": "Mars may want to bring the pistol into scenes where it doesn't help. Give him graceful ways to *not*. Some venues (state parks, government offices) will notice a concealed carry — a real logistical friction, not a moral one.",
     "alignmentDriftWatch": "Could drift toward Chaotic Good the more he protects the party. Could drift toward Neutral Evil if the mugging trauma routes into a revenge fixation.",
     "focusNotes": "If the pistol is confiscated in-scene, Mars needs to find a stand-in fast — the holster clip on his keychain is still the fallback, per Ep 1 mechanic."
-  }
+  },
+  "markBullets": {
+    "hardMoment": true,
+    "learned": true,
+    "risk": true,
+    "against": true,
+    "complication": false
+  },
+  "markLog": [
+    {
+      "episode": "001",
+      "date": "2026-06-20",
+      "bullet": "against",
+      "criterion": "Acted against your own short-term interest because the story demanded it",
+      "note": "A man who sits with his back to a wall, on a long flight, among strangers — and stayed in it rather than withdrawing.",
+      "reconstructed": true
+    },
+    {
+      "episode": "002",
+      "date": "2026-06-27",
+      "bullet": "learned",
+      "criterion": "Learned something true about The Quiet, the world, or another character",
+      "note": "The In-N-Out. He reads people for a living and he watched Reggie be frightened of a name, which told the party more than the footage did.",
+      "reconstructed": true
+    },
+    {
+      "episode": "003",
+      "date": "2026-08-15",
+      "bullet": "risk",
+      "criterion": "Took a meaningful risk for someone else",
+      "note": "Blizzard logistics. The warehouse supervisor is the one who works out what a trapped group physically needs and then goes and does it.",
+      "reconstructed": true
+    },
+    {
+      "episode": "004",
+      "date": "2026-08-22",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment",
+      "note": "The door at Vivian's. His first attempt fumbled when Priya interrupted; he regrouped, leaned on the railing and named the honest thing — that he needed to see for himself. Elena let all five in. He does not know he cast anything."
+    }
+  ]
 }
