@@ -128,7 +128,10 @@ Register: **urban police-institutional, kinetic.** Ortiz does not sit and slide 
 
 Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record only says {{pc:1}} *may* have called between sessions, and he is the party's most reticent PC on this topic. Do not build the session's anchor scene on an offscreen action. If {{pc:1}}'s player says {{pc:1}} did call, great; if not, Ortiz left a message Sunday night saying she'd found something and would be at her desk Monday.)
 
-**Not everyone gets to come in.** Missing Persons is not a room five civilians sit in. **{{pc:1}} plus {{pc:3}}** go back to Ortiz's desk ({{pc:3}} by default — see below); the rest wait in the lobby.
+**The lobby first, then everyone comes back.** Missing Persons is not a room five civilians walk straight into — so run the lobby as a block, and then **Ortiz takes the whole party through to the one free conference room, because it is Monday.**
+
+> [!IMPORTANT]
+> **Everyone is in the room from Beat 1 onward, and this is load-bearing in two directions.** {{pc:4}} must be present for *"tell me what you know"* — it is his Influence roll and the nominated vehicle for A6 — **and his phone carries the locker photographs, without which Beat 1b cannot happen at all.** Leaving three PCs in the lobby breaks both.
 
 **Run the lobby FIRST, as a block, then Ortiz.** Do not try to interleave two locations — one DM at one table cannot, and attempting it strands whoever isn't being addressed. **Brief {{pc:1}}'s player that {{pc:1}}'s scene starts second.**
 
@@ -204,7 +207,13 @@ Let the party explain, or refuse to. She listens.
 
 **They match on everything except one field.** Pick one and hold to it — the prepay end-date (2035 on Ortiz's, 2031 on Dakota's photo), or the number of signatories, or the dissolution month. **Both documents are authentic.** Neither is a forgery, neither is a scan artifact, and there is no third copy to adjudicate.
 
-Ortiz will assume a transcription error, because that is what a reasonable person assumes, and she is not wrong to. **She has no reason to care and does not.**
+Ortiz will assume a transcription error, because that is what a reasonable person assumes, and she is not wrong to.
+
+**But let her go quiet two seconds too long first.**
+
+> *"…huh. That's not —"* (she looks at both, once more) *"No. That's fine. Transcription."*
+
+Then she moves on and does not come back to it. **This is the first time in four sessions that somebody outside the party has found something odd**, and it costs one line. Do not let her investigate it, do not let her be troubled by it past those two seconds, and do not have her mention it again.
 
 > [!IMPORTANT]
 > **Never explain it. Never resolve it.** There is no fact of the matter about which document is right. If they photograph both and check again later, both still say what they said.
@@ -279,7 +288,11 @@ If a PC objects, the dispatcher is friendly and unmoved and the software has alr
 
 She photographs nothing and offers nothing. **She is not being obstructive; a default nobody chose has just moved a document out of reach**, ninety seconds after she said out loud that the seven-year gap was the part that bothered her.
 
-Let them ask whether anyone photographed it. Whoever did — good, they have a phone picture, which is not the same as the page. Whoever didn't — that's the cost.
+**Give this to {{pc:5}}.** He is the one who thinks to photograph the page before it goes — the warehouse supervisor who knows how buildings and paperwork actually work, and who assumes on principle that a document you are shown is a document you will not be shown twice. **Say so out loud at the table.**
+
+That matters more than it looks: **Beat 1b only exists because he did it.** The session's best object — two authentic documents that disagree — is his, and it costs zero minutes. Without the photo the party is comparing {{pc:4}}'s phone against a page that has left the building, and every skeptic at the table gets the easy out (*"your camera did something"*).
+
+**If nobody thinks of it and you don't want to hand it to {{pc:5}}:** Ortiz suggests it herself, casually, before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him ninety seconds later, which is worse for her and better for the scene.
 
 **This is what makes S1 land at a table not yet primed to notice flattening.** Ambient too-agreeable NPCs are atmosphere; a document going out of reach is a consequence.
 
@@ -419,14 +432,14 @@ Two minutes of concrete business beats five minutes of atmosphere.
 
 Her voice discipline is *"gives the shorter answer first and the longer one only if asked twice."* **Use it.** A friendly NPC who declines six times in a row reads as a wall, and the players will feel the author's hand. Deflection characterised *differently* each time reads as a person.
 
-| They ask | Short answer | On the second ask | |
-|---|---|---|---|
-| *What are you?* | *"A park ranger."* | *"I'm someone who noticed the same things you're noticing, about ten years before you did."* | |
-| *Who do you work for?* | *"California State Parks."* (beat) *"That's not a dodge, it's just true."* | *"Nobody. That's the honest answer and I know it's unsatisfying."* | |
-| *How did you know we went back?* | *"The cards."* | The QR beat above — concrete, shown, no mystery | |
-| *What is Bodie?* | *"A ghost town with a good gift shop."* | *"It's a place where things happen more easily. I don't know why and I've stopped needing to."* | |
-| *Are there others?* | *"Yes."* | **THE CRACK — deliver once, quietly, do not repeat:** *"You're not the first people to notice. You're not going to be the last."* | |
-| *Do you know anything about {{pc:1}}'s father?* | — | **THE ONE HARD REFUSAL:** *"No. And if I did I'd tell you, so please believe the no."* | |
+| They ask | Short answer | On the second ask |
+|---|---|---|
+| *What are you?* | *"A park ranger."* | *"I'm someone who noticed the same things you're noticing, about ten years before you did."* |
+| *Who do you work for?* | *"California State Parks."* (beat) *"That's not a dodge, it's just true."* | *"Nobody. That's the honest answer and I know it's unsatisfying."* |
+| *How did you know we went back?* | *"The cards."* | The QR beat above — concrete, shown, no mystery |
+| *What is Bodie?* | *"A ghost town with a good gift shop."* | *"It's a place where things happen more easily. I don't know why and I've stopped needing to."* |
+| *Are there others?* | *"Yes."* | **THE CRACK — once, quietly, do not repeat:** *"I've met two of them. I didn't like either of them much."* |
+| *Do you know anything about {{pc:1}}'s father?* | — | **THE ONE HARD REFUSAL:** *"No. And if I did I'd tell you, so please believe the no."* |
 
 **She does not use the word "network." She names no one. She does not mention Nia.**
 
@@ -519,7 +532,7 @@ That is a real party argument — {{pc:4}} will want to, {{pc:2}} will want to k
 
 ## Coda
 
-— not as a separate scene afterwards. If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
+**Run this ON THE PORCH, during the call-or-don't argument — not as a separate scene afterwards.** If the session's final image is two pleasant notifications arriving in a car, the dark house is completely flattened.
 
 Two phones go off within a minute of each other, while they are still standing there.
 
@@ -645,10 +658,17 @@ This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 
 
 Decide now, not at 10pm. **In order:**
 
-1. **Scene 0's go-around → a 3-minute DM summary plus one question to the whole table.** Buys 12–18 minutes and costs almost nothing; Ep 4's anger has already resolved into *warier, not angry* per the played record, so there is less to re-litigate than it feels like.
-2. **Scene 3 Beats 1 and 3, compressed.** The Alaia scene holds ~15 minutes of hard content in a 35–40 minute slot; taking it to 25 costs nothing real. Buys 10–12.
-3. **Merge Scene 2 into Scene 3's arrival** — the notebook read becomes a private aside at the Berkeley counter while the other four mill around, which is what the guide wants anyway (*"deliver {{pc:3}}'s read PRIVATELY"*). Kills a scene transition, buys 12–15.
-4. **Scene 1's lobby beats.** Cut these **last**. They are {{pc:5}}'s only content in the session.
+1. **Scene 0's go-around → a 3-minute DM summary plus one question to the whole table.** Buys the most for the least; Ep 4's anger has already resolved into *warier, not angry*, so there is less to re-litigate than it feels like.
+2. **Scene 1's lobby beats.** Compress to four minutes: {{pc:5}}'s carry decision only, and let the other two happen in a line each.
+3. **Merge Scene 2 into Scene 3's arrival** — the notebook read becomes a private aside at the Berkeley counter while the other four mill around.
+4. **Scene 1 Beat 2's second question** (the four-month filing delay). Keep the first.
+
+> [!CAUTION]
+> **Do NOT compress Berkeley to protect the lobby — that is backwards, and it was the order this guide gave until it was checked.**
+>
+> Alaia's four-stool rotation is the only place in the session where **{{pc:2}} gets a peer conversation and {{pc:5}} gets something that isn't a metal detector.** Cutting it first means **the compression lands on the two players who are already starving**, while preserving a logistics puzzle for the player who is one of them.
+>
+> If you must take time out of Berkeley, take it from Beat 2 (the referral is two sentences) — **never from the rotation.**
 
 > [!CAUTION]
 > **Do NOT cut Scene 4.** The card is must-land #3 and the session's closing image. Mailing it turns A1 from a *moment* into a between-sessions group-chat message, and leaves Ep 8's arrival nothing to arrive from.
