@@ -151,7 +151,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **PRIMARY SHAPE: retreat / confession.** Zero documents.
 - **Arc-node:** MoR(Mira) + MoR(Morgan) both land in walk-and-talk pairs. Mira names Kai out loud for the first time; Morgan quietly names *the wrong thing about the world*.
 > [!WARNING]
-> **B3, the faction-choice conversation, was rehoused here and that is TOO EARLY.** Ep 9 is Act I close, and `big-arc.md` invariant 9 says the PCs choose a faction **in Act II**. Worse, the ordering is backwards: the Hidden faction is not *named* until Alaia's reveal (now Ep 13), so at Ep 9 they would be choosing between things they have not heard of. **Move B3 to Ep 13-14, after B2** — or have Nia name the two stances at Ep 8 so an Ep 9 conversation has referents. Do not run it cold.
+> **B3, the faction-choice conversation, is NOT in this session — it moved to Ep 14.** It was briefly rehoused here, which was too early: Ep 9 is Act I close, `big-arc.md` invariant 9 puts the faction choice in Act II, and the Hidden faction is not *named* until Alaia's reveal. **B2 and B3 now run back-to-back in Ep 14**, so the party chooses between two stances that were named in front of them minutes earlier rather than choosing cold.
 - **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
 - **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
@@ -189,7 +189,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Arc-node:** **Mars's MoR** — his realization already landed Ep 7. **This is the outside limit.** Priya's MoR landed Ep 7 and Mira/Morgan's Ep 9; if Mars slips past Ep 11, Dakota's arc eats his again, which is the exact S2 failure the disciplines exist to prevent.
 - **THE MINOR BATTLE — form 2, "standing ground."** A landlord's "property manager" and two men at a tenant meeting. Postures, a raised voice, a shove, a blocked door. Mars stands **without the pistol on him** — his sheet's named release condition — and the room re-shapes anyway. Press, Maneuver, Withdraw; possibly one Harm box. **No attack roll is ever made.**
 - **Ortiz in person #2 — the agency beat — MOVED TO EP 10** (Palo Alto is already an institutional-paperwork register and an estate-and-executor session is the natural room for *closure or contact?*). Kept here only if Ep 10 overruns. **The beat:** The case is being reclassified inactive; she is fighting it and losing. She asks Morgan directly: **closure, or contact?** He can have the file formally closed, or she keeps pulling threads with no guarantee and no timeline. Interpersonal-conflict scene, not a paperwork scene, and the decision is the player's.
-- **B2 full — Alaia's Hidden-faction reveal — MOVED TO EP 13.** It needs air, Ep 12's grief register is wrong for it, and Ep 13 currently has no destabilizer at all. This is the card Ep 5 deliberately did not spend.
+- **B2 full — Alaia's Hidden-faction reveal — MOVED TO EP 14** (it went to Ep 13 first; Ep 13 is now a buffer slot). A long drive gives it more air than a lecture corridor did. This is the card Ep 5 deliberately did not spend.
 - **Setting/register:** Pier 80 silos / Dogpatch.
 
 ### Ep 12 — The Central Valley Temple
@@ -198,15 +198,20 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **PRIMARY SHAPE: grief / stillness.** A walking-meditation path. **The ledger is cut precisely so that nothing competes with this scene.**
 - **Arc-node:** **the B4 former-caster encounter** — the single-scene, not-fixable one, Act II's emotional centre. This needs *absence*, not incident.
 - **The ledger:** confirmed to exist and to be safe. **The party never sees it.** That is a legitimate ending for a ledger and it teaches diffuseness better than acquisition does.
-- **Fires:** B4 · B1 near-completion · **B14 Vasiliev must be re-homed here or lost** — he was routed through this episode's cut ledger. Candidate vehicles: Bao's Q&A, or a Loewe letter. **Must be explicit; must land by Ep 12-13.**
+- **Fires:** B4 · **B1 RETIRES HERE** (moved from the absorbed Ep 13) — on the evidence floor, i.e. Rosa's ledger referencing no other keeper across forty years, whether or not a player voices the recognition line · **B14 Vasiliev must be re-homed here or lost** — he was routed through this episode's cut ledger. Candidate vehicles: Bao's Q&A, or a Loewe letter. **Must be explicit; must land by Ep 12-13.**
 
-### Ep 13 — Dr. Bao's Lecture
+### Ep 13 — ABSORBED (2026-08-27) — this slot is BUFFER
 
-- **LOAD:** MEDIUM. *(Consider moving up to Ep 11-12 to buy Act II close more runway.)*
-- **Arc-node:** the institutional frame acquires an intellectual vocabulary. **B1 retires here** on the evidence floor (Rosa's ledger naming no other keeper), whether or not a player voices the line.
-- **Also here (moved 2026-08-27):** **B2 full — Alaia's Hidden-faction reveal.** It needs air; Ep 12's grief register is wrong for it; and this session otherwise has no destabilizer at all.
-- **Destabilizer, in the Q&A:** an audience member asks Bao **the party's own question, phrased better than they can phrase it** — and Bao's answer is a courteous non-answer the room applauds. Three jobs at once: **S1 at institutional scale**; the reversal *"we are not the only people who noticed"*; and if the questioner cites Vasiliev, B14 lands as a scene rather than a document. **In the corridor afterwards the questioner is gone and nobody remembers them clearly.**
-- **PRIMARY SHAPE: public lecture → Q&A → the corridor afterwards.** A genuinely fresh register: the party as anonymous audience members rather than as investigators anyone is talking to.
+> [!IMPORTANT]
+> **Bao's lecture is no longer its own session.** It moves into **Ep 15's keynote day** — see below. The pairing is thematically stronger than the standalone was: *the academic explains the shape in the morning while the industry demonstrates it in the afternoon.* Both are the party-as-anonymous-audience register, and running them on one day costs one venue instead of two.
+>
+> **This slot is now the campaign's floating buffer.** Do not author content into it. When a session overruns — and on this table's record roughly one in three will — the schedule absorbs it here instead of pushing the ending out.
+
+**Re-homed out of the old Ep 13:**
+
+- **B1 retires → Ep 12** (it was already at near-completion there; the evidence floor lands in the same session).
+- **B2 full — Alaia's Hidden-faction reveal → Ep 14**, the road trip. A car is a better room for it than a lecture corridor was, and **B3's faction choice then follows in the same session**, which fixes the ordering problem flagged earlier (they were being asked to choose before the factions were named).
+- **Bao, the Q&A destabilizer, and B14 Vasiliev → Ep 15.**
 
 ### Ep 14 ★ — Road Trip *(re-pointed)*
 
@@ -220,10 +225,14 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 ---
 ## Act II close — institution (Eps 15-18)
 
-### Ep 15 — The Founder's Keynote
+### Ep 15 — The Keynote *(and, that morning, Dr. Bao's lecture)*
 
 - **LOAD:** HEAVY
 - **Arc-node:** Institutional trinity #1 — the Founder in a public setting; PCs attend as decision, not obligation; the AI product is publicly launched or updated.
+- **ABSORBED FROM EP 13 — Bao's lecture, the same day.** *The academic explains the shape in the morning; the industry demonstrates it in the afternoon.* Both are the party-as-anonymous-audience register, so one day and one trip covers both, and the juxtaposition does work neither session did alone.
+  - The institutional frame acquires an **intellectual vocabulary** — the thing the party has been circling for ten sessions finally has words, supplied by someone with no idea what they are describing.
+  - **The Q&A destabilizer:** an audience member asks Bao **the party's own question, phrased better than they can phrase it** — and Bao's answer is a courteous non-answer the room applauds. Three jobs at once: **S1 at institutional scale**; the reversal *"we are not the only people who noticed"*; and if the questioner cites Vasiliev, **B14 lands as a scene rather than a document**. In the corridor afterwards the questioner is gone and nobody remembers them clearly.
+  - **Compression note:** if the day runs long, the lecture is a cold open — ten minutes, the vocabulary, the Q&A, out. The keynote is the session.
 - **Setting/register:** Corporate keynote venue (Moscone / Yerba Buena Center for the Arts / SFJAZZ). Fresh register (corporate-public-event).
 - **Plants:** Companion notification pings visible in the room; UX Designer as *quiet* presence at the back; expose-vs-negotiate seed.
 - **Fires:** B8 (institutional meeting #1); B7 (product now central).
@@ -278,10 +287,14 @@ Sub-phases compressible per `big-arc.md` §Act III.
 - **Arc-node:** CSP-2 direct chat; PC intent-integrity is the puzzle.
 - **Note:** UX Designer scenes; Companion-question texture.
 
-### Ep 21 ★ — The Former Caster Revisit
-- **LOAD:** LIGHT (slack)
-- **Arc-node:** CSP-2 continued + a rest beat: PCs bring what they've learned back to the mid-Act-II former caster, who now hears them differently.
-- **Note:** Grief and lineage; big-arc invariant preserved (not fixable).
+### Ep 21 — ABSORBED (2026-08-27) — this slot is BUFFER
+
+> [!IMPORTANT]
+> **The former-caster revisit is no longer its own session.** It becomes the **opening scene of Ep 24**, immediately before the expose-vs-negotiate choice locks. Its emotional job — *the former caster now hears them differently* — lands considerably harder as the thing that happens just before the party decides than as a standalone rest beat four sessions earlier.
+>
+> **This slot is the second floating buffer.** Act III is otherwise five consecutive HEAVY sessions; this is where the overrun goes.
+>
+> **Ep 18 ★ still immediately precedes Act III**, so the act does not open without a breath before it.
 
 ### Ep 22 — Mirror-Substrate
 - **LOAD:** HEAVY
@@ -295,6 +308,7 @@ Sub-phases compressible per `big-arc.md` §Act III.
 
 ### Ep 24 — Negotiation
 - **LOAD:** HEAVY
+- **Opens with the former-caster revisit (absorbed from Ep 21):** the party brings what they have learned back to the mid-Act-II former caster, who now hears them differently. **Placed here deliberately** — its emotional job lands far harder as the last thing that happens before the choice than as a rest beat four sessions earlier. Keep it short and let it sit unresolved; it is not a scene that answers anything.
 - **Arc-node:** CSP-5 intent-diversity as metric; expose-vs-negotiate choice locks; Kai-arc closes ambiguously.
 - **Note:** Player-agency choice landing; Founder scene.
 
@@ -309,7 +323,19 @@ Sub-phases compressible per `big-arc.md` §Act III.
 
 ## Total budget
 
-**25 sessions total** (Ep 1-4 played/drafted + Ep 5-25 outline). At the top of the 19-25 window per `big-arc.md` §Length. This is the honest number; anything less requires the party to run at Ep-4-density every session, which the game cannot sustain.
+**25 sessions total, and 25 is now a commitment rather than an estimate.**
+
+**23 authored sessions + 2 floating buffer slots (Eps 13 and 21).** The 2026-08-27 revision absorbed two standalone episodes rather than extending the campaign to the 27-28 an honest overrun calculation implied:
+
+- **Ep 13 (Bao)** → folded into Ep 15's keynote day.
+- **Ep 21 (former-caster revisit)** → folded into Ep 24's opening.
+
+> [!IMPORTANT]
+> **Why cut rather than extend.** Standing DM preference: *"I prefer tightening the schedule as opposed to lengthening it… this type of story gets better if it's told more concisely as opposed to dragging it out so that we nominally cover every contingency and loose end."* Covering everything makes a better arc on paper and a worse per-episode experience — repetition, too little advancement — **and it risks never finishing, which is worse than skipping details the players will not notice as missing.**
+>
+> **The buffers are not content slots. Do not author into them.** They exist so that the roughly one-in-three session that overruns is absorbed by the schedule instead of pushing the ending out. If both are still unspent at Ep 20, the campaign finishes early — which is a good outcome, not a wasted one.
+>
+> **Cut breadth, not depth.** The moments-of-release, the per-PC realizations, the Act hinges and the closing image all keep their room. What comes out is coverage: a second science engagement, a standalone rest beat, and any hook that would need a session of its own to pay off.
 
 > [!CAUTION]
 > **REAL ABSORBABLE SLACK IS ZERO. Do not trust a slack count in this file.**
@@ -319,7 +345,7 @@ Sub-phases compressible per `big-arc.md` §Act III.
 > - **Ep 9** carries three arc-nodes (two MoRs + B3) — **MEDIUM** by this file's own legend.
 > - **Ep 14** was re-pointed at a **hard-floor** Vivian visit; hard floors are not slack.
 > - **Ep 18** carries Vivian's death, B3 lock-in, T3 and the Act III hinge.
-> - **Ep 21** is already flagged optional/compressible.
+> - **Ep 21** has been absorbed outright — it is now a buffer slot, not a session.
 >
 > **Ep 11 lost its ★** in the same revision and is **HEAVY** — four items across four locations, with a hard deadline on Mars's arc.
 >
@@ -328,14 +354,14 @@ Sub-phases compressible per `big-arc.md` §Act III.
 > [!WARNING]
 > **Act I's slack budget is already spent.** Ep 4's overflow consumed it. **Eps 7 and 9 are no longer available to absorb further overflow** — they are the moment-of-release sessions, and cannibalising them does not cost texture, it destroys the Act I close. Any further overflow must be paid for by **cutting content**, not by eating slack.
 >
-> **Where to find a session if one is genuinely needed:** Ep 13 (Bao) can move up and merge forward. Do NOT take it from Eps 7, 9, or 12.
+> **Where to find a session if one is genuinely needed:** the two buffer slots (Eps 13 and 21) are the answer, and they are already reserved for exactly this. Do NOT take it from Eps 7, 9, or 12. If both buffers are spent and you are still over, cut a hook rather than adding a session — see §Total budget.
 
 > [!WARNING]
 > **S1 FLATTENING DROUGHT, Eps 9-14.** Flattening beats are named in Eps 5, 6, 8 and 15 — and **nowhere in Eps 9 through 14**. That is six consecutive sessions with none, during exactly the phase `antagonist.md` says builds the soil for Act III's recognition. *(The numbering also jumps #2 → #4; one instance was lost in the edit.)*
 >
 > The cause is correctly diagnosed elsewhere in this file — the ledger episodes were quietly doing double duty as soil — but the stated remedy (bank time into Eps 15-18) **does not work**, because the soil has to be laid **before** the Founder arrives, not while he is on stage.
 >
-> **Name an S1 instance explicitly in each of Eps 9, 10, 11, 12, 13 and 14.** Candidates already in play: Ep 10 an estate lawyer's assistant over-agreeing with a wrong routing; Ep 11 **Ortiz mentioning, unprompted, that the reclassification request did not come from her supervisor — it came from the system, on a schedule**; Ep 13 an audience member asking Bao the party's own question, better phrased, and the room applauding a courteous non-answer. **This is the highest-leverage single fix in this file.**
+> **Name an S1 instance explicitly in each of Eps 9, 10, 11, 12 and 14** (Ep 13 is a buffer slot). Candidates already in play: Ep 10 an estate lawyer's assistant over-agreeing with a wrong routing; Ep 11 **Ortiz mentioning, unprompted, that the reclassification request did not come from her supervisor — it came from the system, on a schedule**; Ep 14 the faction conversation stalling because a passenger agrees too readily with something specific and wrong. *(Bao's Q&A instance moved to Ep 15 with the lecture.)* **This is the highest-leverage single fix in this file.**
 
 **Act II close (Eps 15-18) should be allowed to run to five sessions**, absorbing what the Act II open de-iteration reclaimed. The ledger episodes were quietly providing soil for flattening beats and institutional seeds; spending the reclaimed time on finishing early instead is how the Founder/Engineer/UX-Designer arrive with the party under-prepared — the precise failure mode in which the institution reads as a villain and invariant 6 breaks.
 
