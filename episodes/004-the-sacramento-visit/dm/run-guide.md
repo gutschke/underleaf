@@ -15,7 +15,7 @@
 - **Decision to go** driven by Priya's reminder that Vivian was 98 and expecting. Dakota called Elena; she was noncommittal (Vivian still asleep, rough morning). Dakota told the party to leave anyway.
 - **Two cars for the drive** (party refused to share a car with Dakota) — Mars + Dakota in Mars's pickup, Morgan + Priya + Mira in Dakota's car. Deviation from planning ("one vehicle: Morgan's SUV"); improved the fiction (party split down suspicion lines).
 - **Priya's drive migraine** fired near Vacaville per plan; care from Mira/Morgan. Bad but they kept driving.
-- **Morgan-Dakota argument** continued through the drive; Dakota delivered a masterclass in *politician-speech* (talked freely about "this is so much bigger" while conveying no new information; genuinely didn't understand why that frustrated the party). Beck's play here was excellent.
+- **Morgan-Dakota argument** continued through the drive; Dakota delivered a masterclass in *politician-speech* (talked freely about "this is so much bigger" while conveying no new information; genuinely didn't understand why that frustrated the party). {{pc:4}}'s player's play here was excellent.
 - **Mars played Dakota's Bodie voicemail on the car speakers** as U5 fire; it didn't help the mood.
 - **Mira's outline-vision** read the wheelchair-ramp negative-space at Vivian's front walk (Scene 3 Beat 0 as designed). She kept it to herself.
 - **Elena at the door** — Mars's first cast attempt fumbled: Priya interrupted at exactly the wrong moment (in-fiction: bad roll, substrate cost = didn't hold). Mars regrouped, leaned casual on the railing, named the honest thing about needing to see for himself, and Elena admitted all five. Priya's low-hum body-signal + Mars's neck-flare fired privately as designed.
@@ -49,7 +49,7 @@
 
 ### Party state at session end
 - Not actively angry at Dakota anymore, but *markedly warier* of his circumspect manner. They agree they share a common interest with him. They don't know whether they can trust him. **Soften-not-dissolve landed correctly** per S3 discipline. No institutional-frame breadcrumb needed this Ep.
-- Party has seen Dakota's tender-with-Vivian register (his softer-persona did slip out at times, though Beck kept it partial rather than full-slip). They don't know yet whether the loud version or the quiet version is the persona.
+- Party has seen Dakota's tender-with-Vivian register (his softer-persona did slip out at times, though {{pc:4}}'s player kept it partial rather than full-slip). They don't know yet whether the loud version or the quiet version is the persona.
 - Notebook is with Dakota.
 - Berkeley trip is now double-motivated (Rosa named + Vega text).
 
@@ -57,7 +57,7 @@
 - **Ep 5** should plan around the promoted-from-Ep-4 hooks (see [`../../../design/DM-ONLY/hook-ledger.md`](../../../design/DM-ONLY/hook-ledger.md) §Overdue for the punch list): photograph, Bea callback, Mira's notebook read, Ortiz callback + Morgan's father Sacramento thread, and the Vega/Rosa Berkeley encounter.
 - **S1 (flattening beat) starts Ep 5** — remember to plant one subtly-too-agreeable NPC beat per session going forward.
 - **S3 (Dakota-culprit-frame monitor)** — party's read has correctly softened; do not artificially reinforce or dissolve; watch for organic drift.
-- **Priya's Phase-2 realization arc** — Kaya has suspicions about the migraine mechanism per her player state; her realization is on-track for Ep 5-6 per A3 canon. Silent player firewall holds: do not confirm or deny at the table.
+- **Priya's Phase-2 realization arc** — {{pc:2}}'s player has suspicions about the migraine mechanism per her player state; her realization is on-track for Ep 5-6 per A3 canon. Silent player firewall holds: do not confirm or deny at the table.
 - **Mars's first cast is now logged** (A7 fired); his Phase-2 arc opens.
 
 ---

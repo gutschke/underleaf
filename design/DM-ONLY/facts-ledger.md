@@ -244,14 +244,14 @@ He is NOT a caster. He is a person whose life was quietly shaped by the same ins
 ### Canonical date set — RESOLVED AND LOCKED (2026-08-27)
 
 > [!IMPORTANT]
-> **There was never a contradiction.** Atticus (Morgan's player) correctly noticed at the Ep 4 table that Ortiz's voicemail cites a paperwork echo from **nine years ago** while Morgan's PC sheet says his father went quiet **two years ago**. Both are true, because the two "two years" in canon are **anchored to different dates and describe different events**:
+> **There was never a contradiction.** {{pc:1}}'s player correctly noticed at the Ep 4 table that Ortiz's voicemail cites a paperwork echo from **nine years ago** while Morgan's PC sheet says his father went quiet **two years ago**. Both are true, because the two "two years" in canon are **anchored to different dates and describe different events**:
 >
 > - Morgan's PC sheet was written at **chargen, i.e. as of Ep 1 (~late summer/early autumn 2026)**. "Two years ago he missed a birthday" → last contact ≈ **autumn 2024**.
 > - `characters/npcs/camila-ortiz.json` says her file has been *"open for two years"* as of **Ep 3 close (Feb 2027)** → report filed ≈ **Feb 2025**.
 >
 > A ~4-month lag between an adult going quiet and a son filing a police report is not a discrepancy — it is how missing-adult reports actually work, and it is exactly what the sheet describes (*a birthday, then a phone call, then all of them* — a gradual realisation, not an event).
 >
-> **Atticus's catch was real and correct. Let it be correct at the table.** Do not "correct" him.
+> **{{pc:1}}'s player's catch was real and correct. Let it be correct at the table.** Do not "correct" him.
 
 | Date | Event | Attested by |
 |---|---|---|
@@ -300,7 +300,7 @@ Ortiz's recommended line, for the Ep 5 in-person meeting:
 >
 > *So. Seven years between somebody pulling your father's number in Sacramento and your father going quiet the autumn before I opened this file.* (beat) *I've worked cases where a number gets pulled and it means nothing at all. I've worked one where it was the whole thing. I can't tell you which this is. I've been looking at those two dates since Friday and I don't have anything to hang on them."*
 
-**If Atticus raises the seam before Ortiz does** — better, use this instead:
+**If {{pc:1}}'s player raises the seam before Ortiz does** — better, use this instead:
 
 > *"…yeah."* (she pulls the page back, checks it, slides it back) *"February '18, February '25. You did that in your head faster than I did it on paper. Seven years.*
 >
@@ -516,7 +516,7 @@ This section is the workflow's step (C) for Ep 3 — what actually happened at t
 | # | Hook | Status | Played detail |
 |---|---|---|---|
 | 1 | 1878 ledger + illegible 5th name | **FIRED** | Party noticed name match; assumed 5th = Iyer without dwelling. Ambiguity preserved as designed. Did NOT ask to verify. |
-| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect Beck to bring the curiosity. |
+| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect {{pc:4}}'s player to bring the curiosity. |
 | 3 | Dakota's Sacramento thread | **SEEDED via voicemail** | Now the Ep 4 opening driver. Party thinks Dakota deliberately set them up for danger — reunion energy will be *frosty*. |
 | 4 | Annex 7 plaque | **SEEDED, unregistered** | Party noted the plaque on the way out but didn't register importance. Blizzard preoccupied them. Ledger fires later; carry into Act II. |
 | 5 | Ranger Vega + QR codes | **FIRED (partially, consciously)** | Morgan noticed the QR codes are personalized. Called out the oddity ("elaborate feedback system for underfunded state park"). Did not scan (mobile data still off). Bank for Ep 4 or Act II re-encounter — Vega's Hidden-faction reveal fires when Morgan scans + follows up. |
@@ -620,7 +620,7 @@ Must-incorporate for Ep 4 *(handled in Ep 4 design — retained here as workflow
 1. Dakota's return with the Sacramento find (§3) — the Ep 4 opener
 2. Morgan's SFPD voicemail listened to (§6) → Sacramento paperwork lead
 3. Morgan follows up on QR codes if signal returns (§5) → Vega Hidden-faction bridge
-4. Party's ANGER at Dakota — reunion energy is frosty; Beck needs preparation for this
+4. Party's ANGER at Dakota — reunion energy is frosty; {{pc:4}}'s player needs preparation for this
 5. Mira's power now established — expect her player to reach for it; Free-tier grants are appropriate in-domain
 6. Priya's cast on the log — do not explain; watch for continued casts
 7. Morgan's shoe-size intuition on the log — his first accidental cast
@@ -954,7 +954,7 @@ The storage unit's contents: three of the eight ledgers (§2) plus margin-annota
 
 ### The 9y/2y seam — reconciliation
 
-The 2018-vs-2025 gap Atticus flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 *What is committed, and what stays open* for the committed reading (a) plus the two still-open ones (b)/(d); **(a) is COMMITTED** (2026-08-27) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `brainstorm-open-questions.md` §Morgan-father-timeline-seam.
+The 2018-vs-2025 gap {{pc:1}}'s player flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 *What is committed, and what stays open* for the committed reading (a) plus the two still-open ones (b)/(d); **(a) is COMMITTED** (2026-08-27) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `brainstorm-open-questions.md` §Morgan-father-timeline-seam.
 
 ### Player-facing (what the party can eventually learn without the DM committing more than needed)
 
@@ -1099,11 +1099,11 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 **All four sub-signals fired cleanly per plan:**
 - **(a) drive migraine** near Vacaville — planned migraine-tier signal fired as designed.
-- **(b) threshold release** at Vivian's driveway — Priya noticed the release. **Kaya has active suspicions about the mechanism** — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form.
-- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to Kaya as designed.
-- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to Remi per protocol.
+- **(b) threshold release** at Vivian's driveway — Priya noticed the release. **{{pc:2}}'s player has active suspicions about the mechanism** — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form.
+- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to {{pc:2}}'s player as designed.
+- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to {{pc:5}}'s player per protocol.
 
-Kaya's dawning theory should **NOT be confirmed or denied** at the table — silent-player-firewall discipline holds (per §30 canon above). Her realization is on track for Ep 5–6 Phase-2 landing; Ep 5 (Refined-B: SFPD/Bea/notebook) does NOT engineer a Phase-2 landing since no substrate-adjacent moment fits naturally; Ep 6 or later provides the vehicle.
+{{pc:2}}'s player's dawning theory should **NOT be confirmed or denied** at the table — silent-player-firewall discipline holds (per §30 canon above). Her realization is on track for Ep 5–6 Phase-2 landing; Ep 5 (Refined-B: SFPD/Bea/notebook) does NOT engineer a Phase-2 landing since no substrate-adjacent moment fits naturally; Ep 6 or later provides the vehicle.
 
 ---
 

@@ -22,10 +22,10 @@
 | # | Scene | Run | Compress to | Do not break mid- |
 |---|---|---|---|---|
 | 0 | Recap | 20 | **3** (DM summary + one question) | — |
-| 1 | SFPD — lobby | 8–10 | 4 | Mars's carry decision |
+| 1 | SFPD — lobby | 8–10 | 4 | {{pc:5}}'s carry decision |
 | 1 | SFPD — Ortiz | 35–45 | 25 | **the seam beat** |
 | 2 | Sidewalk handover | 3 | 2 | — |
-| 2 | Two cars | 20 | 10 | Mira's private read |
+| 2 | Two cars | 20 | 10 | {{pc:3}}'s private read |
 | 3 | Berkeley — Alaia | 30–40 | 25 | her early exit |
 | 4 | Bea's porch | 10–12 | 8 | the call-or-don't argument |
 | — | Coda (**on the porch**) | 5 | 3 | — |
@@ -34,7 +34,7 @@ Budgets sum to ~2h10. The rest is friction. **You are not ahead of schedule.**
 
 ## The three things that must land
 
-1. **Ortiz's seam** — *"Query's February of '18. I opened your father's file February of '25."* Then **stop and let Atticus do the subtraction.**
+1. **Ortiz's seam** — *"Query's February of '18. I opened your father's file February of '25."* Then **stop and let {{pc:1}}'s player do the subtraction.**
 2. **Alaia, in person** — pays the Ep 4 cliffhanger, and gives the Ep 6 referral.
 3. **The card in Bea's door** — a name and a number. **Nia Chen.** This is A1, the campaign's most overdue hook. It does not get cut.
 
@@ -47,7 +47,7 @@ Budgets sum to ~2h10. The rest is friction. **You are not ahead of schedule.**
 | How did you know? | *"The cards."* | Show the QR suffix; show her log |
 | What is Bodie? | *"A ghost town with a good gift shop."* | *"A place where things happen more easily. I stopped needing to know why."* |
 | Are there others? | *"Yes."* | **THE CRACK, once:** *"More of us than you think. And fewer than you'd want."* |
-| Morgan's father? | — | **HARD NO:** *"No. And if I did I'd tell you, so please believe the no."* |
+| {{pc:1}}'s father? | — | **HARD NO:** *"No. And if I did I'd tell you, so please believe the no."* |
 
 **Never:** the word "network" · any name · Nia · the Hidden faction (that's Ep 11).
 
@@ -58,7 +58,7 @@ Budgets sum to ~2h10. The rest is friction. **You are not ahead of schedule.**
 - **Inside the house** (they will go in) → tidy, cold, lived-in. Cup rinsed by the sink. Mail two days *older* than the card. Kettle cold. **The card-box is not on the table.** Nothing disturbed, nothing missing. **No document.**
 - **Double 6s on the notebook** → provenance, never content. Fresh blade, warm room, unhurried, pre-war paper.
 - **Double 1s** → binding cracks / navigation reroutes / a phone rings. Never an improvised reveal.
-- **Morgan keeps the page?** → **No.** The reclassification takes it back. That's the flattening beat's cost.
+- **{{pc:1}} keeps the page?** → **No.** The reclassification takes it back. That's the flattening beat's cost.
 - **Sunday** → nothing happened. Nobody heard from Sacramento.
 
 ## Cut order, if you are behind
@@ -66,7 +66,7 @@ Budgets sum to ~2h10. The rest is friction. **You are not ahead of schedule.**
 1. Recap go-around → 3-min DM summary
 2. Alaia Beats 1 and 3, compressed
 3. Merge the car scene into the Berkeley arrival (the notebook read becomes a private aside at the counter)
-4. The lobby beats — **last**, they are Mars's only content
+4. The lobby beats — **last**, they are {{pc:5}}'s only content
 
 **Never cut:** the seam · Alaia's referral · the card.
 

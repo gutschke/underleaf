@@ -408,7 +408,7 @@ This section is the workflow's step (C) — what actually happened at the table,
 | # | Hook | Status | Played detail |
 |---|---|---|---|
 | 1 | 1878 ledger + illegible 5th name | **FIRED** | Party noticed name match; assumed 5th = Iyer without dwelling. Ambiguity preserved as designed. Did NOT ask to verify. |
-| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect Beck to bring the curiosity. |
+| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect {{pc:4}}'s player to bring the curiosity. |
 | 3 | Dakota's Sacramento thread | **SEEDED via voicemail** | Now the Ep 4 opening driver. Party thinks Dakota deliberately set them up for danger — reunion energy will be *frosty*. |
 | 4 | Annex 7 plaque | **SEEDED, unregistered** | Party noted the plaque on the way out but didn't register importance. Blizzard preoccupied them. Ledger fires later; carry into Act II. |
 | 5 | Ranger Vega + QR codes | **FIRED (partially, consciously)** | Morgan noticed the QR codes are personalized. Called out the oddity ("elaborate feedback system for underfunded state park"). Did not scan (mobile data still off). Bank for Ep 4 or Act II re-encounter — Vega's Hidden-faction reveal fires when Morgan scans + follows up. |
@@ -512,7 +512,7 @@ Must-incorporate for Ep 4:
 1. Dakota's return with the Sacramento find (§3) — the Ep 4 opener
 2. Morgan's SFPD voicemail listened to (§6) → Sacramento paperwork lead
 3. Morgan follows up on QR codes if signal returns (§5) → Vega Hidden-faction bridge
-4. Party's ANGER at Dakota — reunion energy is frosty; Beck needs preparation for this
+4. Party's ANGER at Dakota — reunion energy is frosty; {{pc:4}}'s player needs preparation for this
 5. Mira's power now established — expect her player to reach for it; Free-tier grants are appropriate in-domain
 6. Priya's cast on the log — do not explain; watch for continued casts
 7. Morgan's shoe-size intuition on the log — his first accidental cast

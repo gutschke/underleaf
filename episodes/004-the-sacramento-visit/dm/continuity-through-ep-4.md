@@ -243,7 +243,7 @@ He is NOT a caster. He is a person whose life was quietly shaped by the same ins
 
 **Never voice at the table** before Act II: that the father is alive. The SFPD call in Ep 3 close is deliberately inconclusive.
 
-**TODO — 9-years-vs-2-years timeline seam (flagged Ep 4 played 2026-08-22).** Atticus (Morgan's player) noticed at the table that Ortiz's voicemail cites a paperwork echo from **nine years ago**, but per Morgan's PC-sheet backstory the father *"missed a birthday, then a phone call, then all of them"* only **two years ago**. That's a **~7-year gap** the DM has not yet reconciled in canon. **This is not a bug; treat it as arc-load-bearing raw material** — the campaign's cosmology already permits things being set in motion years before their visible effects, and single-timeline self-consistency accommodations often route through prior anchors. Held answers the DM may pick from (do NOT commit before Ep 6-7 planning):
+**TODO — 9-years-vs-2-years timeline seam (flagged Ep 4 played 2026-08-22).** {{pc:1}}'s player noticed at the table that Ortiz's voicemail cites a paperwork echo from **nine years ago**, but per Morgan's PC-sheet backstory the father *"missed a birthday, then a phone call, then all of them"* only **two years ago**. That's a **~7-year gap** the DM has not yet reconciled in canon. **This is not a bug; treat it as arc-load-bearing raw material** — the campaign's cosmology already permits things being set in motion years before their visible effects, and single-timeline self-consistency accommodations often route through prior anchors. Held answers the DM may pick from (do NOT commit before Ep 6-7 planning):
 
 - **(a) Father-was-already-in-motion.** The 2017 paperwork ping is the moment the father's colleagues first flagged his security-adjacent past to him privately (or the moment he first ran his own quiet-exit plan). He kept working for 7 years but was making arrangements the whole time. The 2024 disappearance was the *completion*, not the beginning. **Cleanest mundane read; requires no cosmology.**
 - **(b) Substrate-anchored 7-year lag.** The father was quietly *shaped* by the same institutional-optimization pressures that later shape the campaign's arc (per current §6 canon), and the substrate's cheapest self-consistent path for that shaping required a 7-year setup — a paperwork anchor in 2017 that the 2024 disappearance settles onto. Same as anchor-site-permeability but time-shaped rather than place-shaped. Feeds Priya/Mira/Morgan Phase-2 pattern discipline nicely (they can *read* the temporal shape once they see it).
@@ -458,7 +458,7 @@ This section is the workflow's step (C) for Ep 3 — what actually happened at t
 | # | Hook | Status | Played detail |
 |---|---|---|---|
 | 1 | 1878 ledger + illegible 5th name | **FIRED** | Party noticed name match; assumed 5th = Iyer without dwelling. Ambiguity preserved as designed. Did NOT ask to verify. |
-| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect Beck to bring the curiosity. |
+| 2 | The eight ledgers | **FIRED (voicemail)** | Party heard the count; reacted with anger at Dakota rather than curiosity about the network. Bank the count for Ep 4 opening; expect {{pc:4}}'s player to bring the curiosity. |
 | 3 | Dakota's Sacramento thread | **SEEDED via voicemail** | Now the Ep 4 opening driver. Party thinks Dakota deliberately set them up for danger — reunion energy will be *frosty*. |
 | 4 | Annex 7 plaque | **SEEDED, unregistered** | Party noted the plaque on the way out but didn't register importance. Blizzard preoccupied them. Ledger fires later; carry into Act II. |
 | 5 | Ranger Vega + QR codes | **FIRED (partially, consciously)** | Morgan noticed the QR codes are personalized. Called out the oddity ("elaborate feedback system for underfunded state park"). Did not scan (mobile data still off). Bank for Ep 4 or Act II re-encounter — Vega's Hidden-faction reveal fires when Morgan scans + follows up. |
@@ -562,7 +562,7 @@ Must-incorporate for Ep 4 *(handled in Ep 4 design — retained here as workflow
 1. Dakota's return with the Sacramento find (§3) — the Ep 4 opener
 2. Morgan's SFPD voicemail listened to (§6) → Sacramento paperwork lead
 3. Morgan follows up on QR codes if signal returns (§5) → Vega Hidden-faction bridge
-4. Party's ANGER at Dakota — reunion energy is frosty; Beck needs preparation for this
+4. Party's ANGER at Dakota — reunion energy is frosty; {{pc:4}}'s player needs preparation for this
 5. Mira's power now established — expect her player to reach for it; Free-tier grants are appropriate in-domain
 6. Priya's cast on the log — do not explain; watch for continued casts
 7. Morgan's shoe-size intuition on the log — his first accidental cast
@@ -896,7 +896,7 @@ The storage unit's contents: three of the eight ledgers (§2) plus margin-annota
 
 ### The 9y/2y seam — reconciliation
 
-The 2018-vs-2025 gap Atticus flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 *What is committed, and what stays open* for the committed reading (a) plus the two still-open ones (b)/(d); **(a) is COMMITTED** (2026-08-27) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `../../../design/DM-ONLY/brainstorm-open-questions.md` §Morgan-father-timeline-seam.
+The 2018-vs-2025 gap {{pc:1}}'s player flagged in Ep 4 is **not a bug** but the shape of the story: something was set in motion much earlier than the visible collapse. See §6 *What is committed, and what stays open* for the committed reading (a) plus the two still-open ones (b)/(d); **(a) is COMMITTED** (2026-08-27) father-was-already-in-motion. **Deploying Argonaut cross-match in Ep 5 forces the seam to narrow to (a), (b), or (d) — (c) two-separate-events becomes implausible.** All three surviving candidates are cosmologically richer than (c). See also `../../../design/DM-ONLY/brainstorm-open-questions.md` §Morgan-father-timeline-seam.
 
 ### Player-facing (what the party can eventually learn without the DM committing more than needed)
 
@@ -1041,11 +1041,11 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 **All four sub-signals fired cleanly per plan:**
 - **(a) drive migraine** near Vacaville — planned migraine-tier signal fired as designed.
-- **(b) threshold release** at Vivian's driveway — Priya noticed the release. **Kaya has active suspicions about the mechanism** — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form.
-- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to Kaya as designed.
-- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to Remi per protocol.
+- **(b) threshold release** at Vivian's driveway — Priya noticed the release. **{{pc:2}}'s player has active suspicions about the mechanism** — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form.
+- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to {{pc:2}}'s player as designed.
+- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to {{pc:5}}'s player per protocol.
 
-Kaya's dawning theory should **NOT be confirmed or denied** at the table — silent-player-firewall discipline holds (per §30 canon above). Her realization is on track for Ep 5–6 Phase-2 landing; Ep 5 (Refined-B: SFPD/Bea/notebook) does NOT engineer a Phase-2 landing since no substrate-adjacent moment fits naturally; Ep 6 or later provides the vehicle.
+{{pc:2}}'s player's dawning theory should **NOT be confirmed or denied** at the table — silent-player-firewall discipline holds (per §30 canon above). Her realization is on track for Ep 5–6 Phase-2 landing; Ep 5 (Refined-B: SFPD/Bea/notebook) does NOT engineer a Phase-2 landing since no substrate-adjacent moment fits naturally; Ep 6 or later provides the vehicle.
 
 ---
 

@@ -76,12 +76,12 @@ Vindicates the "loneliness at every emergent scale" texture (`big-arc.md` §Loos
 
 ### The seed
 
-Atticus (Morgan's player) noticed at the Ep 4 table that Detective Ortiz's voicemail (Ep 3 close, replayed Ep 4 Scene 1 Beat 2) cites a paperwork echo from **nine years ago** — but per Morgan's PC-sheet backstory, the father *"missed a birthday, then a phone call, then all of them"* only **two years ago**. That's a ~7-year gap the DM has not yet reconciled in canon. The player noticed — favorably. He read it not as a bug but as "cool, this is a campaign where time and cause/effect can be surprising."
+{{pc:1}}'s player noticed at the Ep 4 table that Detective Ortiz's voicemail (Ep 3 close, replayed Ep 4 Scene 1 Beat 2) cites a paperwork echo from **nine years ago** — but per Morgan's PC-sheet backstory, the father *"missed a birthday, then a phone call, then all of them"* only **two years ago**. That's a ~7-year gap the DM has not yet reconciled in canon. The player noticed — favorably. He read it not as a bug but as "cool, this is a campaign where time and cause/effect can be surprising."
 
 ### Why this matters
 
 - **Not a bug — arc-load-bearing raw material.** Underleaf cosmology already permits things being set in motion years before their visible effects (retro-causal edits at cost per world-truths; anchor-site permeability per anchors-cards-ledgers). A 7-year gap between the SSN paperwork and the disappearance is *exactly* the kind of temporal-shape the campaign already knows how to hold.
-- **The player is primed.** Atticus flagged it in-fiction/at-table without complaint. If the DM lands a good answer in the next 2-3 sessions, it converts from "seam" to "aha — the DM was tracking this the whole time" — a trust win.
+- **The player is primed.** {{pc:1}}'s player flagged it in-fiction/at-table without complaint. If the DM lands a good answer in the next 2-3 sessions, it converts from "seam" to "aha — the DM was tracking this the whole time" — a trust win.
 - **If ignored:** the seam calcifies into an unresolved DM-continuity issue that erodes trust in the DM's coherence. By Ep 12-14 (mid-Act-II) the whole party will have Morgan-father Sacramento material to whiteboard against; the discrepancy must have a held answer by then.
 
 ### The four candidate reads (mirrored from facts-ledger §6 TODO)
