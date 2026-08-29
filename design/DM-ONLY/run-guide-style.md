@@ -135,3 +135,30 @@ Run this when converting Phase 1 → Phase 2. It is faster than another expert r
 - [`principles.md`](principles.md) — table-facing design discipline
 - [`episode-outline.md`](episode-outline.md) — where arc-level shorthand *is* appropriate, because its reader is the author
 - Ep 5's guide, [`../../episodes/005-the-one-page/dm/run-guide.md`](../../episodes/005-the-one-page/dm/run-guide.md), is the current best example of a finished Phase-2 document. Its `pacing.md` is the model for a one-page clock card.
+
+---
+
+## 9. Two checks that only a pre-print pass catches
+
+Added after Ep 5's final review, where both of these were live in a packet that
+otherwise read well.
+
+**Every beat on a "never cut" list must have written content.** Ep 5's clock
+card protected "Alaia's stool rotation" and explained why — it was the only
+place two of the five PCs got anything. The run-guide had a stage direction for
+it and not one line of dialogue. **A protected beat with nothing written is
+worse than an unprotected one**, because you skip past the unprotected one and
+you *improvise* the protected one, tired, at T+2:00. Before printing: take the
+never-cut list and open the guide to each item. If you cannot point at the
+words, write them.
+
+**Add up the clock card.** Gates drift out of sync with rows the moment a scene
+moves or a beat changes length, and the arithmetic never announces itself. Ep 5
+shipped a 30-minute window around a 44-minute scene, with 21 phantom minutes
+parked in a drive that had been cut to two. Sum the rows, apply your friction
+factor, and check each gate against the running total.
+
+**Corollary for both:** the guide and the card must carry the *same* minutes.
+Declaring that one document "owns the budget" and then printing figures in the
+other is how they diverge — the fix is to make them agree and say which one
+wins in a disagreement, not to pretend only one exists.
