@@ -118,7 +118,7 @@ She is also, per DM ruling, **allowed to be elusive** — recurring but hard to 
 
 ### The ledger count, if it comes up
 
-**1 (Bea) + 3 ({{pc:4}}'s, from the Sacramento locker) + 4 unfound = 8.** The four unfound are Palo Alto, Bancroft, San Bernardino, Central Valley. Do not let anyone — NPC or DM — recite this arithmetic aloud this session; it is not the session's business, and the party doing the arithmetic themselves is worth more than being told. If a player does the sum correctly, confirm the total and nothing else.
+**1 (Bea) + 3 ({{pc:4}}'s, from the Sacramento locker) + 4 unfound = 8.** The four unfound are Palo Alto, Bancroft, San Bernardino, Ukiah. Do not let anyone — NPC or DM — recite this arithmetic aloud this session; it is not the session's business, and the party doing the arithmetic themselves is worth more than being told. If a player does the sum correctly, confirm the total and nothing else.
 
 ---
 
@@ -480,7 +480,7 @@ Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and 
 - **The notebook handover and the split being named** → Scene 1 Beat 4, on the sidewalk outside SFPD, while all five are still together.
 - **{{pc:3}}'s notebook read** → Scene 3 Beat 1, at the Berkeley counter, which is a **better** room for it: the read is private either way, but at a coffee bar the other four are ordering and milling instead of watching you type on your phone in silence.
 
-## Scene 3 — Berkeley, a coffee counter
+## Scene 3 — Caffè Strada, Berkeley
 
 Register: **peer, urban, ordinary.** This is the session's payoff and its emotional centre.
 
@@ -489,7 +489,13 @@ Register: **peer, urban, ordinary.** This is the session's payoff and its emotio
 
 ### Setup
 
-She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from Bodie visiting her mother. She picks the place — a counter with four stools, not a table for six, so the party has to stand around and rotate. Good.
+She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from Bodie visiting her mother, and **she picks the place: Caffè Strada, on the corner of College and Bancroft, a block off Telegraph.**
+
+**Why she picked it, though she won't say so:** it is the most public place in Berkeley to have a private conversation. The terrace is always full — grad students with laptops, somebody's reading group, a dog tied to the railing — and nobody looks at anybody. **You cannot be overheard at Strada because everyone is already talking.**
+
+**The room:** a wide brick terrace under old plane trees, wobbly metal tables, and never enough chairs. Everyone knows the drill — you take what's free, you stand, you drift. Bancroft is a wall of traffic on one side and the campus starts on the other. **It smells like espresso and eucalyptus.**
+
+*(If Strada has changed hands by the time you run this, any campus-adjacent terrace works — the staging below only needs "not enough chairs and too many people to be overheard.")*
 
 **Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
 
@@ -501,11 +507,11 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from B
 
 **The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
 
-### Staging — use the stools, this is the whole trick
+### Staging — never enough chairs, and that is the trick
 
-Four stools, five PCs, plus her. **Somebody is always standing, and somebody always drifts outside.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
+She has one table and three chairs. There are six of you. **Somebody is always standing, and somebody always drifts off to the counter or the railing.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
 
-Name who sits. Move people. When a conversation stalls, someone gets up for a refill and the pairing changes.
+Name who sits. Move people. When a conversation stalls, somebody gets up for a refill or goes to feed the meter, and the pairing changes.
 
 ### What you need to know before this beat *(context, not read-aloud)*
 
@@ -521,7 +527,7 @@ Name who sits. Move people. When a conversation stalls, someone gets up for a re
 
 ### Beat 1 — {{pc:3}} reads the notebook *(10–12 min)* — {{pc:3}}'s beat
 
-**She does it at the counter, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and standing around a coffee bar is the one place a DM can hand one player a note without four people watching him type.
+**She does it at the terrace railing, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and a crowded terrace is the one place you can hand one player a note without four people watching you type.
 
 Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
 
@@ -819,7 +825,7 @@ This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 
 
 - **{{pc:1}} says he never called Ortiz.** Covered — she initiates. Do not build on an offscreen action.
 - **The party won't split for the lobby.** Ortiz comes out to the lobby and runs the scene standing in a public waiting area, which is worse for her and better for the table. Fine.
-- **They skip Berkeley.** Don't let them, gently — Alaia texts again mid-drive and names a time. If they genuinely refuse, she turns up at the Ocean Beach beach-fire in Ep 7 instead, and Ep 6's Rosa hook comes from Vivian's mailed letter file instead of from Alaia.
+- **They skip Berkeley.** Don't let them, gently — Alaia texts again mid-drive and names a time. If they genuinely refuse, she turns up at the Ocean Beach bonfire in Ep 7 instead, and Ep 6's Rosa hook comes from Vivian's mailed letter file instead of from Alaia.
 - **They skip Bea's.** The card is mailed and arrives Wednesday. **Nia's name reaches them this week regardless** — it is the one thing in this session that cannot slip again.
 - **A player voices the retrocausal-self theory** (*"what if Loewe drew US on that page?"*): do **not** confirm. *"Interesting. What does {{pc:3}} do with that thought?"* Log the volunteer privately — it is the best possible route into the Act II reveal, and it is worth more than anything you could say here.
 - **A player asks whether all three archivists lived in the same house.** They can be told yes, if they've worked it out — that is now canon and Bea would not deny it. What Bea will never do is explain how three consecutive people came to acquire one house. Hold the mundane mechanism (a small family landlord selling to sitting tenants; a probate routing through the same office) in reserve and deploy it **only if a player digs**.

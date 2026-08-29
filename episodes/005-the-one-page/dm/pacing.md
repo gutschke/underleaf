@@ -7,9 +7,9 @@
 
 | T+ | | T+ | |
 |---|---|---|---|
-| **0:15** | into SFPD | **2:15** | **out of Berkeley** |
+| **0:15** | into SFPD | **2:15** | **out of Strada** |
 | **1:20** | **out of SFPD** | 2:30 | on Bea's porch |
-| 1:45 | into Berkeley | **2:50** | done |
+| 1:45 | into Strada | **2:50** | done |
 
 **Blow a gate → cut from the list below. Do not make it up later.**
 
@@ -25,7 +25,7 @@
 | 1 · Flattening + the page goes back | 6 | 4 | — |
 | 1 · Departure + **sidewalk** (handover, split named) | 6 | 4 | the handover |
 | 2 · **The drive — TOLD, 90 sec** | 2 | 2 | — |
-| 3 · Berkeley — **notebook read** + Alaia | 40 | 30 | Mira's read · her early exit |
+| 3 · **Caffè Strada** — notebook read + Alaia | 40 | 30 | Mira's read · her early exit |
 | — · **Drive: Berkeley → Outer Sunset** | 8 | 5 | — |
 | 4 · Porch — card + the search | 12 | 7 | — |
 | 4 · The two texts (**on the porch**) | 4 | 3 | — |

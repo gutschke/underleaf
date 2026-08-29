@@ -90,7 +90,7 @@ Why 1878 specifically: Bodie's peak boom year; the Standard Mill's workforce is 
 - **Palo Alto**, in a private library owned by the estate of a mid-20th-century AI researcher (a peer of Wiener's; not a household name). Held by an executor who inherited it without understanding what it was. **Dakota accessed this one** via records-office cross-referencing; it's one of the three he now has.
 - **Berkeley**, in the flat-file of a librarian at Bancroft Library who catalogued it as an "anomalous ephemera collection" in 1979 and occasionally adds new entries when she personally witnesses something. She IS a former caster (per big-arc.md Act II Former Caster archetype); the ledger is her outlet for the pattern-sensing she can no longer act on.
 - **San Bernardino County** — was in a rented storage unit, part of an intestate estate lot a hoarder-collector bought at auction in 2013. **GONE as of the 2026-08-27 de-iteration: the unit was re-auctioned and the trail dies helpfully.** This ledger now carries the deliberately-unfindable slack function the deleted phantom eighth used to. **Stage its death by Ep 12** — a two-minute phone call to the facility is enough. Do NOT run a San Bernardino episode.
-- **A Buddhist temple's storeroom in the Central Valley**, given as a gift by a visiting scholar in the 1980s. The monks preserve it out of politeness without reading it.
+- **The City of Ten Thousand Buddhas, Ukiah** — a Buddhist monastic community on the grounds of a former state hospital in Mendocino County, given the ledger by a visiting scholar in the 1980s. The monks preserve it out of politeness without reading it.
 
 Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate.
 
@@ -101,7 +101,7 @@ Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passiv
 **Risk if unresolved:** "eight" is a promise. If Act II never engages the ledger network, Dakota's voicemail feels like a cheap tease.
 
 > [!WARNING]
-> **Corrected 2026-08-27.** This line used to end *"bake at least three of the four remaining ledger discoveries into Act II investigation cadence."* **That is now actively wrong and a DM following it would undo the de-iteration.** The four remaining are handled as: **Bancroft — read in Rosa's kitchen, not acquired (Ep 6); Palo Alto — acquired (Ep 10); Central Valley — confirmed to exist and be safe, never seen (Ep 12); San Bernardino — gone, the unit was re-auctioned.** The party ends Act II open holding **five of eight**, and that is the intended number. **B1 completes on RECOGNITION, not acquisition** — see `hook-ledger.md` B1. Keeping the promise means engaging the network, not collecting it.
+> **Corrected 2026-08-27.** This line used to end *"bake at least three of the four remaining ledger discoveries into Act II investigation cadence."* **That is now actively wrong and a DM following it would undo the de-iteration.** The four remaining are handled as: **Bancroft — read in Rosa's kitchen, not acquired (Ep 6); Palo Alto — acquired (Ep 10); Ukiah — confirmed to exist and be safe, never seen (Ep 12); San Bernardino — gone, the unit was re-auctioned.** The party ends Act II open holding **five of eight**, and that is the intended number. **B1 completes on RECOGNITION, not acquisition** — see `hook-ledger.md` B1. Keeping the promise means engaging the network, not collecting it.
 
 ---
 

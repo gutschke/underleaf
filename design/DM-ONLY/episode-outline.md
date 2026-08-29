@@ -175,7 +175,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 > [!IMPORTANT]
 > **De-iterated 2026-08-27.** This phase was four consecutive ledger-hunts. Two are cut, one converts to a different shape, and one keeps only its *shape* with a new destination. **The doctrinal argument, not the pacing one:** `anchors-cards-ledgers.md` §Ledgers rule 2 and big-arc invariant 5 both hold that the tradition is diffuse by cosmological necessity — keepers do not communicate, and assemblies of unfamiliar casters structurally fail. **A completionist ledger hunt is the party assembling the network by proxy. It must fail by design, or the load-bearing artifact contradicts the cosmology it exists to teach.**
 >
-> **B1's completion condition has changed.** It no longer completes when the party holds the books. It completes when they can state the network's *shape*: they have handled **two** of the four remaining (Bancroft, Palo Alto); confirmed a third exists and is safe **without ever seeing it** (Central Valley); accepted the fourth is gone (San Bernardino) — **and** a PC has said out loud, in some form, *"there's no master ledger, is there. It's just eight people who each noticed the same thing and never met each other."* **The recognition is the payoff.** Retire B1 the session that line lands — target Ep 12-13.
+> **B1's completion condition has changed.** It no longer completes when the party holds the books. It completes when they can state the network's *shape*: they have handled **two** of the four remaining (Bancroft, Palo Alto); confirmed a third exists and is safe **without ever seeing it** (Ukiah); accepted the fourth is gone (San Bernardino) — **and** a PC has said out loud, in some form, *"there's no master ledger, is there. It's just eight people who each noticed the same thing and never met each other."* **The recognition is the payoff.** Retire B1 the session that line lands — target Ep 12-13.
 >
 > **The sessions this reclaims bank into Act II close (Eps 15-18), not into finishing early.** The ledger episodes were quietly doing double duty as soil for flattening beats and institutional seeds; cutting them without compensating is how the institution arrives reading as a villain and invariant 6 breaks.
 
@@ -209,10 +209,13 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **S1 #6 — the best one in the campaign, do not leave it as a candidate:** Ortiz mentions, unprompted, that **the reclassification request did not come from her supervisor. It came from the system, on a schedule.** She is not alarmed. She says it the way you'd mention weather.
 - **Setting/register:** Pier 80 silos / Dogpatch.
 
-### Ep 12 — The Central Valley Temple
+### Ep 12 — The City of Ten Thousand Buddhas
 
 - **LOAD:** MEDIUM
-- **PRIMARY SHAPE: grief / stillness.** A walking-meditation path. **The ledger is cut precisely so that nothing competes with this scene.**
+- **PRIMARY SHAPE: grief / stillness.** **The City of Ten Thousand Buddhas, Ukiah** — a Buddhist monastic community occupying the grounds of a former state hospital in Mendocino County. Walking paths, a vegetarian dining hall, enormous quiet, and institutional buildings visibly repurposed into something gentler. **The ledger is cut precisely so that nothing competes with this scene.**
+- **Why Ukiah and not somewhere closer.** Two hours up 101 through Sonoma and into Mendocino — **it is genuinely awkward to reach from the city on a casual outing**, and that is the point. It is a whole day. Nobody drops in. So the party commits real effort to a ledger they will not be allowed to see, which is exactly the lesson the session exists to teach, and the drive up gives the episode its road-trip register for free.
+- **The setting does thematic work nothing else on the list does:** an institution's bones reused for something kind. The campaign spends Act II arguing that institutions flatten people; this is the one place where an institutional shell became a place of care. Do not underline it. Just put them in it.
+- **Treat the community respectfully.** They are a real place and real people. The monks are unbothered, hospitable, and entirely uninterested in the party's errand — which is itself the answer.
 - **Arc-node:** **the B4 former-caster encounter** — the single-scene, not-fixable one, Act II's emotional centre. This needs *absence*, not incident.
 - **S1 #7:** a monk, asked when the ledger arrived, gives a date; the temple's own guest-book gives another; both are certain and neither is troubled by it.
 - **B1 condition (iii) — stage San Bernardino's death HERE.** A two-minute phone call to the storage facility: the unit was re-auctioned, the trail dies helpfully. This is one of B1's four completion conditions and it was assigned to no session.

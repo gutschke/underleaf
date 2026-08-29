@@ -41,7 +41,7 @@ This has story consequences:
 
 **Bodie is one of the campaign's designated anchor sites.** Ep 3's uncanny-town texture (optional lantern-relights-itself, etc.) is anchor-site permeability manifesting. If the DM ever wants a Phase-1 accidental cast to land easily, an anchor site is the right stage.
 
-**Multi-PC cascade at anchor sites.** Ep 3 played established that anchor-site permeability can allow *multiple concurrent* Phase-1 casts across the party in a single session (Priya's fire, Mira's outline, Morgan's shoe-size intuition all fired at Bodie). This is on-shape but was not anticipated by earlier design: the anchor-density that makes single casts Free also lowers the threshold for co-occurring casts. Plan for it when scheduling anchor-site sessions in Act II (the Central Valley temple; the Companion headquarters late Act II) — expect 2-3 concurrent Phase-1 casts, not one.
+**Multi-PC cascade at anchor sites.** Ep 3 played established that anchor-site permeability can allow *multiple concurrent* Phase-1 casts across the party in a single session (Priya's fire, Mira's outline, Morgan's shoe-size intuition all fired at Bodie). This is on-shape but was not anticipated by earlier design: the anchor-density that makes single casts Free also lowers the threshold for co-occurring casts. Plan for it when scheduling anchor-site sessions in Act II (the Ukiah monastery; the Companion headquarters late Act II) — expect 2-3 concurrent Phase-1 casts, not one.
 
 ## Index cards
 
@@ -80,7 +80,7 @@ Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*)
 | L5 | Palo Alto | executor (unnamed) — **unfound** | Estate of a Wiener-adjacent Cold-War-era researcher; the executor does not know what she has |
 | L6 | Bancroft | Rosa Vega (Berkeley) — **read Ep 6, NOT acquired; Rosa keeps it** | Rosa was the 1979 Bancroft cataloguer; she kept custody informally after her official service ended |
 | L7 | San Bernardino | hoarder-collector (unnamed) — **GONE** | The unit was re-auctioned; the trail dies helpfully. Carries the deliberately-unfindable slack function. **Stage its death by Ep 12**; do not run a San Bernardino episode |
-| L8 | Central Valley | Buddhist temple monk(s) — **confirmed but never seen** | Preserved out of politeness; the monks do not consult it. **The party never sees this one** — a legitimate ending for a ledger, and it teaches diffuseness better than acquisition does |
+| L8 | **City of Ten Thousand Buddhas, Ukiah** | monastic community — **confirmed but never seen** | Preserved out of politeness; the monks do not consult it. **The party never sees this one** — a legitimate ending for a ledger, and it teaches diffuseness better than acquisition does |
 
 > [!IMPORTANT]
 > **Corrected 2026-08-27.** This table previously listed Palo Alto as **L2, held by Dakota**, left the Sacramento locker with only **two**, and invented a phantom **"L8 fourth-unfound, unknown holder"** to reach eight. All three were wrong:
