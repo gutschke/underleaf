@@ -400,98 +400,93 @@ Then, quieter, off the record:
 
 ### Beat 3 — The clerk fixes it *(4–5 min)*
 
-***HAS TO HAPPEN. Do not let this one pass unnoticed.***
+***HAS TO HAPPEN.*** Run it **immediately after the seam**, while her own words are still in the air. That adjacency is the whole beat.
 
-**Run it immediately after the seam, while her own words are still in the air.** That adjacency is the entire beat.
+> **Order in Scene 1 is: the two documents → the seam → this.** The first and last are both *the record is wrong* moments, and back-to-back they read as tampering. The seam is what keeps them apart. **Don't swap them.**
 
-> **On ordering:** the two-documents beat and this one are both *the record is wrong* moments, and back-to-back they read as tampering rather than as drift. **The seam sits between them, which is exactly the separation they need** — so run Beat 1b, then the seam, then this, in that order, and do not swap them.
+**Five steps. Run them in this order.**
 
-#### What happens
+---
 
-A records clerk — **Mateo**, mid-twenties, pleased with himself — leans in with a laptop. He has been tidying the file and he has **fixed something**:
+#### 1 · Mateo fixes it
+
+A records clerk — mid-twenties, pleased with himself — leans in with a laptop:
 
 > *"Oh — Detective, that Reyes file? The '18 entry was sitting under the wrong case number. It was its own record, which is why it never showed up when you pulled the case. I re-filed it under the '25 case, so it's all one thing now. Should've been like that from the start."*
 
-He is right. He is helpful. He fixed a genuine data-entry inconsistency and he is expecting to be thanked.
+He is right, he is helpful, he fixed a real data-entry error, and he expects to be thanked.
 
-**And Ortiz thanks him.**
+#### 2 · Ortiz thanks him — **then stop talking**
 
 > *"Oh — great. Thanks, Mateo."*
 
-She goes back to what she was saying.
+She turns back to what she was saying. **Give the table about twenty seconds of silence.** Somebody usually bites.
 
-#### Why this is the beat
+> **What just happened:** five minutes ago she told {{pc:1}} the seven-year gap was what caught her eye and made her call after two years. The gap existed *because* the two records were separate. **They are not separate now.** Nobody deleted anything; a clerk was helpful and a detective was grateful.
+>
+> **The flattening is Ortiz agreeing, not Mateo filing.** If you play only one half of this, play hers.
 
-**Five minutes ago she told {{pc:1}}, in her own words, that the seven-year gap was the thing that caught her eye and the reason she picked up the phone after two years.** The gap existed *because* the '18 record and the '25 case were separate entries. Mateo has just merged them. **There is no longer a seven-year gap in the file — there is one case with a long history.**
+#### 3 · Do they catch it?
 
-Nobody deleted anything. Nobody is lying. **A clerk was helpful and a detective was grateful**, and the reason she called Morgan has quietly stopped existing as a thing you could point at.
-
-> **The flattening is not Mateo. It is Ortiz agreeing.** He made a clerical choice — reasonable, correct, and his job. She lost the shape of her own conviction without noticing, in front of the man she called about it. **If you play only one half of this, play hers.**
-
-#### If a PC calls it out — and this is what you want
-
-Any of them can say it: *"You just told us that gap was why you rang him."*
-
-**She does not get defensive and she does not brush it off.** She stops. She genuinely tries to reconstruct why it mattered, and cannot quite:
+**If a PC says it** — *"you just told us that gap was why you rang him"* — she does not get defensive and does not brush it off. She stops, genuinely tries to reconstruct why it mattered, and can't:
 
 > *"...I did say that."* (beat) *"It was — the dates didn't line up. But they do line up. They were filed wrong and now they're filed right, so — "*
 >
-> She looks at the screen for a second longer than the sentence needs.
+> She looks at the screen a second longer than the sentence needs.
 >
 > *"No. That's fine."*
 
-**Then she moves on and does not come back to it.** Let the silence after that be a beat too long.
+Then she moves on and never returns to it. **Let the silence after that run a beat too long.**
 
-**Do not let them fix it.** They can ask her to un-merge the records; she has no grounds to request that and would not know how to phrase it. They can photograph the screen. They can write down what she said. **None of it changes the file** — and that powerlessness is the point, not an obstacle to route around.
-
-#### The ladder, if nobody catches it
-
-**Do not let this beat evaporate.** It is the first instance of a pattern the campaign spends twenty sessions on, and the party needs one clear example to recognise the quiet ones later.
-
-**Level 1 — play it straight** and give them about twenty seconds of silence after Ortiz thanks him. Somebody usually bites.
-
-**Level 2 — hand it to a PC directly.** Don't editorialise; just point:
+**If nobody says it after twenty seconds**, hand it to a PC. Don't editorialise; just point:
 
 > *"{{pc:1}} — she just said the opposite of what she told you five minutes ago, and she doesn't seem to have noticed."*
 
-**Level 3 — Ortiz says it herself, on the way out**, and this one cannot be missed:
+**If that also passes**, let it go here — **it fires once more in Beat 4, on her way out.** Do not force a third try in this beat.
 
-> *"Funny — I had a whole thing about those dates this morning. Whole speech. Can't think why it seemed so important."*
+**They cannot fix it.** They can ask her to un-merge the records; she has no grounds and wouldn't know how to phrase the request. **That powerlessness is the point, not an obstacle to route around.**
 
-She laughs. She isn't troubled. **She means it.**
+#### 4 · She reaches for the page — and stops
 
-#### And it costs them the page
+A beat later she realises what Mateo's tidy-up means for the document in {{pc:1}}'s hands: it now belongs to an **active** case rather than a dead file.
 
-Because the '18 document now belongs to an **active** missing-persons case rather than sitting in a dead file, Ortiz realises a beat later that she can't hand it over:
+> *"…ah. Damn. Now it's attached to the case, I can't just — "* (she stops, works it out, can't get round it)
 
-> *"…ah. Damn. Now it's attached to the case, I can't just — "* (she stops, works it out, can't get round it) *"Give me a day. I'll get you something I'm allowed to give you."*
+#### 5 · *"Take a picture. Quickly."*
 
-**She is not being obstructive.** Mateo's tidy-up has moved a document out of reach, ninety seconds after she said the thing in it was what bothered her.
+**She says it herself, in the same breath**, because she feels bad and because she is decent:
 
-***HAS TO HAPPEN — offer the photograph to {{pc:5}}.***
+> *"Take a picture of it. Quickly, before I put it in the system."*
 
-**Somebody should photograph the page before it goes**, and {{pc:5}} is the right one — the warehouse supervisor who assumes on principle that a document you are shown once is a document you will not be shown twice.
+**Then the page goes back into the folder and out of the room.**
 
-> *"{{pc:5}} — you've watched enough paperwork disappear into enough filing systems to know what happens to a page once somebody official has it in their hand."*
+- **If somebody already photographed it earlier in the scene** — reward that out loud. They were ahead of her.
+- **If nobody takes the photo even now**, let it go. They lose the page and keep the memory of it. **Don't chase it**; the two-documents comparison already happened with both objects on the desk, so nothing behind this breaks.
 
-**If nobody thinks of it**, Ortiz suggests it herself before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him a minute later, which is worse for her and better for the scene.
-
-**Never say "that's flattening."** Note privately whether they caught it and how hard.
+> **Never say "that's flattening."** Note privately whether they caught it, and how hard.
 
 > [!WARNING]
-> **How often, and what shape.** **One per session**, and the *mechanism* is always a default, a dropdown, an app, or a tired person agreeing with one. A human being may push the button — Mateo does — but **nobody in the chain intends the erasure**, and no one is ever concealing anything. The moment it reads as someone deleting things on purpose, the party has a villain, and this campaign does not have one.
+> **How often, and what shape.** **One per session**, and the *mechanism* is always a default, a dropdown, an app, or a tired person agreeing with one. A human may push the button — Mateo does — but **nobody in the chain intends the erasure and nobody is ever concealing anything.** The moment it reads as someone deleting on purpose, the party has a villain, and this campaign does not have one.
 >
-> **This first instance is deliberately the loudest.** Later ones are ambient and easy to miss; that is fine, because the party will have this one to measure them against. **Do not run another this session.**
+> **This first instance is deliberately the loudest.** Later ones are ambient and easy to miss, which is fine — the party will have this one to measure them against. **Do not run another tonight.**
 
 ### Beat 4 — Departure *(3 min)*
 
-Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut filing trail over the week.
+**She closes the loop before they leave — do not defer this to a future session.** She has already pulled the rest of the Argonaut trail; there is no more of it, and she says so:
 
-**What she actually sends, so the promise isn't a stonewall.** She said *"give me a day."* She delivers — **Wednesday, by email, one page**: the Argonaut filing index, with the 1994 entry highlighted and the rest listed by date and type. No SSNs, no requester, nothing she isn't allowed to give. **It is genuinely useful and it answers nothing.**
+> *"I pulled the whole filing history this morning, before you got here. There's nothing else in it. Two filings — '88 when they registered, '94 for the access statement — and the dissolution in '98. That's the entire file. I was hoping for more too."*
 
-**Then start the joke.** From Thursday she is almost impossible to reach until Ep 11. Every subsequent contact is a real voicemail — the outgoing-greeting audio is `assets/audio/ortiz-outgoing-greeting.mp3`, and the most likely cue is tonight, from Bea's porch.
+**That is the answer, and it is deliberately a small one.** No cliffhanger, no homework, and **nothing anybody needs to schedule table time for later.** If you want it in writing, she emails the one-page index on Wednesday and it turns up in the post-session summary — a line of texture, not a beat.
 
-*(There is a second thread about an outside law firm that made inquiries eight months ago. It waits for a later session — do not deploy it here; this scene is full.)*
+**If the third rung of the clerk beat is still unfired, it fires here.** As she walks them out, unprompted and cheerful:
+
+> *"Funny — I had a whole thing about those dates this morning. Whole speech. Can't think why it seemed so important."*
+
+She laughs. **She isn't troubled by it. She means it.** Then she is gone and the scene is over.
+
+**Then the joke starts.** From here she is almost impossible to reach until Ep 11. Every subsequent contact is a real voicemail — the outgoing-greeting recording is in the audio assets, and the likeliest first use is tonight, from Bea's porch.
+
+*(There is a second thread — an outside law firm that made inquiries about the same SSN eight months ago. It waits for a later session. Do not deploy it here; this scene is full.)*
 
 ## Scene 2 — The drive east — **TOLD, not played** *(90 seconds)*
 
