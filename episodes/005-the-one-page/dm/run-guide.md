@@ -575,9 +575,11 @@ Open to the excised cluster, pages 47–52.
 
 **Do not read it out, and do not write anything at the table.** A slip takes her three seconds and the conversation carries on without her, which is the whole reason the scene is at a coffee counter rather than in a car.
 
-*(The small grey label in the slip's corner is for you when you cut them apart. She'll see it, and it tells her nothing her own dice haven't.)*
+**The grey captions on the sheet sit outside the card borders and are meant to be cut off.** They are yours; nothing below a border should reach a player's hand.
 
-**Writing on them is fine, and often better.** Annotate a printed slip with one line if the moment has gone somewhere you didn't expect, or use one of the two blanks. **The printed ones exist so you don't have to write under pressure — not so you can't.**
+> **This matters most for the nudge slip.** Its caption used to read *"hand if she doesn't reach toward Kai"* — printed on the card, which would have handed her the answer along with the prompt. **The whole value of that slip is that she supplies Kai herself.** If she reads "Kai" in the DM's instruction, she hasn't made a connection; she's been told one. The caption now says only *"if she hasn't got there herself"*, and it is outside the cut line.
+
+**Writing on them is fine, and often better** — annotate a printed slip if the moment has gone somewhere you didn't expect, or use one of the two blanks. **The exception is the nudge:** do not write anything on it that names what she is supposed to arrive at.
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
 
 **She rolls 2d6 + WIS, and her WIS is +2** — plus skill or tag if you allow it. **10+ is likely, and that is the point.** This should feel like it works; she doesn't yet know she is casting anything, and a thing that keeps working is how she finds out.
