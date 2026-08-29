@@ -161,7 +161,7 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 **The lobby first, then everyone comes back.** Nobody walks five civilians straight past a station's front counter — so run the lobby as a block, and then **Ortiz takes the whole party through to the room she borrowed, because it is Monday and it is the only one free.**
 
 > [!IMPORTANT]
-> **Everyone is in the room from Beat 1 onward, and this is load-bearing in two directions.** {{pc:4}} must be present for *"tell me what you know"* — it is his Influence roll and the nominated vehicle for A6 — **and his phone carries the locker photographs, without which Beat 1b cannot happen at all.** Leaving three PCs in the lobby breaks both.
+> **Everyone is in the room from Beat 1 onward, and this is load-bearing in two directions.** {{pc:4}} must be present for *"tell me what you know"* — it is his Influence roll and the nominated vehicle for A6 — **and the loose locker paperwork is in the bag at his feet, without which Beat 1b cannot happen at all.** Leaving three PCs in the lobby breaks both.
 
 **Run the lobby FIRST, as a block, then Ortiz.** Do not try to interleave two locations — one DM at one table cannot, and attempting it strands whoever isn't being addressed. **Brief {{pc:1}}'s player that {{pc:1}}'s scene starts second.**
 
@@ -206,15 +206,13 @@ Open with that image. **Then the order is fixed at the front and loose after it:
 
 **Expect the other players to weigh in.** Let them — this is the session's most-parked PC holding the floor for two minutes, and that is the point.
 
-> **Whatever he chooses, Ortiz comes back to it upstairs in about ten minutes.** Two more lobby beats run before then, so **it is written out as the third item at the top of Beat 1** — you do not need to hold it in your head.
+> **Whatever he chooses, Ortiz comes back to it upstairs in about ten minutes — and it fires on every branch, so do not let it hang on the lockbox.** Two more lobby beats run before then, so **it is written out as the third item in Beat 1, before the page comes out.** You do not need to hold it in your head.
 
 > **The pistol is his focus, and he gets it back.** Truck or lockbox, it is his again within the hour, so he is without his anchor *inside one building*, not for the night. **Nothing tonight requires him to cast**, so this costs atmosphere rather than mechanics. If he doesn't raise it himself, quietly remind him the holster clip on his keychain is still a fallback anchor.
 
-> **This fires no matter which option he took — do not let it hang on the lockbox.** The desk ran his ID and the permit came up before Ortiz ever came downstairs, **so she knows either way**: the sergeant mentions it, or it is simply on the visitor log she signs off. **Every branch reaches the same conversation.**
->
 > **And steer him gently away from waiting outside.** It is written as "also fine" and it is not fine — it costs him the next fifty-five minutes. If he reaches for it, Ortiz heads it off from the stairs: *"You're coming up. Whatever it is, sort it with the sergeant — I'm not doing this twice."*
 
-**Ortiz comes back to it upstairs, and it is written out at the top of Beat 1 — where it fires.** Do not play it here.
+**Ortiz comes back to it upstairs — third item in Beat 1, where it fires.** Do not play it here.
 
 #### {{pc:2}} and the woman with the folder
 
@@ -255,7 +253,7 @@ Play it light. It costs ninety seconds, it is funny, and it quietly sets up the 
 
 ### Beat 1 — The one page *(15 min)*
 
-**Staging — the whole party is in the conference room, and it stays that way.** She collects all five from the lobby and walks them back through the bay to get there: third row from the window, a bulletin board with a coffee-stain across the corner of every fifth flyer, talking while moving, interrupted twice. **She hands {{pc:1}} the page standing up, in the conference room, before anyone has sat down.** The walk is the kinetic part; the room is where the scene lives. **Do not split the party off — everyone is in the room from here on, and that is load-bearing in both directions.**
+**Staging — the whole party is in the conference room, and it stays that way.** She collects all five from the lobby and walks them back through the bay to get there: third row from the window, a bulletin board with a coffee-stain across the corner of every fifth flyer, talking while moving, interrupted twice. **She hands {{pc:1}} the page standing up, in the conference room, before anyone has sat down.** The walk is the kinetic part; the room is where the scene lives. **Do not split the party off.**
 
 > **She does not do the folder-tap tonight, and that is on purpose.** Her sheet has her setting a manila folder on the desk before opening it — *this is real*. Monday morning with five people in her one free conference room, she is moving too fast for it. **If you want the ritual, save it for Ep 10, when she has time again.**
 
@@ -304,30 +302,21 @@ Play it light. It costs ninety seconds, it is funny, and it quietly sets up the 
 > **This fires whichever option he took** — truck, lockbox, or standing outside — because the permit was on the log before she ever came downstairs.
 >
 > **Do it now, before {{pc:1}} has the page in his hands.** Once that page is out, nobody looks away from it again.
-
 #### Fourth — the page
 
 She hands it to {{pc:1}}. **From here nobody looks away from it, so make sure the three things above have already happened.**
 
 It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's dissolved California business filings and, in the same query, cross-matched **every SSN historically named in those filings** — officers, signatories, authorized agents.
 
-> [!IMPORTANT]
-> **What the 1994 document actually is — you will get asked, and "an access statement" is not an answer.**
->
-> Argonaut existed to keep one storage unit paid **past everyone who set it up**. A pre-payment that has to survive forty years, a change of facility owner, and the death of everyone involved is not a receipt — **it is a recorded instrument**, which is why it is findable at all. The 1994 filing is that instrument, and attached to it is **the list of people permitted to open the unit.** Three names, identified by number because the facility required it for anyone on a permanent access list.
->
-> **So the three entries are:** the LLC's **agent** *(the 1991 line — the anomaly, see Beat 1b)*, the **notary** who made it stick *(Odegaard)*, and the **technician who certified the unit itself** *({{pc:1}}'s father)*.
->
-> **That is the whole architecture, and it is boring on purpose.** Somebody paid for a locker until 2035 and wrote down who was allowed to open it. **Every strange thing in this session sits on top of an entirely ordinary document.**
+**On the page — describe all four. The fourth one matters later.**
 
-> [!IMPORTANT]
-> **Argonaut rented the locker. It never owned property.** Single-member LLC, sole purpose prepay the storage unit, no other assets and no other transactions. So there is no chain of title here and nobody should say "title" at the table — what exists is a filing history with people's names in it.
-
-**On the page:**
-
-- **Argonaut's address of record** on the 1994 filing — which is not an office. It is **the storage facility's street address, unit number and all: the same locker {{pc:4}} went to.** A company whose entire purpose was renting one locker used that locker as its mailing address. Let them make the connection themselves; **it is the only "discovery" beat in the scene actually still available.**
 - **Argonaut Records Holdings, LLC**, active 1988–1998, dissolved 1998. The prepaid facility fee runs through **2035**. No successor entity.
-- Cross-matched SSNs, redacted except one: **{{pc:1}}'s father — Daniel Reyes** — against a **1994 filing naming him "technical consultant, authorized access"** — he is on the list of people allowed to open the unit, because he is the one who certified it would keep what was in it. He worked telecom-adjacent his whole life, alarm lines and access control; this is the first document anyone has ever shown {{pc:1}} that puts his father's name somewhere unexpected.
+- **Argonaut's address of record**, which is not an office. It is **the storage facility's street address, unit number and all: the same locker {{pc:4}} went to.** A company whose entire purpose was renting one locker used that locker as its mailing address. Let them make the connection themselves; **it is the only "discovery" beat in the scene actually still available.**
+- Cross-matched SSNs, **redacted except one: {{pc:1}}'s father — Daniel Reyes** — against a **1994 filing naming him "technical consultant, authorized access."** He is on the list of people allowed to open the unit, because he is the one who certified it would keep what was in it. He worked telecom-adjacent his whole life, alarm lines and access control; this is the first document anyone has ever shown {{pc:1}} that puts his father's name somewhere unexpected.
+- **A bureaucratic stamp across the corner:** *BULK RETRIEVAL · REQ ACCT 4471-SDS · TIER 2 · NO CERT.* **Say it and move on.** It means nothing yet, and it is not supposed to.
+
+> [!NOTE]
+> **Argonaut is not a reveal any more.** {{pc:4}} already asked Vivian about it at the Ep 4 table. Do not budget suspense for the party recognising the name — they will have it in three seconds. **The new thing on this page is {{pc:1}}'s father's name on a 1994 Argonaut filing**, and that is what the beat is about: the personal thread and the institutional thread turning out to be the same piece of paper.
 
 > [!NOTE]
 > **The voicemail's caveat is now spent, and {{pc:1}}'s player will notice.** The played audio said *"matching name, **partial-match** number… I'm not saying it was him."* The page names him. Give Ortiz the line rather than letting the shift pass unremarked:
@@ -336,13 +325,20 @@ It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's di
 >
 > And, if anyone catches that the voicemail said *background check*: *"That's how it came through to me — flagged as a background check. It isn't one. Somebody pulled a dead company's paperwork and took the people out of it. The system doesn't have a name for that, so it picked the nearest one."*
 
-### {{pc:3}}'s read — give her this *(2 min)*
+### {{pc:3}} reads the query *(2 min)*
 
 ***HAS TO HAPPEN — this is the moment the world responds to something the party worked out.***
 
-**Once the page is on the desk, {{pc:3}} sees what nobody else in the room can.** Give it to her directly — she is a records clerk and this is her job, not an insight she has to earn:
+**Start by checking whether the stamp has already been read out.** Somebody who is not {{pc:3}} may well have pounced on *BULK RETRIEVAL* the moment you described the page — and if they did, they are holding the front half of her beat.
 
-> *"{{pc:3}} — you file things like this for a living, and something about the shape of this query is wrong. Not the contents. The shape."*
+**One prompt fires, never both.**
+
+| | |
+|---|---|
+| **If somebody already read the stamp aloud** | Route it straight to her, and let the spotter feel useful: ***"{{pc:3}} — you file these for a living. Say what's wrong with that stamp."*** |
+| **If nobody has** | Prompt her yourself: ***"{{pc:3}} — you file things like this for a living, and something about the shape of this query is wrong. Not the contents. The shape."*** |
+
+**Give it to her directly either way.** She is a records clerk and this is her job, not an insight she has to earn.
 
 What she sees:
 
@@ -354,12 +350,36 @@ Ortiz did not know this — she is a detective, not a clerk — and it visibly l
 
 **The page in their hands does not say who ordered the query** — a retrieval copy prints the record, not the audit trail. But **Ortiz's system logs who requested it**, and she has never had a reason to go look, because until {{pc:3}} said that sentence it was a routine records pull.
 
-So she turns to her terminal **because {{pc:3}} said it**, and finds the requester. **{{pc:3}}'s read is what produces the vendor answer below.** The party worked something out and the world moved.
+**So she turns to her terminal because {{pc:3}} said it.** The party worked something out and the world moved.
 
-> [!NOTE]
-> The name **Argonaut is not a reveal any more.** {{pc:4}} already asked Vivian about it at the Ep 4 table. Do not budget suspense for the party recognising it — they will name it in three seconds. **The new thing on this page is {{pc:1}}'s father's signature on a 1994 Argonaut filing**, and that is what the beat is about: the personal thread and the institutional thread turning out to be the same piece of paper.
+#### What she finds — the vendor
 
-When it lands, Ortiz notices the recognition and does not press:
+*(They will ask inside ninety seconds. She is already reading it off her screen either way; if nobody asks, she says it anyway, because it is in front of her.)*
+
+> *"**Sutter Document Services.** Business-services vendor out of Sacramento — records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred."* (she scrolls) *"Dissolved in 2021."*
+>
+> *"So somebody paid a vendor to pull it, the vendor's gone, and the request log doesn't say who paid — it never does, that's the whole product. **The vendor end of this isn't sinister, it's just how the industry works.**"* (beat) *"It's also why I can't tell you anything else."*
+
+> **Now the stamp pays off.** ***SDS*** is Sutter Document Services, and somebody at the table can point at the corner of a page they have been holding for ten minutes. **Let them have it.** It rewards whoever was reading rather than listening, and it is a small *it was in front of us the whole time* that is **true** — the page has always said it. **It identifies the vendor's billing account and nothing else.** It does not say who hired them, and no amount of staring at it will.
+
+> **Sutter is a genuine dead end and should stay one.** It existed, it did unremarkable work for a decade, it wound up in 2021, and there is nobody left to ask. If the party chases it in a later session they find a dissolved-entity record as blank as Argonaut's. **Give them the name** — a named dead end is far more satisfying to write down than an unnamed one, and it stops them assuming you are withholding.
+
+> **Do not reveal:** who wrote the margin note; **who ultimately commissioned** the 2018 query; anything about reading (a). **Ortiz's "not sinister" covers the vendor, not the query** — the query is exactly what {{pc:3}} just said it was.
+
+> [!IMPORTANT]
+> **IF ASKED — what the 1994 document actually is.** *(Reference. They may never ask. "An access statement" is not an answer.)*
+>
+> Argonaut existed to keep one storage unit paid **past everyone who set it up**. A pre-payment that has to survive forty years, a change of facility owner, and the death of everyone involved is not a receipt — **it is a recorded instrument**, which is why it is findable at all. The 1994 filing is that instrument, and attached to it is **the list of people permitted to open the unit.**
+>
+> **The three entries are:** the LLC's **agent** *(the 1991 line — the anomaly, see Beat 1b)*, the **notary** who made it stick *(Odegaard)*, and the **technician who certified the unit itself** *({{pc:1}}'s father)*.
+>
+> **Argonaut rented the locker; it never owned property.** Single-member LLC, sole purpose prepay the storage unit, no other assets and no other transactions. **There is no chain of title here and nobody should say "title" at the table** — what exists is a filing history with people's names in it.
+>
+> **That is the whole architecture, and it is boring on purpose.** Somebody paid for a locker until 2035 and wrote down who was allowed to open it. **Every strange thing in this session sits on top of an entirely ordinary document.**
+
+### They recognise the name — *"tell me what you know"*
+
+Ortiz turns back from the terminal and has been watching them react to the word *Argonaut* the whole time. She notices the recognition and does not press:
 
 > *"…you know that name. OK. Tell me what you know."*
 
@@ -384,31 +404,7 @@ Let the party explain, or refuse to. She listens.
 | **7–9** | She goes along with him **and** starts addressing only {{pc:1}} for anything that matters. He got what he asked for and lost the room. |
 | **6−** | She stops addressing him entirely for the rest of the scene. |
 
-*(At his modifiers 6− is a ~9% tail — plan for the 7–9. This 7–9 result is also the second rung of the escalation ladder above, so it does the same work whether he rolls or not.)*
-
-### IF ASKED: "Who requested it?" *(they will, inside ninety seconds)*
-
-Have the answer ready:
-
-**It is not printed on their page** — she has to pull it up on her terminal. Once she does:
-
-> *"**Sutter Document Services.** Business-services vendor out of Sacramento — records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred."* (she scrolls) *"Dissolved in 2021."*
->
-> *"So somebody paid a vendor to pull it, the vendor's gone, and the request log doesn't say who paid — it never does, that's the whole product. That's not sinister, that's just how the industry works."* (beat) *"It's also why I can't tell you anything else."*
-
-> **The stamp was on the page the whole time.** Ortiz's copy carries a bureaucratic stamp in the corner — *BULK RETRIEVAL · REQ ACCT 4471-SDS · TIER 2 · NO CERT.* It is meaningless until she says the vendor's name, and then **SDS** is suddenly Sutter Document Services and somebody at the table can point at it.
-
-> **But the words BULK RETRIEVAL are printed on a page five people are holding, and {{pc:3}}'s HAS-TO-HAPPEN read is that this was a bulk pull that shouldn't have cross-matched SSNs.** Somebody who isn't her will read the stamp out loud in the first thirty seconds and beat her to her own beat.
->
-> **Pre-decide the routing and do it without hesitating:** whoever spots it, hand it straight to her. ***"{{pc:3}} — you file these for a living. Say what's wrong with that stamp."*** It costs nothing, it makes the spotter feel useful, and her beat lands intact.
->
-> **Let them have that.** It costs nothing, it rewards whoever was reading the page rather than listening, and it is a small "it was in front of us the whole time" that is *true* — the page has always said it. **It identifies the vendor's billing account and nothing else.** It does not say who hired them, and no amount of staring at it will.
-
-**Sutter Document Services is a genuine dead end and should stay one.** It existed, it did unremarkable work for a decade, it wound up in 2021, and there is nobody left to ask. If the party chases it in a later session they find a dissolved-entity record as blank as Argonaut's. **Give them the name** — a named dead end is far more satisfying to write down than an unnamed one, and it stops them assuming you are withholding.
-
-That is opaque **and** concrete, and it closes the obvious question without opening a lead.
-
-**Do not reveal:** who wrote the margin note; **who ultimately commissioned** the 2018 query; anything about reading (a).
+*(At his modifiers 6− is a ~9% tail — plan for the 7–9. This 7–9 result is also the second rung of the escalation ladder in the box above, so it does the same work whether he rolls or not.)*
 
 ### Beat 1b — The two documents disagree *(5 min)* — {{pc:4}}'s beat
 
@@ -424,7 +420,7 @@ That is opaque **and** concrete, and it closes the obvious question without open
 
 **Put both objects on the desk.** Two pieces of paper beats a phone screen.
 
-**Ortiz's page is a records-office retrieval copy, and it is redacted** — three entries against the filing history, two of them blacked out. Nobody blinks at a redaction; that is what these documents look like.
+**Ortiz's page is a records-office retrieval copy, and it is redacted** — three entries against the filing history, two of them blacked out.
 
 **{{pc:4}}'s is the unredacted original**, and it has **two** entries, neither blacked out.
 
@@ -442,7 +438,7 @@ That is opaque **and** concrete, and it closes the obvious question without open
 >
 > **Why he is redacted and {{pc:1}}'s father is not — and this WILL be challenged, so know it cold.** Ortiz's page is not the instrument. It is **a retrieval copy generated by the cross-match**, and a cross-match returns the matched subject in full and masks everyone else as an uninvolved third party. **{{pc:1}}'s father is unredacted because he is the hit.** The other two are masked because they are not.
 >
-> **So the redaction is privacy masking, not concealment**, and Ortiz says so without being asked twice: *"That's not somebody hiding him. That's the system not handing me strangers' details on a case that isn't about them."*
+> **Nobody blinks at a redaction — that is what these documents look like — and this one is privacy masking rather than concealment**, and Ortiz says so without being asked twice: *"That's not somebody hiding him. That's the system not handing me strangers' details on a case that isn't about them."*
 >
 > **{{pc:4}}'s copy has no redactions because it is the document itself**, out of the locker, not a copy generated about somebody.
 >
@@ -450,7 +446,9 @@ That is opaque **and** concrete, and it closes the obvious question without open
 >
 > **If they do not ask tonight, nothing breaks.** He is a notary whenever they get to him.
 
-> **If someone asks why a public document carries Social Security numbers at all:** because it is from 1994. Recorded instruments of that era routinely carried them, which is exactly why modern retrieval masks them on the way out. **Say it flatly and move on — it is true, it is dull, and it is the reason the redactions exist.**
+> **If someone asks why a public document carries Social Security numbers at all:** because it is from 1994. Recorded instruments of that era routinely carried them, and the access list identified people by number because the facility required it for anyone with permanent access. That is also why modern retrieval masks them on the way out.
+>
+> **Say it flatly and move on — it is true and it is dull.** *That the 1994 page carries the numbers is boring; that a 2018 query went and harvested them is not.* **That distinction is {{pc:3}}'s whole beat, so do not let answering this one deflate it.**
 
 **Both documents are authentic.** Neither is a forgery, neither is a copy artifact, and there is no third copy anywhere to break the tie.
 
@@ -617,7 +615,7 @@ She laughs. **She isn't troubled by it. She means it.** Then she is gone and the
 
 ### If you are ahead — play it instead *(10–15 min)*
 
-Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is a good scene, and it is pure texture — nothing in it is load-bearing.** The split gets named inside the telling above either way, and the notebook handover and {{pc:3}}'s read both happen at Caffè Strada. **So play this only with time in hand, and cut it without a second thought.**
+Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is pure texture — nothing in it is load-bearing.** The split gets named inside the telling above either way, and the notebook handover and {{pc:3}}'s read both happen at Caffè Strada. **So play this only with time in hand, and cut it without a second thought.**
 
 ## Scene 3 — Caffè Strada, Berkeley
 
@@ -647,7 +645,7 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago*
 >
 > **She drove the other visitors out ahead of the storm — and then came back.** The road closed behind her and she returned to the site that night. She found four of them at the bunkhouse with a fire going, and she covered for it without being asked: *"I'm glad you got warm. I didn't think you'd join me at the bunkhouse, so I stacked the wood before I left."* **The party has heard her say this. Do not replay it and do not explain it.**
 >
-> **{{pc:4}} was not at Bodie.** He was in Sacramento that weekend and came into the ledger later. Four PCs went into Building 7; he did not. **This matters tonight** — see Beat 3.
+> **{{pc:4}} was not there that weekend.** He was in Sacramento; four PCs went into Building 7 and he was not one of them. **But he had been up there himself weeks earlier, and it was his photograph that brought the others out.** Alaia saw that photograph. **So she thinks of him as the one who started this**, and she will put her questions to him tonight regardless of where he was standing on Thursday.
 >
 > **What she knows and what she doesn't.** She saw the fire and she saw four people who had clearly been somewhere. **The next morning she saw the padlock, picked and re-hung.** She never went inside and she has never asked. **She has told nobody and filed nothing.**
 >
@@ -681,19 +679,19 @@ If {{pc:2}} deflects to the party's business, Alaia lets her, once, then comes b
 
 #### {{pc:5}} and Alaia, at the railing *(45–60 sec)*
 
-**Two people who work outdoors, sizing each other up and liking what they find.** Easy, low-stakes, and it gives {{pc:5}} his first non-adversarial NPC of the evening.
+**Two people who are responsible for other people's safety at work, recognising each other.** Easy, low-stakes, and it gives {{pc:5}} his first NPC tonight who is neither a cop nor a suspect.
 
-She clocks him fast and does not make it weird:
+**She opens with something she actually watched him do.** She was at the bunkhouse that night; she saw the fire and she saw who was doing what:
 
-> **Alaia:** *"You stood through that whole thing at the door this morning without once saying it was ridiculous. I've watched grown men lose an entire afternoon to that argument."*
+> **Alaia:** *"You were the one moving people, that night at the bunkhouse. Everybody else was arguing about the road and you'd already started handing out blankets."*
 
-**She has read his exact type before** — she checks permits for a living and has met every version of the man who carries. **She is not impressed and she is not disapproving; she is recognising a professional.**
+**She is not flattering him and she is not making it mystical.** She has spent seven years watching how people behave when a road closes, and she is telling him he behaved well. **Let that land without comment.**
 
-> **Alaia:** *"Half the people who come up my hill are carrying and about a third of them tell me so before I ask. You're the other kind."*
+**The common ground, if he wants it:** she drives a fire road alone in a state vehicle in bad weather, with nobody behind her for forty minutes. He runs a warehouse shift at Pier 80 and is responsible for everyone on it. **Both of them are the person other people look at when something goes wrong, and neither of them has anybody above them who would arrive in time.** That is a real conversation and it will find its own way.
 
-**Where it can go:** he asks about her job, or she asks about his. Either works. If he wants a thread, the one worth handing him is **the road**: she drives a fire road in a state vehicle alone in bad weather, and there is nobody behind her for forty minutes. **He will have opinions.** Let him have them.
+> **She does not know he carries, and there is no way she could.** She was not at the station, nothing at Bodie put it in front of her, and the permit is not something a ranger can see. **Do not have her allude to it.**
 
-**Where it must NOT go:** nothing about the pistol as a focus, nothing about the substrate, nothing about Bodie. This is two competent people talking about work.
+**Where it must NOT go:** the inside of Building 7 *(that is Beat 3, and it is the thing she came down the hill for — do not spend it here)*, the substrate, or anything about the pistol.
 
 ### What you need to know before this beat *(context, not read-aloud)*
 
@@ -809,7 +807,7 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 > **She is not asking where they were. She was there that night.** She came back through the closed road, found them warm at the bunkhouse, and said nothing. **What she is missing is the inside of the building** — she never went in and she has never asked until now.
 >
-> **{{pc:4}} was in Sacramento.** He cannot answer this and Alaia knows it, because she counted heads at that fire. If he tries to answer anyway, she lets him finish and then asks one of the other four. **Don't make a thing of it; let it sit.**
+> **{{pc:4}} was in Sacramento that weekend, and Alaia does not hold it against him.** She remembers him from weeks earlier — he was up at Bodie on his own first, and it was his photograph that brought the rest of them out to look. **As far as she is concerned he started this**, so he is exactly the person she expects to answer, and she will keep asking him even though he was not in the building. **Let him talk.** *(That is the whole reason his managing-the-answer beat below can fire.)*
 
 **Here is the edge the party may not have noticed.** She did not let them into that building. **{{pc:3}} picked a padlock on a locked federal-era structure in a state park, and Alaia is the ranger responsible for it.** The next morning she found it picked and re-hung.
 
