@@ -16,7 +16,7 @@
 - [Session snapshot](#session-snapshot)
 - [Standing DM knowledge](#standing-dm-knowledge)
 - [Scene 0 — Recap](#scene-0--recap)
-- [Scene 1 — SFPD Missing Persons](#scene-1--sfpd-missing-persons)
+- [Scene 1 — SFPD Park Station](#scene-1--sfpd-park-station)
 - [Scene 2 — The drive east (TOLD)](#scene-2--the-drive-east--told-not-played-90-seconds)
 - [Scene 3 — Berkeley, a coffee counter](#scene-3--berkeley-a-coffee-counter)
 - [Scene 4 — Bea, missed](#scene-4--bea-missed)
@@ -150,7 +150,7 @@ Not optional, and not free. Ep 4 was dense, angry, and ended on a cliffhanger te
 
 ---
 
-## Scene 1 — SFPD Missing Persons
+## Scene 1 — SFPD Park Station
 
 Register: **urban police-institutional, kinetic.** Ortiz does not sit and slide a page across a desk. She walks.
 
@@ -158,7 +158,7 @@ Register: **urban police-institutional, kinetic.** Ortiz does not sit and slide 
 
 Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record only says {{pc:1}} *may* have called between sessions, and he is the party's most reticent PC on this topic. Do not build the session's anchor scene on an offscreen action. If {{pc:1}}'s player says {{pc:1}} did call, great; if not, Ortiz left a message Sunday night saying she'd found something and would be at her desk Monday.)
 
-**The lobby first, then everyone comes back.** Missing Persons is not a room five civilians walk straight into — so run the lobby as a block, and then **Ortiz takes the whole party through to the one free conference room, because it is Monday.**
+**The lobby first, then everyone comes back.** Nobody walks five civilians straight past a station's front counter — so run the lobby as a block, and then **Ortiz takes the whole party through to the room she borrowed, because it is Monday and it is the only one free.**
 
 > [!IMPORTANT]
 > **Everyone is in the room from Beat 1 onward, and this is load-bearing in two directions.** {{pc:4}} must be present for *"tell me what you know"* — it is his Influence roll and the nominated vehicle for A6 — **and his phone carries the locker photographs, without which Beat 1b cannot happen at all.** Leaving three PCs in the lobby breaks both.
@@ -167,23 +167,33 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 
 ### The lobby *(8–10 min)*
 
-**What happens:** Ortiz has asked them to come in. They arrive at the Public Safety Building on 3rd together, and they do not get to walk straight through — Missing Persons is upstairs, past a public counter and a walk-through metal detector staffed by a bored civilian screener. Ortiz comes down to collect them, but not for ten minutes, and nobody tells them how long it will be. **So they wait, in a room with plastic chairs bolted in rows, a laminated sign about firearm storage, and other people also waiting.**
+**What happens:** Ortiz has asked them to come in — **not to headquarters, but to Park Station at Waller and Stanyan**, on the eastern edge of Golden Gate Park. They do not get to walk straight through: there is a public counter, a door that opens only when somebody buzzes it, and a desk sergeant working through two people ahead of them. Ortiz comes down to collect them, but not for ten minutes, and nobody tells them how long it will be. **So they wait, on a bench worn shiny in two places, under a corkboard of Neighborhood Watch flyers and a laminated sign about firearm storage, with other people also waiting.**
+
+> **The building — worth thirty seconds, because it is reusable and the players will remember it.** Park Station was built in **1910 as the headquarters of the SFPD Mounted Unit**: Mission-style, stucco, tiled roof, refurbished in the mid-nineties and still slightly the wrong shape for the job it now does. **The rooms are too tall and the doorways are too wide, because they were built for horses.** The borrowed conference room has a radiator that knocks and a window onto the Panhandle. **The department still keeps horses in the park**, and if anyone goes looking, they can hear them.
+
+> **Why here and not headquarters — she will say it if asked, and it is completely mundane.** Missing Persons works out of the Public Safety Building in Mission Bay. But this is a two-year-old file she has kept open past what triage justifies, she is spending a Monday morning on it with five civilians, **and she would rather not book a room downtown for that.** Park Station has a spare room and a sergeant who owes her one.
+>
+> *"It's closer to you, and nobody here asks me what I'm doing."*
+>
+> **She is not hiding from anything; she is avoiding a conversation with a supervisor.** Play it as a tired professional's small economy, not as tradecraft. **Do not let a player make it sinister** — if someone reaches for that, she is genuinely baffled: *"It's a police station. I work for the police."*
 
 Open with that image. Then run the three beats below in any order the table offers them, and reconvene when Ortiz appears.
 
-#### {{pc:5}} and the metal detector
+#### {{pc:5}} and the question at the desk
 
 ***THEIR ONLY MOMENT — this is the one thing {{pc:5}} gets tonight.***
 
-**{{pc:5}} carries concealed, and there is a metal detector between him and the rest of the session.**
+**{{pc:5}} carries concealed, and he is walking into a police station.** There is no airport-style screening at a district station — no metal detector, no belt, no bored screener. **There is a desk sergeant who asks.**
 
 **Do not wait for {{pc:5}}'s player to raise it — he may not remember what his PC is carrying.** Address it directly, in fiction, as something his character noticed on the way in:
 
-> *"{{pc:5}} — you clock the walk-through detector from the door, and the laminated sign beside it about firearm storage. You've been thinking about this since the parking garage."*
+> *"{{pc:5}} — you clocked the sign about firearm storage from the doorway, and you have been thinking about it since you parked. Now the sergeant looks up at the five of you and asks the question he asks everybody. 'Anybody carrying?'"*
+
+**It is routine, it is asked pleasantly of the whole group, and he is not in trouble.** The sergeant has already gone back to his screen.
 
 **Then he chooses, out loud:**
 
-- **Leave it in the truck.** Fastest. Nobody notices anything.
+- **Leave it in the truck** — he says so, and walks back out to do it. Fastest, and nobody thinks anything of it.
 - **Declare it at the desk.** He is treated politely and efficiently, it goes in a lockbox, **and there is now a log entry with his name and permit number on it.** He gets it back on the way out. *Do not emphasise this at the table.* **It is a real record with his name and permit number on it, and it does not go away.** Logged as a live seed; nothing downstream is written to collect it yet.
 - **Stay outside.** Also fine, and he misses the whole SFPD scene.
 
@@ -191,9 +201,9 @@ Open with that image. Then run the three beats below in any order the table offe
 
 > **The pistol is his focus, and he gets it back.** Truck or lockbox, it is his again within the hour, so he is without his anchor *inside one building*, not for the night. **Nothing tonight requires him to cast**, so this costs atmosphere rather than mechanics. If he doesn't raise it himself, quietly remind him the holster clip on his keychain is still a fallback anchor.
 
-> **This fires no matter which option he took — do not let it hang on the lockbox.** If he declared it at the desk, she saw the slip. If he left it in the truck, the visitor form has a box he ticked. If he did neither, she is a detective and she simply asks. **Every branch reaches the same conversation.**
+> **This fires no matter which option he took — do not let it hang on the lockbox.** If he declared it at the desk, she saw the slip. If he left it in the truck, he said so at the desk in front of her. If he did neither, she is a detective and she simply asks. **Every branch reaches the same conversation.**
 >
-> **And steer him gently away from waiting outside.** It is written as "also fine" and it is not fine — it costs him the next fifty-five minutes. If he reaches for it, Ortiz heads it off from the stairs: *"You're coming up. Whatever it is, we'll sort it at the desk — I'm not doing this twice."*
+> **And steer him gently away from waiting outside.** It is written as "also fine" and it is not fine — it costs him the next fifty-five minutes. If he reaches for it, Ortiz heads it off from the stairs: *"You're coming up. Whatever it is, sort it with the sergeant — I'm not doing this twice."*
 
 **Later, once they're upstairs, Ortiz seeks him out about it.** Three lines, unprompted, while the others are reading the page: she saw the lockbox slip, she asks what he carries and why, and she does not moralise about the answer. She has met a lot of people who started carrying after something happened to them. **This is the only NPC relationship {{pc:5}} gets tonight — do not skip it.**
 
@@ -574,7 +584,7 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago*
 
 ### Staging — never enough chairs, and that is the trick
 
-She has one table and three chairs. There are six of you. **Somebody is always standing, and somebody always drifts off to the counter or the railing.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a metal detector.
+She has one table and three chairs. There are six of you. **Somebody is always standing, and somebody always drifts off to the counter or the railing.** Work the rotation deliberately: this converts one unmanageable six-person conversation into **three short two-person conversations**, which is where {{pc:3}} gets her private notebook delivery, {{pc:2}} gets a peer conversation that isn't about anyone's symptoms, and {{pc:5}} gets something that isn't a desk sergeant.
 
 Name who sits. Move people. When a conversation stalls, somebody gets up for a refill or goes to feed the meter, and the pairing changes.
 
@@ -656,7 +666,7 @@ Open to the excised cluster, pages 47–52.
 
 > **This matters most for the nudge slip.** Nothing on it may name what she is meant to arrive at. **The whole value of that slip is that she supplies Kai herself** — if she reads his name in your instruction, she hasn't made a connection, she's been told one. **Check before you hand it over that the caption came off with the scissors.**
 
-**Writing on them is fine, and often better** — annotate a printed slip if the moment has gone somewhere you didn't expect, or use one of the two blanks. **The exception is the nudge:** do not write anything on it that names what she is supposed to arrive at.
+**Writing on them is fine, and often better** — annotate a printed slip if the moment has gone somewhere you didn't expect, or write one out on the back of another. **The exception is the nudge:** do not write anything on it that names what she is supposed to arrive at.
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
 
 **She rolls 2d6 + WIS, and her WIS is +2** — plus skill or tag if you allow it. **10+ is likely, and that is the point.** This should feel like it works; she doesn't yet know she is casting anything, and a thing that keeps working is how she finds out.
@@ -1072,7 +1082,7 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 | **{{pc:1}}** | **DRIVER** | Ortiz; the page; the seam he caught, confirmed correct; Alaia's text was to him |
 | **{{pc:3}}** | **DRIVER** | Reads what is wrong with the shape of Ortiz's query (her domain — she is a county records clerk); names the filing reclassification and is dismissed; the notebook read; the share-or-hold decision |
 | **{{pc:4}}** | **Substantial** | *"Tell me what you know"* in front of a cop; the desk sergeant; the notebook handover at Strada |
-| **{{pc:5}}** | **Real, small** | The carry decision at the metal detector, out loud, with everyone weighing in · Ortiz seeks him out about the permit upstairs · **the railing conversation with Alaia** (written out in Scene 3 staging) · the page photo is *available* to him, not assigned |
+| **{{pc:5}}** | **Real, small** | The carry decision at the desk, out loud, with everyone weighing in · Ortiz seeks him out about the permit upstairs · **the railing conversation with Alaia** (written out in Scene 3 staging) · the page photo is *available* to him, not assigned |
 | **{{pc:2}}** | **Support, with two real actions** | The woman with the folder *asks her for something*; **the counter conversation with Alaia** (written out in Scene 3 staging); Elena's message. **See the note on her Ep 6 realization, below.** |
 
 > [!WARNING]

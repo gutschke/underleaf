@@ -90,7 +90,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **LOAD:** MEDIUM. Revised 2026-08-27 after a five-expert review pass.
 - **PRIMARY SHAPE: bureaucratic puzzle + interpersonal conflict.** Deliberately *not* archival — no elder hands anyone a document in a quiet room.
 - **Arc-nodes:** (1) the institutional frame crystallizes — Ortiz's page gives Morgan's personal thread a *corporate* footprint, and the personal and institutional threads turn out to be the same piece of paper; (2) **A1 planted** — Nia Chen's name reaches the party via an index card in Bea's storm door.
-- **Setting/register:** SFPD Bay Station (kinetic, walked, interrupted) → two cars crossing the bridge → a Berkeley coffee counter → a dark porch in the Outer Sunset. Four registers, none of them a records room.
+- **Setting/register:** **SFPD Park Station** at Waller and Stanyan (kinetic, walked, interrupted — a 1910 mounted-unit building with doorways built for horses) → the bridge, told not played → a Berkeley coffee counter → a dark porch in the Outer Sunset. Four registers, none of them a records room.
 - **Fires:** U2 (Ortiz in person) · S3 institutional breadcrumb · **S1 flattening #1** · U7 partial (notebook, capped at geometry) · **§35 paid — Alaia in person** · B2 partial · U3 closed (QR channel) · **A1 planted** · T4/U6.
 - **NPCs:** Ortiz (in person, and then almost unreachable until Ep 11); Alaia Vega (first non-elder network contact); Bea (absent in body, present in effect); Elena (text).
 - **Deliberate deferrals, logged:** Priya's Phase-2 → Ep 6 (better room); Mars's A7 private beat → Ep 7; T13 photograph → Ep 10, in person.

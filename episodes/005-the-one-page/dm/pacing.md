@@ -8,8 +8,8 @@
 
 | T+ | | T+ | |
 |---|---|---|---|
-| **0:15** | into SFPD | **2:20** | **out of Strada** |
-| **1:22** | **out of SFPD** | 2:24 | on Bea's porch |
+| **0:15** | into Park Stn | **2:20** | **out of Strada** |
+| **1:22** | **out of Park Stn** | 2:24 | on Bea's porch |
 | 1:25 | into Strada | **2:50** | done |
 
 *Gates include friction; the rows below don't.* **T+2:05 at Strada → pull Alaia's phone** — a hard scene-ender needing no setup. **Blow a gate → cut from the list below.**
@@ -19,7 +19,7 @@
 | Scene | Run | Cut to | Don't break mid- |
 |---|---:|---:|---|
 | 0 · Recap | 12 | **3** | — |
-| 1 · SFPD lobby | 9 | 4 | Mars's carry decision |
+| 1 · Park Station lobby | 9 | 4 | Mars's carry decision |
 | 1 · The page + *"who requested it?"* | 15 | 10 | the father's name landing |
 | 1 · **The two documents disagree** | 5 | 3 | — |
 | 1 · The seam + her two questions | 14 | 10 | **the seam** |
