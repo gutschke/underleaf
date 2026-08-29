@@ -395,15 +395,6 @@ Have the answer ready:
 >
 > **Let them have that.** It costs nothing, it rewards whoever was reading the page rather than listening, and it is a small "it was in front of us the whole time" that is *true* — the page has always said it. **It identifies the vendor's billing account and nothing else.** It does not say who hired them, and no amount of staring at it will.
 
-> [!IMPORTANT]
-> **H. ODEGAARD — decide this before Sunday, because they will ask inside a minute.** His name is printed on {{pc:4}}'s unredacted copy and blacked out on Ortiz's, and the next sentence at the table is *"Detective, can you look him up?"* **She is at her terminal and she has already looked up Sutter for them. She will say yes.**
->
-> **The answer is real, findable, and boring — the same shape as Sutter.** Halvard Odegaard, notary public, Alameda County, commissioned 1986, lapsed 1996. He notarised the 1994 access statement and several thousand other documents. **He died in 2009.** No family that answers, no papers, no connection to anything.
->
-> **Why he is redacted and Reyes is not:** he isn't, particularly. The redactions on Ortiz's copy are the vendor's automated pass over anything that pattern-matched a private individual with a lapsed professional licence. **It is a machine's judgement, not a person's**, and Ortiz will say so if pushed — *"That's not somebody hiding him. That's a script."*
->
-> **This closes cleanly and it should.** An unanswered name printed on a prop is exactly what this table will build a session around. **Give them the notary, let them feel clever for chasing it, and let it end.** The third redaction — the 1991 *agent* line — is the one that stays open, and it is stronger for having a solved name next to it.
-
 **Sutter Document Services is a genuine dead end and should stay one.** It existed, it did unremarkable work for a decade, it wound up in 2021, and there is nobody left to ask. If the party chases it in a later session they find a dissolved-entity record as blank as Argonaut's. **Give them the name** — a named dead end is far more satisfying to write down than an unnamed one, and it stops them assuming you are withholding.
 
 That is opaque **and** concrete, and it closes the obvious question without opening a lead.
@@ -420,6 +411,8 @@ That is opaque **and** concrete, and it closes the obvious question without open
 > 1. Ortiz asks him for it directly, by name.
 > 2. **His phone.** He photographed the locker contents in Ep 4 — that is on the record. A phone screen is a worse prop and the identical beat. **Use this one; it always works.**
 > 3. Last resort: he describes what he remembers and Ortiz writes the discrepancy down as his statement rather than as a document. Slower, still lands.
+>
+> **On every rung, {{pc:4}} names Odegaard** — from the page, the photo, or memory. **That name is the beat's payoff and it must survive the fallback.** On rung 3 he simply remembers it: a Norwegian surname on a document he has read more times than he has admitted.
 
 **Do not wait for somebody to think of comparing them.** Two prompts, in order:
 
@@ -439,6 +432,17 @@ That is opaque **and** concrete, and it closes the obvious question without open
 |---|---|
 | **The win** | The original **names the first redaction**. The blacked-out 1994 entry is **H. ODEGAARD**, no title given. They have beaten a redaction using a document they went and got themselves — **let this feel good**, and let {{pc:4}} be the one holding the page that does it. |
 | **The problem** | The second redaction is dated **1991**, listed as *agent*. **The original has no third entry at all** — no gap, no blank line, no space where one was removed. The official record contains a person the source document never listed. |
+
+> [!IMPORTANT]
+> **THIS IS WHERE ODEGAARD BECOMES ASKABLE, and they will ask inside a minute.** His name exists nowhere until {{pc:4}} puts his copy on the desk — Ortiz's page has him blacked out. **The next sentence at the table is *"Detective, can you look him up?"*, and she says yes:** she is sitting at her terminal, it takes her ninety seconds, and she has no reason to refuse.
+>
+> **The answer is real, findable, and boring — the same shape as Sutter.** Halvard Odegaard, notary public, Alameda County, commissioned 1986, lapsed 1996. He notarised the 1994 access statement and several thousand other documents. **He died in 2009.** No family that answers, no papers, no connection to anything.
+>
+> **Why he is redacted and {{pc:1}}'s father is not:** he isn't, particularly. The redactions are the vendor's automated pass over anything matching a private individual with a lapsed professional licence. **A machine's judgement, not a person's** — and Ortiz says so if pushed: *"That's not somebody hiding him. That's a script."*
+>
+> **Let it close, and let them feel clever for chasing it.** An unanswered name printed on a prop is exactly what this table will build a session around. **The 1991 *agent* line is the one that stays open — and it is stronger for having a solved name sitting next to it.**
+>
+> **If they do not ask tonight, nothing breaks.** He is a notary whenever they get to him.
 
 **Both documents are authentic.** Neither is a forgery, neither is a copy artifact, and there is no third copy anywhere to break the tie.
 
@@ -511,7 +515,7 @@ Then, quieter, off the record:
 
 #### 1 · Mateo fixes it
 
-**Mateo** — the clerk who has been helping her since six, already introduced in the lobby — leans in with a laptop, pleased with himself:
+**Mateo** — the clerk she mentioned on the walk in, who has been helping her since six — leans in with a laptop, pleased with himself:
 
 > *"Oh — Detective, that Reyes file? The '18 entry was sitting under the wrong case number. It was its own record, which is why it never showed up when you pulled the case. I re-filed it under the '25 case, so it's all one thing now. Should've been like that from the start."*
 

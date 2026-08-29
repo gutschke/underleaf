@@ -64,7 +64,7 @@
 - **The card:** *NIA CHEN — (415) 555‑0163*. **Four rings**, then voicemail, no name. No callback tonight.
 - **Beat 1b differs on the NAMES only** (3 entries on Ortiz's, 2 on Dakota's). **Both agree on 2035** — Dakota photographed that figure on Bea's card, so a disagreement there would be settleable. Names aren't.
 - **Why they go to Bea's:** Mira wants to compare hands — *and* Alaia sends them, unconditionally.
-- **H. Odegaard** = a notary, commissioned '86, lapsed '96, died 2009. Real, findable, boring. **Let it close.**
+- **H. Odegaard** *(only askable from Beat 1b on)* = a notary, '86–'96, died 2009. Ortiz looks him up on the spot. **Let it close.**
 - **Absolute months, never intervals:** *"February of '18. February of '25."* Then **stop** — let them subtract.
 - *"Seven years, **near enough**"* — never *"exactly."*
 - Alaia: *"I've met two of them. I didn't like either of them much."* **Never "more of us."**
