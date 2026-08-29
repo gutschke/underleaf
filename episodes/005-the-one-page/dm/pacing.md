@@ -1,4 +1,5 @@
 # Ep 5 — clock card
+*Thu Bodie · Sat Sacramento · **Mon tonight**. Four days.*
 *Names below are character (player).*
 
 > **Companion to the run-guide.** **Target 2h30 · ceiling 3h.** ~141 min plus friction lands **2h50–3h00**. Plan to compress two rows.
@@ -57,6 +58,7 @@
 > **Not the rotation** — it is the only place Priya gets a peer conversation and Mars gets anything but a metal detector.
 
 ## Pre-decided · say it right
+
 
 - **The card:** *NIA CHEN — (415) 555‑0163*. **Four rings**, then voicemail, no name. No callback tonight.
 - **Beat 1b differing field: signatory count** (3 on Ortiz's, 2 on Dakota's). **Not** the 2035 date — they hold a third copy.

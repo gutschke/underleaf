@@ -86,6 +86,8 @@
 | **Feb 2025** | {{pc:1}} files SFPD Missing Persons. Ortiz assigned. |
 | **Feb 2027** | Now. A routine two-year cold-case sweep re-runs the cross-match; the 2018 hit surfaces with it. |
 
+**And the near timeline, which is much tighter than it feels:** **Thursday** — Bodie, the blizzard, Building 7. **Saturday** — Sacramento, Vivian, the notebook, Alaia's text. **Sunday** — nothing. **Monday** — tonight. **Four days, start to finish.**
+
 **9 years** = Feb 2018 → now. This is the number in the voicemail the players heard, and in the recap they were emailed. It is correct and immovable.
 **7 years** = Feb 2018 → Feb 2025. **This is the seam.**
 **2 years** = roughly what {{pc:1}} has lived since his father went quiet.
@@ -513,7 +515,7 @@ Register: **peer, urban, ordinary.** This is the session's payoff and its emotio
 
 ### Setup
 
-She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from Bodie visiting her mother, and **she picks the place: Caffè Strada, on the corner of College and Bancroft, a block off Telegraph.**
+She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago**. She has come down from Bodie to see her mother, and **she picks the place: Caffè Strada, on the corner of College and Bancroft, a block off Telegraph.**
 
 **Why she picked it, though she won't say so:** it is the most public place in Berkeley to have a private conversation. The terrace is always full — grad students with laptops, somebody's reading group, a dog tied to the railing — and nobody looks at anybody. **You cannot be overheard at Strada because everyone is already talking.**
 
@@ -636,7 +638,9 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 **What happens:** she buys her own coffee, takes a stool, and asks them to walk her through Building 7 — what happened after she left, precisely, in order, who was where. **She asks like someone taking a statement she will write up later**, because that is what she is doing.
 
-**This is a real gap, not a test.** She let them into that building, she drove other visitors out ahead of the storm, and she left before they did. She genuinely does not know what happened inside, and she has wanted to know for months.
+**This is a real gap, not a test.** She unlocked Building 7 for them on **Thursday**, drove the other visitors out ahead of the storm, and left before they did. **She genuinely does not know what happened in there after she drove off** — and it has been eating at her for four days.
+
+**Four days, not four months.** Bodie was Thursday, Sacramento was Saturday, today is Monday. She texted {{pc:1}} on Saturday and she is in Berkeley on Monday, which is fast — **she came down quickly, and the party should be able to feel that if they think about it.** Do not have her act like someone revisiting an old curiosity.
 
 **She notices if they shade it** — and if they do, she gives less in Beat 6. She does not call them on it.
 
