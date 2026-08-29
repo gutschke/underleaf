@@ -517,6 +517,8 @@ Register: **peer, urban, ordinary.** This is the session's payoff and its emotio
 
 She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago**. She has come down from Bodie to see her mother, and **she picks the place: Caffè Strada, on the corner of College and Bancroft, a block off Telegraph.**
 
+> **What the party already knows walking in:** Vivian named **Rosa Vega, Berkeley** on Saturday as the one person still alive who might know what her father was thinking — and the party **immediately caught that the ranger from Bodie is Rosa's daughter**, without needing a hint. So they arrive knowing the connection, already meaning to visit Rosa, and quite possibly wanting to talk to Alaia *because* of it. **Do not stage this as though the relationship were a reveal.**
+
 **Why she picked it, though she won't say so:** it is the most public place in Berkeley to have a private conversation. The terrace is always full — grad students with laptops, somebody's reading group, a dog tied to the railing — and nobody looks at anybody. **You cannot be overheard at Strada because everyone is already talking.**
 
 **The room:** a wide brick terrace under old plane trees, wobbly metal tables, and never enough chairs. Everyone knows the drill — you take what's free, you stand, you drift. Bancroft is a wall of traffic on one side and the campus starts on the other. **It smells like espresso and eucalyptus.**
@@ -716,15 +718,29 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 >
 > So: other people have noticed. She is not claiming to be organised with them.
 
-### Beat 6 — What she gives *(8–10 min)*
+### Beat 6 — What she gives *(6–8 min)*
 
-***HAS TO HAPPEN — this is how they find their way to next session. She volunteers it; don't wait to be asked.***
+> **They already know she is Rosa's daughter, and they already intend to go.** Vivian named Rosa on Saturday and the party caught the surname connection immediately, without any prompting. **So this is not a hook being delivered — they would go to Berkeley Hills whether or not Alaia said a word.**
+>
+> What she adds is **permission, practicalities, and one boundary** — and the boundary is the part worth the table time.
 
-**Two things, and she offers both unprompted before she goes.** How straight they were with her in Beat 3 changes the warmth, not the content:
+**She brings it up herself, before they have to ask, and she is not thrilled about it:**
 
-1. **The referral, and she brings it up herself.** *"My mother has her own work. She's up the hill. Go and knock — but call first, she hates a surprise."*
-   **Her mother is Rosa Vega** — Berkeley Hills, and the woman Vivian named on Saturday as the one person still alive who might know what her father was thinking. **The party should leave knowing the ranger from Bodie and the name Vivian gave them are mother and daughter.** If they don't connect it, Alaia says the surname. Peer-to-peer, rather than an elder's cryptic instruction. **If Beat 7 fires before you have delivered this, she says it over her shoulder on the way out** — losing it costs Ep 6 its opening.
-2. **A boundary, stated plainly rather than deflected:** she will not talk about her mother's past. *"That's hers. Ask her."*
+> *"You're going to go and see her."* (not a question) *"Vivian sent you, and you worked out the rest, so — yes. Go."*
+>
+> *"Call first. She hates a surprise, and she'll be politer to you than she wants to be if you just turn up."*
+
+**Then the thing that is actually hers:**
+
+> *"Don't lead with me."*
+
+**She does not explain that**, and she will not be drawn on it. It is practical advice and a closed door at the same time, and it tells them something true about that relationship without saying anything about it.
+
+**If they press about her mother** — and they will, because they know the connection and they are about to go and knock on her door — she gives them one flat sentence and nothing after it:
+
+> *"That's hers. Ask her."*
+
+**Warmth, not content, is what changes** based on how straight they were with her in Beat 3. She gives the same three things either way; if they shaded their account she just gives them less kindly.
 
 ### Beat 7 — She leaves early *(3 min)*
 
@@ -909,7 +925,7 @@ This session caps {{pc:3}}'s notebook read hard — and the rules hand **double 
 
 - **{{pc:1}} says he never called Ortiz.** Covered — she initiates. Do not build on an offscreen action.
 - **The party won't split for the lobby.** Ortiz comes out to the lobby and runs the scene standing in a public waiting area, which is worse for her and better for the table. Fine.
-- **They skip Berkeley.** Don't let them, gently — Alaia texts again mid-drive and names a time. If they genuinely refuse, she turns up at the Ocean Beach bonfire in Ep 7 instead, and Ep 6's Rosa hook comes from Vivian's mailed letter file instead of from Alaia.
+- **They skip Berkeley.** Don't let them, gently — Alaia texts again mid-drive and names a time. If they genuinely refuse, she turns up at the Ocean Beach bonfire in Ep 7 instead. **Ep 6 is unaffected** — they already have Rosa's name from Vivian and already intend to go.
 - **They skip Bea's.** The card is mailed and arrives Wednesday. **Nia's name reaches them this week regardless** — it is the one thing in this session that cannot slip again.
 - **A player voices the retrocausal-self theory** (*"what if Loewe drew US on that page?"*): do **not** confirm. *"Interesting. What does {{pc:3}} do with that thought?"* Log the volunteer privately — it is the best possible route into the Act II reveal, and it is worth more than anything you could say here.
 - **A player asks whether all three archivists lived in the same house.** They can be told yes, if they've worked it out — that is now canon and Bea would not deny it. What Bea will never do is explain how three consecutive people came to acquire one house. Hold the mundane mechanism (a small family landlord selling to sitting tenants; a probate routing through the same office) in reserve and deploy it **only if a player digs**.
