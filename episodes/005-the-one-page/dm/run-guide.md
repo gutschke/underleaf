@@ -444,7 +444,7 @@ Then she moves on and never returns to it. **Let the silence after that run a be
 
 > *"{{pc:1}} — she just said the opposite of what she told you five minutes ago, and she doesn't seem to have noticed."*
 
-**If that also passes**, let it go here — **it fires once more in Beat 4, on her way out.** Do not force a third try in this beat.
+**If that also passes**, let it go here — **it fires once more at Departure, on her way out — see the end of this scene.** Do not force a third try in this beat.
 
 **They cannot fix it.** They can ask her to un-merge the records; she has no grounds and wouldn't know how to phrase the request. **That powerlessness is the point, not an obstacle to route around.**
 
@@ -656,7 +656,17 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 **It has been four days.** Bodie was Thursday, Sacramento was Saturday, today is Monday. She texted {{pc:1}} on Saturday and is in Berkeley by Monday — **she came down fast.** Play her as someone chasing something recent, not revisiting an old curiosity.
 
-**She notices if they shade it** — and if they do, she gives less in Beat 6. She does not call them on it.
+#### If {{pc:4}} starts managing the answer
+
+**This is where it happens — while he is answering her, not later.** She asks a direct question about Building 7, he gives her the circuitous version, and she stops him flatly and without heat:
+
+> *"You're doing a thing. Please don't."*
+
+**Peer-to-peer. No elder's patience, no card spent, no follow-up.** She just waits for a real answer, and he can give one or not.
+
+**It is the best two minutes of {{pc:4}}'s player's night** — someone outside the party sees straight through a manner the table has spent three sessions half-managing, and says so in five words. **Do not have her repeat it or press the point.** Once is devastating; twice is nagging.
+
+**She notices if they shade it** — and if they do, she gives less in Beat 5. She does not call them on it.
 
 ### Beat 3b — Alaia opens the floor *(1 min)*
 
@@ -672,15 +682,7 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 **Everything below is what happens when they walk through it.** If they still don't ask anything, she gives them the referral on her way out anyway and the scene is shorter. **That's a fine outcome; don't force it.**
 
-### Beat 4 — Alaia names {{pc:4}}'s manner *(2 min)*
-
-She is warm right up until {{pc:4}}'s player deploys politician-speech, and then she names it, flatly, without heat:
-
-> *"You're doing a thing. Please don't."*
-
-Peer-to-peer, no elder's patience, no card spent. It is the best three minutes of {{pc:4}}'s player's night, and it quietly serves both standing questions above — someone outside the party sees through {{pc:4}}'s manner immediately, which the party has needed three sessions to half-manage.
-
-### Beat 5 — The QR codes *(2 min)*
+### Beat 4 — The QR codes *(2 min)*
 
 ***FINE TO SKIP.*** It is a small, honest tidy-up, not a reveal. **If the scene is full, drop it and lose nothing.**
 
@@ -718,7 +720,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 >
 > So: other people have noticed. She is not claiming to be organised with them.
 
-### Beat 6 — Alaia sends them to her mother *(6–8 min)*
+### Beat 5 — Alaia sends them to her mother *(6–8 min)*
 
 > **They already know she is Rosa's daughter, and they already intend to go.** Vivian named Rosa on Saturday and the party caught the surname connection immediately, without any prompting. **So this is not a hook being delivered — they would go to Berkeley Hills whether or not Alaia said a word.**
 >
@@ -768,7 +770,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 
 > **If they push and want to knock anyway:** they can. Rosa is polite, does not let them in, and says Saturday again on her own doorstep. **Alaia warned them she would be politer than she wanted to be — and now they have watched it happen**, which quietly makes Alaia more credible next session.
 
-### Beat 7 — Alaia leaves mid-sentence *(3 min)*
+### Beat 6 — Alaia leaves mid-sentence *(3 min)*
 
 **Do not let her exit gracefully.** Mid-answer — ideally mid-*sentence*, on the second half of a two-part answer she was actually going to give — her phone goes. She looks at it. Her face changes. She stands up, puts money on the counter, and says something that is warm and clearly a substitute for what she was about to say.
 
