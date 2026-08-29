@@ -273,11 +273,15 @@ Play it light. It costs ninety seconds, it is funny, and it quietly sets up the 
 >
 > **Easy to lose, because two other lobby beats ran since he made the carry decision — and it is the only NPC relationship {{pc:5}} gets tonight.** Play it while everyone is still settling into the room.
 >
-> She saw the permit on the visitor log. Unprompted, not making a thing of it:
+> **What she can actually see is the permit's issue date, and nothing else.** She reads it off, unprompted, not making a thing of it:
 >
-> > *"You've had that permit two years and it's clean. Most people who get one never use the range after the first month."* (a beat) *"What happened?"*
+> > *"That permit's six months old."* (not a question, and not an accusation — she is reading her screen) *"Nobody goes and gets one of those because nothing happened."*
 >
-> **She asks what he carries and why. She does not moralise about the answer, and she does not soften it either** — she has met a lot of people who started carrying after something happened to them, and she says so. Whatever he gives her, she takes it at face value and moves on.
+> **She does not moralise about the answer and she does not soften it either** — she has met a lot of people who started carrying after something happened to them, and she will say so. Whatever he gives her, she takes at face value and moves on.
+>
+> > **What Ortiz knows, and what she does not.** A visitor-log ID run returns the permit's existence, its validity and its issue date. **That is all.** She has no idea whether he practises, what he carries, or how often — **there is no record of any of that for her to pull**, and she should never speak as though there were. The issue date is the whole of her inference, and it is enough: six months is recent, and recent means a reason.
+> >
+> > **Does {{pc:5}} practise? It is on his sheet now, so he can answer it himself.** Four or five range trips in the first weeks, seriously, with the focus of someone doing homework — and maybe twice since. **The pistol is an anchor, not a skill**, and he is quietly aware he is not especially good with it. **Do not drift him toward competence**; his release moment later in the campaign is standing his ground *without* it.
 >
 > **This fires whichever option he took** — truck, lockbox, or standing outside — because the permit was on the log before she ever came downstairs.
 >
