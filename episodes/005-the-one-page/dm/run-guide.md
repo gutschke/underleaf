@@ -262,7 +262,11 @@ What she sees:
 
 Ortiz did not know this — she is a detective, not a clerk — and it visibly lands on her. *"…huh. Say that again?"*
 
-**And then it does something.** Ortiz goes back to the file **because {{pc:3}} said that**, and pulls the requester's name off the retrieval header, which she had not thought to look at. **{{pc:3}}'s read is what produces the vendor answer below.** **The party worked something out and the world moved.**
+**And then it does something, and this is the point of the beat.**
+
+**The page in their hands does not say who ordered the query** — a retrieval copy prints the record, not the audit trail. But **Ortiz's system logs who requested it**, and she has never had a reason to go look, because until {{pc:3}} said that sentence it was a routine records pull.
+
+So she turns to her terminal **because {{pc:3}} said it**, and finds the requester. **{{pc:3}}'s read is what produces the vendor answer below.** The party worked something out and the world moved.
 
 > [!NOTE]
 > The name **Argonaut is not a reveal any more.** {{pc:4}} already asked Vivian about it at the Ep 4 table. Do not budget suspense for the party recognising it — they will name it in three seconds. **The new thing on this page is {{pc:1}}'s father's signature on a 1994 Argonaut filing**, and that is what the beat is about: the personal thread and the institutional thread turning out to be the same piece of paper.
@@ -298,7 +302,17 @@ Let the party explain, or refuse to. She listens.
 
 Have the answer ready:
 
-> *"A business-services vendor out of Sacramento. Records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred. They dissolved in 2021."* (beat) *"So: somebody paid a vendor to pull it, and the vendor is gone, and the paperwork doesn't say who paid. That's not sinister, that's just how the industry works. It's also why I can't tell you anything else."*
+**It is not printed on their page** — she has to pull it up on her terminal. Once she does:
+
+> *"**Sutter Document Services.** Business-services vendor out of Sacramento — records retrieval, the kind of outfit that pulls filings for law firms and title companies by the hundred."* (she scrolls) *"Dissolved in 2021."*
+>
+> *"So somebody paid a vendor to pull it, the vendor's gone, and the request log doesn't say who paid — it never does, that's the whole product. That's not sinister, that's just how the industry works."* (beat) *"It's also why I can't tell you anything else."*
+
+> **The stamp was on the page the whole time.** Ortiz's copy carries a bureaucratic stamp in the corner — *BULK RETRIEVAL · REQ ACCT 4471-SDS · TIER 2 · NO CERT.* It is meaningless until she says the vendor's name, and then **SDS** is suddenly Sutter Document Services and somebody at the table can point at it.
+>
+> **Let them have that.** It costs nothing, it rewards whoever was reading the page rather than listening, and it is a small "it was in front of us the whole time" that is *true* — the page has always said it. **It identifies the vendor's billing account and nothing else.** It does not say who hired them, and no amount of staring at it will.
+
+**Sutter Document Services is a genuine dead end and should stay one.** It existed, it did unremarkable work for a decade, it wound up in 2021, and there is nobody left to ask. If the party chases it in a later session they find a dissolved-entity record as blank as Argonaut's. **Give them the name** — a named dead end is far more satisfying to write down than an unnamed one, and it stops them assuming you are withholding.
 
 That is opaque **and** concrete, and it closes the obvious question without opening a lead.
 
