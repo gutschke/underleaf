@@ -28,7 +28,7 @@
 | 2 · **The drive — TOLD, 90 sec** | 2 | 2 | — |
 | 3 · **Caffè Strada** — handover, read, Alaia | 44 | 32 | Mira's read · her early exit |
 | — · **Drive: Berkeley → Outer Sunset** | 8 | 5 | — |
-| 4 · Porch — card + the search | 12 | 7 | — |
+| 4 · Porch — the card (**break-in optional, −7**) | 12 | 5 | — |
 | 4 · The two texts (**on the porch**) | 4 | 3 | — |
 | 4 · **The call — LAST THING TONIGHT** | 4 | 3 | **never cut** |
 
@@ -46,7 +46,7 @@
 
 1. Recap go-around → 3-min DM summary
 2. **Lobby → 4 min** (Mars's carry decision only)
-3. **TELL the break-in** at Bea's rather than playing it (−5)
+3. **Drop the break-in** — it is optional and atmosphere-only (−7)
 4. Ortiz's second question (the four-month delay)
 
 ## If you are AHEAD at T+1:20

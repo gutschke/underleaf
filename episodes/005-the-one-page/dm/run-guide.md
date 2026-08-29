@@ -109,7 +109,7 @@ These are decided. **Full text where you need it, in Scene 4** — this is the s
 
 1. **The number** → four rings, voicemail, no callback tonight. A text back next morning if they leave a message.
 2. **Bea's absence** → mundane. She is fine. Play the ambiguity straight and never confirm either way.
-3. **Inside the house** → they are going in. Tidy, cold, lived-in, nothing disturbed. **No document.**
+3. **If they go in** → tidy, cold, lived-in, nothing disturbed, **no document.** The card-box is gone from the kitchen table. *(Optional — they may not, and that is fine.)*
 4. **{{pc:1}} keeps the page?** → No. The reclassification takes it back; a phone photo is fine.
 
 ### Bea, if the party asks about her
@@ -834,22 +834,41 @@ Wedged in the storm door, at eye height, where it could not be missed and could 
 | # | | |
 |---|---|---|
 | **1** | Arrival, the dark house, **the card in the door** | 3 min |
-| **2** | **The break-in** — assume it happens | 7 min |
+| **2** | **The break-in** — offer it; fine either way | 7 min |
 | **3** | **The argument:** do we call this number tonight? | 4 min |
 | **4** | **The two texts land DURING step 3** — not after | 2 min |
 | **5** | **The call.** Four rings. Voicemail. **Stop.** | 4 min |
 
 ---
 
-## Step 2 — The break-in
+## Step 2 — The break-in *(7 min, and genuinely optional)*
 
-{{pc:3}} picks a Kwikset in under a minute, {{pc:1}} knows every service door, {{pc:5}} knows every locked building on the waterfront, and {{pc:4}}'s whole focus is getting through a door he shouldn't be behind. **Assume the break-in happens.**
+***OFFER IT — and both outcomes are good. Do not push.***
+
+**The party has the means and the habits.** {{pc:3}} picks locks, {{pc:1}} knows service doors, {{pc:5}} knows locked buildings, and {{pc:4}}'s whole instinct is getting behind doors. **But it is late, it is the end of a long session, and going into an absent friend's house is a bigger step than it looks.** They may well not.
+
+**That is fine. Both endings work:**
+
+- **They go in.** They learn nothing, and they feel worse. See below.
+- **They don't.** They stand on a dark porch with a card and no way in, which is **also** the right last image and is arguably cleaner.
+
+**If you want to offer it, one line is enough** — do not repeat it:
+
+> *"The kitchen window at the side is the one she leaves cracked for the cat. You can all see it from here."*
+
+**If nobody moves on that, let it go and move to the argument.** You lose atmosphere and seven minutes; nothing behind it breaks, and the session's closing image does not depend on it.
+
+#### If they do go in
+
+{{pc:3}} picks a Kwikset in under a minute; the window is easier.
 
 Inside: **tidy, cold, lived-in.** A cup rinsed and upturned beside the sink. Mail on the table two days *older* than the card. The kettle cold. And the **wooden card-box** — the one Bea keeps her forty years of index cards in, the one that sat on this kitchen table through the whole of Ep 2 — **is not there.**
 
 Nothing is disturbed. Nothing is missing. Nobody has searched the place. **It is the house of someone who went out.**
 
-They will feel worse for having gone in, which is correct. **Do not reward the break-in with a document** — records in this house surface *retrospectively*, confirming a shape the party has already established, never *responsively* because they went looking. A document found by breaking in is the second kind, and it spends the mechanic permanently.
+**They will feel worse for having gone in, and that is the entire payoff.** They came for reassurance and got an absence with an empty table in it.
+
+**Do not reward the break-in with a document.** Records in this house surface *retrospectively*, confirming a shape the party has already established — never *responsively*, because they went looking. A document found by breaking in is the second kind, and it spends the mechanic permanently.
 
 **Her absence is mundane.** She is fine and she turns up in Ep 8. Play the ambiguity straight-faced and let their dread be their own — never confirm it either way.
 
@@ -875,11 +894,30 @@ Two phones go off within a minute of each other, while they are still standing t
 
 *(This is your one allowed mail-substitution for Vivian. See the hard floor in the post-session notes: she must appear **in person by Ep 10**. Five hooks route through a 98-year-old woman, and mail cannot carry them.)*
 
-**The group chat**, from the Ocean Beach teenagers. Not thread-maintenance — give Ren **one specific detail about a day the party was demonstrably elsewhere**: he thought he saw one of them at the beach on Saturday afternoon, waved, and they didn't wave back. Saturday afternoon the party was in Sacramento, in Vivian's front room.
+#### The group chat
 
-He is not worried about it. He mentions it the way you mention a near-miss. Nothing follows, nobody explains it, and **the DM never resolves it** — this is ambient wrongness, not a clue. Same fifteen seconds as a generic check-in, actual unease. **T4/U6 fires** after two sessions of silence.
+**Who these are:** the teenagers from Ocean Beach, met in Ep 2 around a bonfire. **Ren** is the one who talks. They have been in a second group chat with the party ever since, and it is mostly nothing — surf conditions, memes, someone's dog. **They are not investigating anything and they are not in danger.**
 
-*(This does not violate the canary-group discipline: the teenagers notice things and report them casually; they are not investigating and are not in danger.)*
+**What arrives, verbatim.** Read it out; don't dwell on it:
+
+> **Ren:** *were you guys out here saturday*
+> **Ren:** *thought i saw {{pc:5}} down past the lot and waved like an idiot for a solid minute lol*
+> **Ren:** *anyway theres a food truck now, its bad, come try it*
+
+**Saturday afternoon they were in Sacramento, in Vivian's front room.**
+
+**Let the third message land last.** Ren is not worried, is not asking a question, and has already moved on to the food truck. **That is what makes it sit badly** — nobody is treating it as strange except them.
+
+**If they reply or press him**, he is cheerful and completely unhelpful:
+
+> **Ren:** *idk man tall guy, dark jacket, looked like him*
+> **Ren:** *probably wasnt lol*
+
+**And that is the end of it.** He does not remember more, does not become concerned, and does not bring it up again unless a player does.
+
+> **What is true: you do not decide, and you never resolve this.** Hold both and let neither win — *a teenager glanced at a stranger on a crowded beach and pattern-matched a face he'd met once*, or *something else.* **A teenager being wrong about a face is the most ordinary thing in the world**; it only sits badly because of what else these five have been noticing.
+>
+> **Do not make it a double.** There is no second {{pc:5}} walking around, nobody is impersonating anyone, and if the party goes looking they find a food truck and a beach. **If they build a theory, log it privately and let them keep it.**
 
 > [!NOTE]
 > **Standing cadence, starting now.** Three threads must not go quiet. Each costs 15 seconds:
