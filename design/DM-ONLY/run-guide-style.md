@@ -96,6 +96,8 @@ Any fact appearing in two documents will desynchronise, and did: two totals, two
 
 Delete on sight: first-person notes, arguments with earlier drafts, changelogs, justification of editorial choices, and the guide grading its own scenes ("this is better anyway", "it is a good scene", "for zero minutes").
 
+**This one keeps coming back, and it comes back hardest while fixing something else.** The tell is a correction phrased as a contrast — *"four days, **not four months**"*, *"the caption **used to read**…"*, *"an earlier version said…"*. The corrected fact is worth printing; the thing it replaced is not, and the DM can do nothing with it. **State the fact and delete the contrast.** Grep before shipping for: *used to · previously · an earlier version · an earlier draft · not X but Y · this guide gave until.*
+
 **Keep the ruling, drop the derivation.** If the reasoning is genuinely load-bearing, one short line, subordinated.
 
 ### 9. Say what to DO, not only what not to do
@@ -120,7 +122,9 @@ Run this when converting Phase 1 → Phase 2. It is faster than another expert r
 - [ ] Every duplicated fact has **one owner**; the others point
 - [ ] Every player-initiated beat is **tagged and carries a line**
 - [ ] Every *"don't"* has a paired *"do this instead"*
-- [ ] No first-person, no changelog, no self-grading
+- [ ] No first-person, no changelog, no self-grading — **grep for *used to · previously · an earlier · not X, Y***
+- [ ] **After moving a beat or changing a timeline**, grep for what the old version depended on: the physical setting, the elapsed time, who was in the room. Those details stay grammatical while becoming false.
+- [ ] **Every reference to a prior session is checked against its PLAYED record**, not its run-guide. The plan and the table often differ.
 - [ ] One-pagers fit one page; totals in different documents **agree**
 - [ ] A reader who has never seen the episode could run it
 

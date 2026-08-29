@@ -533,7 +533,9 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago*
 >
 > **Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
 >
-> **Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
+> **Alaia was the ranger on duty, and she did NOT let them in.** {{pc:3}} picked the 1950s Yale padlock in thirty-six seconds. Alaia drove the other visitors out ahead of the storm and left before the party did.
+>
+> **She knows they were in there.** Not because she saw it — because she came back afterwards to a picked lock and five sets of footprints in the snow. **She has never mentioned it to anyone**, and she has not reported it.
 >
 > **The QR codes.** The park's feedback cards carry a QR to an ordinary feedback form, but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed at Bodie that the codes were personalised and said so out loud. **On the Saturday of Ep 4 he deliberately did not use his** — he typed the park's public URL by hand and submitted through the generic form, and Alaia texted him within moments anyway: *"Sometime soon, at your convenience. I owe you a coffee."*
 
@@ -581,7 +583,7 @@ Open to the excised cluster, pages 47–52.
 
 **The grey captions on the sheet sit outside the card borders and are meant to be cut off.** They are yours; nothing below a border should reach a player's hand.
 
-> **This matters most for the nudge slip.** Its caption used to read *"hand if she doesn't reach toward Kai"* — printed on the card, which would have handed her the answer along with the prompt. **The whole value of that slip is that she supplies Kai herself.** If she reads "Kai" in the DM's instruction, she hasn't made a connection; she's been told one. The caption now says only *"if she hasn't got there herself"*, and it is outside the cut line.
+> **This matters most for the nudge slip.** Nothing on it may name what she is meant to arrive at. **The whole value of that slip is that she supplies Kai herself** — if she reads his name in your instruction, she hasn't made a connection, she's been told one. **Check before you hand it over that the caption came off with the scissors.**
 
 **Writing on them is fine, and often better** — annotate a printed slip if the moment has gone somewhere you didn't expect, or use one of the two blanks. **The exception is the nudge:** do not write anything on it that names what she is supposed to arrive at.
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
@@ -640,25 +642,23 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 **If she holds it**, she now knows something four other people don't, at a table where {{pc:4}} has been doing exactly that for two sessions and everyone resents him for it. **Do not point that out.** It is a much better beat unremarked, and it is hers to notice or not.
 
-### Beat 3 — What she wants *(10 min)*
+### Beat 3 — Alaia asks about Building 7 *(10 min)*
 
-**What happens:** she buys her own coffee, takes a stool, and asks them to walk her through Building 7 — what happened after she left, precisely, in order, who was where. **She asks like someone taking a statement she will write up later**, because that is what she is doing.
+**What happens:** Alaia buys her own coffee, takes a stool, and asks them to walk her through Building 7 — what happened after she drove off, precisely, in order, who was where. **She asks like someone taking a statement**, because in a sense she is.
 
-**This is a real gap, not a test.** She unlocked Building 7 for them on **Thursday**, drove the other visitors out ahead of the storm, and left before they did. **She genuinely does not know what happened in there after she drove off** — and it has been eating at her for four days.
+**Here is the edge the party may not have noticed.** She did not let them into that building. **{{pc:3}} picked a padlock on a locked federal-era structure in a state park, and Alaia is the ranger responsible for it.** She came back to a picked lock and footprints in the snow.
 
-**Four days, not four months.** Bodie was Thursday, Sacramento was Saturday, today is Monday. She texted {{pc:1}} on Saturday and she is in Berkeley on Monday, which is fast — **she came down quickly, and the party should be able to feel that if they think about it.** Do not have her act like someone revisiting an old curiosity.
+**She has told nobody. She has not filed anything.** And instead of raising it, she has driven down the hill and bought them coffee.
+
+> **She never says any of that out loud, and she never threatens with it.** She doesn't have to — and if a player realises what she is not saying, that is the most interesting thing that happens in this scene. **Do not spell it out for them.**
+
+**It is a real gap, not a test.** She genuinely does not know what happened in there and it has been eating at her for four days.
+
+**It has been four days.** Bodie was Thursday, Sacramento was Saturday, today is Monday. She texted {{pc:1}} on Saturday and is in Berkeley by Monday — **she came down fast.** Play her as someone chasing something recent, not revisiting an old curiosity.
 
 **She notices if they shade it** — and if they do, she gives less in Beat 6. She does not call them on it.
 
-**The scene needs her to want something**, or it is five people interrogating a friendly stranger who has been told to refuse them:
-
-> **She needs to know exactly what happened in Building 7 after she left** — precisely, in order, who was where. She asks like someone taking a statement she will write down later. And **she notices if they shade it.**
-
-That single want turns a warm scene into a negotiation across an information asymmetry: they want to know what she is, she wants to know what they did, and neither side is willing to go first. 
-
-If they're straight with her, she gives more in Beat 6. If they manage her, she gives less — and says so.
-
-### Beat 3b — She opens the floor *(1 min)*
+### Beat 3b — Alaia opens the floor *(1 min)*
 
 ***OFFER IT — use it the moment they stop asking things.***
 
@@ -672,7 +672,7 @@ If they're straight with her, she gives more in Beat 6. If they manage her, she 
 
 **Everything below is what happens when they walk through it.** If they still don't ask anything, she gives them the referral on her way out anyway and the scene is shorter. **That's a fine outcome; don't force it.**
 
-### Beat 4 — The {{pc:4}} beat *(2 min)*
+### Beat 4 — Alaia names {{pc:4}}'s manner *(2 min)*
 
 She is warm right up until {{pc:4}}'s player deploys politician-speech, and then she names it, flatly, without heat:
 
@@ -718,7 +718,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 >
 > So: other people have noticed. She is not claiming to be organised with them.
 
-### Beat 6 — What she gives *(6–8 min)*
+### Beat 6 — Alaia sends them to her mother *(6–8 min)*
 
 > **They already know she is Rosa's daughter, and they already intend to go.** Vivian named Rosa on Saturday and the party caught the surname connection immediately, without any prompting. **So this is not a hook being delivered — they would go to Berkeley Hills whether or not Alaia said a word.**
 >
@@ -768,7 +768,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 
 > **If they push and want to knock anyway:** they can. Rosa is polite, does not let them in, and says Saturday again on her own doorstep. **Alaia warned them she would be politer than she wanted to be — and now they have watched it happen**, which quietly makes Alaia more credible next session.
 
-### Beat 7 — She leaves early *(3 min)*
+### Beat 7 — Alaia leaves mid-sentence *(3 min)*
 
 **Do not let her exit gracefully.** Mid-answer — ideally mid-*sentence*, on the second half of a two-part answer she was actually going to give — her phone goes. She looks at it. Her face changes. She stands up, puts money on the counter, and says something that is warm and clearly a substitute for what she was about to say.
 
