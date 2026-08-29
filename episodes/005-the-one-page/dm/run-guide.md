@@ -318,22 +318,22 @@ That is opaque **and** concrete, and it closes the obvious question without open
 
 **Put both objects on the desk.** Two pieces of paper beats a phone screen.
 
-**They match on everything except the signatories.** Ortiz's page lists **three** names against the 1994 filing; {{pc:4}}'s copy lists **two**.
+**Ortiz's page is a records-office retrieval copy, and it is redacted** — three entries against the filing history, two of them blacked out. Nobody blinks at a redaction; that is what these documents look like.
 
-**The name that appears on Ortiz's copy and not on {{pc:4}}'s is `H. ODEGAARD`** — initial and surname only, no title, no address. **Nobody has ever heard it.** Use that name; do not improvise a different one, because it is canon from tonight and Ep 6 onward can use it.
+**{{pc:4}}'s is the unredacted original**, and it has **two** entries, neither blacked out.
 
-*(What you hold and never say: you have not decided who Odegaard is either. That is correct. It is a name on one copy of one filing, and the campaign is under no obligation to explain it — but it must be the **same** unexplained name every time it comes up.)* **Both documents are authentic.** Neither is a forgery, neither is a copy artifact.
+**So two things happen when they lay them side by side, and they are very different things:**
 
-> [!WARNING]
-> **Do NOT use the prepay end-date as the differing field.** 2035 is attested three times — §27, §3, and in ballpoint on the back of Bea's 1979 index card, **which {{pc:4}} photographed at her house.** The party holds a third copy, so the beat's premise (nothing to adjudicate against) collapses the moment someone scrolls back. Signatory count has no third attestation; dissolution month also works.
+| | |
+|---|---|
+| **The win** | The original **names the first redaction**. The blacked-out 1994 entry is **H. ODEGAARD**, no title given. They have beaten a redaction using a document they went and got themselves — **let this feel good**, and let {{pc:4}} be the one holding the page that does it. |
+| **The problem** | The second redaction is dated **1991**, listed as *agent*. **The original has no third entry at all** — no gap, no blank line, no space where one was removed. The official record contains a person the source document never listed. |
 
-Ortiz will assume a transcription error, because that is what a reasonable person assumes, and she is not wrong to.
+**Both documents are authentic.** Neither is a forgery, neither is a copy artifact, and there is no third copy anywhere to break the tie.
 
-**But let her go quiet two seconds too long first.**
+**Ortiz's reading is the reasonable one** and you should let her give it: the retrieval covers the entity's whole filing history, not just the 1994 statement, so a 1991 agent line is unremarkable — there was presumably an earlier filing. *That is completely sensible.* It also means {{pc:4}} should be able to find some trace of a 1991 filing in the material he took out of the locker, and there isn't one.
 
-> *"…huh. That's not —"* (she looks at both, once more) *"No. That's fine. Transcription."*
-
-Then she moves on and does not come back to it. **This is the first time in four sessions that somebody outside the party has found something odd**, and it costs one line. Do not let her investigate it, do not let her be troubled by it past those two seconds, and do not have her mention it again.
+> **What you hold about the 1991 entry — do not resolve it, this session or any other.** You have not decided who it is either, and that is correct. Hold at least two readings and let neither win: *an ordinary earlier filing whose paperwork simply didn't survive into the locker* · *the same self-consistency pressure that put a connector in a sealed bag, leaving an attestation with nothing behind it.* **If a player asks you to check again, both pages say what they said the first time.**
 
 > [!IMPORTANT]
 > **Never explain it. Never resolve it.** There is no fact of the matter about which document is right. If they photograph both and check again later, both still say what they said.
