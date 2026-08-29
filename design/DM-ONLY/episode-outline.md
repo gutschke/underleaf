@@ -121,7 +121,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Third:** **Mars's deferred A7 private beat lands here** (logged from Ep 5) — this is his **realization**. His **moment-of-release** is separate and lands Ep 11. Do not schedule both in one session.
 - **Setting/register:** Mei's fourth birthday, outdoors, kids underfoot. The only records present are photographs on a folding table.
 - **Fires:** A9 · A8 (Yui check-in) · T1 (Reggie) · T2 · T4 (Ren + Maya, 3 min) · **B15 re-plant** — Bea's *unrequested* envelope arrives that week with the Marsh galaxies-sentient clipping.
-- **Hook out:** the party finally calls the number. Nia says yes to lunch. Phone only.
+- **Hook out:** **Nia names the date.** *(Ep 5 spends the call itself — the party dials Bea's card from the porch that night and Nia texts back the next morning: "Bea gave you this? Then I suppose we should have lunch." What Ep 5 does NOT give them is a when.)* Nia is away — a cataloguing contract out of state through most of March — and has been putting them off politely for six weeks. **This is where she finally picks a day.** Phone only. **That six-week gap is deliberate and it is the reason she does not appear until Ep 8**; if a player gets impatient in Eps 6-7, that impatience is correct and you should let it show.
 - **Risk if slips:** this is the campaign's first recovery beat and the gate-opener for every subsequent MoR. **Do not add to this session.**
 
 ### Ep 8 — Lunch in Twos
