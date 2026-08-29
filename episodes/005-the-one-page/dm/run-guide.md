@@ -573,20 +573,28 @@ Open to the excised cluster, pages 47–52.
 
 **Do not read it out, and do not write anything at the table.** A slip takes her three seconds and the conversation carries on without her, which is the whole reason the scene is at a coffee counter rather than in a car.
 
-*(The small grey label in the slip's corner — "7–9", "10+" — is for you when you cut them apart. She will see it, and it tells her nothing she doesn't already know from her own dice.)*
+*(The small grey label in the slip's corner is for you when you cut them apart. She'll see it, and it tells her nothing her own dice haven't.)*
+
+**Writing on them is fine, and often better.** Annotate a printed slip with one line if the moment has gone somewhere you didn't expect, or use one of the two blanks. **The printed ones exist so you don't have to write under pressure — not so you can't.**
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
 
-| Result | What she gets |
+**She rolls 2d6 + WIS, and her WIS is +2** — plus skill or tag if you allow it. **10+ is likely, and that is the point.** This should feel like it works; she doesn't yet know she is casting anything, and a thing that keeps working is how she finds out.
+
+#### What to hand her
+
+| She rolls | Give her |
 |---|---|
-| **Free — no roll** | Negative space. Something diagrammatic, geometric, arranged. She can't tell what. |
-| **7–9** | **The count — six — and nothing else.** Shapes, not relationships. *And she is certain there was more on that page than she can reach.* |
-| **10+** | Six shapes in an arrangement — a cluster, a lineup, or a hierarchy; she can't tell which. |
-| **12+** | Six figures in a **network** — lines between them, a structural relationship. The geometry means something and the meaning is opaque. |
+| **doesn't roll** | the **baseline** slip |
+| **6 or under** | the **baseline** slip — *pushing never leaves her with less than not pushing* |
+| **7–9** | the **7–9** slip |
+| **10–11** | the **10+** slip |
+| **12+** | the **12+** slip |
+| **two 6s** | the **12+** slip **and** the **provenance** slip |
+| **two 1s** | the **baseline** slip — **and the binding cracks.** A loose page slips out onto the table. She has damaged Vivian's father's notebook. No reveal, no cosmology; just a thing she did, in front of everyone, to something she was trusted with. |
 
-**7–9 is the most likely band on 2d6. Do not skip past it to 10+.**
+**Then, whatever she got:** if she doesn't reach toward Kai within about thirty seconds, hand her the **nudge** slip. That is independent of the roll — see the ladder below.
 
-> **Double 6s:** the extra grant is spent on **provenance, not content** — the cut was made with a fresh blade, in a warm room, unhurried, by someone who did not want it to look violent. Pre-war paper. **It reveals nothing about the six figures.**
-> **Double 1s:** the binding cracks and a page comes loose, or the navigation reroutes and they lose fifteen minutes. Never an improvised reveal.
+**Third push in the scene** triggers the rapid-cast stress check: 2d6 + WIS, WIS only. A miss marks a stress box. **A missed Insight roll still counts as a push.**
 
 > [!CAUTION]
 > **STOP AT 12+.** No face-recognition, no party-shape-match, no Kai-adjacent breadcrumb. **The deeper read — five of the six figures matching the party, the sixth a face — belongs to Act II**, and it has its own delivery plan there. **Tonight the cap holds for its own reason: they have had the notebook two days, and geometry is all it has given up.** Six figures, geometry only.
