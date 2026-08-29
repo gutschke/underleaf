@@ -171,9 +171,9 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 
 > **The building — worth thirty seconds, because it is reusable and the players will remember it.** Park Station was built in **1910 as the headquarters of the SFPD Mounted Unit**: Mission-style, stucco, tiled roof, refurbished in the mid-nineties and still slightly the wrong shape for the job it now does. **The rooms are too tall and the doorways are too wide, because they were built for horses.** The borrowed conference room has a radiator that knocks and a window onto the Panhandle. **The department still keeps horses in the park**, and if anyone goes looking, they can hear them.
 
-> **If a player asks the desk sergeant why a Missing Persons detective is working out of a district station, he does not know and does not care.** *"She booked the room. I don't ask."* **Ortiz answers this herself when she comes down — it is written at the start of Beat 1. Do not answer it for her here.**
+> **If a player asks the desk sergeant why a Missing Persons detective is working out of a district station, she does not know and does not care.** *"She booked the room. I don't ask."* **Ortiz answers this herself when she comes down — it is written at the start of Beat 1. Do not answer it for her here.**
 
-Open with that image. Then run the three beats below in any order the table offers them, and reconvene when Ortiz appears.
+Open with that image. **Then the order is fixed at the front and loose after it:** {{pc:5}}'s beat happens *at the counter, during check-in*, so it comes first and it is not optional. {{pc:2}}'s and {{pc:4}}'s both happen *afterwards, on the bench*, in whichever order the table offers them. **Reconvene when Ortiz appears.**
 
 #### {{pc:5}} and the question at the desk
 
@@ -184,11 +184,11 @@ Open with that image. Then run the three beats below in any order the table offe
 > [!IMPORTANT]
 > **This is written so that walking it in is not on the table — and so that closing off that option costs nothing and takes ten seconds.** A PC who quietly keeps a concealed weapon through a police interview is a continuity problem with no story attached to it, and there is no plot here to spend on one. **So the question never becomes "did anyone notice."**
 
-**The sergeant signs all five of them in and asks for ID.** Routine, bored, one at a time, driver's licences face-down on the counter in a stack. He runs them because that is what signing visitors in *is*.
+**The sergeant signs all five of them in and asks for ID.** Routine, bored, one at a time, driver's licences face-down on the counter in a stack. She runs them because that is what signing visitors in *is*. *(Same sergeant all scene — she is the one {{pc:4}} may try to work, below.)*
 
 > **Nothing else comes up on anybody.** Four clean licences and one permit. **Do not use this to surface anything about the other four** — it is a door-opening device, not a search.
 
-**And {{pc:5}}'s comes back flagged — because a CCW permit is attached to it.** The sergeant does not react to this at all. He reads it off his screen the way he would read off an address:
+**And {{pc:5}}'s comes back flagged — because a CCW permit is attached to it.** The sergeant does not react to this at all. She reads it off her screen the way she would read off an address:
 
 > *"Faraone — you've got a carry permit on file. You carrying today?"*
 
@@ -239,15 +239,17 @@ Open with that image. Then run the three beats below in any order the table offe
 
 ***FINE TO SKIP — offer it only if you want the texture.***
 
-**If {{pc:4}} works the front desk**, he is after a faster route upstairs, a look at the visitor log, or simply the sergeant's good opinion.
+**They are already signed in by now** — this happens on the bench, in the dead time before Ortiz appears. **If {{pc:4}} goes back to the counter**, he is after a faster route upstairs, or the sergeant's good opinion, or just something to do with his hands.
 
-**{{pc:4}}'s player may not notice the opening**, and that is fine — nothing later depends on this. **If you want it, put the sergeant in his path:**
+**{{pc:4}}'s player may not notice the opening**, and that is fine — nothing later depends on this. **If you want it, give him the dead air rather than a target:**
 
-> *"There's a desk sergeant working the counter, and the queue isn't moving. She looks like she has all day."*
+> *"You've been on that bench about six minutes. Nobody has come down for you, nobody has said how long, and the sergeant hasn't looked up from her screen since she handed your licences back."*
 
 That is an offer, not a cue. If he doesn't take it, move on and lose nothing.
 
-**What he gets:** the sergeant is unhurried, unbothered, and entirely immune to him. Not hostile — she has been doing this for eleven years and she has met better. He does not get upstairs any faster. **If he pushes a third time, she starts calling him "sir."**
+**What he gets:** the sergeant is unhurried, unbothered, and entirely immune to him. Not hostile — she has been doing this eleven years and she has met better. **She will not call upstairs for him, and she does not turn her screen around.** He does not get up there any faster. **If he pushes a third time, she starts calling him "sir."**
+
+> **If he asks to see the visitor log** — she says no, pleasantly, and that is the end of it. **Do not let him read it.** His own party signed that page ten minutes ago and {{pc:5}}'s permit is on it; handing {{pc:4}} another player's business is not a beat, it is a leak.
 
 Play it light. It costs ninety seconds, it is funny, and it quietly sets up the room where his manner *will* cost him something in Beat 1.
 
