@@ -515,7 +515,7 @@ Register: **peer, urban, ordinary.** This is the session's payoff and its emotio
 
 ### Setup
 
-She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago**. She has come down from Bodie to see her mother, and **she picks the place: Caffè Strada, on the corner of College and Bancroft, a block off Telegraph.**
+She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago**. **She has come down from Bodie to see her mother** — she says so, unprompted, and the party will do the arithmetic. She picks the place: **Caffè Strada, on the corner of College and Bancroft, a block off Telegraph.**
 
 > **What the party already knows walking in:** Vivian named **Rosa Vega, Berkeley** on Saturday as the one person still alive who might know what her father was thinking — and the party **immediately caught that the ranger from Bodie is Rosa's daughter**, without needing a hint. So they arrive knowing the connection, already meaning to visit Rosa, and quite possibly wanting to talk to Alaia *because* of it. **Do not stage this as though the relationship were a reveal.**
 
@@ -741,6 +741,32 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 > *"That's hers. Ask her."*
 
 **Warmth, not content, is what changes** based on how straight they were with her in Beat 3. She gives the same three things either way; if they shaded their account she just gives them less kindly.
+
+#### They will try to do both trips at once — have the answer ready
+
+**Berkeley is far enough to be a decision and close enough to combine errands.** The moment Alaia says *"go and see her,"* somebody will say **"we're already here — let's drive up the hill now."** That is the obvious, sensible move and you should expect it.
+
+**And they have a better lever than that, which they will find:** Alaia is in Berkeley *to see her mother.* She said so. So the obvious ask isn't *"can we go up the hill"* — it is **"you're going anyway. Take us."**
+
+**She says no, and this is where *don't lead with me* stops being a phrase and becomes something she does.** Not cold, not defensive — flat:
+
+> *"I'm having dinner with my mother tonight."* (beat) *"I'm not turning up with five people I met an hour ago. She'd be lovely about it, and I'd hear about it for a year."*
+
+**Let that sit.** She is going to the house they want to visit, this afternoon, and she is not taking them — thirty seconds after telling them not to lead with her. **The party now knows something real about that relationship and still has nothing they can name.**
+
+**Then two mundane facts close the door, and neither is a railroad:**
+
+**1. Rosa isn't free today.** Alaia told them to call first, so let them call — from the terrace, with Alaia sitting right there, which is its own small awkwardness. Rosa answers, is perfectly pleasant, and is **busy**. She is seventy-nine, she has a life, and she has just been telephoned by strangers.
+
+> *"Saturday. Come Saturday, in the morning, and I'll have time to actually talk to you. Do you drink coffee? Everyone drinks coffee."*
+
+*(She does not mention that her daughter is coming for dinner. Neither does Alaia.)*
+
+**2. Bancroft can't help them today either.** It is a research library, not a reading room — **you request material in advance and it gets paged for you.** Anything they want is a day or more out, and nobody is handing a 1979 accession to five people who walked in off the street on a Monday afternoon.
+
+**So they get Saturday, and that is Ep 6.** If a player grumbles about a second trip across the bridge, **agree with them** — *"yeah, it's a pain"* — and let it be a pain. **Do not invent a reason they can't go; let the reason be that a 79-year-old has plans and a library has procedures.**
+
+> **If they push and want to knock anyway:** they can. Rosa is polite, does not let them in, and says Saturday again on her own doorstep. **Alaia warned them she would be politer than she wanted to be — and now they have watched it happen**, which quietly makes Alaia more credible next session.
 
 ### Beat 7 — She leaves early *(3 min)*
 
