@@ -569,7 +569,11 @@ Name who sits. Move people. When a conversation stalls, somebody gets up for a r
 
 Open to the excised cluster, pages 47–52.
 
-**Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** A folded note, or a text to her phone — either works at a coffee bar, and neither needs the room to go quiet.
+**Deliver {{pc:3}}'s read PRIVATELY, and it is pre-printed** — the handout pack has one slip per outcome. **Hand her the one that matches and say nothing.**
+
+**Do not read it out, and do not write anything at the table.** A slip takes her three seconds and the conversation carries on without her, which is the whole reason the scene is at a coffee counter rather than in a car.
+
+*(The small grey label in the slip's corner — "7–9", "10+" — is for you when you cut them apart. She will see it, and it tells her nothing she doesn't already know from her own dice.)*
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
 
 | Result | What she gets |
@@ -599,7 +603,7 @@ Open to the excised cluster, pages 47–52.
 
 **Level 1 — the adjacency, unremarked.** Deliver the read as written. The words *excised*, *removed*, *what was there*, *negative space* are already doing the work. Say them plainly and **do not weight them.** If {{pc:3}}'s player makes the connection here, say nothing that confirms it — *"Interesting. What does {{pc:3}} do with that?"* — and log it privately. This is the version you want.
 
-**Level 2 — wait thirty seconds, then let the body do it.** If nothing lands, don't repeat yourself in narration. Give her a physical tell instead:
+**Level 2 — wait thirty seconds, then let the body do it.** If nothing lands, don't repeat yourself in narration. **Hand her the second slip** — the one marked *only if the nudge is needed*:
 
 > *"You've done this three times now — the ramp at Vivian's, the map at Bodie, this. It's the same feeling every time. And there's a fourth time you're not thinking about, because you think about it constantly."*
 
