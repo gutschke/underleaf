@@ -1,7 +1,7 @@
 # Ep 5 — clock card
 *Names below are character (player).*
 
-> **Companion to the run-guide.** **Target 2h30 · ceiling 3h.** ~138 min plus friction lands **2h50–3h00**. Plan to compress two rows.
+> **Companion to the run-guide.** **Target 2h30 · ceiling 3h.** ~141 min plus friction lands **2h50–3h00**. Plan to compress two rows.
 
 ## Gates
 
@@ -22,7 +22,7 @@
 | 1 · The page + Mira's read | 15 | 10 | Mira's read |
 | 1 · **The two documents disagree** | 5 | 3 | — |
 | 1 · The seam + her two questions | 14 | 10 | **the seam** |
-| 1 · Flattening + the page goes back | 6 | 4 | — |
+| 1 · **The clerk fixes it** + the page goes back | 9 | 6 | **her contradiction** |
 | 1 · Departure | 3 | 2 | — |
 | 2 · **The drive — TOLD, 90 sec** | 2 | 2 | — |
 | 3 · **Caffè Strada** — handover, read, Alaia | 44 | 32 | Mira's read · her early exit |

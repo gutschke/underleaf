@@ -384,47 +384,90 @@ Then, quieter, off the record:
 
 **Delivery:** *"seven years, near enough."* Never *"exactly seven years to the day."* A tired detective is precise; a tired detective **emphasising** precision is the author talking.
 
-### Beat 3 — The first flattening beat *(90 sec)*
+### Beat 3 — The clerk fixes it *(4–5 min)*
 
-**What happens:** a dispatcher walks past Ortiz's desk and, without looking at the paperwork, tells her the 2018 record should be logged under the 2025 file — because the case-management software already grouped them that way. Ortiz half-agrees and moves on. **Nobody chose this and nobody is troubled by it, and the seven-year gap she just said bothers her has now been filed out of existence.**
+***HAS TO HAPPEN. Do not let this one pass unnoticed.***
 
-> [!CAUTION]
-> **Do not run this within ten minutes of Beat 1b.** Two *the-record-is-wrong* beats back to back, at a table that has spent three sessions consolidating on {{pc:4}}-as-culprit, reads as **tampering** — which is exactly what the flattening beats are supposed to avoid. Put daylight between them, and if the scene is tight, **move this to Berkeley** (a barista over-agrees with a specific-and-wrong order) or drop it to Ep 6.
+**Run it immediately after the seam, while her own words are still in the air.** That adjacency is the entire beat.
 
-Deploy well after Beat 1b. **Put it on a PC, not past the table** — **{{pc:3}}** is in the room (she came back with {{pc:1}}) and she is a county records clerk, so she is exactly the person who would hear a filing-classification decision and object to it out loud. Let her, and let her be agreeably dismissed.
+> **On ordering:** the two-documents beat and this one are both *the record is wrong* moments, and back-to-back they read as tampering rather than as drift. **The seam sits between them, which is exactly the separation they need** — so run Beat 1b, then the seam, then this, in that order, and do not swap them.
 
-> A dispatcher passing Ortiz's desk, not looking at the paperwork: *"Hey — log that as a cold-lead follow-up on the '25 file, not the '18 file. The app grouped them under '25 automatically. It's what I would've done too."*
+#### What happens
+
+A records clerk — **Mateo**, mid-twenties, pleased with himself — leans in with a laptop. He has been tidying the file and he has **fixed something**:
+
+> *"Oh — Detective, that Reyes file? The '18 entry was sitting under the wrong case number. It was its own record, which is why it never showed up when you pulled the case. I re-filed it under the '25 case, so it's all one thing now. Should've been like that from the start."*
+
+He is right. He is helpful. He fixed a genuine data-entry inconsistency and he is expecting to be thanked.
+
+**And Ortiz thanks him.**
+
+> *"Oh — great. Thanks, Mateo."*
+
+She goes back to what she was saying.
+
+#### Why this is the beat
+
+**Five minutes ago she told {{pc:1}}, in her own words, that the seven-year gap was the thing that caught her eye and the reason she picked up the phone after two years.** The gap existed *because* the '18 record and the '25 case were separate entries. Mateo has just merged them. **There is no longer a seven-year gap in the file — there is one case with a long history.**
+
+Nobody deleted anything. Nobody is lying. **A clerk was helpful and a detective was grateful**, and the reason she called Morgan has quietly stopped existing as a thing you could point at.
+
+> **The flattening is not Mateo. It is Ortiz agreeing.** He made a clerical choice — reasonable, correct, and his job. She lost the shape of her own conviction without noticing, in front of the man she called about it. **If you play only one half of this, play hers.**
+
+#### If a PC calls it out — and this is what you want
+
+Any of them can say it: *"You just told us that gap was why you rang him."*
+
+**She does not get defensive and she does not brush it off.** She stops. She genuinely tries to reconstruct why it mattered, and cannot quite:
+
+> *"...I did say that."* (beat) *"It was — the dates didn't line up. But they do line up. They were filed wrong and now they're filed right, so — "*
 >
-> Ortiz, mild frown: *"…yeah. OK."*
+> She looks at the screen for a second longer than the sentence needs.
+>
+> *"No. That's fine."*
 
-The '18 file was the query; the '25 file was the disappearance. Grouping them under '25 **loses the seven-year gap in the record** — the exact thing Ortiz just said bothers her, erased from the file ninety seconds later by a default nobody chose.
+**Then she moves on and does not come back to it.** Let the silence after that be a beat too long.
 
-If a PC objects, the dispatcher is friendly and unmoved and the software has already done it. Ortiz half-nods and moves on.
+**Do not let them fix it.** They can ask her to un-merge the records; she has no grounds to request that and would not know how to phrase it. They can photograph the screen. They can write down what she said. **None of it changes the file** — and that powerlessness is the point, not an obstacle to route around.
 
-**Then it costs them something — this is the beat's real work.** Because the '18 document is now attached to the '25 file, and the '25 file is an active missing-persons case, **{{pc:1}} cannot keep the page.** Ortiz realises it a beat after the dispatcher walks off, is genuinely apologetic, and takes it back:
+#### The ladder, if nobody catches it
 
-> *"…ah. Damn. Now it's attached to the case file, I can't just — "* (she stops, works out that she can't) *"Give me a day. I'll get you something I'm allowed to give you."*
+**Do not let this beat evaporate.** It is the first instance of a pattern the campaign spends twenty sessions on, and the party needs one clear example to recognise the quiet ones later.
 
-She photographs nothing and offers nothing. **She is not being obstructive; a default nobody chose has just moved a document out of reach**, ninety seconds after she said out loud that the seven-year gap was the part that bothered her.
+**Level 1 — play it straight** and give them about twenty seconds of silence after Ortiz thanks him. Somebody usually bites.
 
-***HAS TO HAPPEN — offer it to {{pc:5}}.***
+**Level 2 — hand it to a PC directly.** Don't editorialise; just point:
+
+> *"{{pc:1}} — she just said the opposite of what she told you five minutes ago, and she doesn't seem to have noticed."*
+
+**Level 3 — Ortiz says it herself, on the way out**, and this one cannot be missed:
+
+> *"Funny — I had a whole thing about those dates this morning. Whole speech. Can't think why it seemed so important."*
+
+She laughs. She isn't troubled. **She means it.**
+
+#### And it costs them the page
+
+Because the '18 document now belongs to an **active** missing-persons case rather than sitting in a dead file, Ortiz realises a beat later that she can't hand it over:
+
+> *"…ah. Damn. Now it's attached to the case, I can't just — "* (she stops, works it out, can't get round it) *"Give me a day. I'll get you something I'm allowed to give you."*
+
+**She is not being obstructive.** Mateo's tidy-up has moved a document out of reach, ninety seconds after she said the thing in it was what bothered her.
+
+***HAS TO HAPPEN — offer the photograph to {{pc:5}}.***
 
 **Somebody should photograph the page before it goes**, and {{pc:5}} is the right one — the warehouse supervisor who assumes on principle that a document you are shown once is a document you will not be shown twice.
 
-**Do not hope he thinks of it:**
-
 > *"{{pc:5}} — you've watched enough paperwork disappear into enough filing systems to know what happens to a page once somebody official has it in their hand."*
 
-**Beat 1b depends on this.** Without a photograph, the comparison is {{pc:4}}'s paperwork against a page that has already left the building — and any skeptic at the table gets the easy out that somebody misremembered.
+**If nobody thinks of it**, Ortiz suggests it herself before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him a minute later, which is worse for her and better for the scene.
 
-**If nobody thinks of it and you don't want to hand it to {{pc:5}}:** Ortiz suggests it herself, casually, before the reclassification bites — *"you want a picture of that? Go ahead, it's your father's file."* Then she loses the right to give it to him ninety seconds later.
-
-**This is what makes the flattening pattern land at a table not yet primed to notice flattening.** Ambient too-agreeable NPCs are atmosphere; a document going out of reach is a consequence.
-
-**Never say "that's flattening."** Note the party's reaction, or lack of one, privately.
+**Never say "that's flattening."** Note privately whether they caught it and how hard.
 
 > [!WARNING]
-> **How often to use these.** One per session, and every instance must be a *default, a dropdown, an app, or a tired human agreeing with one* — **never a choice a person makes.** The moment it reads as a person deleting things on purpose, the party has a villain, and hook S3 exists specifically to prevent that. If the party says *"someone is doing this"* twice, stop deploying for two sessions and let it cool.
+> **How often, and what shape.** **One per session**, and the *mechanism* is always a default, a dropdown, an app, or a tired person agreeing with one. A human being may push the button — Mateo does — but **nobody in the chain intends the erasure**, and no one is ever concealing anything. The moment it reads as someone deleting things on purpose, the party has a villain, and this campaign does not have one.
+>
+> **This first instance is deliberately the loudest.** Later ones are ambient and easy to miss; that is fine, because the party will have this one to measure them against. **Do not run another this session.**
 
 ### Beat 4 — Departure *(3 min)*
 
