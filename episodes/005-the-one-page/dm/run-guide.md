@@ -533,7 +533,9 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago*
 >
 > **Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
 >
-> **The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
+> **The QR codes.** The park's feedback cards carry a QR to an ordinary feedback form, but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed at Bodie that the codes were personalised and said so out loud. **On the Saturday of Ep 4 he deliberately did not use his** — he typed the park's public URL by hand and submitted through the generic form, and Alaia texted him within moments anyway: *"Sometime soon, at your convenience. I owe you a coffee."*
+
+**She replied because he identified himself in the message, not because anything tracked him.** The suffix is her own quiet habit, not the park's and not surveillance, and it never fired. **What she noticed is that somebody bothered to step around it.**
 
 ### Staging — never enough chairs, and that is the trick
 
@@ -654,6 +656,20 @@ That single want turns a warm scene into a negotiation across an information asy
 
 If they're straight with her, she gives more in Beat 6. If they manage her, she gives less — and says so.
 
+### Beat 3b — She opens the floor *(1 min)*
+
+***OFFER IT — use it the moment they stop asking things.***
+
+**She came here to interview them, and she is good at it** — which means the party can easily spend fifteen minutes answering questions and never once turn it around. If that is happening, **she notices it herself and stops:**
+
+> *"Sorry."* (she sits back) *"I've been interrogating you for ten minutes and I haven't offered you anything. That's rude."*
+>
+> *"Ask me something."*
+
+**That is the whole nudge.** It is in character — she is brisk, she notices her own behaviour, and she hands things over without ceremony — and it opens the door without telling them what is behind it.
+
+**Everything below is what happens when they walk through it.** If they still don't ask anything, she gives them the referral on her way out anyway and the scene is shorter. **That's a fine outcome; don't force it.**
+
 ### Beat 4 — The {{pc:4}} beat *(2 min)*
 
 She is warm right up until {{pc:4}}'s player deploys politician-speech, and then she names it, flatly, without heat:
@@ -662,13 +678,21 @@ She is warm right up until {{pc:4}}'s player deploys politician-speech, and then
 
 Peer-to-peer, no elder's patience, no card spent. It is the best three minutes of {{pc:4}}'s player's night, and it quietly serves both standing questions above — someone outside the party sees through {{pc:4}}'s manner immediately, which the party has needed three sessions to half-manage.
 
-### Beat 5 — The QR codes, mechanically *(2 min)*
+### Beat 5 — The QR codes *(2 min)*
 
-{{pc:1}} is an RF/SDR hobbyist. Let him show her the suffix on his card; let her pull her own log up on her phone and confirm it, matter-of-factly. Yes, per-visitor suffixes. Yes, that is how she knew they came back to Building 7. No, it is not the park's idea. **that closes the QR-code thread** left open since Ep 3 — the orphaned channel becomes the thing that already worked, which closes the thread cleanly.
+***FINE TO SKIP.*** It is a small, honest tidy-up, not a reveal. **If the scene is full, drop it and lose nothing.**
 
-Two minutes of concrete business beats five minutes of atmosphere.
+**What is actually true, and do not inflate it:** the park's feedback cards carry a per-visitor tracking suffix. **{{pc:1}} spotted it at Bodie and refused to use his** — on Saturday morning he typed the park's public URL by hand instead and submitted through the generic form. **He beat it.**
 
-> **If the party asks her nothing**, the scene does not stall — **she is the one conducting an interview**, not them. Run Beat 3, let her questions do the work, and deliver the crack and the referral on her way out. The ladder below is for when they *do* ask, which they usually will.
+**So the tracking never told her anything.** She knew it was him because he wrote a message that said so, and she replied to the contact address on the form. **Completely mundane.**
+
+**If it comes up**, she is straightforward and slightly amused:
+
+> *"You typed the URL in by hand."* (she is not accusing him of anything) *"Nobody does that. Everybody scans the code."*
+
+**That is the whole beat.** Not that she tracked them — she didn't — but that **one of them looked closely enough at a piece of park stationery to notice it was watching, and quietly stepped around it.** She found that interesting. It is part of why she is sitting here.
+
+> **Do not make it more than it is.** The codes go exactly where they say they go, this is her own habit rather than the park's, and there is nothing sinister in it. If {{pc:1}}'s player wants to treat his own caution as a win, **let him have it — it was one.**
 
 ### The deflection ladder — WRITE THIS ON YOUR SHEET
 
@@ -678,7 +702,7 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 |---|---|---|
 | *What are you?* | *"A park ranger."* | *"I'm someone who noticed the same things you're noticing, about ten years before you did."* |
 | *Who do you work for?* | *"California State Parks."* (beat) *"That's not a dodge, it's just true."* | *"Nobody. That's the honest answer and I know it's unsatisfying."* |
-| *How did you know we went back?* | *"The cards."* | The QR beat above — concrete, shown, no mystery |
+| *How did you know we went back?* | *"You told me. You filled in the form."* | *"And you typed the address in by hand instead of scanning the code. Nobody does that."* |
 | *What is Bodie?* | *"A ghost town with a good gift shop."* | *"It's a place where things happen more easily. I don't know why and I've stopped needing to."* |
 | *Are there others?* | *"Yes."* | **THE CRACK — once, quietly, do not repeat:** *"I've met two of them. I didn't like either of them much."* |
 | *Do you know anything about {{pc:1}}'s father?* | — | **THE ONE HARD REFUSAL:** *"No. And if I did I'd tell you, so please believe the no."* |
@@ -947,7 +971,7 @@ Never voice at the table:
    The five criteria, for reference — a PC may mark **up to one**: resolved a hard moment in line with alignment · learned something true about the world or another character · took a meaningful risk for someone else · acted against their own short-term interest · took on a complication that will matter later. **Five marks = one advancement.** **Ep 4's marks are already assigned** (one per PC, recorded in each PC's `markLog`), so tonight's are the fifth for everyone. Record them in the session log's `marks` field.
 4. Write `sessions/<date>/session.json` against the `session-log` schema, plus `summary.md` for the players. Run `quire lint .` before committing.
 5. Fold the played record into this file as a `## Played record (<date>)` section at the top, per the Ep 4 pattern.
-6. Update the hook ledger. Expected to fire tonight: Ortiz in person · the institutional redirect · Alaia paid off · the QR-code thread closed · Nia's name planted · the first flattening beat · {{pc:3}}'s partial notebook read · the Ocean Beach text.
+6. Update the hook ledger. Expected to fire tonight: Ortiz in person · the institutional redirect · Alaia paid off · the QR thread tidied away · Nia's name planted · the first flattening beat · {{pc:3}}'s partial notebook read · the Ocean Beach text.
 7. Add played facts to `facts-ledger.md`, and re-snapshot as `continuity-through-ep-5.md`.
 8. Update `episode-outline.md`: Ep 5 → PLAYED; confirm Ep 6's shape.
 9. **Write down that {{pc:5}}'s private scene was deferred** and confirm his private beat is scheduled for Ep 7.
