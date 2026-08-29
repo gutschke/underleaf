@@ -221,13 +221,15 @@ Open with that image. Then run the three beats below in any order the table offe
 
 **Expect the other players to weigh in.** Let them — this is the session's most-parked PC holding the floor for two minutes, and that is the point.
 
+> **Whatever he chooses, Ortiz comes back to it upstairs in about ten minutes.** Two more lobby beats run before then, so **there is a reminder waiting for you at the top of Beat 1** — you do not need to hold it in your head.
+
 > **The pistol is his focus, and he gets it back.** Truck or lockbox, it is his again within the hour, so he is without his anchor *inside one building*, not for the night. **Nothing tonight requires him to cast**, so this costs atmosphere rather than mechanics. If he doesn't raise it himself, quietly remind him the holster clip on his keychain is still a fallback anchor.
 
 > **This fires no matter which option he took — do not let it hang on the lockbox.** The desk ran his ID and the permit came up before Ortiz ever came downstairs, **so she knows either way**: the sergeant mentions it, or it is simply on the visitor log she signs off. **Every branch reaches the same conversation.**
 >
 > **And steer him gently away from waiting outside.** It is written as "also fine" and it is not fine — it costs him the next fifty-five minutes. If he reaches for it, Ortiz heads it off from the stairs: *"You're coming up. Whatever it is, sort it with the sergeant — I'm not doing this twice."*
 
-**Later, once they're upstairs, Ortiz seeks him out about it.** Three lines, unprompted, while the others are reading the page: she saw the lockbox slip, she asks what he carries and why, and she does not moralise about the answer. She has met a lot of people who started carrying after something happened to them. **This is the only NPC relationship {{pc:5}} gets tonight — do not skip it.**
+**Ortiz comes back to it upstairs, and it is written out at the top of Beat 1 — where it fires.** Do not play it here.
 
 #### {{pc:2}} and the woman with the folder
 
@@ -265,6 +267,21 @@ That is an offer, not a cue. If he doesn't take it, move on and lose nothing.
 Play it light. It costs ninety seconds, it is funny, and it quietly sets up the room where his manner *will* cost him something in Beat 1.
 
 ### Beat 1 — The one page *(15 min)*
+
+> [!IMPORTANT]
+> **BEFORE THE PAGE — thirty seconds: Ortiz and {{pc:5}}, about the permit.**
+>
+> **Easy to lose, because two other lobby beats ran since he made the carry decision — and it is the only NPC relationship {{pc:5}} gets tonight.** Play it while everyone is still settling into the room.
+>
+> She saw the permit on the visitor log. Unprompted, not making a thing of it:
+>
+> > *"You've had that permit two years and it's clean. Most people who get one never use the range after the first month."* (a beat) *"What happened?"*
+>
+> **She asks what he carries and why. She does not moralise about the answer, and she does not soften it either** — she has met a lot of people who started carrying after something happened to them, and she says so. Whatever he gives her, she takes it at face value and moves on.
+>
+> **This fires whichever option he took** — truck, lockbox, or standing outside — because the permit was on the log before she ever came downstairs.
+>
+> **Do it now, before {{pc:1}} has the page in his hands.** Once that page is out, nobody looks away from it again.
 
 **Staging — the whole party is in the conference room, and it stays that way.** She collects all five from the lobby and walks them back through the bay to get there: third row from the window, a bulletin board with a coffee-stain across the corner of every fifth flyer, talking while moving, interrupted twice. **She hands {{pc:1}} the page standing up, in the conference room, before anyone has sat down.** The walk is the kinetic part; the room is where the scene lives. **Do not split the party off — everyone is in the room from here on, and that is load-bearing in both directions.**
 
