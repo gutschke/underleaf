@@ -177,31 +177,53 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 >
 > **She is not hiding from anything; she is avoiding a conversation with a supervisor.** Play it as a tired professional's small economy, not as tradecraft. **Do not let a player make it sinister** — if someone reaches for that, she is genuinely baffled: *"It's a police station. I work for the police."*
 
+> [!IMPORTANT]
+> **She has been here since six this morning, and she has not been here alone. Plant this now** — it is what makes Beat 3 work forty minutes later.
+>
+> **Mateo Ruiz is Park Station's records clerk.** Mid-twenties, fast on a keyboard, genuinely good at the parts of the job nobody thanks him for. He has been in since six with Ortiz, pulling Argonaut's full filing history out of three systems that do not talk to each other — **which is exactly why she is working out of his building and not her own.** She is a good detective and a slow typist, and he can do in ten minutes what takes her an hour.
+>
+> **Mention him in the lobby**, before anyone has a reason to care:
+>
+> > *"There's coffee if you want it — Mateo's been feeding me since six, he'll offer."*
+>
+> **That is all.** He is a friendly colleague doing a favour on a Monday. **When he comes back in Beat 3 to say he tidied something up, the party already knows who he is and why he is in this system** — so the beat reads as helpfulness rather than as a stranger appearing to alter a record.
+
 Open with that image. Then run the three beats below in any order the table offers them, and reconvene when Ortiz appears.
 
 #### {{pc:5}} and the question at the desk
 
 ***THEIR ONLY MOMENT — this is the one thing {{pc:5}} gets tonight.***
 
-**{{pc:5}} carries concealed, and he is walking into a police station.** There is no airport-style screening at a district station — no metal detector, no belt, no bored screener. **There is a desk sergeant who asks.**
+**{{pc:5}} carries concealed, and he is walking into a police station.** There is no airport-style screening at a district station — no metal detector, no belt, no bored screener. **What there is, is a visitor log.**
 
-**Do not wait for {{pc:5}}'s player to raise it — he may not remember what his PC is carrying.** Address it directly, in fiction, as something his character noticed on the way in:
+> [!IMPORTANT]
+> **This is written so that walking it in is not on the table — and so that closing off that option costs nothing and takes ten seconds.** A PC who quietly keeps a concealed weapon through a police interview is a continuity problem with no story attached to it, and there is no plot here to spend on one. **So the question never becomes "did anyone notice."**
 
-> *"{{pc:5}} — you clocked the sign about firearm storage from the doorway, and you have been thinking about it since you parked. Now the sergeant looks up at the five of you and asks the question he asks everybody. 'Anybody carrying?'"*
+**The sergeant signs all five of them in and asks for ID.** Routine, bored, one at a time, driver's licences face-down on the counter in a stack. He runs them because that is what signing visitors in *is*.
 
-**It is routine, it is asked pleasantly of the whole group, and he is not in trouble.** The sergeant has already gone back to his screen.
+> **Nothing else comes up on anybody.** Four clean licences and one permit. **Do not use this to surface anything about the other four** — it is a door-opening device, not a search.
 
-**Then he chooses, out loud:**
+**And {{pc:5}}'s comes back flagged — because a CCW permit is attached to it.** The sergeant does not react to this at all. He reads it off his screen the way he would read off an address:
+
+> *"Faraone — you've got a carry permit on file. You carrying today?"*
+
+**Do not wait for {{pc:5}}'s player to volunteer anything, and do not make him lie or not-lie.** The system said it before he did. He is not caught, he is not suspected, and nobody in the room thinks twice — **the sergeant asks this several times a week.**
+
+> **If {{pc:5}}'s player was planning to walk it in — and that is a completely reasonable thing for his PC to try — this takes the option away without taking anything from him.** He did not fail and he was not outmanoeuvred. **He walked into a building that already knew.** Play it as bureaucratic inevitability, not as a gotcha, and let him be a little annoyed about it.
+>
+> **Do NOT roll for this and do not let it become a scene.** If he wants to argue the point, the sergeant is immovable and entirely pleasant about it: *"I'm not asking you to explain it. I'm asking you where it's going to be for the next hour."*
+
+**Then he chooses, out loud — and these are the only three options:**
 
 - **Leave it in the truck** — he says so, and walks back out to do it. Fastest, and nobody thinks anything of it.
 - **Declare it at the desk.** He is treated politely and efficiently, it goes in a lockbox, **and there is now a log entry with his name and permit number on it.** He gets it back on the way out. *Do not emphasise this at the table.* **It is a real record with his name and permit number on it, and it does not go away.** Logged as a live seed; nothing downstream is written to collect it yet.
-- **Stay outside.** Also fine, and he misses the whole SFPD scene.
+- **Stay outside.** He misses the whole Park Station scene — **see the steer below; this one is worse than it looks.**
 
 **Expect the other players to weigh in.** Let them — this is the session's most-parked PC holding the floor for two minutes, and that is the point.
 
 > **The pistol is his focus, and he gets it back.** Truck or lockbox, it is his again within the hour, so he is without his anchor *inside one building*, not for the night. **Nothing tonight requires him to cast**, so this costs atmosphere rather than mechanics. If he doesn't raise it himself, quietly remind him the holster clip on his keychain is still a fallback anchor.
 
-> **This fires no matter which option he took — do not let it hang on the lockbox.** If he declared it at the desk, she saw the slip. If he left it in the truck, he said so at the desk in front of her. If he did neither, she is a detective and she simply asks. **Every branch reaches the same conversation.**
+> **This fires no matter which option he took — do not let it hang on the lockbox.** The desk ran his ID and the permit came up before Ortiz ever came downstairs, **so she knows either way**: the sergeant mentions it, or it is simply on the visitor log she signs off. **Every branch reaches the same conversation.**
 >
 > **And steer him gently away from waiting outside.** It is written as "also fine" and it is not fine — it costs him the next fifty-five minutes. If he reaches for it, Ortiz heads it off from the stairs: *"You're coming up. Whatever it is, sort it with the sergeant — I'm not doing this twice."*
 
@@ -450,7 +472,7 @@ Then, quieter, off the record:
 
 #### 1 · Mateo fixes it
 
-A records clerk — mid-twenties, pleased with himself — leans in with a laptop:
+**Mateo** — the clerk who has been helping her since six, already introduced in the lobby — leans in with a laptop, pleased with himself:
 
 > *"Oh — Detective, that Reyes file? The '18 entry was sitting under the wrong case number. It was its own record, which is why it never showed up when you pulled the case. I re-filed it under the '25 case, so it's all one thing now. Should've been like that from the start."*
 
