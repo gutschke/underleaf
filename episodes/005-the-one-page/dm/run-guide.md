@@ -668,6 +668,25 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 **She notices if they shade it** — and if they do, she gives less in Beat 5. She does not call them on it.
 
+#### She asks who else they have talked to — and this is unconditional
+
+**Ask it as part of the interview; do not wait for the party to raise Bea.** They have no way of knowing that mentioning her is what you want.
+
+> *"Who else have you talked to about any of this?"*
+
+**They will name Bea.** When they do:
+
+> *"The woman in the Outer Sunset. With the cards."* (not a question — she is placing her) *"Go back to her. She's been paying attention a lot longer than you have."*
+
+> [!CAUTION]
+> **Say "than you have" — never "than any of us."**
+>
+> *"Us"* can be read two ways: the six people at this table, or **a group Alaia belongs to.** The second reading is the thing she must not confirm before Ep 8, and this line is the last thing they hear from her, so an ambiguity here is an ambiguity they take home and chew on for a week.
+>
+> **She compares them to Bea, and to nobody else.** She does not say she knows Bea, does not say how she knows of her, and does not answer if asked. *"She's just known about for a while"* is as far as she goes.
+
+**If they don't name Bea**, let it go — she does not bring her up unprompted, and the party has three other reasons to make the detour anyway.
+
 ### Beat 3b — Alaia opens the floor *(1 min)*
 
 ***OFFER IT — use it the moment they stop asking things.***
@@ -794,7 +813,7 @@ That is the whole scene, and it is the session's closing image. **Do not let it 
 - **{{pc:1}} wants the Argonaut name run past someone who keeps records for a living** — especially now that Ortiz has taken the page back.
 - **{{pc:4}} owes her a visit** and knows it. He went to her once and didn't say so.
 
-If nobody bites, **Alaia supplies it in Berkeley**: *"You've talked to the woman in the Sunset? …Then talk to her again. She'll have been at this longer than any of us."* — which is a referral, not an interpretation, and stays inside her boundary.
+**Alaia also points them at Bea — see her scene.** It is unconditional and it does not depend on the party thinking to raise Bea themselves. — which is a referral, not an interpretation, and stays inside her boundary.
 
 They detour through the Outer Sunset on the way back. **She is not home.** The house is dark; the kettle is not on; a neighbour hasn't seen her since Thursday.
 
@@ -990,6 +1009,8 @@ Unlikely, but if you have 20–30 minutes spare:
 ## Firewall discipline
 
 Never voice at the table:
+
+- **The word "us" in Alaia's mouth**, in any sentence that could include people not at the table. She may say *"you"*, *"her"*, *"them"* — never *"us"*.
 
 - Reading (a). Ortiz acknowledges the seam and stops.
 - Who ran the 2018 query — and specifically, nothing that lets Bea and the 2018 query occupy the same evening.
