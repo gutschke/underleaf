@@ -171,22 +171,7 @@ Ortiz called {{pc:1}} back — **she initiates, not him.** (Ep 4's played record
 
 > **The building — worth thirty seconds, because it is reusable and the players will remember it.** Park Station was built in **1910 as the headquarters of the SFPD Mounted Unit**: Mission-style, stucco, tiled roof, refurbished in the mid-nineties and still slightly the wrong shape for the job it now does. **The rooms are too tall and the doorways are too wide, because they were built for horses.** The borrowed conference room has a radiator that knocks and a window onto the Panhandle. **The department still keeps horses in the park**, and if anyone goes looking, they can hear them.
 
-> **Why here and not headquarters — she will say it if asked, and it is completely mundane.** Missing Persons works out of the Public Safety Building in Mission Bay. But this is a two-year-old file she has kept open past what triage justifies, she is spending a Monday morning on it with five civilians, **and she would rather not book a room downtown for that.** Park Station has a spare room and a sergeant who owes her one.
->
-> *"It's closer to you, and nobody here asks me what I'm doing."*
->
-> **She is not hiding from anything; she is avoiding a conversation with a supervisor.** Play it as a tired professional's small economy, not as tradecraft. **Do not let a player make it sinister** — if someone reaches for that, she is genuinely baffled: *"It's a police station. I work for the police."*
-
-> [!IMPORTANT]
-> **She has been here since six this morning, and she has not been here alone. Plant this now** — it is what makes Beat 3 work forty minutes later.
->
-> **Mateo Ruiz is Park Station's records clerk.** Mid-twenties, fast on a keyboard, genuinely good at the parts of the job nobody thanks him for. He has been in since six with Ortiz, pulling Argonaut's full filing history out of three systems that do not talk to each other — **which is exactly why she is working out of his building and not her own.** She is a good detective and a slow typist, and he can do in ten minutes what takes her an hour.
->
-> **Mention him in the lobby**, before anyone has a reason to care:
->
-> > *"There's coffee if you want it — Mateo's been feeding me since six, he'll offer."*
->
-> **That is all.** He is a friendly colleague doing a favour on a Monday. **When he comes back in Beat 3 to say he tidied something up, the party already knows who he is and why he is in this system** — so the beat reads as helpfulness rather than as a stranger appearing to alter a record.
+> **If a player asks the desk sergeant why a Missing Persons detective is working out of a district station, he does not know and does not care.** *"She booked the room. I don't ask."* **Ortiz answers this herself when she comes down — it is written at the start of Beat 1. Do not answer it for her here.**
 
 Open with that image. Then run the three beats below in any order the table offers them, and reconvene when Ortiz appears.
 
@@ -221,7 +206,7 @@ Open with that image. Then run the three beats below in any order the table offe
 
 **Expect the other players to weigh in.** Let them — this is the session's most-parked PC holding the floor for two minutes, and that is the point.
 
-> **Whatever he chooses, Ortiz comes back to it upstairs in about ten minutes.** Two more lobby beats run before then, so **there is a reminder waiting for you at the top of Beat 1** — you do not need to hold it in your head.
+> **Whatever he chooses, Ortiz comes back to it upstairs in about ten minutes.** Two more lobby beats run before then, so **it is written out as the third item at the top of Beat 1** — you do not need to hold it in your head.
 
 > **The pistol is his focus, and he gets it back.** Truck or lockbox, it is his again within the hour, so he is without his anchor *inside one building*, not for the night. **Nothing tonight requires him to cast**, so this costs atmosphere rather than mechanics. If he doesn't raise it himself, quietly remind him the holster clip on his keychain is still a fallback anchor.
 
@@ -268,8 +253,39 @@ Play it light. It costs ninety seconds, it is funny, and it quietly sets up the 
 
 ### Beat 1 — The one page *(15 min)*
 
+**Staging — the whole party is in the conference room, and it stays that way.** She collects all five from the lobby and walks them back through the bay to get there: third row from the window, a bulletin board with a coffee-stain across the corner of every fifth flyer, talking while moving, interrupted twice. **She hands {{pc:1}} the page standing up, in the conference room, before anyone has sat down.** The walk is the kinetic part; the room is where the scene lives. **Do not split the party off — everyone is in the room from here on, and that is load-bearing in both directions.**
+
+> **She does not do the folder-tap tonight, and that is on purpose.** Her sheet has her setting a manila folder on the desk before opening it — *this is real*. Monday morning with five people in her one free conference room, she is moving too fast for it. **If you want the ritual, save it for Ep 10, when she has time again.**
+
+**Four things happen, in this order. The first three are short; the fourth is the scene.**
+
+---
+
+#### First — why she is working out of a district station *(only if they ask)*
+
+**Do not volunteer this unless a player has raised it, or unless the party has been visibly puzzled by the venue.** If it has come up, she answers on the move, without stopping:
+
+> *"Missing Persons is over in Mission Bay. This file's two years old and I've had it open longer than I'm supposed to."* (a shrug, still walking) *"It's closer to you, and nobody here asks me what I'm doing."*
+
+**She is not hiding from anything; she is avoiding a conversation with a supervisor.** A tired professional's small economy, not tradecraft. **Do not let a player make it sinister** — if someone reaches for that she is genuinely baffled: *"It's a police station. I work for the police."*
+
+#### Second — Mateo gets mentioned, on the walk, and it costs one line
+
 > [!IMPORTANT]
-> **BEFORE THE PAGE — thirty seconds: Ortiz and {{pc:5}}, about the permit.**
+> **This is the plant that makes Beat 3 work, forty minutes later. Do not skip it.**
+>
+> **Mateo Ruiz is Park Station's records clerk.** Mid-twenties, fast on a keyboard, good at the parts of the job nobody thanks him for. **He has been in since six with Ortiz**, pulling Argonaut's filing history out of three systems that do not talk to each other — she is a good detective and a slow typist, and he does in ten minutes what costs her an hour. *(This is the honest second reason she works out of his building.)*
+>
+> **She says it in passing, as they walk, before anyone has a reason to care:**
+>
+> > *"There's coffee in there if you want it — Mateo's been feeding me since six. He'll offer."*
+>
+> **That is the whole plant.** He is a friendly colleague doing a favour on a Monday. **When he leans in during Beat 3 to say he tidied something up, the party already knows who he is and why he is in that system** — so it reads as helpfulness rather than a stranger appearing to alter a record.
+
+#### Third — the permit, once they are in the room and settling
+
+> [!IMPORTANT]
+> **THIRTY SECONDS, BEFORE THE PAGE COMES OUT: Ortiz and {{pc:5}}.**
 >
 > **Easy to lose, because two other lobby beats ran since he made the carry decision — and it is the only NPC relationship {{pc:5}} gets tonight.** Play it while everyone is still settling into the room.
 >
@@ -287,9 +303,9 @@ Play it light. It costs ninety seconds, it is funny, and it quietly sets up the 
 >
 > **Do it now, before {{pc:1}} has the page in his hands.** Once that page is out, nobody looks away from it again.
 
-**Staging — the whole party is in the conference room, and it stays that way.** She collects all five from the lobby and walks them back through the bay to get there: third row from the window, a bulletin board with a coffee-stain across the corner of every fifth flyer, talking while moving, interrupted twice. **She hands {{pc:1}} the page standing up, in the conference room, before anyone has sat down.** The walk is the kinetic part; the room is where the scene lives. **Do not split the party off — everyone is in the room from here on, and that is load-bearing in both directions.**
+#### Fourth — the page
 
-> **She does not do the folder-tap tonight, and that is on purpose.** Her sheet has her setting a manila folder on the desk before opening it — *this is real*. Monday morning with five people in her one free conference room, she is moving too fast for it. **If you want the ritual, save it for Ep 10, when she has time again.**
+She hands it to {{pc:1}}. **From here nobody looks away from it, so make sure the three things above have already happened.**
 
 It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's dissolved California business filings and, in the same query, cross-matched **every SSN historically named in those filings** — officers, signatories, authorized agents.
 
