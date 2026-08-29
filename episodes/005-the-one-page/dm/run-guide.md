@@ -565,7 +565,7 @@ Name who sits. Move people. When a conversation stalls, somebody gets up for a r
 
 **If he hands it over**, that is a real trust beat and the table will register it — he has been circumspect for two sessions and this is him not being. **If he doesn't**, that is equally in character. Do not force it; the read simply waits for Ep 6, and his refusal is a better beat than a grudging yes.
 
-**Then she reads it at the terrace railing, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and a crowded terrace is the one place you can hand one player a note without four people watching you type.
+**Then she reads it at the terrace railing, while the others are ordering and milling.** That is why this beat is here rather than anywhere else: the read is private, and a crowded terrace is the one place you can hand one player a slip without the other four sitting in silence watching you do it.
 
 Open to the excised cluster, pages 47–52.
 
@@ -626,7 +626,11 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 ### Beat 2 — Share or hold *(2–3 min)*
 
-{{pc:3}}'s player decides whether {{pc:3}} tells the party. Both are in character. **And the people in the other car don't hear it either way** — which is the split's cost, made concrete, without anyone having to moralise about it.
+{{pc:3}}'s player decides whether {{pc:3}} tells the party. **Both are in character and neither needs a prompt.**
+
+**If she shares it**, she is choosing to trust a group that spent Saturday in two cars — say nothing about that, just let it happen at the table.
+
+**If she holds it**, she now knows something four other people don't, at a table where {{pc:4}} has been doing exactly that for two sessions and everyone resents him for it. **Do not point that out.** It is a much better beat unremarked, and it is hers to notice or not.
 
 ### Beat 3 — What she wants *(10 min)*
 
