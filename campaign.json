@@ -23,12 +23,30 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "hacker", "label": "Hacker — works with networks, signals, code" },
-          { "value": "engineer", "label": "Engineer — builds, fixes, takes apart" },
-          { "value": "caregiver", "label": "Caregiver — heals, teaches, holds people together" },
-          { "value": "outsider", "label": "Outsider — moves between worlds, notices what others miss" },
-          { "value": "operator", "label": "Operator — coordinates, persuades, makes things happen" },
-          { "value": "other", "label": "Other — tell your DM what you have in mind" }
+          {
+            "value": "hacker",
+            "label": "Hacker — works with networks, signals, code"
+          },
+          {
+            "value": "engineer",
+            "label": "Engineer — builds, fixes, takes apart"
+          },
+          {
+            "value": "caregiver",
+            "label": "Caregiver — heals, teaches, holds people together"
+          },
+          {
+            "value": "outsider",
+            "label": "Outsider — moves between worlds, notices what others miss"
+          },
+          {
+            "value": "operator",
+            "label": "Operator — coordinates, persuades, makes things happen"
+          },
+          {
+            "value": "other",
+            "label": "Other — tell your DM what you have in mind"
+          }
         ]
       },
       {
@@ -38,10 +56,22 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "quiet", "label": "Goes quiet, watches, then decides" },
-          { "value": "argues", "label": "Argues — turns it into a debate" },
-          { "value": "acts", "label": "Acts unilaterally — moves first, explains later" },
-          { "value": "question", "label": "Asks one careful question" }
+          {
+            "value": "quiet",
+            "label": "Goes quiet, watches, then decides"
+          },
+          {
+            "value": "argues",
+            "label": "Argues — turns it into a debate"
+          },
+          {
+            "value": "acts",
+            "label": "Acts unilaterally — moves first, explains later"
+          },
+          {
+            "value": "question",
+            "label": "Asks one careful question"
+          }
         ]
       },
       {
@@ -51,10 +81,22 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "lifer", "label": "Lifer — born here, the city is home" },
-          { "value": "child-transplant", "label": "Transplanted as a child" },
-          { "value": "recent-transplant", "label": "Recent transplant (< 1 year)" },
-          { "value": "ambivalent", "label": "Ambivalent local — here, not yet of here" }
+          {
+            "value": "lifer",
+            "label": "Lifer — born here, the city is home"
+          },
+          {
+            "value": "child-transplant",
+            "label": "Transplanted as a child"
+          },
+          {
+            "value": "recent-transplant",
+            "label": "Recent transplant (< 1 year)"
+          },
+          {
+            "value": "ambivalent",
+            "label": "Ambivalent local — here, not yet of here"
+          }
         ]
       },
       {
@@ -64,10 +106,22 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "curious", "label": "Curious — leans in" },
-          { "value": "suspicious", "label": "Suspicious — looks for the trick" },
-          { "value": "dismissive", "label": "Dismissive — there's a normal explanation" },
-          { "value": "spooked", "label": "Spooked but quiet — doesn't say anything" }
+          {
+            "value": "curious",
+            "label": "Curious — leans in"
+          },
+          {
+            "value": "suspicious",
+            "label": "Suspicious — looks for the trick"
+          },
+          {
+            "value": "dismissive",
+            "label": "Dismissive — there's a normal explanation"
+          },
+          {
+            "value": "spooked",
+            "label": "Spooked but quiet — doesn't say anything"
+          }
         ]
       },
       {
@@ -77,13 +131,34 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "work", "label": "Work — meeting / talk / handoff" },
-          { "value": "family", "label": "Family — visiting, helping, attending" },
-          { "value": "love", "label": "Love — relationship, ceremony, reunion" },
-          { "value": "running-from", "label": "Running from something" },
-          { "value": "running-toward", "label": "Running toward something" },
-          { "value": "opportunistic", "label": "Opportunistic — it came together fast" },
-          { "value": "last-72h", "label": "Something sudden — phone call in the last 72 hours" }
+          {
+            "value": "work",
+            "label": "Work — meeting / talk / handoff"
+          },
+          {
+            "value": "family",
+            "label": "Family — visiting, helping, attending"
+          },
+          {
+            "value": "love",
+            "label": "Love — relationship, ceremony, reunion"
+          },
+          {
+            "value": "running-from",
+            "label": "Running from something"
+          },
+          {
+            "value": "running-toward",
+            "label": "Running toward something"
+          },
+          {
+            "value": "opportunistic",
+            "label": "Opportunistic — it came together fast"
+          },
+          {
+            "value": "last-72h",
+            "label": "Something sudden — phone call in the last 72 hours"
+          }
         ]
       },
       {
@@ -93,11 +168,26 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "childhood", "label": "In childhood" },
-          { "value": "school", "label": "During school years" },
-          { "value": "first-job", "label": "On a first job" },
-          { "value": "specific-year", "label": "In a specific recent year" },
-          { "value": "ongoing", "label": "It's still happening" }
+          {
+            "value": "childhood",
+            "label": "In childhood"
+          },
+          {
+            "value": "school",
+            "label": "During school years"
+          },
+          {
+            "value": "first-job",
+            "label": "On a first job"
+          },
+          {
+            "value": "specific-year",
+            "label": "In a specific recent year"
+          },
+          {
+            "value": "ongoing",
+            "label": "It's still happening"
+          }
         ]
       },
       {
@@ -107,15 +197,42 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "lawful-good", "label": "Lawful Good — duty + kindness" },
-          { "value": "neutral-good", "label": "Neutral Good — kindness, pragmatic" },
-          { "value": "chaotic-good", "label": "Chaotic Good — kindness on your own terms" },
-          { "value": "lawful-neutral", "label": "Lawful Neutral — the system matters" },
-          { "value": "true-neutral", "label": "True Neutral — balance, restraint" },
-          { "value": "chaotic-neutral", "label": "Chaotic Neutral — your own compass" },
-          { "value": "lawful-evil", "label": "Lawful Evil — ends justify means" },
-          { "value": "neutral-evil", "label": "Neutral Evil — whatever works" },
-          { "value": "chaotic-evil", "label": "Chaotic Evil — destruction tastes good" }
+          {
+            "value": "lawful-good",
+            "label": "Lawful Good — duty + kindness"
+          },
+          {
+            "value": "neutral-good",
+            "label": "Neutral Good — kindness, pragmatic"
+          },
+          {
+            "value": "chaotic-good",
+            "label": "Chaotic Good — kindness on your own terms"
+          },
+          {
+            "value": "lawful-neutral",
+            "label": "Lawful Neutral — the system matters"
+          },
+          {
+            "value": "true-neutral",
+            "label": "True Neutral — balance, restraint"
+          },
+          {
+            "value": "chaotic-neutral",
+            "label": "Chaotic Neutral — your own compass"
+          },
+          {
+            "value": "lawful-evil",
+            "label": "Lawful Evil — ends justify means"
+          },
+          {
+            "value": "neutral-evil",
+            "label": "Neutral Evil — whatever works"
+          },
+          {
+            "value": "chaotic-evil",
+            "label": "Chaotic Evil — destruction tastes good"
+          }
         ]
       },
       {
@@ -125,12 +242,30 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "STR", "label": "STR — lifting, brawling, physical labor" },
-          { "value": "DEX", "label": "DEX — driving, fine motor, dodging, climbing" },
-          { "value": "CON", "label": "CON — endurance, illness resistance, tolerance" },
-          { "value": "INT", "label": "INT — academics, problem-solving, languages, technical" },
-          { "value": "WIS", "label": "WIS — willpower, intent, perception, intuition" },
-          { "value": "CHA", "label": "CHA — talk, presence, reading rooms" }
+          {
+            "value": "STR",
+            "label": "STR — lifting, brawling, physical labor"
+          },
+          {
+            "value": "DEX",
+            "label": "DEX — driving, fine motor, dodging, climbing"
+          },
+          {
+            "value": "CON",
+            "label": "CON — endurance, illness resistance, tolerance"
+          },
+          {
+            "value": "INT",
+            "label": "INT — academics, problem-solving, languages, technical"
+          },
+          {
+            "value": "WIS",
+            "label": "WIS — willpower, intent, perception, intuition"
+          },
+          {
+            "value": "CHA",
+            "label": "CHA — talk, presence, reading rooms"
+          }
         ]
       },
       {
@@ -140,14 +275,38 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "Action", "label": "Action — physical violence, athletics, brute force" },
-          { "value": "Subterfuge", "label": "Subterfuge — stealth, lying, manipulation, theft" },
-          { "value": "Knowledge", "label": "Knowledge — academic recall, research, analysis" },
-          { "value": "Insight", "label": "Insight — perception, reading people, patterns" },
-          { "value": "Influence", "label": "Influence — persuasion, performance, leadership" },
-          { "value": "Tech", "label": "Tech — computers, devices, networks, code" },
-          { "value": "Craft", "label": "Craft — making, fixing, building" },
-          { "value": "Medic", "label": "Medic — first aid, treatment, diagnostics" }
+          {
+            "value": "Action",
+            "label": "Action — physical violence, athletics, brute force"
+          },
+          {
+            "value": "Subterfuge",
+            "label": "Subterfuge — stealth, lying, manipulation, theft"
+          },
+          {
+            "value": "Knowledge",
+            "label": "Knowledge — academic recall, research, analysis"
+          },
+          {
+            "value": "Insight",
+            "label": "Insight — perception, reading people, patterns"
+          },
+          {
+            "value": "Influence",
+            "label": "Influence — persuasion, performance, leadership"
+          },
+          {
+            "value": "Tech",
+            "label": "Tech — computers, devices, networks, code"
+          },
+          {
+            "value": "Craft",
+            "label": "Craft — making, fixing, building"
+          },
+          {
+            "value": "Medic",
+            "label": "Medic — first aid, treatment, diagnostics"
+          }
         ]
       },
       {
@@ -157,13 +316,34 @@
         "required": true,
         "aiRole": "skeleton",
         "options": [
-          { "value": "none", "label": "None — we meet on the flight" },
-          { "value": "work", "label": "Worked together professionally (current or past)" },
-          { "value": "school", "label": "School / university — classmates, study group" },
-          { "value": "neighbors", "label": "Neighbors — same building, same block, same dog park" },
-          { "value": "estranged-family", "label": "Estranged family — hadn't spoken in years, then this flight" },
-          { "value": "online", "label": "Met online first; this is one of the first in-person meets" },
-          { "value": "history", "label": "Long history — childhood friends, an old relationship, a shared trauma" }
+          {
+            "value": "none",
+            "label": "None — we meet on the flight"
+          },
+          {
+            "value": "work",
+            "label": "Worked together professionally (current or past)"
+          },
+          {
+            "value": "school",
+            "label": "School / university — classmates, study group"
+          },
+          {
+            "value": "neighbors",
+            "label": "Neighbors — same building, same block, same dog park"
+          },
+          {
+            "value": "estranged-family",
+            "label": "Estranged family — hadn't spoken in years, then this flight"
+          },
+          {
+            "value": "online",
+            "label": "Met online first; this is one of the first in-person meets"
+          },
+          {
+            "value": "history",
+            "label": "Long history — childhood friends, an old relationship, a shared trauma"
+          }
         ]
       },
       {
@@ -284,7 +464,9 @@
       "Bay Area"
     ]
   },
-  "authors": ["Markus Gutschke"],
+  "authors": [
+    "Markus Gutschke"
+  ],
   "homepage": "https://github.com/gutschke/underleaf",
   "episodes": [
     "001-unattended-baggage",
@@ -302,6 +484,19 @@
       "dakota-whitmore",
       "mars-faraone"
     ],
-    "npcs": ["yui-tanaka", "reggie-okeke", "bea-ferro", "vivian-loewe", "camila-ortiz", "alaia-vega", "rosa-vega", "nia-chen", "elena", "erik-loewe", "isabel-vega"]
+    "npcs": [
+      "yui-tanaka",
+      "reggie-okeke",
+      "bea-ferro",
+      "vivian-loewe",
+      "camila-ortiz",
+      "alaia-vega",
+      "rosa-vega",
+      "nia-chen",
+      "elena",
+      "erik-loewe",
+      "isabel-vega",
+      "daniel-reyes"
+    ]
   }
 }

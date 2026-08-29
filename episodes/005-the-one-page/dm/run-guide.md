@@ -312,13 +312,22 @@ She hands it to {{pc:1}}. **From here nobody looks away from it, so make sure th
 It is a **dissolved-entity records pull.** Someone in 2018 queried Argonaut's dissolved California business filings and, in the same query, cross-matched **every SSN historically named in those filings** — officers, signatories, authorized agents.
 
 > [!IMPORTANT]
+> **What the 1994 document actually is — you will get asked, and "an access statement" is not an answer.**
+>
+> Argonaut existed to keep one storage unit paid **past everyone who set it up**. A pre-payment that has to survive forty years, a change of facility owner, and the death of everyone involved is not a receipt — **it is a recorded instrument**, which is why it is findable at all. The 1994 filing is that instrument, and attached to it is **the list of people permitted to open the unit.** Three names, identified by number because the facility required it for anyone on a permanent access list.
+>
+> **So the three entries are:** the LLC's **agent** *(the 1991 line — the anomaly, see Beat 1b)*, the **notary** who made it stick *(Odegaard)*, and the **technician who certified the unit itself** *({{pc:1}}'s father)*.
+>
+> **That is the whole architecture, and it is boring on purpose.** Somebody paid for a locker until 2035 and wrote down who was allowed to open it. **Every strange thing in this session sits on top of an entirely ordinary document.**
+
+> [!IMPORTANT]
 > **Argonaut rented the locker. It never owned property.** Single-member LLC, sole purpose prepay the storage unit, no other assets and no other transactions. So there is no chain of title here and nobody should say "title" at the table — what exists is a filing history with people's names in it.
 
 **On the page:**
 
 - **Argonaut's address of record** on the 1994 filing — which is not an office. It is **the storage facility's street address, unit number and all: the same locker {{pc:4}} went to.** A company whose entire purpose was renting one locker used that locker as its mailing address. Let them make the connection themselves; **it is the only "discovery" beat in the scene actually still available.**
 - **Argonaut Records Holdings, LLC**, active 1988–1998, dissolved 1998. The prepaid facility fee runs through **2035**. No successor entity.
-- Cross-matched SSNs, redacted except one: **{{pc:1}}'s father — Daniel Reyes** — against a **1994 filing naming him "technical consultant, authorized access."** He worked telecom-adjacent his whole life; this is the first document anyone has ever shown {{pc:1}} that puts his father's name somewhere unexpected.
+- Cross-matched SSNs, redacted except one: **{{pc:1}}'s father — Daniel Reyes** — against a **1994 filing naming him "technical consultant, authorized access"** — he is on the list of people allowed to open the unit, because he is the one who certified it would keep what was in it. He worked telecom-adjacent his whole life, alarm lines and access control; this is the first document anyone has ever shown {{pc:1}} that puts his father's name somewhere unexpected.
 
 > [!NOTE]
 > **The voicemail's caveat is now spent, and {{pc:1}}'s player will notice.** The played audio said *"matching name, **partial-match** number… I'm not saying it was him."* The page names him. Give Ortiz the line rather than letting the shift pass unremarked:
@@ -405,14 +414,7 @@ That is opaque **and** concrete, and it closes the obvious question without open
 
 ***HAS TO HAPPEN — offer it, and if that doesn't take, have Ortiz ask for the paperwork herself.***
 
-**{{pc:4}} has the loose paperwork from the locker** — physical, and he has no reason not to have brought it. *(Ep 4 put the three ledgers on his dining table; the loose Argonaut material came out of the same locker and has not been shown to the party.)*
-
-> **If he didn't bring it, work down these rungs and do not stall.**
-> 1. Ortiz asks him for it directly, by name.
-> 2. **His phone.** He photographed the locker contents in Ep 4 — that is on the record. A phone screen is a worse prop and the identical beat. **Use this one; it always works.**
-> 3. Last resort: he describes what he remembers and Ortiz writes the discrepancy down as his statement rather than as a document. Slower, still lands.
->
-> **On every rung, {{pc:4}} names Odegaard** — from the page, the photo, or memory. **That name is the beat's payoff and it must survive the fallback.** On rung 3 he simply remembers it: a Norwegian surname on a document he has read more times than he has admitted.
+**{{pc:4}} has the loose Argonaut paperwork from the locker, in the bag at his feet.** If his player hesitates, just say so — *"it's in your bag"* — and move on. **Do not make this a question.**
 
 **Do not wait for somebody to think of comparing them.** Two prompts, in order:
 
@@ -436,17 +438,23 @@ That is opaque **and** concrete, and it closes the obvious question without open
 > [!IMPORTANT]
 > **THIS IS WHERE ODEGAARD BECOMES ASKABLE, and they will ask inside a minute.** His name exists nowhere until {{pc:4}} puts his copy on the desk — Ortiz's page has him blacked out. **The next sentence at the table is *"Detective, can you look him up?"*, and she says yes:** she is sitting at her terminal, it takes her ninety seconds, and she has no reason to refuse.
 >
-> **The answer is real, findable, and boring — the same shape as Sutter.** Halvard Odegaard, notary public, Alameda County, commissioned 1986, lapsed 1996. He notarised the 1994 access statement and several thousand other documents. **He died in 2009.** No family that answers, no papers, no connection to anything.
+> **The answer is real, findable, and boring — the same shape as Sutter.** Halvard Odegaard, notary public, Alameda County, commissioned 1986, lapsed 1996. He notarised the 1994 instrument and several thousand other documents. **He died in 2009.** No family that answers, no papers, no connection to anything.
 >
-> **Why he is redacted and {{pc:1}}'s father is not:** he isn't, particularly. The redactions are the vendor's automated pass over anything matching a private individual with a lapsed professional licence. **A machine's judgement, not a person's** — and Ortiz says so if pushed: *"That's not somebody hiding him. That's a script."*
+> **Why he is redacted and {{pc:1}}'s father is not — and this WILL be challenged, so know it cold.** Ortiz's page is not the instrument. It is **a retrieval copy generated by the cross-match**, and a cross-match returns the matched subject in full and masks everyone else as an uninvolved third party. **{{pc:1}}'s father is unredacted because he is the hit.** The other two are masked because they are not.
+>
+> **So the redaction is privacy masking, not concealment**, and Ortiz says so without being asked twice: *"That's not somebody hiding him. That's the system not handing me strangers' details on a case that isn't about them."*
+>
+> **{{pc:4}}'s copy has no redactions because it is the document itself**, out of the locker, not a copy generated about somebody.
 >
 > **Let it close, and let them feel clever for chasing it.** An unanswered name printed on a prop is exactly what this table will build a session around. **The 1991 *agent* line is the one that stays open — and it is stronger for having a solved name sitting next to it.**
 >
 > **If they do not ask tonight, nothing breaks.** He is a notary whenever they get to him.
 
+> **If someone asks why a public document carries Social Security numbers at all:** because it is from 1994. Recorded instruments of that era routinely carried them, which is exactly why modern retrieval masks them on the way out. **Say it flatly and move on — it is true, it is dull, and it is the reason the redactions exist.**
+
 **Both documents are authentic.** Neither is a forgery, neither is a copy artifact, and there is no third copy anywhere to break the tie.
 
-**Ortiz's reading is the reasonable one** and you should let her give it: the retrieval covers the entity's whole filing history, not just the 1994 statement, so a 1991 agent line is unremarkable — there was presumably an earlier filing. *That is completely sensible.* It also means {{pc:4}} should be able to find some trace of a 1991 filing in the material he took out of the locker, and there isn't one.
+**Ortiz's reading is the reasonable one** and you should let her give it: the retrieval covers the entity's whole filing history, not just the 1994 instrument, so a 1991 agent line is unremarkable — there was presumably an earlier filing. *That is completely sensible.* It also means {{pc:4}} should be able to find some trace of a 1991 filing in the material he took out of the locker, and there isn't one.
 
 > **She is about to disprove herself, and that is deliberate.** At Departure (Beat 4) Ortiz reports the full filing history — **'88, '94, '98, and nothing else.** There was no earlier filing. **Her reasonable reading dies in her own conference room, forty minutes after she offers it.**
 >
@@ -579,7 +587,7 @@ A beat later she realises what Mateo's tidy-up means for the document in {{pc:1}
 
 **She closes the loop before they leave — do not defer this to a future session.** She has already pulled the rest of the Argonaut trail; there is no more of it, and she says so:
 
-> *"I pulled the whole filing history this morning, before you got here. There's nothing else in it. Two filings — '88 when they registered, '94 for the access statement — and the dissolution in '98. That's the entire file. I was hoping for more too."*
+> *"I pulled the whole filing history this morning, before you got here. There's nothing else in it. Two filings — '88 when they registered the company, and '94, which is the one with the names on it. Then the dissolution in '98. That's the entire file. I was hoping for more too."*
 
 > **This is the line that kills her 1991 explanation.** Say it plainly, without emphasis, and do not connect it for them. If somebody does connect it, see the note in Beat 1b — she goes back through her notes and admits she doesn't know what that line is.
 
