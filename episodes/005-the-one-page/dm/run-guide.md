@@ -426,7 +426,7 @@ She photographs nothing and offers nothing. **She is not being obstructive; a de
 > [!WARNING]
 > **How often to use these.** One per session, and every instance must be a *default, a dropdown, an app, or a tired human agreeing with one* — **never a choice a person makes.** The moment it reads as a person deleting things on purpose, the party has a villain, and hook S3 exists specifically to prevent that. If the party says *"someone is doing this"* twice, stop deploying for two sessions and let it cool.
 
-### Beat 4 — Departure, and the sidewalk *(5–6 min)*
+### Beat 4 — Departure *(3 min)*
 
 Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut filing trail over the week.
 
@@ -435,31 +435,6 @@ Ortiz gives {{pc:1}} her direct line and says she'll pull the full Argonaut fili
 **Then start the joke.** From Thursday she is almost impossible to reach until Ep 11. Every subsequent contact is a real voicemail — the outgoing-greeting audio is `assets/audio/ortiz-outgoing-greeting.mp3`, and the most likely cue is tonight, from Bea's porch.
 
 *(There is a second thread about an outside law firm that made inquiries eight months ago. It waits for a later session — do not deploy it here; this scene is full.)*
-
-#### On the sidewalk, before they split up
-
-**What happens:** they come out onto the street together and stop to work out cars. This is the last moment tonight that all five are in one place, so two things happen here — the notebook changes hands, and somebody names the fact that they are splitting up the same way they did on Saturday.
-
-> [!IMPORTANT]
-> **The notebook is with {{pc:4}}**, and Ep 4 left **{{pc:4}} and {{pc:3}} in different vehicles** ({{pc:5}} + {{pc:4}} in {{pc:5}}'s pickup; {{pc:1}}, {{pc:2}} and {{pc:3}} in {{pc:4}}'s car). So the handover cannot happen in a car — stage it on the sidewalk outside the station, with all five present. This is better anyway: everyone watches it happen.
-
-> **Prompt {{pc:4}}'s player, not {{pc:4}}:** *"{{pc:4}}'s player — Vivian put that in your hands on Saturday. {{pc:3}}'s asking for it, in front of everyone. What does {{pc:4}} do?"*
-
-*(Meta prompts go to the player; in-fiction narration goes to the character. Never mix — the prompt above says "{{pc:4}}'s player" and then refers to {{pc:3}} and {{pc:4}} in the third person, which is the pattern.)*
-
-**If he hands it over**, that is a real trust beat and the party will register it. **If he doesn't**, that is also in character and the notebook read simply moves to Berkeley — do not force it.
-
-#### And they're doing it again
-
-They travel split again — **out of habit, not out of a decision.** Nobody re-negotiated it after Saturday, and the same two groupings re-form without anyone saying anything.
-
-***OFFER IT.***
-
-**Let a player notice it first.** If nobody does within a minute or two, hand it to whoever is most affected:
-
-> *"You're about to do the same thing you did on Saturday, and nobody's said anything about it."* Whether they consolidate is entirely theirs. Do not push.
-
-**They ended Ep 4 in two cars and markedly warier of {{pc:4}}.** Nothing has happened since to change that, so do not quietly reunite them — the split re-forming on its own is the beat.
 
 ## Scene 2 — The drive east — **TOLD, not played** *(90 seconds)*
 
@@ -475,17 +450,14 @@ They travel split again — **out of habit, not out of a decision.** Nobody re-n
 
 ### If you are ahead — play it instead *(10–15 min)*
 
-Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is a good scene.** **Its two load-bearing beats already happened elsewhere:**
+Run the drive properly: the split gets argued rather than noticed, {{pc:1}} and {{pc:4}} pick at each other the way they did on Saturday, and somebody eventually says the thing about trusting him. **It is a good scene.** **Everything the drive used to carry now lives somewhere better:**
 
-- **The notebook handover and the split being named** → Scene 1 Beat 4, on the sidewalk outside SFPD, while all five are still together.
-- **{{pc:3}}'s notebook read** → Scene 3 Beat 1, at the Berkeley counter, which is a **better** room for it: the read is private either way, but at a coffee bar the other four are ordering and milling instead of watching you type on your phone in silence.
+- **The split being named** happens inside the telling above — it is the one line of it that matters.
+- **The notebook handover and {{pc:3}}'s read** both moved to **Caffè Strada**, where they belong: she asks him for it at the table in front of everyone, and reads it at the railing while the others order. A car park is a worse room for both.
 
 ## Scene 3 — Caffè Strada, Berkeley
 
 Register: **peer, urban, ordinary.** This is the session's payoff and its emotional centre.
-
-> [!IMPORTANT]
-> **Alaia is the first non-elder network contact in the campaign.** Bea, Rosa and Vivian are all elders. Per her hard invariant, do **not** stage her as another elder-in-a-home scene. Her venues are workplace, text thread, or peer-appropriate coffee. She is a few years older than the PCs. The point of her existing is that the network is not just old librarians — there are people the PCs' own age in it, quietly.
 
 ### Setup
 
@@ -497,15 +469,17 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday. She is down from B
 
 *(If Strada has changed hands by the time you run this, any campus-adjacent terrace works — the staging below only needs "not enough chairs and too many people to be overheard.")*
 
-**Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
+### Before you run this — background you may already know
 
-### What you need to know before this scene *(context, not read-aloud)*
-
-**Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
-
-**Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
-
-**The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
+> **Alaia is the first non-elder network contact in the campaign.** Bea, Rosa and Vivian are all elders. Do not stage her as another elder-in-a-home scene; her venues are a workplace, a text thread, or peer-appropriate coffee. She is a few years older than the PCs. **The point of her existing is that the network is not just old librarians.**
+>
+> **Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
+>
+> **Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
+>
+> **Alaia was the ranger on duty.** She let them in, she drove other visitors out ahead of the storm, and she left before they did. **She does not know what happened inside** — that is the gap she is trying to close tonight, and it is a real gap, not a test.
+>
+> **The QR codes.** The park's visitor-feedback cards carry a QR to an ordinary feedback form — but each card's URL has a **per-visitor tracking suffix**, invisible to a casual scan. {{pc:1}} noticed in Ep 3 that the codes were personalised and said so out loud; he didn't scan then (no signal). He scanned at his kitchen table on the Saturday of Ep 4, and Alaia texted him within moments: *"Sometime soon, at your convenience. I owe you a coffee."* **That is how she knows they came back to Building 7, and it is how she has been in contact with him since.** It is her own observation practice, not the park's and not surveillance — the codes go exactly where they say they go.
 
 ### Staging — never enough chairs, and that is the trick
 
@@ -525,11 +499,23 @@ Name who sits. Move people. When a conversation stalls, somebody gets up for a r
 
 > **Her two prior uses, for the Level-2 line below:** the **map at Bodie** (a visitor-centre flyer edited down from a copper-print original — she saw the outline of a building that had been removed) and the **ramp at Vivian's** (a wheelchair ramp long gone from the front walk; she kept it to herself). **The "fourth time" in that line is Kai** — she has never had a name for what she does, but she has been doing it since she was four years old, to a bedroom. **Do not say that. It is the whole point of the line that she supplies it.**
 
-### Beat 1 — {{pc:3}} reads the notebook *(10–12 min)* — {{pc:3}}'s beat
+### Beat 1 — The handover, and {{pc:3}} reads *(12–14 min)* — {{pc:3}}'s beat
 
-**She does it at the terrace railing, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and a crowded terrace is the one place you can hand one player a note without four people watching you type.
+***OFFER IT — and if he declines, the read waits for Ep 6; nothing tonight breaks.***
 
-Assuming she got it on the sidewalk. Open to the excised cluster, pages 47–52.
+**{{pc:4}} still has the notebook.** Vivian put it in his hands on Saturday and nobody has asked him for it since.
+
+**{{pc:3}} asks for it here, at the table, in front of everyone** — which is the whole reason to do it at Strada rather than in a car park. Six people around three chairs, and one of them wants the thing another one has been holding for two days.
+
+> **Prompt {{pc:4}}'s player, not {{pc:4}}:** *"{{pc:4}}'s player — Vivian put that in your hands on Saturday, and {{pc:3}} is asking for it in front of everyone. What does {{pc:4}} do?"*
+
+*(Meta prompts go to the player; in-fiction narration goes to the character. Never mix — the prompt says "{{pc:4}}'s player" and then refers to both characters in the third person.)*
+
+**If he hands it over**, that is a real trust beat and the table will register it — he has been circumspect for two sessions and this is him not being. **If he doesn't**, that is equally in character. Do not force it; the read simply waits for Ep 6, and his refusal is a better beat than a grudging yes.
+
+**Then she reads it at the terrace railing, while the others are ordering and milling.** That is better than doing it in a moving car: the read is private either way, but here the other four have something to do — and a crowded terrace is the one place you can hand one player a note without four people watching you type.
+
+Open to the excised cluster, pages 47–52.
 
 **Deliver {{pc:3}}'s read PRIVATELY — by text, or by pulling her player aside during a break.** A folded note, or a text to her phone — either works at a coffee bar, and neither needs the room to go quiet.
 > **Why private, always:** per-PC recognition of what they can do is a private beat in this campaign, never group-ratified. And Beat 2 below is her player's decision to make — narrating the read to the room makes it for them.
@@ -778,7 +764,7 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 |---|---|---|
 | **{{pc:1}}** | **DRIVER** | Ortiz; the page; the seam he caught, confirmed correct; Alaia's text was to him |
 | **{{pc:3}}** | **DRIVER** | Reads what is wrong with the shape of Ortiz's query (her domain — she is a county records clerk); names the filing reclassification and is dismissed; the notebook read; the share-or-hold decision |
-| **{{pc:4}}** | **Substantial** | *"Tell me what you know"* in front of a cop; the desk sergeant; the notebook handover |
+| **{{pc:4}}** | **Substantial** | *"Tell me what you know"* in front of a cop; the desk sergeant; the notebook handover at Strada |
 | **{{pc:5}}** | **Real, small** | The carry decision at the metal detector, out loud, with everyone weighing in · Ortiz seeks him out about the permit upstairs · photographs the page before it goes · a stool at the counter |
 | **{{pc:2}}** | **Support, with one real action** | The woman with the folder *asks her for something*; a peer conversation at the counter; Elena's message. **See the A7/A3 note below.** |
 

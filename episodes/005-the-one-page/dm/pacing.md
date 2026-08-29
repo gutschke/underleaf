@@ -1,7 +1,7 @@
 # Ep 5 — clock card
 *Names below are character (player).*
 
-> **Companion to the run-guide.** **Target 2h30 · ceiling 3h.** ~137 min plus friction lands **2h50–3h00**. Plan to compress two rows.
+> **Companion to the run-guide.** **Target 2h30 · ceiling 3h.** ~138 min plus friction lands **2h50–3h00**. Plan to compress two rows.
 
 ## Gates
 
@@ -23,9 +23,9 @@
 | 1 · **The two documents disagree** | 5 | 3 | — |
 | 1 · The seam + her two questions | 14 | 10 | **the seam** |
 | 1 · Flattening + the page goes back | 6 | 4 | — |
-| 1 · Departure + **sidewalk** (handover, split named) | 6 | 4 | the handover |
+| 1 · Departure | 3 | 2 | — |
 | 2 · **The drive — TOLD, 90 sec** | 2 | 2 | — |
-| 3 · **Caffè Strada** — notebook read + Alaia | 40 | 30 | Mira's read · her early exit |
+| 3 · **Caffè Strada** — handover, read, Alaia | 44 | 32 | Mira's read · her early exit |
 | — · **Drive: Berkeley → Outer Sunset** | 8 | 5 | — |
 | 4 · Porch — card + the search | 12 | 7 | — |
 | 4 · The two texts (**on the porch**) | 4 | 3 | — |
