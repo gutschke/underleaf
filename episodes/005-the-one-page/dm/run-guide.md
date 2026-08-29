@@ -730,7 +730,9 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 
 > *"You're going to go and see her."* (not a question) *"Vivian sent you, and you worked out the rest, so — yes. Go."*
 >
-> *"Call first. She hates a surprise, and she'll be politer to you than she wants to be if you just turn up."*
+> *"Call first. If you just turn up she'll be perfectly nice about it — and you won't find out until much later that she minded."*
+
+**Note what she has just told them about her mother**, in the middle of what sounds like a scheduling tip: **Rosa's graciousness is not a reliable signal.** She says a version of it twice tonight, and it is the only real characterisation of Rosa the party gets before Ep 6.
 
 **Then the thing that is actually hers:**
 
@@ -753,6 +755,8 @@ Her voice discipline is *"gives the shorter answer first and the longer one only
 **She says no, and this is where *don't lead with me* stops being a phrase and becomes something she does.** Not cold, not defensive — flat:
 
 > *"I'm having dinner with my mother tonight."* (beat) *"I'm not turning up with five people I met an hour ago. She'd be lovely about it, and I'd hear about it for a year."*
+
+**Same warning, second time, from the person who has lived with it.** Play it as a daughter being wry about her mother, not as a hint.
 
 **Let that sit.** She is going to the house they want to visit, this afternoon, and she is not taking them — thirty seconds after telling them not to lead with her. **The party now knows something real about that relationship and still has nothing they can name.**
 
