@@ -92,8 +92,7 @@ call she did not explain and left.
 
 Ren texted the group somewhere on the Bay Bridge, trying to be cool. It was not.
 
-**Bea was not home.** The house was dark, the kettle cold, and a neighbour had
-not seen her since Thursday. Mira could not get the front door — a basic Schlage,
+**Bea was not home.** The house was dark and the kettle cold. Mira could not get the front door — a basic Schlage,
 sticky old pins. Dakota shouted his business through it. Morgan hammered on it.
 
 **Dakota found the kitchen window, left open for the cat**, went through, and
