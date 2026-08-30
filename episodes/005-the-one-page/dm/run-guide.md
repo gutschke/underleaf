@@ -388,7 +388,7 @@ Let the party explain, or refuse to. She listens.
 **This is {{pc:4}}'s player's scene as much as {{pc:1}}'s.** {{pc:4}} found Argonaut, and *"tell me what you know"* — in front of a cop, with {{pc:1}} needing her cooperation — is exactly where politician-speech is either a weapon or a liability.
 
 > [!IMPORTANT]
-> **This is the scene where {{pc:4}} could realise what he has been doing** — the campaign calls this his Phase-2 realization, and it is the only chance for it scheduled anywhere. His sheet requires him to drop the persona **in a scene where the persona would have gotten him what he wanted**, and this is that room — evasion would work here, and it would cost {{pc:1}} the thing he came for.
+> **This is the scene where {{pc:4}} could realise what he has been doing** — the campaign calls this his moment of release *(not his realization — different gate, see `design/DM-ONLY/dakota-phase-gates.md`)*, and it is the only chance for it scheduled anywhere. His sheet requires him to drop the persona **in a scene where the persona would have gotten him what he wanted**, and this is that room — evasion would work here, and it would cost {{pc:1}} the thing he came for.
 >
 > **Do not engineer it and do not signal it.** If {{pc:4}}'s player reaches for the circuitous version and then stops himself — that is the realization. Log it privately and build his private scene next session. **Do not tell him what almost happened.**
 >
