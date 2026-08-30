@@ -40,12 +40,13 @@
   "intentionUnderPressure": "I was 17, driving south on the 17, and the car in front of me rolled. I got out and reached a man whose leg was crushed under the passenger door before CHP arrived. Onlookers yelled I was making it worse. I stabilized him anyway. He survived. I've never known what to do with that memory except let it decide my career.",
   "backstory": "Priya's family emigrated from Chennai to Fremont when she was 9. She learned first aid in middle school after watching her grandmother go from independent to institutionalized in the span of one badly-handled fall.\n\nAt 17 she was driving south on the 17 when the car in front of her rolled. She got out and reached a man whose leg was crushed under the passenger door before the CHP arrived. Onlookers yelled she was making it worse; she stabilized him anyway. He survived. She has never known what to do with that memory except let it decide her career.\n\nShe finished nursing school eighteen months ago and got the UCSF ICU spot on her second application. Night shift because that was the opening; she's stayed on it because she likes the quieter hallways. Walks to Ocean Beach in the morning to watch it before sleeping. On the Taipei flight (Ep 1) because a childhood friend from Chennai went home for a wedding and had a stroke there — she went to help the family and be present. She'd never been to Taiwan before and had never made a decision that big that fast. The wedding did not happen. She is back now, quietly a little proud of herself for having gone.\n\nShe met the others on the plane. Dakota tried too hard to charm her over the drinks cart; she was unimpressed and clocked him as harmless within thirty seconds.",
   "bonds": [
-    "**Alaia Vega** — the Bodie ranger. She was struck by Priya's commitment to ICU nursing, bought drinks for the whole party, and the two of them ordered together. They both take a plain Americano. The first person outside the party to see Priya as a professional rather than as the group's medical instrument."
+    "**Alaia Vega** — the Bodie ranger. She was struck by Priya's commitment to ICU nursing, bought drinks for the whole party, and the two of them ordered together. They both take a plain Americano. The first person outside the party to see Priya as a professional rather than as the group's medical instrument.",
+    "**Relationship — Alaia Vega.** Taken after Ep 5. She bought the round because she was struck by what {{pc:2}} does for a living; they ordered together and both take a plain Americano. **Alaia now turns up when {{pc:2}} calls for her**, not when the plot needs her. Per the standing ruling, she does not betray {{pc:2}}; her worst case is declining a specific ask."
   ],
   "harm": 0,
   "stress": 0,
-  "advancements": 0,
-  "marks": 5,
+  "advancements": 1,
+  "marks": 0,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -58,11 +59,11 @@
     "substrateSensitivity": "Body-level substrate-sensitivity in her care/body domain. Graded severity: sub-threshold 'low hum' for nearby Cheap-tier casts, migraine (throbbing pressure behind eyes) for nearby Costly+ casts or substrate-sensitive people in body-crisis, debilitating for Hard-tier / anchor-site permeability firing loudly. Fires ~1-2 per act at most. Never voice the mechanism at the table until her Phase-2 realization beat lands."
   },
   "markBullets": {
-    "hardMoment": true,
-    "learned": true,
-    "risk": true,
-    "against": true,
-    "complication": true
+    "hardMoment": false,
+    "learned": false,
+    "risk": false,
+    "against": false,
+    "complication": false
   },
   "markLog": [
     {
