@@ -106,5 +106,12 @@
       "criterion": "Took on a complication or scar that will matter later",
       "note": "Got what he wanted and paid for it. The party is no longer angry but is markedly warier, they travelled in two cars to avoid him, and he is holding a notebook the rest of them wanted to read."
     }
-  ]
+  ],
+  "inventory": {
+    "vehicle": "**A 12-year-old Toyota Prius**, inherited from a distant relative and shared with his roommates. One window is broken and patched with cardboard. It is the house car, not his — *(Ep 3: \"his roommates say he took his car and a duffel bag Wednesday morning\" is them describing the household Prius)*. **A roommate does the same thing periodically: takes it, disappears for a few days with some of everyone's stuff, forgets to tell anyone, then reappears acting as though nothing happened.** So the car may simply not be there on any given day, and nobody in that house finds that remarkable.",
+    "carries": [
+      "Mahogany pipe engraved with his name (focus)",
+      "Marsh's three ledgers, and the loose Argonaut paperwork from the locker, in a bag"
+    ]
+  }
 }

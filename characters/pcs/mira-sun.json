@@ -100,5 +100,13 @@
       "criterion": "Resolved a hard moment by acting in line with alignment",
       "note": "Goes quiet, watches, decides — and then publicly contradicted Dakota in front of everyone, which she does not do. She had watched, she had decided, and she acted. It landed."
     }
-  ]
+  ],
+  "inventory": {
+    "vehicle": "None. She does not drive — she rides with whoever is going.",
+    "carries": [
+      "The note (focus)",
+      "Kwikset practice lock and picks",
+      "archival gloves, out of habit"
+    ]
+  }
 }

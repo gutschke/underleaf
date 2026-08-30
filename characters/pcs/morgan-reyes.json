@@ -103,5 +103,13 @@
       "criterion": "Learned something true about The Quiet, the world, or another character",
       "note": "Played Ortiz's voicemail into a hostile room, then sat with a paperwork echo on his father's SSN that does not fit the story he has told himself for two years. He noticed the nine-years-versus-two seam himself."
     }
-  ]
+  ],
+  "inventory": {
+    "vehicle": "Beige rental-grade SUV, 5 seats — the party's default group vehicle.",
+    "carries": [
+      "Flipper Zero (focus)",
+      "laptop he still opens like it might bite him",
+      "three separate phones"
+    ]
+  }
 }

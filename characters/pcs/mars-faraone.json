@@ -103,5 +103,13 @@
       "criterion": "Resolved a hard moment by acting in line with alignment",
       "note": "The door at Vivian's. His first attempt fumbled when Priya interrupted; he regrouped, leaned on the railing and named the honest thing — that he needed to see for himself. Elena let all five in. He does not know he cast anything."
     }
-  ]
+  ],
+  "inventory": {
+    "vehicle": "Green pickup, old enough to look slept-in. *(Ep 3: it did look slept-in.)*",
+    "carries": [
+      "9mm SIG P365, concealed-carry (focus)",
+      "holster clip on his keychain — the fallback anchor",
+      "work knife, tape, a headlamp: warehouse habits"
+    ]
+  }
 }
