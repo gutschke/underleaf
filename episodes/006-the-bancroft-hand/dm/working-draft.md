@@ -40,7 +40,25 @@ have to be answered here, not deferred.**
 2. **What is Bea's colour-coding scheme?** Undecided. It should be something Bea
    could hold in her head and nobody else could reconstruct. **Not needed for
    Ep 6, but the party will keep chewing on it.**
-3. **Where is Bea?** Her absence is mundane and she resurfaces Ep 9. **Ep 6 must
+3. **{{pc:4}}'s persona — the escalation ladder, and its last rung.** The DM and
+   the other PCs have been hinting strongly and he has not picked it up. **He may
+   not have the self-awareness yet, and that is a legitimate way to play him.**
+
+   | Rung | What it is | Status |
+   |---|---|---|
+   | 1 | NPCs stop rewarding it — Ortiz cuts him off, Alaia walks away mid-pitch | **Fired twice in Ep 5.** He did not notice either. |
+   | 2 | Other PCs say it to his face | Available. Cheap. **Try this first in Ep 6.** |
+   | 3 | An NPC names it kindly and directly — Rosa is well suited, being old enough not to care | Available Ep 6. |
+   | 4 | **A private written note to the player** | **WRITTEN AND HELD.** `tmp/ep5-planning/beck-reserve-note.pdf` |
+
+   **The note is deliberately not an instruction to change how he plays Dakota.**
+   It offers one specific, optional beat — Dakota noticing it has stopped working
+   and being unable to work out why — and says explicitly that ignoring it is a
+   real option. **Do not hand it over until rungs 2 and 3 have both been tried.**
+   Handing a player a note that reads as "play your character differently" costs
+   more than the beat is worth.
+
+4. **Where is Bea?** Her absence is mundane and she resurfaces Ep 9. **Ep 6 must
    not resolve it** — but the party will raise it, and Rosa does not know her.
 
 ---
