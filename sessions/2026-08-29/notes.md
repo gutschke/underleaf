@@ -351,3 +351,32 @@ against their alignment or their established personality.*
 >
 > Applies generally, and especially to a player who may not have registered the
 > moment at all.
+
+---
+
+## Post-session finding: {{pc:4}}'s six registers
+
+**{{pc:4}}'s player plays roughly six deliberate personas for {{pc:4}} and switches by
+situation. Nobody at the table has ever remarked on one, across five sessions.**
+The player has been reading that silence as the switching being subtle and working.
+
+**Two possible causes, and they need different fixes:**
+
+1. **The registers are not distinct enough from outside** — different intents
+   delivered at the same length, volume and register. *Fix: his to make.*
+2. **The campaign has only given him rooms for the loud one.** Four of five
+   sessions put him in a group scene extracting information from a stranger.
+   **That is the orator's room every time.** *Fix: ours, and immediate.*
+
+**We do not currently know which it is, and should not assume the first.**
+
+### Action before Ep 6
+
+**Ask {{pc:4}}'s player for the list.** Per register: what he calls it, who it is for, what
+{{pc:4}} wants from it, and **what an observer would actually notice** — length,
+volume, vocabulary, posture, the pipe. Asking beats telling: writing them down is
+what makes them legible, and if two collapse on the page he will see it himself.
+
+**Then owe him a room per session that is not the orator's.** The one he is most
+confident is distinct has never been played: **{{pc:4}} alone with the pipe and a
+speech, no audience.**

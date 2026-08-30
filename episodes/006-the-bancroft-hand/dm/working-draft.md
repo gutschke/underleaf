@@ -76,6 +76,22 @@ have to be answered here, not deferred.**
 
 ---
 
+## {{pc:4}}'s registers — a debt this episode should start paying
+
+**Before writing: message {{pc:4}}'s player and ask for his list of personas.** He has about
+six and switches deliberately; nobody has ever remarked on one. See his sheet,
+`dmNotes.ACTION_ask_beck_for_persona_list`.
+
+**The scene-design finding, which is on us and not on him:** four of five sessions
+have put him in a group scene extracting information from a stranger. **That is
+the orator's room every time.** Several registers have never had a scene at all.
+
+**Ep 6 owes him one room that is not that room.** Rosa's house is well suited —
+an elder, in her own kitchen, who cannot be performed at. The strongest single
+candidate, and cheap: **a short beat where {{pc:4}} is alone with the pipe and a
+speech and nobody to perform for.** That private register has never been seen in
+five sessions and is the one the player is most confident is distinct.
+
 ## Must-do at the top of writing
 
 - [ ] Re-read `design/DM-ONLY/run-guide-style.md` **before** drafting the
@@ -84,3 +100,4 @@ have to be answered here, not deferred.**
       A7, B22–B25 (new).
 - [ ] Confirm the in-game date arithmetic against facts-ledger §38.
 - [ ] Snapshot `continuity-through-ep-5.md` from the facts ledger.
+- [ ] **Send the persona-list message** *(drafted at `tmp/player-notes/message-persona-list.md`)* (see above) and read his answer before drafting his beats.
