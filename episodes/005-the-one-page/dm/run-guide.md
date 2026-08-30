@@ -643,7 +643,7 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago*
 >
 > **Alaia was the ranger on duty, and she did NOT let them in.** {{pc:3}} picked the 1950s Yale padlock in thirty-six seconds.
 >
-> **She drove the other visitors out ahead of the storm — and then came back.** The road closed behind her and she returned to the site that night. She found four of them at the bunkhouse with a fire going, and she covered for it without being asked: *"I'm glad you got warm. I didn't think you'd join me at the bunkhouse, so I stacked the wood before I left."* **The party has heard her say this. Do not replay it and do not explain it.**
+> **She drove the other visitors out ahead of the storm — and then came back.** The road closed behind her and she returned to the site that night. She found four of them sheltering in the **Miner's Union Hall** — not her bunkhouse across town, which is what her line below is about — with a fire going, and she covered for it without being asked: *"I'm glad you got warm. I didn't think you'd join me at the bunkhouse, so I stacked the wood before I left."* **The party has heard her say this. Do not replay it and do not explain it.**
 >
 > **{{pc:4}} was not there that weekend.** He was in Sacramento; four PCs went into Building 7 and he was not one of them. **But he had been up there himself weeks earlier, and it was his photograph that brought the others out.** Alaia saw that photograph. **So she thinks of him as the one who started this**, and she will put her questions to him tonight regardless of where he was standing on Thursday.
 >
@@ -681,9 +681,9 @@ If {{pc:2}} deflects to the party's business, Alaia lets her, once, then comes b
 
 **Two people who are responsible for other people's safety at work, recognising each other.** Easy, low-stakes, and it gives {{pc:5}} his first NPC tonight who is neither a cop nor a suspect.
 
-**She opens with something she actually watched him do.** She was at the bunkhouse that night; she saw the fire and she saw who was doing what:
+**She opens with something she actually walked in on.** By the time she got through to the Union Hall the fire was going — and so was he:
 
-> **Alaia:** *"You were the one moving people, that night at the bunkhouse. Everybody else was arguing about the road and you'd already started handing out blankets."*
+> **Alaia:** *"When I finally got to the Union Hall you had cocoa going. Out of those little packets from my own visitor center."* (she is amused, and she means it) *"Seven years I've been doing this. Nobody has ever once thought to pick those up on the way in."*
 
 **She is not flattering him and she is not making it mystical.** She has spent seven years watching how people behave when a road closes, and she is telling him he behaved well. **Let that land without comment.**
 
@@ -805,7 +805,7 @@ That is blatant on purpose and **it is fine to be blatant.** Delivered privately
 
 **What happens:** Alaia buys her own coffee, takes a stool, and asks them to walk her through Building 7 — what was inside, precisely, in order. **She asks like someone taking a statement**, because in a sense she is.
 
-> **She is not asking where they were. She was there that night.** She came back through the closed road, found them warm at the bunkhouse, and said nothing. **What she is missing is the inside of the building** — she never went in and she has never asked until now.
+> **She is not asking where they were. She was there that night.** She came back through the closed road, found them warm in the Union Hall, and said nothing. **What she is missing is the inside of the building** — she never went in and she has never asked until now.
 >
 > **{{pc:4}} was in Sacramento that weekend, and Alaia does not hold it against him.** She remembers him from weeks earlier — he was up at Bodie on his own first, and it was his photograph that brought the rest of them out to look. **As far as she is concerned he started this**, so he is exactly the person she expects to answer, and she will keep asking him even though he was not in the building. **Let him talk.** *(That is the whole reason his managing-the-answer beat below can fire.)*
 
