@@ -160,7 +160,7 @@ No XP. No leveling treadmill.
 - A category mastery: a +1 category becomes +2.
 - A new tag.
 - A new focus (a personally-meaningful casting anchor).
-- A relationship with an NPC who now appears when called for.
+- A relationship with an NPC who now appears when called for. *(The campaign keeps this promise: an NPC bought this way does not betray the PC. Their worst case is declining a specific ask — "let's pretend I didn't hear that" — never turning on them. No NPC solves the arc for the party either.)*
 - Access to a resource: safe house, contact, equipment.
 
 **Cap: 8 advancements per character.** Past that, growth is narrative.
