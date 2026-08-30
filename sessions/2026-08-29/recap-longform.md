@@ -1,4 +1,8 @@
-# Session 5 — The One Page
+<!-- AUTHORING TOOL, not a chat post. This is the detailed prose recap: the raw
+     material for writing Ep 6 and for the continuity snapshot. The thing to
+     actually paste into the group chat is chat-post.md. -->
+
+# Session 5 — The One Page *(longform recap — authoring material)*
 
 **Monday 15 February 2027.** Four days after Bodie, two after Sacramento.
 
@@ -8,10 +12,10 @@
 
 Detective Ortiz asked you to come in — not to headquarters, but to the district
 station at Waller and Stanyan, a 1910 building put up for the mounted police,
-where the doorways are too wide because they were built for horses. Mars offered
-Dakota a lift and arranged to collect him from Fisherman's Wharf, which is four
-and a half miles from a police station Dakota could have walked to in fifteen
-minutes. She kept you ten minutes in the lobby and had you out inside twenty.
+where the doorways are too wide because they were built for horses. Mars offered Dakota a lift, told him to
+wait at Fisherman's Wharf, and then did not come. Dakota paid for a Waymo across
+the city to a police station he could have walked to from his flat in fifteen
+minutes, and arrived five minutes after everyone else. She kept you ten minutes in the lobby and had you out inside twenty.
 
 **She had one page.** In February 2018, somebody paid a records vendor to pull
 Argonaut Records Holdings' dissolved business filings — and in the same request,
@@ -68,7 +72,7 @@ feared, though he wanted matcha. Mira got a chai and was delighted. Dakota
 received the largest pumpkin spice latte on the menu, with extra cream, caramel
 fudge and heart-shaped rainbow sprinkles, and loved it without irony.
 
-**Dakota handed Mira the notebook.** She photographed every page — on the theory
+**The notebook ended up with Mira.** She photographed every page — on the theory
 that the number of them might change when nobody is looking — and then noticed
 her count did not match his. Hers ran past 150, his about twenty short. She
 worked it out herself: he had counted files, she had read page numbers, and the

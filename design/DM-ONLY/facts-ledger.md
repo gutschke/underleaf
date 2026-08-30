@@ -1410,11 +1410,11 @@ Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section;
 | {{pc:4}} | **Parnassus**, up by UCSF | Battery Townsley, Marin Headlands |
 | {{pc:5}} | **Chinatown** | the abandoned grain silos, Pier 80 side of the port |
 
-**Ep 5 played — the Fisherman's Wharf prank.** {{pc:5}} told {{pc:4}} to meet him at Fisherman's Wharf so he could drive him to the police station, without mentioning where the station was. **Park Station is 0.7 miles from {{pc:4}}'s front door — a fifteen-minute walk, downhill.** {{pc:4}} crossed the city (~4.5 miles, ~45 min on Muni) to be driven ~4.5 miles back past his own neighbourhood.
+**Ep 5 played — the Fisherman's Wharf prank.** {{pc:5}} told {{pc:4}} to meet him at Fisherman's Wharf so he could drive him to the police station, without mentioning where the station was. **Park Station is 0.7 miles from {{pc:4}}'s front door — a fifteen-minute walk, downhill.** He crossed the city to the Wharf, was left standing there, and paid for a Waymo back past his own neighbourhood to arrive late. **{{pc:5}} was quietly delighted.**
 
-It works because it is deniable: **Chinatown to Fisherman's Wharf is about a mile**, so the meeting point is entirely natural from {{pc:5}}'s side. The joke lands when they turn onto Stanyan and {{pc:4}} recognises the block.
+It works because it is deniable: **Chinatown to Fisherman's Wharf is about a mile**, so the meeting point is entirely natural from {{pc:5}}'s side.
 
-**Established by this:** {{pc:5}} will spend real effort on a joke at a friend's expense and keep a straight face throughout; {{pc:4}} takes it without escalating. Useful texture for a pair with no prior bond on either sheet.
+**Established by this:** {{pc:5}} will spend real effort on a joke at a friend's expense, will let it cost the friend actual money and standing, and will say nothing afterwards; {{pc:4}} takes it without escalating and may not have worked out it was deliberate. Useful texture for a pair with no prior bond on either sheet.
 
 ### §38 Ep 5 played — new canon (2026-08-29)
 

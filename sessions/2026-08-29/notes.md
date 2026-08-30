@@ -215,8 +215,11 @@ shaped rainbow sprinkles. **He loved it unironically.**
 **{{pc:4}} made an ass of himself again and Alaia went and talked with {{pc:5}}
 instead**, at length, like grown-ups — the railing beat, arriving on its own.
 
-**The notebook changed hands.** {{pc:4}} handed it to {{pc:3}} to curry favour,
-his usual approach having failed in a way that visibly confused him.
+**The notebook changed hands — DM-forced, not player-initiated.** {{pc:4}} handed
+it to {{pc:3}}. **It carries the right weight in the fiction** (a man reaching for
+a different tool because the usual one failed) **but it is not evidence the
+player is arriving at anything.** Do not read it as progress on the persona
+ladder.
 
 **{{pc:3}}'s read — the 10–11 band.** She photographed every page on the theory
 that **the page count might change on its own** (a genuinely good theory), then
