@@ -31,11 +31,24 @@ official records. **Ortiz cut him off**: too much, none of it relevant, and she
 was fairly direct about thinking he was full of himself. Nobody at the table has
 actually disproved the theory, mind.
 
-**And then {{pc:4}} did the thing nobody in that room expected.** He looked at the
-two dates — 2018 and 2025 — and said out loud why a gap like that gets a file
-pulled and looked at again. He was right, and he got there first. Ortiz stopped,
-turned back to him, and told him she'd written him off as the idiot of the group
-— *and that he was not as dumb as he'd made her believe.*
+**And then {{pc:4}} won her back, and I want to be specific about how, because it
+was the best play of the night and it happened fast enough to miss.**
+
+Ortiz had stopped listening to him. She'd cut him off, told him he was full of
+himself, and gone back to talking to {{pc:1}}. Then {{pc:4}} looked at the two
+dates on the page — 2018 and 2025 — and said out loud why a seven-year gap is
+exactly the thing that gets an old file pulled and read again.
+
+He was right. **He got there before anyone else at the table**, including the one
+person in the room whose father is on that page. Ortiz stopped, turned back to
+him, and told him she'd written him off as the idiot of the group — *and that he
+was not as dumb as he'd made her believe.* Then she talked to him for the rest of
+the meeting.
+
+**For the record: none of that was planned.** That was {{pc:4}} doing the
+arithmetic in about nine seconds with no speech attached, and Ortiz's opinion of
+him changing in front of everyone because of it. I adjusted on the fly and it
+made the scene better than what I'd written.
 
 **And then a clerk fixed it.** Mateo noticed the 2018 record was filed under the
 wrong case number and tidied it into the right one. He was correct. He fixed a
@@ -130,9 +143,11 @@ you'd rather.**
   mostly be buying the first and last, and that lock beat you tonight — but it's
   one category and it comes as a set, so pick it knowing that.
 - **{{pc:4}}** — *Ortiz as a relationship*, or *Mateo as a relationship.* Ortiz is
-  the harder of the two and probably the more interesting: you spent the morning
-  losing that room and then won a piece of it back, and a detective who takes your
-  call is a different kind of asset from one who merely tolerates you. Mateo is
+  the harder of the two and probably the more interesting — she started the
+  morning dismissing you and ended it revising that out loud, on the strength of
+  the dates catch. **A detective who takes your call is a very different asset
+  from one who tolerates you**, and you're the only person at the table with a
+  foot in that door. Mateo is
   the easier read — he likes you, he has database access, and he's already done
   you one favour. A resource works too, if you'd rather have a thing than a
   person.

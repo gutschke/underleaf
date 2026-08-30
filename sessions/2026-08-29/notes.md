@@ -337,3 +337,17 @@ against their alignment or their established personality.*
 > **Prefer NPCs who are load-bearing going forward, and prefer a difficult one
 > the PC has actually moved** — Ortiz revising her opinion of {{pc:4}} in public
 > is worth more than an easy yes.
+
+> **Recap-writing note, learned here.** {{pc:4}}'s catch was first written as
+> *"you won a piece of that room back"* — which is meaningless to a player who
+> does not remember doing it. **He also had no way to know it was unplanned**, so
+> he could reasonably read Ortiz's turnaround as a scripted beat rather than as
+> his own doing.
+>
+> **When a player achieves something the DM did not write, say so explicitly in
+> the recap:** what they did, that they got there first, what changed as a
+> result, and that it was not planned. **The credit is worthless if the player
+> cannot tell it is theirs.**
+>
+> Applies generally, and especially to a player who may not have registered the
+> moment at all.
