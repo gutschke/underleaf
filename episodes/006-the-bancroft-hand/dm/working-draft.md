@@ -31,12 +31,12 @@ have to be answered here, not deferred.**
 
 ## Open questions the DM must answer before this is written
 
-1. **Did {{pc:4}}'s Phase-2 realization fire in Ep 5?** He was shut down twice
-   for oversharing — by Ortiz, then implicitly by Alaia walking off to talk to
-   {{pc:5}} — and then handed over the notebook when his usual approach failed
-   "in a way that confused him." **That confusion is the shape of a realization
-   that has not yet been understood.** If the player showed any sign of catching
-   himself, Ep 6 owes him a private scene. If not, the window is Eps 6–7.
+1. **Did {{pc:4}}'s Phase-2 realization fire in Ep 5?** Probably not yet — but he
+   has now been *shown* the thing rather than told it. The persona failed twice,
+   then the substance worked, and **Ortiz said so out loud.** He has the evidence.
+   **Watch Ep 6 for whether he does it on purpose**: reaches for the performance,
+   drops it, and does the thinking instead. **That is the realization arriving
+   under its own power, and it is now plausible without any DM push.**
 2. **What is Bea's colour-coding scheme?** Undecided. It should be something Bea
    could hold in her head and nobody else could reconstruct. **Not needed for
    Ep 6, but the party will keep chewing on it.**
@@ -47,9 +47,10 @@ have to be answered here, not deferred.**
    | Rung | What it is | Status |
    |---|---|---|
    | 1 | NPCs stop rewarding it — Ortiz cuts him off, Alaia walks away mid-pitch | **Fired twice in Ep 5.** He did not notice either. |
+   | 3 | An NPC names it kindly and directly | **FIRED IN EP 5, unplanned, and it landed.** Ortiz, after he beat {{pc:1}} to the date gap: she had discounted him as the idiot of the group, and he was *not as dumb as he had made her believe*. |
    | 2 | Other PCs say it to his face | Available. Cheap. **Try this first in Ep 6.** |
-   | 3 | An NPC names it kindly and directly — Rosa is well suited, being old enough not to care | Available Ep 6. |
-   | 4 | **A private written note to the player** | **WRITTEN AND HELD** at `tmp/player-notes/dakota-persona-note.pdf`. Not episode-scoped — check it every prep cycle until used or retired. |
+   
+   | 4 | **A private written note to the player** | **HELD, and now less likely to be needed.** `tmp/player-notes/dakota-persona-note.pdf`. **Rewrite it around Ortiz's line before ever using it** — it currently assumes he has had no in-fiction signal, which is no longer true. |
 
    **The note is deliberately not an instruction to change how he plays Dakota.**
    It offers one specific, optional beat — Dakota noticing it has stopped working

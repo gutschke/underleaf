@@ -89,14 +89,30 @@ standing.**
 ## Ortiz shuts {{pc:4}} down
 
 She cut off the rambling as **too much information, none of it relevant to what
-she is actually doing.** She offered to forward notes to colleagues in other
-departments, and by the end of the interview that read as politeness rather than
-intent.
+she is actually doing** — she had written him off as an idiot too full of himself
+and told him so, more or less to his face. She offered to forward notes to
+colleagues in other departments, and that read as politeness rather than intent.
 
-> **This is the designed level-2 consequence, and it fired without being
-> engineered.** The run-guide's fallback for {{pc:4}} managing the room was
-> exactly this: a tired detective stops treating him as a source. **It landed on
-> its own, from his own choices.** Note it privately, say nothing.
+> **AND THEN HE EARNED IT BACK, WHICH NOBODY PLANNED.** {{pc:4}} was the one who
+> spotted the dates on the two documents and said why that gap would attract
+> attention. **That was written as {{pc:1}}'s line.** {{pc:4}} got there a moment
+> first, the DM let it stand, and the scene was trivially easy to adjust.
+>
+> Ortiz turned her attention back to him, genuinely surprised, and **named the
+> persona out loud**: she had discounted him as the idiot of the group, he was
+> not as dumb as he had *made her believe*, and he had actually done the
+> arithmetic. Then she gave him the rest of {{pc:1}}'s material.
+>
+> **This is the strongest thing {{pc:4}} has done in five sessions**, and it is
+> the first time the substance worked *after* the performance had failed. See the
+> escalation-ladder note below — this changes it.
+
+> **The designed level-2 consequence fired without being engineered** — a tired
+> detective stopped treating him as a source. **Then rung 3 of the persona ladder
+> fired too, also unplanned:** Ortiz named the performance directly and kindly,
+> in the same breath as crediting the work.
+>
+> **That is two rungs spent in one scene, and the second one landed cleanly.**
 
 **To check before writing Ep 6:** did {{pc:4}}'s player notice it cost him
 anything? If he reached for the circuitous version and then caught himself at
@@ -301,7 +317,7 @@ against their alignment or their established personality.*
 | **{{pc:1}}** | chaotic-good · goes quiet, watches, decides | Tech mastery · a records-database contact | **Clean.** Both are extensions of what he already is. A contact suits a former red-teamer without requiring him to be sociable. |
 | **{{pc:2}}** | chaotic-neutral · acts unilaterally, explains later | Medic mastery · Alaia | **Clean.** Medic is her identity. The Alaia bond formed organically in play. |
 | **{{pc:3}}** | chaotic-good · quiet watcher | +1 DEX · Subterfuge mastery | **Clean, with a disclosure.** She already has Subterfuge at +1 and already picks locks. But the category is **stealth, lying, manipulation and theft** — she is buying all four, and chaotic-good means she will realistically only use two. **Told her so explicitly** rather than selling her the lockpicking half. |
-| **{{pc:4}}** | lawful-evil *(personal code; will sacrifice others for the plan)* · acts unilaterally | Mateo · Vivian | **Clean, after a change.** A callable NPC is exactly how this character uses people, so no conflict. **Ortiz was withdrawn as an option** — she shut him down this session, so offering her was offering something he has not got. Vivian substituted: she handed him her father's notebook, which is earned. |
+| **{{pc:4}}** | lawful-evil *(personal code; will sacrifice others for the plan)* · acts unilaterally | **Ortiz · Mateo** | **Clean.** A callable NPC is exactly how this character uses people, so no conflict. **Ortiz is back on the table and is the interesting one** — she wrote him off and then publicly revised, which is a real foundation, and a detective who takes his call is a different asset from one who tolerates him. Mateo is the easier read. **Vivian was considered and dropped:** she is 98, will die at some point, and is already reduced to mailing things rather than appearing — a relationship advancement spent on her would quietly stop paying. **Do not push him toward any of them.** |
 | **{{pc:5}}** | chaotic-neutral · argues, turns it into a debate | a new focus · Alaia | **Clean.** The new focus also quietly serves his arc, which needs him less dependent on the pistol. |
 
 > **The rule this check enforces:** never offer a PC an advancement they cannot
@@ -313,3 +329,11 @@ against their alignment or their established personality.*
 > and do not know what the skill categories cover. **"Category mastery" was
 > unpickable as written.** Every category a PC actually holds is now spelled out
 > in the post. **Do this every time advancement comes up.**
+
+> **On choosing NPC-relationship targets generally — learned here.** An NPC is a
+> poor target for this advancement if they are **structurally on their way out of
+> the game**, however warm the relationship is. Vivian is the worked example: real
+> affection, a real gift, and a hard floor on how much more she can appear.
+> **Prefer NPCs who are load-bearing going forward, and prefer a difficult one
+> the PC has actually moved** — Ortiz revising her opinion of {{pc:4}} in public
+> is worth more than an easy yes.

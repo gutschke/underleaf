@@ -27,9 +27,15 @@ a fake.
 {{pc:4}} also offered Ortiz his full theory of the case — that every archivist
 has worked for the same insurance company, that the company is the thing behind
 all of this, and that Bea keeps her records off-site so they can never become its
-official records. **Ortiz cut him off**: too much, and none of it relevant to what
-she was doing. She offered to pass notes to other departments. Nobody at the
-table has actually disproved any of it.
+official records. **Ortiz cut him off**: too much, none of it relevant, and she
+was fairly direct about thinking he was full of himself. Nobody at the table has
+actually disproved the theory, mind.
+
+**And then {{pc:4}} did the thing nobody in that room expected.** He looked at the
+two dates — 2018 and 2025 — and said out loud why a gap like that gets a file
+pulled and looked at again. He was right, and he got there first. Ortiz stopped,
+turned back to him, and told him she'd written him off as the idiot of the group
+— *and that he was not as dumb as he'd made her believe.*
 
 **And then a clerk fixed it.** Mateo noticed the 2018 record was filed under the
 wrong case number and tidied it into the right one. He was correct. He fixed a
@@ -123,10 +129,13 @@ you'd rather.**
   second one buys: **stealth, lying, manipulation and theft, all four.** You'd
   mostly be buying the first and last, and that lock beat you tonight — but it's
   one category and it comes as a set, so pick it knowing that.
-- **{{pc:4}}** — *Mateo as a relationship* (he likes you, he has database access,
-  and he already did you one favour), or *Vivian as a relationship* (she handed
-  you her father's notebook — that's real, and it's yours). A resource works too
-  if you'd rather have a thing than a person.
+- **{{pc:4}}** — *Ortiz as a relationship*, or *Mateo as a relationship.* Ortiz is
+  the harder of the two and probably the more interesting: you spent the morning
+  losing that room and then won a piece of it back, and a detective who takes your
+  call is a different kind of asset from one who merely tolerates you. Mateo is
+  the easier read — he likes you, he has database access, and he's already done
+  you one favour. A resource works too, if you'd rather have a thing than a
+  person.
 - **{{pc:5}}** — *a new focus*, or *Alaia as a relationship.* The focus is worth
   thinking about — your current one is an object you can't take everywhere, as
   this morning demonstrated.
