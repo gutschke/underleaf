@@ -230,6 +230,12 @@ are not blockers; they are things that must not go quiet.
   named? A register with no room is indistinguishable from one that does not
   exist, and the DM will wrongly conclude the player is not using it.
 - **Reserve player notes** — `tmp/player-notes/`. Used, still held, or retired?
+- **What does each PC want?** — has play taught us anything since last time; is
+  any hypothesis now confident enough to write onto a sheet? **This is upside, not
+  a gap: campaigns run fine without it and "nothing new" is usually the right
+  answer.** **Do not ask the players yet** — they are still learning what kind of
+  story this is, and a goal named too early is a made-up answer that then has to
+  be honoured. Revisit whenever an episode carries an arc-node.
 
 **Add to this list rather than solving prematurely.** A question reviewed ten
 times and answered on the eleventh is a better outcome than one answered early to
