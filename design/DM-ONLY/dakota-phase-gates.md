@@ -83,6 +83,59 @@ and he would have no story for it.
 
 ---
 
+## STATUS: OPEN, HIGH PRIORITY — revisit every authoring and play cycle
+
+**No decision yet, as of 2026-08-30.** The DM's position:
+
+- **(c) "trying to be ignored" is the least-bad answer available** — provisional,
+  not adopted.
+- **The permanent-tax fallback is acceptable but unsatisfying.** Do not drift into
+  it by default.
+- **This is a standing agenda item.** Look at it while writing each episode and
+  again after each session. It does not need solving in one go; it needs not being
+  forgotten.
+
+---
+
+## The prerequisite nobody has checked: is there a {{pc:4}} underneath?
+
+**Raised by the DM, and it may be the actual blocker.**
+
+Every realization gate proposed above requires a {{pc:4}} who is **not
+performing** — silent, off-duty, trying to be ignored. **But he runs six personas,
+and it is not clear the player knows who the character is when none of them are
+on.** If that mode has never been played, we are gating realization on a register
+that does not yet exist.
+
+> **So the gate is not the first problem. The first problem is that the
+> un-performed {{pc:4}} may need to be discovered before it can be used.**
+
+**There is a real seed for it, and it is already canon.** `personaDropCanon`,
+established Ep 3 scene 03: *with certain older or vulnerable NPCs — Vivian Loewe,
+Bea Ferro — {{pc:4}} can drop his public persona entirely: quiet, careful, gentle,
+patient.* **That has been played. It exists. The player found it himself.**
+
+**That is the register the realization gate needs, and it already has a home:
+elders who cannot be performed at.** It is also, not coincidentally, the register
+the player says he is most confident is distinct and which has never had a scene
+of its own.
+
+### What this means for the work, in order
+
+1. **Give the un-performed register rooms.** Rosa in Ep 6 is an elder in her own
+   kitchen who cannot be performed at — the same shape that worked with Vivian and
+   Bea. **A short beat alone with the pipe and a speech, no audience, is the other
+   half.**
+2. **See what the player does with them**, and whether a consistent
+   not-performing {{pc:4}} emerges. **Do not name it or ask him to define it** —
+   this one has to be found by playing, not by specification.
+3. **Only then place the realization gate**, in a scene where that register is
+   already running. It will land because there is someone there for it to land on.
+
+**Attempting step 3 before step 1 is why this has felt hard.**
+
+---
+
 ## The player-preference conflict — decide deliberately, do not drift
 
 **The player's stated want** *(from a simulated read; confirm with him before

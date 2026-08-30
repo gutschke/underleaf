@@ -86,7 +86,16 @@ six and switches deliberately; nobody has ever remarked on one. See his sheet,
 have put him in a group scene extracting information from a stranger. **That is
 the orator's room every time.** Several registers have never had a scene at all.
 
-**Ep 6 owes him one room that is not that room.** Rosa's house is well suited —
+**Ep 6 owes him one room that is not that room, and it now does double duty.** Per
+`dakota-phase-gates.md`, his realization gate is blocked behind a prerequisite:
+**there needs to be a {{pc:4}} who is not performing, and it is unclear the player
+knows who that is.** The seed is canon — he already drops the persona with elders
+(Vivian, Bea), and the player found that himself.
+
+**Rosa is exactly that shape**, so this episode is where the un-performed register
+gets its first deliberate room. **Do not name it, do not signal it, and do not
+place the realization gate here** — the point is to find out whether the register
+emerges when given space. Rosa's house is well suited —
 an elder, in her own kitchen, who cannot be performed at. The strongest single
 candidate, and cheap: **a short beat where {{pc:4}} is alone with the pipe and a
 speech and nobody to perform for.** That private register has never been seen in

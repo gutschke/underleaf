@@ -204,3 +204,23 @@ miss a beat entirely, including one aimed squarely at them. **If two in-fiction
 signals pass unnoticed, say it out of fiction** — a private note, or a
 conversation before the session. Escalating the fiction past the point of
 noticing does not eventually work; it just makes the world feel arbitrary.
+
+---
+
+## 12. Standing agenda — check these every authoring cycle
+
+Some questions are too big to settle in one pass and too important to lose. They
+are not blockers; they are things that must not go quiet.
+
+- **{{pc:4}}'s realization gate** — `dakota-phase-gates.md`. Open, high priority.
+  Provisional answer is *the effect lands when he is trying to be ignored*; the
+  permanent-tax fallback is acceptable but unsatisfying and **must not be arrived
+  at by drift**. Blocked behind a prerequisite: giving his un-performed register
+  rooms so it exists to be used.
+- **The persona-list ask** — has the player sent his list? Has each register had a
+  scene since?
+- **Reserve player notes** — `tmp/player-notes/`. Used, still held, or retired?
+
+**Add to this list rather than solving prematurely.** A question reviewed ten
+times and answered on the eleventh is a better outcome than one answered early to
+close it.
