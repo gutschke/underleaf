@@ -244,6 +244,16 @@ found the kitchen window left open for the cat**, went through, found nothing
 unusual, and opened the front door from inside — **which dislodged the index
 card.** {{pc:3}} picked it up. **NIA CHEN.**
 
+> **{{pc:3}} pushed a second time, and it cost her — mark one stress.** She tried
+> to read the house the way she had read the notebook that afternoon, looking for
+> anything out of place. **Nothing, and a mild headache.** She accepted it and
+> moved on without remarking on it.
+>
+> **This is the first price she has paid for a reading, and she has not connected
+> the two.** Do not connect it for her. **But it is now available**: a second
+> headache after a second push, in a later session, is a pattern she can find
+> herself — and finding it herself is the whole shape of her realization.
+
 A brief search found nothing useful: shoeboxes of index cards on a scheme they
 could not crack — **not chronological, thematic or alphabetical, but elaborately
 colour-coded.** {{pc:4}} took personal offence at the drabness and the total

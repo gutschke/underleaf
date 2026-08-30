@@ -48,7 +48,7 @@
     "**Dakota Whitmore (Slot 4)** — he handed her Loewe's notebook at Caffè Strada, unprompted, after two sessions of holding it. She read the excision the same afternoon. Neither of them has said anything about it."
   ],
   "harm": 0,
-  "stress": 0,
+  "stress": 1,
   "advancements": 0,
   "marks": 5,
   "knowsTheyCanCast": false,
@@ -60,7 +60,8 @@
     "castDomain": "memory / identity — a name resurfaces when it should not, a face on a photograph steadies, someone remembers something the world forgot. Costs her sleep-thoughts and dream weight. Ep 3 established a specific power: outline-vision on erased/edited artifacts (default Free grant on strong intent; precision scales with Insight roll 10+/12+; third use in a scene triggers stress check per rules.md).",
     "loadBearingIrony": "Dakota's 'gullible follower' bond targets her. Dakota genuinely believes Mira agrees with everything he says because she rarely contradicts him. She's not gullible — she's *watching*. This is the party's private dramatic irony. If she ever contradicts him openly, that's an act break for Dakota's arc.",
     "alignmentDriftWatch": "If she ever gets confirmation about Kai, the drift will not be toward chaos — it will be toward *lawful*. She'll want to make the world *behave*.",
-    "focusNotes": "The note is her one true possession. If it is destroyed, the game changes."
+    "focusNotes": "The note is her one true possession. If it is destroyed, the game changes.",
+    "firstStress": "**FIRST STRESS BOX — Ep 5, and she has not noticed what it means.** After reading the notebook's excision at Caffè Strada, she pushed a second time at Bea's house, looking for anything out of place. **Nothing, and a mild headache.** She accepted the answer and moved on.\n\n**She has not connected the headache to the reading. Do not connect it for her.** **But it is now a live thread:** a second headache after a second push, in a later session, is a pattern she can find herself — and finding it herself is the whole shape of her realization. **Per rules, realization is per-PC and private; never a table beat.**"
   },
   "markBullets": {
     "hardMoment": true,

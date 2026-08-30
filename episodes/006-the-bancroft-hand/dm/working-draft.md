@@ -49,7 +49,7 @@ have to be answered here, not deferred.**
    | 1 | NPCs stop rewarding it — Ortiz cuts him off, Alaia walks away mid-pitch | **Fired twice in Ep 5.** He did not notice either. |
    | 2 | Other PCs say it to his face | Available. Cheap. **Try this first in Ep 6.** |
    | 3 | An NPC names it kindly and directly — Rosa is well suited, being old enough not to care | Available Ep 6. |
-   | 4 | **A private written note to the player** | **WRITTEN AND HELD.** `tmp/ep5-planning/beck-reserve-note.pdf` |
+   | 4 | **A private written note to the player** | **WRITTEN AND HELD** at `tmp/player-notes/dakota-persona-note.pdf`. Not episode-scoped — check it every prep cycle until used or retired. |
 
    **The note is deliberately not an instruction to change how he plays Dakota.**
    It offers one specific, optional beat — Dakota noticing it has stopped working

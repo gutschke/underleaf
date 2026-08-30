@@ -162,3 +162,21 @@ factor, and check each gate against the running total.
 Declaring that one document "owns the budget" and then printing figures in the
 other is how they diverge — the fix is to make them agree and say which one
 wins in a disagreement, not to pretend only one exists.
+
+---
+
+## 10. Reserve player-notes do not live in episode folders
+
+A private note written for one player is often written *during* prep for the
+episode that prompted it — and then the episode gets played, the folder becomes
+a played record, and **the note is filed away with it, unused.**
+
+**Put reserve notes in `tmp/player-notes/`, never in an episode directory.**
+Point at them from the PC's own `dmNotes`, which is the document you actually
+re-read every cycle. Add a line saying **check this every prep cycle until it is
+used or retired** — because a note that survives one unused cycle will survive
+every subsequent one by default.
+
+**Delaying a reserve note is a legitimate decision. Delaying it by forgetting is
+not.** If the escalation rungs below it are not actually being spent in the
+meantime, the delay is a drop.

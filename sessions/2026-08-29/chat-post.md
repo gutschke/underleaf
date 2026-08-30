@@ -91,8 +91,8 @@ your pick before Saturday — one line is fine.
 2. **Category mastery** — a skill you have at +1 becomes +2.
 3. **A new tag** — a specific bit of expertise, in your own words. *Worth +1
    whenever the fiction makes it relevant, which in practice is often.*
-4. **A new focus** — a second object that means something to you. *Your focus has
-   to be with you to anchor a casting, so a second one is insurance.*
+4. **A new focus** — a second object that means something to you, with its own
+   domain. *Useful mostly because the one you have isn't always on you.*
 5. **A relationship with an NPC** — they turn up when **you** call for them,
    instead of when the plot needs them.
 6. **A resource** — a safe house, equipment, or a contact who can do a specific
@@ -112,8 +112,8 @@ else if you'd rather.**
   she's the one who actually opens doors). Or a resource, if you'd rather have a
   thing than a person.
 - **{{pc:5}}** — *a new focus*, or *Alaia as a relationship.* The focus is worth
-  thinking about — everything you do currently runs through one object you can't
-  take everywhere, as this morning demonstrated.
+  thinking about — your current one is an object you can't take everywhere, as
+  this morning demonstrated.
 
 **Not sure? Say so and I'll talk it through.**
 
