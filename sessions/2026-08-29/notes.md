@@ -288,3 +288,28 @@ different grand scheme, and either is correct.** The durable trait is the serial
 enthusiasm, not the mayoralty. Never resolve it, never make it a real campaign,
 and **do not call back an abandoned scheme** — nobody in the fiction keeps score.
 *(Except Ren and Maya, who absolutely would, about the donations.)*
+
+---
+
+## Advancement offers — alignment/personality check
+
+*Run before the chat post went out. No offer should require a player to act
+against their alignment or their established personality.*
+
+| PC | Alignment · temperament | Offered | Verdict |
+|---|---|---|---|
+| **{{pc:1}}** | chaotic-good · goes quiet, watches, decides | Tech mastery · a records-database contact | **Clean.** Both are extensions of what he already is. A contact suits a former red-teamer without requiring him to be sociable. |
+| **{{pc:2}}** | chaotic-neutral · acts unilaterally, explains later | Medic mastery · Alaia | **Clean.** Medic is her identity. The Alaia bond formed organically in play. |
+| **{{pc:3}}** | chaotic-good · quiet watcher | +1 DEX · Subterfuge mastery | **Clean, with a disclosure.** She already has Subterfuge at +1 and already picks locks. But the category is **stealth, lying, manipulation and theft** — she is buying all four, and chaotic-good means she will realistically only use two. **Told her so explicitly** rather than selling her the lockpicking half. |
+| **{{pc:4}}** | lawful-evil *(personal code; will sacrifice others for the plan)* · acts unilaterally | Mateo · Vivian | **Clean, after a change.** A callable NPC is exactly how this character uses people, so no conflict. **Ortiz was withdrawn as an option** — she shut him down this session, so offering her was offering something he has not got. Vivian substituted: she handed him her father's notebook, which is earned. |
+| **{{pc:5}}** | chaotic-neutral · argues, turns it into a debate | a new focus · Alaia | **Clean.** The new focus also quietly serves his arc, which needs him less dependent on the pistol. |
+
+> **The rule this check enforces:** never offer a PC an advancement they cannot
+> play without violating their alignment or their intrinsic personality. If an
+> option is only half-usable for them, **say which half** rather than letting
+> them find out later.
+
+> **Second thing this surfaced:** the players have never seen `world/rules.md`
+> and do not know what the skill categories cover. **"Category mastery" was
+> unpickable as written.** Every category a PC actually holds is now spelled out
+> in the post. **Do this every time advancement comes up.**

@@ -88,9 +88,17 @@ your pick before Saturday — one line is fine.
 **The six options:**
 
 1. **+1 to a stat** — STR, DEX, CON, INT, WIS or CHA. Always solid.
-2. **Category mastery** — a skill you have at +1 becomes +2.
-3. **A new tag** — a specific bit of expertise, in your own words. *Worth +1
-   whenever the fiction makes it relevant, which in practice is often.*
+2. **Category mastery** — one of your skills goes from +1 to +2. What each of
+   yours actually covers:
+   - **Subterfuge** — stealth, lying, manipulation, theft.
+   - **Insight** — perception, reading people, noticing patterns.
+   - **Tech** — computers, devices, networks, code.
+   - **Medic** — first aid, treatment, diagnostics.
+   - **Influence** — persuasion, performance, leadership.
+   - **Knowledge** — academic recall, research, analysis.
+3. **A new tag** — a specific bit of expertise, in your own words ("competition
+   climber", "fluent in Mandarin"). *Worth +1 whenever the fiction makes it
+   relevant.*
 4. **A new focus** — a second object that means something to you, with its own
    domain. *Useful mostly because the one you have isn't always on you.*
 5. **A relationship with an NPC** — they turn up when **you** call for them,
@@ -98,19 +106,27 @@ your pick before Saturday — one line is fine.
 6. **A resource** — a safe house, equipment, or a contact who can do a specific
    thing you can't.
 
-**Two concrete options each. These are prompts, not a shortlist — take something
-else if you'd rather.**
+*One note on stacking: you get at most +2 total from skills on any roll — one
+category plus one tag, or two tags. Beyond that it's your stat that moves the
+needle.*
 
-- **{{pc:1}}** — *Tech mastery*, or *a contact with a real records-database
-  account.* You were told tonight, in as many words, that you need one.
-- **{{pc:2}}** — *Medic mastery*, or *Alaia as a relationship.* You two got on,
-  she works emergencies at the other end of the state, and she'd come.
-- **{{pc:3}}** — *+1 DEX*, or *Subterfuge mastery.* That lock beat you and you're
-  the party's way through doors.
+**Two concrete options each. Prompts, not a shortlist — take something else if
+you'd rather.**
+
+- **{{pc:1}}** — *Tech mastery* (+2 on computers, devices, networks, code), or
+  *a contact with a real records-database account.* You were told tonight, in as
+  many words, that you need one.
+- **{{pc:2}}** — *Medic mastery* (+2 on first aid, treatment, diagnostics), or
+  *Alaia as a relationship.* You two got on, she works emergencies at the other
+  end of the state, and she'd come.
+- **{{pc:3}}** — *+1 DEX*, or *Subterfuge mastery.* Worth being clear what the
+  second one buys: **stealth, lying, manipulation and theft, all four.** You'd
+  mostly be buying the first and last, and that lock beat you tonight — but it's
+  one category and it comes as a set, so pick it knowing that.
 - **{{pc:4}}** — *Mateo as a relationship* (he likes you, he has database access,
-  and he already did you one favour), or *Ortiz as a relationship* (harder, but
-  she's the one who actually opens doors). Or a resource, if you'd rather have a
-  thing than a person.
+  and he already did you one favour), or *Vivian as a relationship* (she handed
+  you her father's notebook — that's real, and it's yours). A resource works too
+  if you'd rather have a thing than a person.
 - **{{pc:5}}** — *a new focus*, or *Alaia as a relationship.* The focus is worth
   thinking about — your current one is an object you can't take everywhere, as
   this morning demonstrated.
