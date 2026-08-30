@@ -180,3 +180,27 @@ every subsequent one by default.
 **Delaying a reserve note is a legitimate decision. Delaying it by forgetting is
 not.** If the escalation rungs below it are not actually being spent in the
 meantime, the delay is a drop.
+
+---
+
+## 11. Misdirection has a limit, and PC-facing signals are where it bites
+
+Withholding is this campaign's default and it is usually right. **But the same
+instinct applied to a signal a *player* needs produces a different failure:** the
+player concludes nothing is happening.
+
+**The tell is an NPC being warm when they have no reason to be.** Warmth is the
+default setting for most NPCs here, and it is quietly the wrong signal when a PC
+has a habit that is supposed to be costing them. Every NPC who politely tolerates
+the habit teaches the player that the habit works.
+
+**So: be blunt at intervals, in fiction, through NPCs who have no reason to be
+patient.** Make the cost concrete and immediate rather than something the player
+can rationalise as bad luck. Keep the warm NPCs warm — they are not the
+instrument.
+
+**And do not assume a beat landed because it was well-constructed.** A player can
+miss a beat entirely, including one aimed squarely at them. **If two in-fiction
+signals pass unnoticed, say it out of fiction** — a private note, or a
+conversation before the session. Escalating the fiction past the point of
+noticing does not eventually work; it just makes the world feel arbitrary.
