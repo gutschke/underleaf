@@ -195,9 +195,18 @@ has a habit that is supposed to be costing them. Every NPC who politely tolerate
 the habit teaches the player that the habit works.
 
 **So: be blunt at intervals, in fiction, through NPCs who have no reason to be
-patient.** Make the cost concrete and immediate rather than something the player
-can rationalise as bad luck. Keep the warm NPCs warm — they are not the
-instrument.
+patient.** Keep the warm NPCs warm — they are not the instrument.
+
+**But check what the cost actually is for that PC before spending it.** A habit
+that looks like it should be expensive may be free, or even rewarding. *(Worked
+example: one PC enjoys irritating people, so every exasperated NPC was feeding
+the habit the DM meant to price. What cost him was an NPC who was simply
+unmoved.)* **Ask the player, or read their sheet, before assuming friction
+hurts.**
+
+**And prefer contrast to punishment.** The same NPC giving nothing for the habit
+and something for its absence, close together, teaches more than any amount of
+consequence.
 
 **And do not assume a beat landed because it was well-constructed.** A player can
 miss a beat entirely, including one aimed squarely at them. **If two in-fiction
@@ -217,8 +226,9 @@ are not blockers; they are things that must not go quiet.
   permanent-tax fallback is acceptable but unsatisfying and **must not be arrived
   at by drift**. Blocked behind a prerequisite: giving his un-performed register
   rooms so it exists to be used.
-- **The persona-list ask** — has the player sent his list? Has each register had a
-  scene since?
+- **Registers** — has each of a PC's declared registers had a scene since it was
+  named? A register with no room is indistinguishable from one that does not
+  exist, and the DM will wrongly conclude the player is not using it.
 - **Reserve player notes** — `tmp/player-notes/`. Used, still held, or retired?
 
 **Add to this list rather than solving prematurely.** A question reviewed ten
