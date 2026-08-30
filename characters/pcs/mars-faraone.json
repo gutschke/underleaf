@@ -47,12 +47,13 @@
       "name": "Morgan Reyes",
       "type": "PC",
       "description": "The War Thunder friend, Taipei co-conspirator. Closer than either says."
-    }
+    },
+    "**Alaia Vega** — the Bodie ranger. She remembered him making cocoa at the Union Hall, and when Dakota's antics stalled at Caffè Strada she spent a long stretch talking with Mars instead. Two people who are responsible for others at work."
   ],
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 4,
+  "marks": 5,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -69,7 +70,7 @@
     "learned": true,
     "risk": true,
     "against": true,
-    "complication": false
+    "complication": true
   },
   "markLog": [
     {
@@ -102,6 +103,13 @@
       "bullet": "hardMoment",
       "criterion": "Resolved a hard moment by acting in line with alignment",
       "note": "The door at Vivian's. His first attempt fumbled when Priya interrupted; he regrouped, leaned on the railing and named the honest thing — that he needed to see for himself. Elena let all five in. He does not know he cast anything."
+    },
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "bullet": "complication",
+      "criterion": "Took on a complication or scar that will matter later",
+      "note": "A concealed-carry permit holder logged at Park Station that morning and standing inside an unlawfully entered house that evening."
     }
   ],
   "inventory": {

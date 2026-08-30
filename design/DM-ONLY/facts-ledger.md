@@ -1415,3 +1415,25 @@ Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section;
 It works because it is deniable: **Chinatown to Fisherman's Wharf is about a mile**, so the meeting point is entirely natural from {{pc:5}}'s side. The joke lands when they turn onto Stanyan and {{pc:4}} recognises the block.
 
 **Established by this:** {{pc:5}} will spend real effort on a joke at a friend's expense and keep a straight face throughout; {{pc:4}} takes it without escalating. Useful texture for a pair with no prior bond on either sheet.
+
+### §38 Ep 5 played — new canon (2026-08-29)
+
+**In-game date pinned: Monday 15 February 2027.** Bodie was Thursday 11 Feb, Sacramento Saturday 13 Feb, and **Rosa's is Saturday 20 February**. The spine is now absolute, not relative.
+
+**Farallon Mutual Casualty (FMC)** — Bea's employer, named for the first time. A Bay Area insurer; she spent ~40 years there on improbable-loss and "act of God" claims and retired from it. **Ordinary company, no knowledge of the index.** Her index was always private and never company property.
+
+> **{{pc:4}}'s FMC theory is live and undisputed:** all archivists worked there; FMC is the institution behind everything; Bea keeps records off-site so they cannot become FMC's official record. **Do not decide.** Wrong in the productive way — it invents an institution for a pattern that has none — while also being exactly the cheap self-consistent shape reality would produce to make archivist succession look ordinary.
+
+**Alaia has seen a ledger, and did not know what it was.** Shown a photograph at Caffè Strada, she recognised it: one like it lay on her mother's kitchen table years ago. **She retains no detail.** This is the first time she has had a word for it. It also gave her referral to Rosa a real motive — she needs somebody else to look at her own house — and she still refuses to be mentioned to her mother.
+
+**Rosa on the telephone.** Put the party on hold by setting the receiver down without muting it, audibly worked a paper calendar muttering about square dancing, church group and doctor's appointments, offered Saturday, said **"8:20am sharp"** and hung up **without giving an address.** Alaia supplied the Berkeley Hills address and advised arriving by **8:15 to make an impression.**
+
+**Bea's index cards are colour-coded**, elaborately, on a scheme the party could not crack — **not chronological, thematic, or alphabetical.** *(Undecided. Whatever it is, it should be something Bea could hold in her head and nobody else could reconstruct.)* Dakota was personally offended by the drabness and the absence of hot pink.
+
+**The cat is canon and now has standing.** Bea's sheet already had a neighbour's cat treating her kitchen as a second home. It cornered {{pc:4}}, was asked whether it was Bea, said meow, and herded the party to the cabinet. **{{pc:3}} fed it.** The kitchen window was open for it — which is how the party got in.
+
+**The party has photographs of Ortiz's page, not the page.** Taken both surreptitiously and at her prompting. **The physical document went back with the reclassification.**
+
+**{{pc:3}}'s notebook read — the 10–11 band landed.** Six schematic shapes in some relationship, followed by writing; pressing harder went fuzzy. She reached it by photographing every page on the theory that the page count might change on its own, then reconciling her count (~150 by page number) against {{pc:4}}'s (~20 fewer, by file). **Alaia dismissed the whole exchange as new-age nonsense**, which is exactly right for her.
+
+**Nia has agreed to lunch and named no date** — reached by voicemail, answered by text. **The party cannot tell whether Nia is young or old.** {{pc:3}} left the message under a half-joking pretext about a forgotten lunchbox.

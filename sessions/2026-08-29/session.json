@@ -1,0 +1,71 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Session 5 — The One Page",
+  "date": "2026-08-29",
+  "inGameDate": "Monday 15 February 2027",
+  "episode": "005",
+  "presentPcs": [
+    "Morgan Reyes",
+    "Priya Iyer",
+    "Mira Sun",
+    "Dakota Whitmore",
+    "Marcus Faraone"
+  ],
+  "scenes": [
+    {
+      "name": "SFPD Park Station — Detective Ortiz",
+      "summary": "Ortiz collected them from the lobby ten minutes late, exactly as she had planned, and had them out inside the twenty minutes she had booked the conference room for. She showed Morgan a 2018 dissolved-entity records pull on Argonaut Records Holdings that cross-matched every SSN in the filing history, with his father named unredacted against a 1994 filing as 'technical consultant, authorized access'. Mira identified the query's shape as wrong — you do not pull the people — which sent Ortiz to her terminal, where the requester resolved to Sutter Document Services of Sacramento, dissolved 2021 and unattributable. Dakota's unredacted copy named the first redaction, H. Odegaard, and disagreed with Ortiz's copy about a third 1991 entry that his original does not contain. Mateo the records clerk then arrived and cheerfully re-filed the 2018 entry under the 2025 case number; Ortiz thanked him and was entirely happy with the fix. Dakota volunteered to tell her everything and she cut him off as too much information irrelevant to her work, offering out of politeness to forward notes to other departments. The party pressed Mateo to search for other pulls resembling Sutter's; he deflected and suggested they find somebody with a LexisNexis account. Mars and Morgan took his coffee, Mira had chamomile tea, Dakota was disappointed there was no double espresso."
+    },
+    {
+      "name": "The drive to Berkeley",
+      "summary": "Told, not played. Uneventful."
+    },
+    {
+      "name": "Caffè Strada, Berkeley — Alaia Vega",
+      "summary": "Dakota overshared at length. Alaia was overwhelmed and did not follow most of it; his theories about Farallon Mutual Casualty made no sense to her and she only vaguely processed the idea of archivists. The word 'ledger' landed. She asked for a picture of one, Dakota showed her, and it came into focus: she had seen a book like that on her mother's kitchen table years ago. She could remember no details and suggested they call Rosa. Rosa put them on hold without muting the receiver, audibly worked through a paper calendar muttering about square dancing, church group and doctor's appointments, offered Saturday, said 8:20am sharp and hung up without giving an address. Alaia laughed, supplied the Berkeley Hills address her mother had forgotten, and advised arriving by 8:15 to make an impression. She declined to say more, still processing, and repeated that they must not mention her to Rosa. Alaia was struck by Priya's commitment to ICU nursing and bought drinks for the whole party; the two bonded over both taking a plain Americano. Dakota made an ass of himself again and Alaia spent a long stretch talking with Mars instead. Dakota then handed Mira the notebook to curry favour, his usual approach having failed in a way that confused him. Mira photographed every page on the theory that the page count might change on its own, counted a little over 150 against Dakota's count of about twenty fewer, and resolved the discrepancy — he had counted files, she had read page numbers, and the difference is multiple excised sections, the largest being the six missing pages at the centre. Reading the absence, she perceived six schematic shapes standing in some relationship, followed by writing; pressing harder made it fuzzy. Alaia dismissed the whole exchange as new-age nonsense. She then asked what had happened at Building 7, Dakota overshared again, and mid-sentence she took a phone call she did not explain and left."
+    },
+    {
+      "name": "Bea's house, Outer Sunset",
+      "summary": "Bea was not home. Mira could not pick a basic Schlage and blamed the pins on an old lock. Dakota shouted his business through the door to no answer while Morgan hammered on it, and then found the kitchen window left open for the cat, went through it, found nothing unusual inside, and opened the front door from within — which dislodged an index card in Bea's hand carrying a name and a phone number, NIA CHEN, which Mira picked up. A brief search turned up shoeboxes of index cards organised on a scheme the party could not crack: not chronological, not thematic, not alphabetical, but elaborately colour-coded in shades Dakota took personal offence at, there being no hot pink anywhere. The neighbour's cat cornered Dakota, was asked whether it was Bea, said meow, and herded the party back to the kitchen to have its cabinet opened; Mira fed it. Dakota left a long, circuitous note for Bea explaining an elaborate scheme for why she should meet him again, and Mira annotated it 'more hot pink please'. Ren's group-chat message reached them crossing the Bay Bridge and was received with amusement and eye-rolling. They called Nia's number and left a voicemail — Mira's half-joking pretext about a forgotten lunchbox — and Nia texted back offering lunch at some unspecified future point. The party remains unsure whether they spoke to a young person or an old one."
+    }
+  ],
+  "summary": "Monday morning at Park Station. Ortiz put a 2018 records pull in Morgan's hands with his father's name on a 1994 Argonaut filing, Mira identified the query's shape as a search for a person rather than a company, and the requester resolved to a records vendor dissolved in 2021. Dakota's own copy of the same filing beat one redaction and contradicted the official record about a third. A helpful clerk then re-filed the anomaly out of existence and was thanked for it. In Berkeley the ranger from Bodie recognised the word 'ledger' from her own mother's kitchen table, sent them to Rosa on Saturday, and left mid-sentence on a phone call. Mira read the notebook's excision and found six shapes in an arrangement. And in an Outer Sunset house entered through the cat's window, an index card fell out of a door with a name and a number on it.",
+  "drift": [
+    "The 1878 mining-company ledger network and Bea's index system were connected by Dakota into a theory that all archivists worked for the same insurance company, Farallon Mutual Casualty, and that Bea keeps records off-site so they cannot become the company's official record. Nobody at the table disputed it. Undecided by design.",
+    "The players volunteered that the 2018 query may have been Bea's own doing and want to confront her. This is close to the DM-side working lean and must stay unresolved.",
+    "Ortiz's offer to forward notes to other departments was politeness and goes nowhere.",
+    "Mateo's LexisNexis suggestion opens a route the party will pursue toward who commissioned the 2018 pull.",
+    "The party holds photographs of Ortiz's page, taken both surreptitiously and at her prompting. They do not have the physical document.",
+    "Alaia's recognition of a ledger at Rosa's kitchen table is new: she had seen one but retains no detail.",
+    "Bea's index cards are colour-coded on a scheme nobody has decoded.",
+    "Nia has agreed to lunch but named no date."
+  ],
+  "marks": [
+    {
+      "pc": "Dakota Whitmore",
+      "bullet": "against",
+      "note": "Handed Mira the notebook he had been holding since Saturday, giving up his only leverage, after his usual approach failed in a way he did not understand."
+    },
+    {
+      "pc": "Mira Sun",
+      "bullet": "risk",
+      "note": "Worked the lock of a missing woman's front door in a residential street, then went in, for Bea's sake rather than her own."
+    },
+    {
+      "pc": "Morgan Reyes",
+      "bullet": "risk",
+      "note": "Hammered loudly on that front door in full view of the neighbours while Mira worked the lock — drawing the attention onto himself."
+    },
+    {
+      "pc": "Priya Iyer",
+      "bullet": "complication",
+      "note": "A licensed ICU nurse, complicit in unlawful entry hours after being logged as a visitor at a police station."
+    },
+    {
+      "pc": "Marcus Faraone",
+      "bullet": "complication",
+      "note": "A concealed-carry permit holder logged at Park Station that morning and inside an unlawfully entered house that evening."
+    }
+  ],
+  "dmReflections": "In-game timing ran exactly as designed even where wall-clock did not — Ortiz's ten-minute lobby wait and twenty-minute conference room both landed as written, and Mateo arrived on cue. Wall-clock ran slow early while the table found its footing and Dakota goofed off. Every beat fired, some out of order. The Kai adjacency did not need its escalation ladder: {{pc:3}}'s player rolled 11 and took the 10–11 band. The break-in fired via the cat's window rather than a picked lock, which is better. The 555 number with a calling restriction paid off unexpectedly when players dialled it for real."
+}

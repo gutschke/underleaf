@@ -25,7 +25,8 @@
     "poli-sci undergrad, SF State (junior; contemplating dropping out)",
     "collects speeches (Long, Hampton, Goldwater — studied without preference)",
     "engraves his own pipes; the mahogany one is his",
-    "knows every abandoned coastal battery from Fort Baker to Point Bonita"
+    "knows every abandoned coastal battery from Fort Baker to Point Bonita",
+    "running for mayor of a town he has not named"
   ],
   "focus": {
     "name": "Mahogany pipe, engraved with his name",
@@ -55,7 +56,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 4,
+  "marks": 5,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -65,13 +66,14 @@
     "personaDropCanon": "Established Ep 3 scene 03: with certain older/vulnerable NPCs (Vivian Loewe, Bea Ferro), Dakota can drop his public persona entirely — quiet, careful, gentle, patient. This is a real character choice available to the player; the persona is a defense, not the whole shape. When it drops, NPCs read it and remember.",
     "controlSeekerHook": "Dakota is the party's Control-seeker. Give him worthy NPCs to work; give him a mystery whose meaning he can try to own; give him a bond that quietly casts another PC as his follower (see Mira bond above) as load-bearing dramatic irony.",
     "alignmentDriftWatch": "If the party ever calls out his self-mythology and he *accepts* the read, he drifts toward Lawful Neutral fast. That would be earned character growth.",
-    "focusNotes": "The pipe was engraved by his uncle, who worked wood professionally and was the one relative he respected. If the pipe breaks, an argument follows."
+    "focusNotes": "The pipe was engraved by his uncle, who worked wood professionally and was the one relative he respected. If the pipe breaks, an argument follows.",
+    "mayoralCampaign": "**Player-generated, Ep 5.** He is running for mayor of some unspecified town, presumably not San Francisco, and is unclear that February is not election season. He has begun soliciting votes — or failing that, campaign donations — from the teenagers at Ocean Beach. The poli-sci background drives it and the loud personality amplifies it. Everyone in the fiction is annoyed; the player is playing it well, which is the distinction that matters.\n\n**The durable trait is the pattern, not the mayoralty.** It is not yet clear whether he sticks with public office or turns up next session with an entirely different grand scheme, and **either way is correct** — the character is a serial enthusiast who commits loudly and total-recalls nothing. Treat the mayoral run as *this session's instance*.\n\n**Handling: let it run, never resolve it, never make it a real campaign.** Thirty seconds a session, not a plot. **If he arrives with a new scheme, do not have anyone mention the old one** — nobody in the fiction is keeping score, and that is funnier and truer than a callback. *(One exception: the teenagers would absolutely keep score, and would ask about the donations.)* **Ren and Maya are the right foil (T4)**: they can take the donations more seriously than he intended, or ask his platform and get a real answer. Do not let it eat table time, and do not let another PC talk him out of it.\n\n**Where it earns its keep:** his moment-of-release arc is about dropping the persona, and a campaign is the persona in its purest public form. **If he ever quietly stops mentioning it, log that privately** — it would be a better signal than anything scripted."
   },
   "markBullets": {
     "hardMoment": true,
     "learned": true,
     "risk": true,
-    "against": false,
+    "against": true,
     "complication": true
   },
   "markLog": [
@@ -105,6 +107,13 @@
       "bullet": "complication",
       "criterion": "Took on a complication or scar that will matter later",
       "note": "Got what he wanted and paid for it. The party is no longer angry but is markedly warier, they travelled in two cars to avoid him, and he is holding a notebook the rest of them wanted to read."
+    },
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "bullet": "against",
+      "criterion": "Acted against your own short-term interest because the story demanded it",
+      "note": "Handed Mira the notebook he had been holding since Saturday — his only leverage — after his usual approach failed in a way that visibly confused him. The hoarding finally broke, and he did not get anything for it."
     }
   ],
   "inventory": {

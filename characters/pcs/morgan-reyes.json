@@ -50,7 +50,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 4,
+  "marks": 5,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -67,7 +67,7 @@
   "markBullets": {
     "hardMoment": true,
     "learned": true,
-    "risk": false,
+    "risk": true,
     "against": true,
     "complication": true
   },
@@ -102,6 +102,13 @@
       "bullet": "learned",
       "criterion": "Learned something true about The Quiet, the world, or another character",
       "note": "Played Ortiz's voicemail into a hostile room, then sat with a paperwork echo on his father's SSN that does not fit the story he has told himself for two years. He noticed the nine-years-versus-two seam himself."
+    },
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "bullet": "risk",
+      "criterion": "Took a meaningful risk for someone else",
+      "note": "Hammered on that front door in full view of the neighbours while Mira worked the lock — the noise, and the attention, were his."
     }
   ],
   "inventory": {

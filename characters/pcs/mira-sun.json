@@ -44,12 +44,13 @@
       "name": "Kai Sun",
       "type": "NPC (offscreen)",
       "description": "The world attests he never existed; Mira alone carries the pre-edit shape. 'When I was a child he disappeared. Everyone acted as though he never existed, when I mentioned him they told me I never had a brother but I know he's out there somewhere.'"
-    }
+    },
+    "**Dakota Whitmore (Slot 4)** — he handed her Loewe's notebook at Caffè Strada, unprompted, after two sessions of holding it. She read the excision the same afternoon. Neither of them has said anything about it."
   ],
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 4,
+  "marks": 5,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -64,7 +65,7 @@
   "markBullets": {
     "hardMoment": true,
     "learned": true,
-    "risk": false,
+    "risk": true,
     "against": true,
     "complication": true
   },
@@ -99,6 +100,13 @@
       "bullet": "hardMoment",
       "criterion": "Resolved a hard moment by acting in line with alignment",
       "note": "Goes quiet, watches, decides — and then publicly contradicted Dakota in front of everyone, which she does not do. She had watched, she had decided, and she acted. It landed."
+    },
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "bullet": "risk",
+      "criterion": "Took a meaningful risk for someone else",
+      "note": "Worked the lock on a missing woman's front door in a residential street, then went inside, for Bea's sake and not her own."
     }
   ],
   "inventory": {
