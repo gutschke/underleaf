@@ -6,6 +6,39 @@ Sample campaign for the [Quire](https://github.com/gutschke/quire) TTRPG framewo
 
 ---
 
+## What is in this repository, and what is not
+
+**The guiding question is: does this help someone else run this campaign?**
+
+**In here — deliverables and played artifacts:**
+
+- **Episode deliverables** — `episodes/00N-*/dm/run-guide.md`, the clock card,
+  the continuity snapshot, `episode.json`. Everything needed to run the session.
+- **Characters and world** — `characters/`, `world/`, `bestiary/`, `items/`.
+  These double as the data the Quire web app loads.
+- **Cross-campaign reference** — `design/DM-ONLY/facts-ledger.md`,
+  `hook-ledger.md`, `episode-outline.md`, `run-guide-style.md`.
+- **Played artifacts** — `sessions/<date>/session.json`, the played record, and
+  the recap that went to the players. Kept for two reasons: someone may want to
+  see how this campaign actually went, and the JSON is what the web app reloads.
+
+**Not in here — ephemeral authoring state:**
+
+Working drafts, design decisions, ideas explored and discarded, authoring briefs,
+and the DM's private read on individual players. **These matter enormously while
+an episode is being written and are obsolete the moment its deliverables exist.**
+Nobody else wants to read them, and the last category is candid commentary about
+real people. They live in a private workspace alongside the resolved-name PDFs.
+
+**Naming convention, and it is load-bearing:** everything in this repository uses
+`{{pc:N}}` template variables rather than character or player names, so the
+campaign can be re-run with a different cast. Private working copies resolve them
+to real names, because that is far easier to work from at the table.
+
+> **Consistency note:** episodes 1–3 predate some of this and follow a slightly
+> different structure. Later episodes are the pattern to copy.
+
+
 ## If you are or might become a player — read this first
 
 Underleaf is a story-driven game whose pleasure comes from gradual discovery. Most of what makes the campaign work happens *because the players don't know yet*. The repository is organized so that browsing it casually does not spoil the campaign — but a few folders are deliberately full of spoilers, and they are clearly labeled.
