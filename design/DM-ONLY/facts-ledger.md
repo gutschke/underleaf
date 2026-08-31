@@ -1466,10 +1466,37 @@ describes, with a purpose attached.**
 > assembles the cost-gradient rubric themselves, that is a realization moment and
 > earns *"Could be. Could not be."*
 
-**A retired reading, for the record:** that an 1878 keeper wrote those names with
-intent. **Struck** — §1 has the *substrate* routing through an already-anchored
-artifact, not a person acting, and the keeper version needs a human at the 1878
-end that nothing supports.
+> **THE RED LINE SETTLES *WHY*. IT DOES NOT SETTLE *HOW*, AND MUST NOT.**
+>
+> §1's standing pair — *"neither 'they existed' nor 'they didn't'"* — **is exactly
+> the open question**, and the purpose above works identically under every branch.
+> **You lose nothing by never deciding, so don't.**
+>
+> **The live candidates, all compatible with the red line:**
+>
+> - **The substrate edited the page**, routing through the cheapest already-anchored
+>   artifact available. *(§1's own reasoning.)*
+> - **An 1878 keeper wrote them, and the names were fictitious then** — and became
+>   true when five children were born in the 2000s.
+> - **An 1878 keeper wrote them, and they were real people** whose names recurred.
+> - **Combination**, or none of the above.
+>
+> **On the keeper branches — the important refinement (DM, 2026-08-30):** *the
+> keeper knew that writing names mattered. They did not know WHY those names.* A
+> keeper doing what keepers do — attention, and the discipline of writing it down —
+> **without comprehension.** Exactly the shape of {{pc:3}}'s reading absences she
+> cannot explain, or Rosa adding entries for forty-five years because it felt right
+> to. **A tradition with no doctrine produces practitioners who cannot say why.**
+>
+> **This also fits §40 rather than fighting it:** a mining-company clerk who was a
+> keeper, writing anchors in among his ordinary bookkeeping. That is precisely the
+> lay-entries-plus-anchors texture the book is supposed to have.
+>
+> *(An earlier draft of this section struck the keeper reading as contradicted.
+> That was wrong — it was struck against a section whose whole instruction is to
+> refuse to settle it. What IS struck is the narrower version in which an 1878
+> keeper wrote those names **aimed at these five people**, knowingly. That needs a
+> human at the 1878 end who understood what he was doing, and nothing supports it.)*
 
 **And note who is attested:** the four matched surnames are **J. Reyes, M. Sun,
 C. Whitmore, D. Faraone** — {{pc:1}}, {{pc:3}}, **{{pc:4}}**, {{pc:5}}. The
