@@ -53,6 +53,33 @@ Rules of the cards:
 - Cards are *low-strength anchors on their own* — they're personal-record tier. But their cumulative pattern is what makes the archivist's role load-bearing: a single anomaly is dismissible; a card-cross-referenced pattern is not.
 - **The house itself is a stronger anchor than any individual card.** Continuous inhabitation by the archivist role since the previous owner is what makes the cards preserved. If the house ever burned, the substrate would settle for a different self-consistent shape — probably a new archivist elsewhere with a fresh card system that would slowly re-accumulate.
 
+## KEEPER vs CUSTODIAN — and what actually makes an anchor
+
+*Ruled 2026-08-30. Read this before anything else in this file.*
+
+**Two separate roles, and conflating them is the most dangerous mistake available in this campaign:**
+
+- **A KEEPER is the caster who WRITES a ledger.** One per ledger at a time. **Keeping is what makes the object anchor.**
+- **A CUSTODIAN is whoever physically has the book.** An executor, a monastery, a hoarder, an archivist, a PC. **Custody confers nothing.**
+
+### What makes an anchor: writing PLUS intent
+
+**Anchoring requires both the physical act of writing in the ledger AND intent in the casting sense.** A non-caster cannot supply the second half. A caster can, especially with training.
+
+**This is why index cards document and never anchor.** Not because cards are different paper — **because Bea is not a caster.** Her cards are annotations of reality that never become anchors. The instrument is irrelevant; the writer is everything.
+
+**Consequences, all of which resolve existing text rather than changing it:**
+
+- *"Some ledger-holders are casters; most are not"* is **true as written**, reading *holders* as **custodians**. Every **keeper** is a caster.
+- **The Ukiah monks, the Palo Alto executor, the San Bernardino hoarder** — custodians. Unchanged.
+- **Eleanor Marsh held three.** This had been quietly violating *one ledger per keeper* all along. She was never keeping three: **she was rescuing three whose keepers had died**, which is exactly what an archivist does.
+- **Bea holds one because she inherited a house.** Custodian. Her sheet's *"NOT a caster"* and the L1 row stop contradicting each other.
+- **An archivist-custodian leaving margin notes is safe by construction.** Marsh's annotations on rescued ledgers add documentation and no anchor weight — **they are index cards written in a different book.**
+
+> **The beat this unlocks, and it is free:** Marsh's three ledgers are in {{pc:4}}'s bag, annotated in her hand. So a single book contains **two hands doing two different jobs** — the keeper's entries, and an archivist's later documentation of them. **The party can SEE the distinction instead of being told it. Do not explain it; let them find the second hand.**
+
+**A LIVE ledger — one a keeper is still writing in — is the dangerous kind of anchor**, and that is why it cannot be entrusted to just anyone. Not because the object is hazardous, but because **writing in it with intent is a cast**, and handing it over hands someone that. **A FULL ledger is a preserved object**: fixed, custodial, safe for an archivist.
+
 ## Ledgers
 
 **Ledgers** are older, physical, distributed. Each ledger is one ledger-keeper's rolling record. There have been ~15-20 ledger-keepers over ~140 years of the ledger tradition; 8 ledgers are currently active (per Dakota's Ep 3 voicemail).

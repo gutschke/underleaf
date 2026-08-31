@@ -129,7 +129,7 @@ Why 1878 specifically: Bodie's peak boom year; the Standard Mill's workforce is 
 - **San Bernardino County** — was in a rented storage unit, part of an intestate estate lot a hoarder-collector bought at auction in 2013. **GONE as of the 2026-08-27 de-iteration: the unit was re-auctioned and the trail dies helpfully.** This ledger now carries the deliberately-unfindable slack function the deleted phantom eighth used to. **Stage its death by Ep 12** — a two-minute phone call to the facility is enough. Do NOT run a San Bernardino episode.
 - **The City of Ten Thousand Buddhas, Ukiah** — a Buddhist monastic community on the grounds of a former state hospital in Mendocino County, given the ledger by a visiting scholar in the 1980s. The monks preserve it out of politeness without reading it.
 
-Some ledger-holders are casters; most are not. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate.
+Some ledger-**custodians** are casters; most are not. **Every KEEPER — the caster who writes the ledger — is a caster by definition.** See `anchors-cards-ledgers.md` §Keeper vs Custodian. Ledger-holding is a mostly-passive pattern-noticing skill; casting is separate.
 
 **The archivist line (L1–L4) connects Bodie's Annex 7 preservation (1942–1948) to Bea's Outer Sunset house today.** The other four connect to nothing and to each other least of all. **That is the point, and it is the shape the party has to arrive at** — not a hidden institution, but the same noticing happening independently, eight times, with no one in charge. Resist the pull to tidy this into a lineage; the tidiness is exactly the wrong answer, and the party reaching for it is the S3 misread the campaign is built to dissolve.
 
