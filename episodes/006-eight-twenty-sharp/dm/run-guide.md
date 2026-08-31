@@ -2,9 +2,6 @@
 
 **Saturday 20 February 2027. Berkeley.** Five days after the morning at Park Station.
 
-> [!NOTE]
-> **Nothing here is fixed yet.** The players have not seen any of it, so anything in this guide can still be changed — including the venue and the dance. If something reads wrong at prep time, fix the authoring draft and regenerate this document rather than working around it.
-
 ---
 
 ## What this session is
@@ -15,11 +12,7 @@ Rosa Vega — 79, Berkeley Hills, the woman Vivian told them to go and see — g
 
 **The session is a comedy.** It should be warm and silly and physical, and they should leave having enjoyed themselves. One quiet thing happens in the middle of it that only two people notice.
 
-### The one sentence behind Rosa
-
-> **She believes she is the only person in the world who does this. She has forty years of evidence. She is wrong, and her being wrong is the proof.**
-
-She thinks she is alone, so she treats five strangers as an obligation, so she leaves for the thing that is actually her life — **and five people who can do what she used to do follow her into it.** The shape of the morning is the refutation. **Nobody says any of this aloud, ever.**
+**Rosa believes she is the only person in the world who does this, and she has forty years of evidence.** She is wrong, and the party is the reason — but **nobody says that aloud, ever.**
 
 ---
 
@@ -27,7 +20,13 @@ She thinks she is alone, so she treats five strangers as an obligation, so she l
 
 **Rosa Vega.** 79, born in Berkeley, Mexican-American, silver hair in a heavy braid, reading glasses pushed up on her forehead when she wants to see you properly. Moves deliberately — not frail, deliberate. **Direct without being brusque. Uses your name early and correctly. Lets a silence sit and will not fill it.** She quotes her mother to end a topic.
 
-**What she is.** She has written in the same bound book for forty-odd years — anomalies, coincidences, things that did not add up, witnessed personally. She found the book in 1979 in a box of unsorted estate paper at the library where she worked, in a handwriting that was not hers, and simply carried on it. **She has never met anyone else who does this and does not believe anyone else does.**
+**What she is — and it is not an archivist.** She keeps a **ledger**: one bound book, forty-odd years of entries in her own hand.
+
+**The book is not a catalogue of odd events.** Some of what she wrote, she wrote **because something needed to be true and writing it there was how she made it stay.** She could do that then. **Some of it she wrote because she could not not write it, and she has never known why.** From the inside she cannot reliably tell the two apart.
+
+She found the book in 1979, in a box of unsorted estate paper at the library where she worked, in a hand that was not hers, and simply carried on it. **She has no word for any of this** — no training, no tradition, nobody to ask — **and she has never met anyone else who does it.**
+
+> **Bea Ferro is the archivist**, and the difference matters. **Bea's index cards record what happened. Rosa's book made things hold.** If the party treats the two as one practice, **do not correct them** — the difference is theirs to find later.
 
 **What she used to be.** She could do what the party is beginning to be able to do. **She stopped, deliberately, decades ago, for a person**, and after long enough not doing it, it stopped being available. She is not unhappy and there is nothing to fix. She has never said whether it was worth it.
 
@@ -163,7 +162,18 @@ At about eight forty-five she stands up.
 
 ## Scene 4 — The dance: how to run it
 
-**You need a strip of paper with five boxes in a row, one PC name in each, and a bottle cap.** The cap is Rosa. That is the entire apparatus.
+**Print `ep6-dance-game.pdf` and cut the cards.** You need the board, the four decks, **five meeples** (one per player), **one odd-looking token** for Rosa, and **2d6**.
+
+> **The board carries the whole turn sequence and every card says what to do and what to say.** A player who has never seen it can run the sequence with you out of the room — that is the test it was built to pass. **You are not operating a system here; you are playing Rosa and the room.**
+
+**The four decks:**
+
+- **CALLER** (12, shuffled) — read one aloud each round. **Most move Rosa one box; some move her two, reverse her, or swap two players.** That is where the randomness lives.
+- **ROSA** (6, **in order, never shuffled**) — drawn on a successful reach. **All six land across five rounds. These are the lines that matter.**
+- **BONUS** (6, shuffled) — drawn when she sails past somebody, or on a 7-9. **Quirky, not actionable.** It means a player whose meeple is down still gets something.
+- **ROUND** (25) and **ADOPTED** (8) — each player's own thread, and what happens when a roll misses.
+
+**A standing meeple is on the floor; a lying-down meeple is doing their own thing.** They flip it whenever they like.
 
 **Read this to the table.** It takes three minutes.
 
@@ -209,10 +219,10 @@ At about eight forty-five she stands up.
 
 *(Modern contra says **larks and robins** rather than gents and ladies — left-hand and right-hand roles, not gendered. A Berkeley session in 2026 uses them. Being told you are a robin this dance is a nice small confusion.)*
 
-**2. Slide the cap one box.** It lands on a PC.
+**2. Do what the card says** — usually move Rosa one box right, wrapping past the last.
 
 - **On the floor** → they get **one sentence**, out loud, in character. Then read **the next answer from the list below, in order, regardless of what was asked**, and slide the cap on. **If they start a second sentence, talk over them:** *"— and she's gone."* Cheerfully. **Every single time. Enforce this from round one or it will not hold** — it is the pacing protection the whole scene rests on.
-- **Not on the floor** → Rosa goes past. She waves. **That is their whole round, and it is funny.**
+- **Not on the floor** → she sails past. **Draw a BONUS card** — she says it over her shoulder, already going — then they say what they were doing instead.
 
 **3. Go round the table fast and hand every other player one line from their own thread.** Ten seconds each. **Nobody is watching the Rosa conversation, because it was fifteen seconds long and is already over.**
 
@@ -220,35 +230,25 @@ At about eight forty-five she stands up.
 
 > **Five rounds maximum. Four is better.** It ends on {{pc:2}}'s moment, not on a count.
 
-### Rosa's answers — read in order, whatever was asked
+### Rosa's six answers — the deck, for reference
 
-**Several answer questions nobody has asked yet. That is exactly why the relay garbles, and it is the joke.**
+**They are on cards, in this order, and the player who reached her reads them aloud.** *(Having to voice a reply that does not match your own question is the joke, and it is better self-inflicted.)* **Several answer questions nobody has asked yet.**
 
 > **ROSA 1:** *"My mother kept notebooks. I thought that was just a thing she did."*
 >
-> **ROSA 2:** *"Nineteen seventy-nine. I was working the backlog — boxes nobody had opened since the war."*
+> **ROSA 2:** *"The hand isn't mine at the front. I can show you where mine starts."*
 >
-> **ROSA 3:** *"It wasn't catalogued as anything. It was in with a lot of estate paper."*
+> **ROSA 3:** *"I don't know who stopped."*
 >
-> **ROSA 4:** *"The hand isn't mine at the front. I can show you where mine starts."*
+> **ROSA 4:** *"I've never met anyone else who does it."*
 >
-> **ROSA 5:** *"I don't know who stopped."*
+> **ROSA 5:** *"Some of it I wrote because I saw it. Some of it I wrote because I couldn't not. I've never been able to tell you which was which — not from the inside."*
 >
-> **ROSA 6:** *"I've never met anyone else who does it."*
+> **ROSA 6:** *"No, it lives at the house. It's not the library's."*
 
-**Six is the line the whole session is built on. Do not rush past it.**
+**Card 4 is the line the whole session is built on. Do not rush past it.**
 
-> **ROSA 7:** *"Vivian and I have talked at Christmas for sixty-five years. We've met once. I was three."*
->
-> **ROSA 8:** *"She rang about you. She didn't say what it was about — she never does."*
->
-> **ROSA 9:** *"My mother thought the birds knew. I never got anything useful out of that."*
->
-> **ROSA 10:** *"Some of it I wrote because I saw it. Some of it I wrote because I couldn't not. I've never been able to tell you which was which — not from the inside."*
->
-> **ROSA 11:** *"You'd have to ask my daughter what she wants you to know."*
->
-> **ROSA 12:** *"No, it lives at the house. It's not the library's."*
+**The six BONUS cards, which are texture and nothing else:** the 1979 backlog · the estate paper it was filed with · sixty-five years of Christmases with Vivian and one meeting when Rosa was three · *"She rang about you. She didn't say what it was about — she never does."* · her mother thinking the birds knew · *"You'd have to ask my daughter what she wants you to know."*
 
 **If they ask something these do not cover, give a real answer and cross the next one off. Never stall to protect the list.**
 
@@ -269,8 +269,8 @@ At about eight forty-five she stands up.
 **Nothing bad can happen here, so a miss is not a refusal — it is a different scene.**
 
 - **Miss (6 or less)** — you do not get Rosa. **You get adopted.** You are swung into the arms of a delighted stranger who wants to know where you are from. **This is frequently a better outcome than the one they asked for, and they will work that out.**
-- **Partial (7-9)** — you reach her and it lands wrong. She answers the previous question. Or your dance partner answers on her behalf, confidently and incorrectly.
-- **Hit (10+)** — you get your sentence, **and you choose which answer off the list she gives.** The only place anybody steers anything.
+- **Partial (7-9)** — **draw a BONUS card instead.** She heard you and answered somebody else.
+- **Hit (10+)** — **they choose any ROSA card rather than drawing the top one.** The only place anybody steers anything.
 - **Two ones** — the caller changes the figure and the whole strip order reverses. Comedy, not cost.
 - **Two sixes** — the player narrates. Let them invent somebody.
 
