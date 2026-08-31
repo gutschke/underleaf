@@ -75,10 +75,11 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **The decks:**
 
-- **CALLER** (12, shuffled) — **{{pc:4}}'s deck.** He reads one aloud at the top of every round, at volume.
+- **CALLER** (12, shuffled) — read aloud at the top of every round, at volume. **Three carry a twist.** The reader rotates: whoever the duck left last round.
 - **ROSA** (5, **in order, never shuffled**) — drawn by whoever has the duck. **All five land across five rounds.** The sixth line is the exit and is not in the deck.
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
 - **ROUND** (24) — one per player per round. **Deal them one at a time, face up, at the moment.** Never deal a player their whole hand.
+- **WHO HAS THE DUCK** (5) — one name each. **Draw one per round and set it aside.**
 - **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
 - **ALAIA** (2) — see the lookup in Scene 1.
 - **The stumble** — one card, GM only, held all morning. See Scene 5.
@@ -307,18 +308,40 @@ At about eight forty-five she stands up.
 
 > **The one rule that makes this work: reaching Rosa is not your turn to ask a question. It is your turn to be the party's only mouth — and the question will not be yours.**
 
-**The round, six beats, about ninety seconds.** *(The full teach script and the loud-player instructions are on the printed GM page — read that page at the table, not this one.)*
+### What a round is, in the fiction
 
-1. **THE CALL.** {{pc:4}}'s player reads a CALLER card aloud, at volume, over everybody. **It is his deck all morning.**
-2. **THE DUCK LANDS** in front of one player. Say only: *"Rosa's in front of you."*
-3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells what they want asked, all at once. **Count down from three, out loud.**
-4. **ONE SENTENCE**, in the duck-holder's own words. **They may not ask their own question unless nobody shouted one.**
+> **One round = one whole dance, then the gap after it.**
+
+**A dance runs about ten minutes.** During it nobody can hold a conversation — everybody is being moved around, and you get **one pass** at Rosa as the figure brings you together, worth about eight seconds. **Then the tune ends**, and there are two or three minutes where people get water and change partners. **That gap is the only time the party can reach each other.**
+
+**At the table the whole round takes about ninety seconds.**
+
+### The round
+
+**DURING THE DANCE:**
+
+1. **THE CALL.** Whoever the duck left last round reads a CALLER card aloud, at volume. *(Round one: anybody.)* **Three of the twelve carry a twist — read what it says and do it.**
+2. **THE DUCK LANDS.** Draw a *who has the duck* card and set it aside. **Everybody gets it exactly once and nobody can work out when.** *"The figure brings you round and Rosa is right there."*
+3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells across the set what they want asked. **Count down from three, out loud.**
+4. **ONE SENTENCE**, in the duck-holder's own words. **They may not ask their own unless nobody shouted one.**
 5. **ROSA ANSWERS.** They draw the top ROSA card and read it aloud as her. **Take the duck back mid-word if you can.**
-6. **AND MEANWHILE** — one ROUND card, face up, to each of the other four. One line each. Then let them talk.
+6. **EVERYONE ELSE** gets one ROUND card, face up. **That is what they were doing for the ten minutes they were not near her.**
 
-> **Duck order — Morgan · Mira · Dakota · Mars · Priya.** The quiet players get it while the table is still obedient about one sentence. **Reorder silently at any time; never explain.**
+**THEN THE TUNE ENDS:**
+
+7. **THE GAP.** Two or three minutes. **The party can finally talk.** Let them react, argue, work out what she meant and decide what to shout next time. **Do not hurry this — it is where the session lives.**
 
 **Five rounds. Fewer is better. It ends on {{pc:2}}'s moment, not on a count.**
+
+### One sentence — what it means
+
+**A question, or one thing you want her to know — about eight seconds, as much as you could really say while being swung past somebody.** If it needs an *"and"* or a comma to get it all out, that was two.
+
+*"Who was writing in it before you?"* — yes. *"We think someone's editing records and we need to know if you've seen it"* — that is three; pick one.
+
+> **The rule only ever gets enforced against people who were already quiet.** Whoever is funniest tonight will run long, you will not stop them, and then you will cut off somebody shy in round four. **Watch for that in yourself.**
+>
+> **Do not cut. Cut TO.** Wait for a breath, say *"— and while they're doing that —"*, and deal a ROUND card to somebody else. They lose the camera, not the floor. **You never say the words "one sentence" out loud.**
 
 ### Rosa's five answers — she says them in this order whatever she is asked
 
