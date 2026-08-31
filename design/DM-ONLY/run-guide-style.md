@@ -240,3 +240,124 @@ are not blockers; they are things that must not go quiet.
 **Add to this list rather than solving prematurely.** A question reviewed ten
 times and answered on the eleventh is a better outcome than one answered early to
 close it.
+
+---
+
+## 13. EVERY spoken line goes in a box. Never inline in a paragraph.
+
+**The rule:** if the DM might say it aloud, it is a blockquote — never buried in
+running prose. **No exceptions for short lines**, which are the ones that hide
+worst.
+
+```markdown
+> **ROSA:** *"I've never met anyone else who does it."*
+```
+
+**Why this is a hard rule and not a preference.** Prose is fine when the DM is
+reading top to bottom at leisure. **That is not when the guide gets used.** It
+gets used when a DM is scanning for a cue with five players waiting — and it
+fails hardest in exactly the two situations that are most common:
+
+- **The guide is not strictly linear** (Ep 6 is not — the hall runs on a rotation
+  and five parallel hijinks tracks), so the DM is jumping between sections rather
+  than reading down.
+- **The players broke the order accidentally**, which they routinely do, so the
+  DM is hunting for a line that was supposed to come later.
+
+**A line inside a paragraph is invisible under both conditions.** The DM either
+misses the cue or stops the table to find it.
+
+### How it renders
+
+`render-md-to-pdf.py --theme guide` gives every box a coloured left rule and a
+label:
+
+- **`> **NAME:** *"line"*`** → a **speaker box**, labelled with the name, in that
+  speaker's colour. **Recurring NPCs get a fixed colour** (Rosa, Nia, Bea, Ortiz,
+  Alaia, Vivian, Elena, the caller, Reggie), so a character looks the same in
+  every document; anyone else gets a stable colour from their name.
+- **`> *"line"*`** with no name → the green **READ ALOUD** box, for narration.
+
+> **Blockquotes separated only by a blank line are merged by the markdown parser
+> into one block.** The renderer splits them back apart per speaker — **without
+> that, three characters' lines file silently under whichever name came first.**
+> Do not "fix" this by removing the blank lines.
+
+### What still belongs in prose
+
+**Everything that is not spoken:** staging, intent, contingencies, what the line
+is for. **The box holds the words; the prose around it holds the reason.** A box
+with three sentences of rationale inside it is as hard to scan as no box at all.
+
+### The application is a JUDGEMENT CALL, and it does not automate
+
+**A script can find quoted text. It cannot tell whether a DM will need to find
+it.** Boxing is a claim about *findability under pressure*, and three forces pull
+against each other.
+
+**The test is not length. It is: would a DM scanning this page for three seconds,
+mid-scene, need to land on this?**
+
+**BOX IT — even if it is four words:**
+
+- A line that must be delivered **close to verbatim** (canon lines, invariant
+  lines, anything the arc depends on being said exactly).
+- **The payload of the beat** — the thing the scene exists to deliver.
+- A line whose **timing** matters, or that opens or closes a gate.
+- A line where **getting it wrong is expensive** — firewall lines, deflections,
+  the ones that must not be improvised.
+
+*Length is irrelevant here.* **Nia's six-word correction — *"No. That's what
+didn't work."* — is the most important sentence in Ep 8 and must be a box.**
+
+**LEAVE IT INLINE — even if it is quoted speech:**
+
+- **Texture** — an example of the *kind* of thing someone might say, where any
+  equivalent line works.
+- Anything that **only makes sense inside its sentence**: *she waves it off with a
+  "not now, dear" and rejoins the set.* Boxing that strands a fragment and makes
+  the DM reassemble the moment.
+- **One of several interchangeable options.**
+- A fragment rather than an utterance.
+
+> **Boxing a line that cannot stand alone is worse than not boxing it.** The DM
+> stops, reads a fragment, and has to look around for the context you removed.
+
+### NEVER box a line the DM must NOT say
+
+**A box means *say this*.** So a forbidden line in a box is actively dangerous — a
+DM scanning under pressure sees a highlighted quotation and delivers it. **The
+highlighting defeats the prohibition.**
+
+Keep prohibitions inline, in prose, with the negation attached and unmissable:
+
+> **She must never say *"this is how it goes for everyone."*** ✅ inline
+>
+> ~~`> **ROSA:** *"This is how it goes for everyone."*`~~ ❌ **reads as a cue**
+
+**Same for any line that is conditional on NOT happening** — deflections the NPC
+uses only if pushed, lines held for a branch that may never fire. **If it is
+boxed, say in the box's own first words when it fires**, or leave it in prose.
+
+### Density: boxes are a scarce signal, and a run of them is a DIAGNOSTIC
+
+**Too many boxes adjacent and you cannot see the forest for the trees** — if
+everything is highlighted, nothing is findable, which is the failure this rule
+exists to prevent, arrived at from the other direction.
+
+> **Rule of thumb: more than about three boxes in a row with no prose between
+> them means the STAGING IS MISSING.** You have written what people say and not
+> what happens between the lines. **Fix the prose, not the boxes.**
+
+**The one exception is a reference block** — a numbered list the DM consults *out
+of order* (Rosa's twelve relay answers in Ep 6). That is not a scene; it is a
+lookup table, and dense boxes are correct there because the DM is jumping to one,
+not reading through. **Number those, so they can be named aloud** (*"I'm on Rosa
+4"*).
+
+**Two different objects, two different rules:**
+
+| | Boxes should be |
+|---|---|
+| **Scene dialogue** — interleaved with staging | **Sparse.** Each box is a thing the DM must not miss. |
+| **Reference block** — consulted out of order | **Dense and numbered.** It is a lookup table. |
