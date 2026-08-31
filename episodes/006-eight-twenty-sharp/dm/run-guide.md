@@ -119,7 +119,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 > **VOICEMAIL:** *"Yeah — hi. So I ran the searches you asked about and there's nothing that isn't already public. Whatever you're looking at, it isn't in here. Sorry. Good luck with it."*
 
-**Do not make this a lead.** Nobody picked it up, the same way nobody picked up the 2018 margin note, and that rhyme is worth having.
+**Do not make this a lead.** Nobody picked it up. If they chase it, that is the honest answer.
 
 ### The drive — told, sixty seconds
 
@@ -137,7 +137,7 @@ She sits them down and says:
 
 > **ROSA:** *"Sit down. Vivian telephoned — she said she'd given my name to some young people, and then she talked about her neighbor's dog for twenty minutes. So I know that much. Tell me what you already know."*
 
-**She names Vivian herself, deliberately.** If she asks *who sent you*, somebody will say **Alaia** — and that is a complication worth having later, not in the first ninety seconds. **Take the question off the table.**
+**She names Vivian herself. Never ask them who sent them** — somebody will say Alaia, and that belongs later.
 
 **She is not testing them.** She has no test to administer: there is no network in her head to admit anyone to, because she believes she is the only one. **She wants to know where to start, and she has somewhere to be.** Play no assessment and no gatekeeping.
 
@@ -197,9 +197,9 @@ She sits them down and says:
 
 **And then she is off, and she does not stop.**
 
-**The price is one round of the dance per story.** While she is telling it she is not answering anything. **That is a real cost and it is the only one — they are burning the thing they came for.**
+**The price is one round of the dance per story.** While she is telling it she is not answering anything, **and that is the whole cost. Nothing else is lost and nobody is angry.**
 
-**She stops when the cornered player volunteers something genuinely embarrassing about themselves.** Politeness does not release her. Changing the subject does not release her. **A performed confession does not either — she has raised a teenager and she can tell.**
+**She stops when the cornered player volunteers something genuinely embarrassing about themselves.** Politeness does not release her. Changing the subject does not release her. **Neither does a performed one. She has raised a teenager and she can tell.**
 
 **Story one — the Junior Ranger.** Alaia at nine wrote to the National Park Service demanding a job, got a form letter, and framed it. Then she made a clipboard and patrolled the block issuing written citations to the neighbours about their compost.
 
@@ -272,7 +272,7 @@ At about eight forty-five she stands up.
 
 **Live Oak Park Social Hall, North Berkeley.** Shattuck and Berryman, five minutes down the hill. A sprung wooden floor, folding chairs round the edges, a coffee urn on a trestle table, a bench by the door with a pile of shoes on it.
 
-**This is the Saturday-morning session of a weekend-long dance event** — annual, deliberately beginner-friendly, and it starts with a walkthrough. **Forty to sixty people, average age about seventy, all of whom see each other here every year.**
+**This is the Saturday-morning session of a weekend-long dance event** — annual, beginner-friendly, and it opens with a walkthrough. **Forty to sixty people, average age about seventy, all of whom see each other here every year.**
 
 **A live band — fiddle, guitar, piano — and a caller with a microphone.**
 
@@ -446,7 +446,7 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 *The organiser conversation:* the hall's lease, the budget, who wants to cut the Saturday session. He is a tenants'-rights organiser and cannot help himself. **It goes nowhere. Let it run ninety seconds.**
 
-> **His pistol — make it a sign, not a scene.** A posted notice on the door of a Berkeley municipal building. **That makes leaving it in the car the path of least friction**, which is the graceful exit he needs. He reads the sign, he decides, you move on. **Do not adjudicate it, do not build a beat on it, do not make it a threat.** If he leaves it in the car, note that.
+> **His pistol — a sign, not a scene.** There is a posted notice on the door of a Berkeley municipal building. **He reads it, he decides, you move on.** Do not adjudicate it, do not build a beat on it, do not make it a threat. **If he leaves it in the car, note that.**
 
 **His neck.** Two hours of swing figures is exactly what it flares after. Weather.
 
@@ -530,7 +530,7 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 > **The public room makes this stronger than a quiet one would.** She cannot react, and forty people are watching the dance rather than her. **Her single visible tell: she sits out the next one, which she never does.**
 
-**Do not sober the room up first, and go straight back to the jokes afterwards.** The noise is what makes it land instead of announcing itself.
+**Do not sober the room up first. Go straight back to the jokes afterwards.**
 
 ### Ending the dance
 
@@ -595,7 +595,7 @@ Afterwards, at the edge of the floor.
 
 ### The envelope
 
-**It arrives at {{pc:4}}'s address.** Vivian is more comfortable with him than with any of the others, which is why she posts it there. **Say nothing about why.**
+**It arrives at {{pc:4}}'s address**, because Vivian is more comfortable with him. **Say nothing about why.**
 
 Inside: a letter in Vivian's hand mentioning a colleague of her father's — **McCulloch** — and on the outside, in a different hand, a note from her carer.
 
@@ -617,6 +617,6 @@ Inside: a letter in Vivian's hand mentioning a colleague of her father's — **M
 
 ## After the session
 
-- Fold what actually happened into the campaign's continuity notes and re-snapshot.
+- Fold what actually happened into the continuity notes and re-snapshot.
 - **Log whether {{pc:4}}'s player dropped the persona at any point without being asked** — that is the thing being watched for, and it is not something to prompt.
 - **If one dancer stood out at the table, name them and keep them.** An NPC from this room who turns up three sessions later, remembers all five by name and asks whether {{pc:5}} ever came back **is what converts a morning with nothing to obtain into the morning they made a friend.** It costs almost nothing and it is the highest-value thing available here.
