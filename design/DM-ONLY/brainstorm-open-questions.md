@@ -117,3 +117,101 @@ Vindicates the "loneliness at every emergent scale" texture (`big-arc.md` §Loos
 - 2026-08-22 — seed planted (this entry). Player-flagged at Ep 4 table. Cross-ref facts-ledger §6 TODO block. Reading (b) currently strongest DM-instinct; (d) most cosmologically-elegant; (a) safest; (c) reserved as escape-hatch only.
 
 ---
+
+---
+
+## Are index cards EXEMPT from reality edits — and does chaotic organisation help?
+
+**Status: SEED. Not canon. DM's call to implement or discard.** *(Raised 2026-08-30.)*
+
+### The clean part, which is now canon and lives in `anchors-cards-ledgers.md`
+
+**A card wants immunity; an anchor grants it.** Cards *record* odd coincidences and
+are ordinary world-state — contradicting one costs something, the way contradicting
+any record does. **A ledger entry written by a keeper with intent is a cast, and it
+is what confers immunity.** Opposite jobs.
+
+### RESOLVED 2026-08-30 — the fork below is CLOSED, in favour of (A)
+
+**DM ruling:** *"index cards are only anchors in the same way as a record in a
+police file is an anchor. there is cost with editing these documents, but they are
+editable in principle. ledgers are uneditable by construction."*
+
+**So cards are NOT exempt.** The rest of this section is kept for the reasoning and
+because the chaos hypothesis survives in a smaller, better form — see *What
+survives* at the end. **Do not re-open the exemption question.**
+
+### The open question — AS IT STOOD
+
+**An archivist's practice only works if the record survives the edit it is
+recording.** If a card gets rewritten alongside reality, Bea never notices a
+discrepancy and the entire role is pointless. So *functionally* the cards need to
+be exempt. **But nothing says they are.**
+
+**Fork:**
+
+- **(A) Cards are ordinary evidence.** They raise cost like any document, and
+  sometimes they *do* get edited, and the archivist never knows. **Cheaper
+  cosmologically; keeps archivists fallible and humble.** The role works because
+  edits are usually not worth the price, not because cards are special.
+- **(B) Cards are genuinely exempt**, by some property of the practice. **Gives
+  archivists a real detection instrument** and explains why the role persists at
+  all — but it is a large grant and needs a mechanism.
+
+### The candidate mechanism, and it is the interesting part
+
+**Chaos as EXPENSE, not as obscurity.** An edit must produce a *self-consistent
+whole*. If a record's organising scheme exists only inside one person's head —
+Bea's colour-coding, which the party failed to crack — then **the substrate cannot
+cheaply rewrite that record consistently, because "consistent" is defined by a
+scheme it would have to reconstruct first.**
+
+**This uses the existing pricing function and invents nothing.** It is not
+protection-by-obscurity; it is protection-by-cost.
+
+**It would also explain why archivists are strange people**, and it rhymes with
+**Rosa's daily planner** (Ep 6): immaculate with the ledger, chaotic with the
+calendar — and she has kept every year of it. *Maybe it is just complex and she
+knows how to hold the moving parts together. Maybe that is wishful thinking.*
+
+> **Nobody ever settles whether Bea is brilliant or hopelessly chaotic.** She seems
+> to know how to find things. **Half the time, things find her.**
+
+### Cautions before promoting any of this
+
+- **It must never become a technique the party can apply.** *"Be messy and the
+  world can't touch your notes"* is a rules exploit and a bad lesson.
+- **Held-open-causation applies.** The Bea question — brilliant or chaotic — is
+  currently unanswerable and **that is its value.** A mechanism that answers it
+  spends it.
+- **Do not let the DM state the rhyme.** If a player connects Rosa's planner to
+  Bea's cards themselves, that is earned. Ep 6 is written that way already.
+
+---
+
+### What survives the ruling
+
+**The archivist role does not need exemption to work, and it is better without it.**
+
+- **An uncompared card in a drawer is cheap to overwrite.** The same card, once it
+  is part of a pattern somebody actually checks, is not. **Cross-referencing is the
+  act that makes a mismatch matter** — which means Bea's obsessive cross-indexing
+  is not a personality quirk, it is the thing that gives her records weight.
+- **Some of her cards HAVE been edited and she will never know.** Archivists stay
+  fallible, which is the better story and costs nothing.
+- **Chaos-as-expense was WRONG, and the correct version is better** *(DM,
+  2026-08-30)*: an inscrutable filing scheme does not make a card **expensive** to
+  rewrite — it makes rewriting it **pointless.** A card nobody can locate is a
+  harmless contradiction, and **the substrate does not tidy.** Hiding works by
+  **irrelevance**, not by cost. **Never state it; never let it become a
+  technique.**
+- **Two routes to a stable card, for opposite reasons:** cross-referenced → **high
+  edit cost**; hidden → **low impact.** Both work. **Neither is anchoring**, and
+  both admit failure — an archivist's job is always best-effort.
+- **The Bea question stays unanswerable**, which was always its value.
+
+**And the ledger side got sharper, not vaguer:** uneditability is not a bonus
+property, it **is** the anchoring mechanism — if the entry could be revised, the
+substrate would edit entry and world together and the anchor would hold nothing.
+**Uneditable is not indestructible; fire still works.** Canon now lives in
+[`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) §Index cards.

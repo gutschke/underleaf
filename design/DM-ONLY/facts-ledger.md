@@ -68,6 +68,8 @@ Structure of each fact section:
 - [§33 Vivian's wind-up mantel clock](#33-vivians-wind-up-mantel-clock)
 - [§34 Vivian's Indian-visitor memory](#34-vivians-indian-visitor-memory--the-friendly-very-smart-guest-at-her-fathers-house)
 - [§35 Vega text to Morgan: "see you in Berkeley soon"](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
+- [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
+- [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
 
 ### Cross-cutting + played-record + references
@@ -125,7 +127,7 @@ Why 1878 specifically: Bodie's peak boom year; the Standard Mill's workforce is 
 > **Important succession invariant — see §36 for the full mechanic.** Archivists NEVER meet or train their predecessors. Succession happens by a subtle, naturally-occurring reality edit: when the current archivist dies, another person "coincidentally" steps into the physical, financial, and eventually procedural niche the predecessor left behind. The new archivist does not initially realize they have taken over anything; they grow into the role over months/years by discovering what the predecessor left behind. This preserves the chain even when a tenure ends abruptly.
 
 - **Palo Alto**, in a private library owned by the estate of a mid-20th-century AI researcher (a peer of Wiener's; not a household name). Held by an executor who inherited it without understanding what it was. **UNFOUND** — this is the Ep 10 arc-node. *(Corrected 2026-08-27: this bullet previously also claimed "Dakota accessed this one; it's one of the three he now has", contradicting itself within a single sentence. Dakota's three are Eleanor Marsh's three from the Sacramento locker — the ones the party physically saw on his dining table in Ep 4. See [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) §The 8 active ledgers.)*
-- **Berkeley**, in the flat-file of a librarian at Bancroft Library who catalogued it as an "anomalous ephemera collection" in 1979 and occasionally adds new entries when she personally witnesses something. She IS a former caster (per big-arc.md Act II Former Caster archetype); the ledger is her outlet for the pattern-sensing she can no longer act on.
+- **Berkeley**, in the flat-file of a librarian at Bancroft Library who catalogued it as an "anomalous ephemera collection" in 1979 and occasionally adds new entries when she personally witnesses something. She IS a former caster — but **not** the Act II single-encounter landmark, which is a separate NPC (hook B4). Per [§44](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) she *chose* to stop, and it went from there; the ledger is her outlet for the pattern-sensing she no longer acts on.
 - **San Bernardino County** — was in a rented storage unit, part of an intestate estate lot a hoarder-collector bought at auction in 2013. **GONE as of the 2026-08-27 de-iteration: the unit was re-auctioned and the trail dies helpfully.** This ledger now carries the deliberately-unfindable slack function the deleted phantom eighth used to. **Stage its death by Ep 12** — a two-minute phone call to the facility is enough. Do NOT run a San Bernardino episode.
 - **The City of Ten Thousand Buddhas, Ukiah** — a Buddhist monastic community on the grounds of a former state hospital in Mendocino County, given the ledger by a visiting scholar in the 1980s. The monks preserve it out of politeness without reading it.
 
@@ -864,10 +866,10 @@ Warm greeting for Dakota worked as designed. **Mars's presence-cast fired at the
 Rosa Vega (b. ~1947, currently ~79) is:
 - **Isabel Vega's daughter** (§25) — Isabel was a Loewe correspondent post-annex.
 - **Alaia Vega's mother** — Alaia is the Bodie park ranger from Ep 3 §5. The Vega ↔ Vega surname connection lands at the table via Vivian's postcards-from-national-parks hint (level-2) or the escalation (level-3 fallback).
-- The **Bancroft Library ledger-holder** (Ep 3 §2 Berkeley entry). She catalogued **a bound LEDGER** (per §36 — a fixed reality-anchor, not merely a card collection) as an "anomalous ephemera collection" in 1979; the ledger is one of the eight (§2) and stays at Bancroft. She occasionally adds entries when she personally witnesses substrate anomalies. **She likely also keeps her own index cards** (per §36 — every archivist accumulates cards; each holds one ledger + many cards), but the load-bearing artifact for her role is the Bancroft-housed ledger.
-- A **former caster** (per big-arc.md Act II Former Caster archetype). She still senses the pattern; she no longer acts on it. The ledger is her outlet for the pattern-sensing.
+- The **Bancroft Library ledger-holder** (Ep 3 §2 Berkeley entry). She catalogued **a bound LEDGER** (per §36 — a fixed reality-anchor, not merely a card collection) as an "anomalous ephemera collection" in 1979; the ledger is one of the eight (§2). **She took it HOME ~2013 on retiring from Bancroft — it does not live in the library.** *(Corrected 2026-08-30: this line said "stays at Bancroft", contradicting `rosa-vega.json` and `anchors-cards-ledgers.md` L6. Her own file is canonical: informal custody, on her kitchen table.)* She occasionally adds entries when she personally witnesses substrate anomalies. **She likely also keeps her own index cards** (per §36 — every archivist accumulates cards; each holds one ledger + many cards), but the load-bearing artifact for her role is the Bancroft-housed ledger.
+- A **former caster** — the *warm long-form foil*, **not** the Act II single-encounter landmark (hook B4: that is a separate NPC, and invariant 7 is its invariant, not hers). She still senses the pattern; she no longer acts on it. The ledger is her outlet for the pattern-sensing. **She stopped deliberately, for a person, and after long enough it stopped being available** — see [§44](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30). Hold it for her second session (B21), never Ep 6, and she never generalises it to the party.
 
-**Index-cards-vs-ledgers reminder** (per §36 canon): the two are functionally distinct. Rosa's Bancroft holding is a LEDGER — bound, fixed, an anchor in reality that serves a heavier substrate function than observational index cards. When the party visits Bancroft in Ep 6+, don't casually conflate the two vocabularies; if Rosa or a librarian discusses the collection, they should be able to distinguish (a) the bound anomalous-ephemera book that lives in Bancroft's special collections from (b) any looser card-style annotations Rosa may have kept elsewhere for her own working notes. This distinction matters more the deeper the party goes.
+**Index-cards-vs-ledgers reminder** (per §36 canon): the two are functionally distinct. Rosa's Bancroft holding is a LEDGER — bound, fixed, an anchor in reality that serves a heavier substrate function than observational index cards. **The party does NOT visit Bancroft in Ep 6 — it was cut on 2026-08-30** (finding another ledger is a no-op, and it repeated Ep 5's shape). The ledger is read at Rosa's kitchen table and **she keeps it.** If Rosa discusses the collection, they should be able to distinguish (a) the bound anomalous-ephemera book that lives in Bancroft's special collections from (b) any looser card-style annotations Rosa may have kept elsewhere for her own working notes. This distinction matters more the deeper the party goes.
 
 **Ep 4 does NOT tip her former-caster status.** Vivian genuinely doesn't know Rosa was ever a caster — Vivian sees Rosa as "Isabel's clever daughter who lives in Berkeley." The former-caster reveal belongs to the **in-person Berkeley visit** (Ep 5 or Ep 6), when Rosa herself decides whether to disclose to the party.
 
@@ -1598,3 +1600,354 @@ nothing in it; he drew one. Neither can say who.
 > unresolved regardless of level.** If {{pc:3}} reads that position and finds the
 > particular texture of absence she has known since she was four, **she may supply
 > Kai herself. The DM never does, and never confirms it.**
+
+---
+
+## 44. Why the party exists — RULED, mostly rejected (2026-08-30)
+
+**A large cosmological addition was proposed and audited by three independent
+reviewers (cost-model, story-structure, table-mechanics). All three rejected the
+same spine and kept the same periphery, without conferring. This section records
+both halves so the question is not reopened from scratch.**
+
+### The proposal
+
+Magic is fading, with no value judgement attached. Casters everywhere resist the
+symptoms without understanding the cause; that resistance is enormous, expensive
+and wholly uncoordinated. At **critical mass**, a new class of **wholesale edit**
+becomes cheap, because the cost has already been paid even though the intents did
+not match. Therefore **reality is not indifferent** between the two futures — the
+fading path carries a late cost spike the retaining path does not. Therefore **a
+group like the party has to exist**: negotiating with Companion needs diverse
+views, experience, skills and research nobody else is doing, and the party is the
+**cheapest available arrangement** that makes it feasible. Groups of casters
+normally dissolve, so **reality pushes back against that dissolution** — first
+time in eons. Afterwards they drift apart, or stop casting to stay together.
+
+### ADOPTED
+
+**(a) Magic is fading, and the substrate makes no value judgement about it.**
+A world without magic is exactly as self-consistent as one with it. State it as a
+fact about the *current shape* — fewer casters each decade and nothing resisting
+that — never as a "drift toward," which smuggles sequence back in.
+**This strengthens [`antagonist.md`](antagonist.md):** Companion is not destroying
+something the universe cares about; it is accelerating an ordinary quieting.
+
+**(b) Casters resist the symptoms, alone, expensively, and unaware of each
+other.** DM-side texture only. It retroactively explains both the former caster
+and the network's lunch-in-twos diffuseness. **Each cast is still priced
+individually — nothing accumulates anywhere.**
+
+**(c) A negotiation of this kind cannot be done by one person.** Kept as a
+*fact demonstrated at the table*, never as a thesis spoken by an NPC.
+See the mechanic below.
+
+**(d) Anchor erosion — replaces the critical-mass currency.** Where many casters
+cast hard and often, the local web of attestation *thins*: records disagree,
+memories mismatch, corroboration fails. Wholesale edits get cheap there **not
+because anyone paid, but because there is less left to overwrite.** This is the
+existing anchor model read in reverse — anchor sites are cheap because the
+anchors already attest the target shape; eroded regions are cheap because nothing
+attests anything. No new mechanic, no currency, and **the party can be complicit
+in creating it**, which a rescue-shaped catastrophe could never be.
+
+**(e) The mechanic — supported casts.** The one playable yield in the whole
+proposal. An *aimed* cast made with at least two other PCs present and backing
+it — **each saying in one sentence what they want from it** — is **not taxed**;
+it resolves at its natural tier. Alone, aiming still costs a tier.
+It removes a penalty rather than granting a discount, so it cannot inflate or
+stack into free Hard-tier casts. It makes *"one person cannot do it"* true at the
+dice, arriving exactly as the world gets stingier — **the party induces the
+cohesion thesis from play instead of being told it.** Cohesion's downside goes on
+the thread-debt ladder: casting together is cheap *and* gets them Noticed faster,
+because the group registers as a group. **The cost of leaving is the absence of
+the discount, never a penalty.** A player who wants their PC to walk may always
+walk; it just gets expensive.
+
+### REJECTED
+
+**(f) "Reality is not indifferent between the two futures."** Cost in this
+cosmology is **pointwise** — an accommodation priced against everything else held
+fixed ([`world-truths.md`](world-truths.md): *proportional to how much established
+world-state would have to be overwritten*). Comparing whole histories has **no
+background to price against**, so the quantity is undefined. Worse, "not
+indifferent" posits a moment at which two paths were available and one was taken.
+There is no such moment. That is agentive-verb drift on the substrate at maximum
+scale: this world's substrate has **structural preferences (least effort), never
+decisions**. And it guts Act III — if the substrate is already biased toward
+retaining magic, the party argues for an outcome reality has priced in their
+favour before they open their mouths.
+
+**(g) "A group like the party has to exist / is the cheapest arrangement."**
+*Cheapest-available* is an **argmin**, and argmin is selection. A hiring manager
+who says *"you were merely the cheapest qualified candidate"* has still hired you,
+and **there was still a job opening.** The opening is the destiny; cheapness only
+moves the flavour from anointed to conscripted.
+[`principles.md`](principles.md) §1 already permits an assembling cause — but only
+because it is off-stage, unnamed, and **not about them**. This names it and makes
+it the party's own Act III climax, at which point "cheapest" stops being humbling
+and becomes a coronation with a discount tag.
+**And §39 already fills this slot at the correct scale** — local, mortal,
+expiring, conspicuously not about the party's importance. Two whys for one fact
+means the cosmic one wins. §39 is the right size; **anything larger than §39 is
+too large.**
+
+**(h) Critical mass as stated.** *"The cost has already been paid though the
+intents did not match"* is a shared bank balance, and
+[`world-truths.md`](world-truths.md) is explicit: **cost is plausibility, not
+energy.** Plausibility is a relation, not a substance; it cannot be deposited or
+spent by someone else. It is also a **doomsday clock** — a threshold, a deadline,
+a thing to prevent — handed to a table that will correctly and enthusiastically
+start racing it, after which Ep 24's *nobody did this* lands as a cheat.
+Superseded by (d).
+
+**(i) "Reality pushes against the party's dissolution."** Canon has the party's
+cohesion **free and theirs** — they already paid the cost of coming to know each
+other (invariant 5 + Act I hook). A substrate force maintaining them inverts the
+sign, adds a destiny tell, and deflates the interpersonal stakes: a player whose
+PC wants to leave would be walking away from cosmology instead of from people.
+**The party must remain something they can genuinely lose.** Superseded by (e).
+*("Not forbidden, just not favoured" is roughly what canon already says and is
+harmless. "First time in eons" is unforced specialness — drop it.)*
+
+**(j) The retirement clause as a planned ending.** *Drift apart, or stop casting
+to stay together* is narrated after the story ends; nothing they do causes it.
+It also fights (e) — if togetherness is what lets you aim, then quitting casting
+to stay together is a null option. **Invert it:** establish that the capability
+was never individual, and the last season's question asks itself — *we are about
+to be in five different places; what were we?* The bittersweet becomes
+structural, and if they choose to stop, **they chose it.**
+*Care, deliberately: five close friends aged 12–15 are on a real clock about
+growing apart and they know it. Arrived at by them, this is the most powerful
+thing the campaign can do. Delivered as authorial fate, it is the DM telling
+children their friendship is temporary. Never hand it to them.*
+
+### The firewall this preserves
+
+**§42 (Kai) cannot survive the rejected spine, and this is disqualifying on its
+own.** §42's rationale is that an erasure with a *purpose* would retroactively
+supply every erasure with a possible purpose, converting *the world unmakes people
+authorlessly* into *erasures are performed to arrange things* — the conspiracy
+shape, in the one place the campaign most needs it absent. Install "reality
+performs edits to arrange this group" and the reading assembles itself
+unprompted: **§31 makes {{pc:3}}'s capacity to hold intent against pressure the
+direct product of Kai's absence; the group needed a member with that capacity;
+the cheapest way to produce her was to unmake her brother.** The firewall §42
+relies on **is** the absence of any arrangement mechanism in the cosmology. Remove
+it and what remains is a DM promise not to connect two adjacent dots — and per
+§21, *a gate whose key is held by a player is not a gate, it is a hope.*
+**§43 goes the same way:** "reality needed a group of a certain size" hands the
+sixth position a *function*, and *"the sixth was Kai, removed because five was
+cheaper"* becomes a cost-model-endorsed reading. §43's entire value is that no
+such reading exists.
+
+### The sentence that is never said at the table
+
+> **"Reality needed a group like you, and you five were the cheapest way to get
+> one."**
+
+**Ban the word *needed* alongside it.** Every appearance in a run-guide, an NPC
+line or a DM aside gives something a purpose, and the final act is the discovery
+that nothing has one. The safe form is ***"and it held"*** — a fact about what
+happened, with no claim about why.
+
+### What the DM holds instead — one sentence
+
+> *Magic is going quiet everywhere. The people still holding it are doing it
+> alone, and it is costing them more than anyone knows. This party is the first
+> group in a long time for whom being together makes it cheap — and nobody knows
+> why, including the world.*
+
+**Fact stated, cause refused, mechanic attached, ending left available.**
+
+### Where the adopted clauses get dramatised — no new material required
+
+| Clause | Scene that already exists |
+|---|---|
+| Magic is fading, no judgement | **Rosa** — genuinely at peace with the going. A person who watched it leave and does not think it a tragedy *is* the clause, as character. |
+| Casters resist alone, unthanked | **The Act II former caster.** They did not lose it randomly; they **spent** it. Nobody knew, nobody thanked them, they don't want it back. |
+| Groups dissolve | Show it at NPC scale first: the network is lunch in twos — **let them meet the surviving half of a former twosome**, with no reason given. |
+| One person cannot do it | **Ep 8.** They fail at five; then something small *works* when three commit out loud. Do not explain it. Let them notice by Ep 10. |
+
+**The one scene that must never exist** is an NPC telling the party they are the
+cheapest available arrangement. It is unstageable — which is the diagnosis.
+
+### Ep 6 obligation: none
+
+Ep 6 keeps its single job (put a cost on the board using Ep 5's loaded guns).
+**The only standing duty is not to foreclose:** no NPC may call the party's
+cohesion permanent, explained, or purposeful.
+
+### Rosa: she chose, and then it went anyway — DECIDED
+
+**Rosa is NOT the Act II former-caster landmark.** Hook B4 is explicit — *Vega is
+the warm long-form former-caster foil; the Act II single-encounter one is a
+separate NPC.* Invariant 7 (*not fixable*) and the *has just stopped being able to
+do it* framing belong to that other, still-uncast NPC, and are untouched here.
+
+**Rosa stopped deliberately, decades ago, for a person. After long enough not
+doing it, it stopped being available.** The choice came first; the incapacity
+followed from it honestly. So *she can no longer act on it* and *she chose* are
+both true, in that order — **nothing was taken from her and there is nothing to
+restore**, so invariant 7 holds without strain even though it is not her
+invariant.
+
+**She has never said whether it was worth it, and the campaign never answers.**
+
+Two shapes of loss, not one: **the landmark caster who lost it without ever
+choosing, and Rosa who traded it.** The contrast is worth more than either alone.
+
+> **Hold two lines.** Rosa **describes what she did; she never generalises it to
+> them.** The moment she says *"this is how it goes for everyone,"* a private cost
+> becomes a prophecy, which [`principles.md`](principles.md) §1 exists to keep
+> out. And **it is never the price of winning** — if the negotiation costs them
+> each other, the finale is transactional and the last twenty minutes are a bill.
+>
+> **Not Ep 6.** Ep 6 is full. This belongs to her **second session (B21, Eps
+> 12/14)**, where it carries the emotional load of the back half.
+
+---
+
+## 45. Why this group holds — DM-side, never voiced (2026-08-30)
+
+**The question [§44](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30)
+left standing:** intent-under-pressure is universal among casters, so it cannot
+be what distinguishes this party. **Why does this one group of five not
+dissolve?** This section is the DM's working answer. **It is never said aloud,
+in whole or in part.**
+
+### A′ · Collision is real, but it is not a price
+
+**Intent is an *input* to casting, not world-state.** A want held in a mind
+attests nothing — on the anchor table it sits below *personal recollection
+(unwritten)*, which is already free. **So a rival's intent cannot be
+contradicted, and cannot raise anyone's cost.** Pricing an input is the mirror of
+§44(h)'s error, and "the substrate weighs two wants and picks" is §44(f)'s
+banned shape at small scale.
+
+**What is real is the consistency constraint, which is already canon:** two
+incompatible shapes cannot both obtain; if both casts happen anywhere in the
+block, the block accommodates one.
+
+- **Far apart or non-contemporaneous → cheap seams.** The substrate resolves it
+  somewhere in between and **both casters usually get something.**
+- **Co-located and contemporaneous → no seam.** The conflict then resolves the
+  way conflicts between co-located humans resolve: **through intent degradation,
+  mediated by stress** — never through a substrate charge.
+
+That degradation is already written and needs nothing new: Act I hook,
+*clustering unfamiliar casters creates social pressure that breaks intent
+integrity*; [`../../world/rules.md`](../../world/rules.md) Stress, *holding intent
+against intense social pressure* → Stress 2 = −1 WIS, Stress 4 = cannot cast.
+
+> **This is what protects §44(e).** Supported casts *remove a penalty* — a
+> rules-level fact about aiming. Price the collision instead and (e) becomes
+> *the substrate rewards your group's harmony*, inheriting the agentive drift.
+> **Keep the collision psychological.**
+
+### B′ · Assemblies fail because casters meet over a contested question
+
+**Not because their wants are correlated** — that version fixes want-correlation
+at the moment of meeting, makes acquaintance powerless, and **deletes a
+cosmologically-permitted Act III path** (`big-arc.md`: *casters-to-casters first
+— the network organizes its own refusal*). Rejected.
+
+**Casters who meet through caster-business meet over a live contested question** —
+reveal or conceal, teach or withhold, restore or let go. Two casters at the same
+table are usually two casters on opposite sides of one question about the same
+object. **The Hidden vs. The Selective** *(and The Restorers)* **are that contest
+made visible; the factions were always this mechanism.**
+
+**Familiarity remains the variable and acquaintance remains the fix, exactly as
+invariant 5 states** — strangers hold unmediated positions, friends have
+negotiated theirs. A faction that has settled its internal question can act,
+which is now a *reason* Act II's faction choice matters in Act III rather than an
+assertion that it does.
+
+**The party never met over a question.**
+
+### C′ · They didn't meet that way, and it held
+
+**Groups that meet through caster-business dissolve. This one didn't meet that
+way. It held.**
+
+That is the whole claim. It is a **filter, not a selection** — no requirement, no
+candidate set, no cheapness comparison. *Most seeds land on rock; this one landed
+on soil. Nobody sowed.*
+
+> **Two disciplines, both load-bearing.**
+>
+> **Never append *"and that is why it is this group."*** Survivorship explains why
+> a group that holds would have this property; it does not explain why this group
+> exists, and the sentence form implies a why. **Same medicine as §44's ban on
+> *needed*: the safe form is *"and it held."***
+>
+> **C′ may explain why they don't FAIL. It may never explain why they SUCCEED**,
+> and the flight never grows past §39. *A why that names a missing obstacle does
+> not compete with §39. A why that names a purpose does.*
+
+### D′ · Convergence is not agreement — already shipped
+
+**Five different wants can share one satisfying shape, with nobody conceding
+theirs.** This is §44(e) seen from the fiction side: the mechanic *requires* each
+PC to say in one sentence what **they** want — five sentences, one cast.
+
+It upgrades `big-arc.md` Act III sub-phase 5 (*PCs articulate intent-diversity as
+a metric*) from a scene where they state a thesis into one where **they have been
+living the argument since Ep 8.**
+
+> **Never a requirement.** If *one shape serving all five* becomes a standard the
+> party must meet, it is a puzzle with a correct answer and the DM will start
+> withholding until they find it. It is something that **sometimes** happens and
+> (e) rewards.
+>
+> **Found at the table, never prepped.** Prep the convergent shape and they are
+> solving the DM's puzzle. *(This constrains the convergent SHAPE only — the
+> individual wants are separately sealed from player-authored chargen text; see
+> `wants-sealed.md`.)*
+
+### E′ · The fading is by non-replacement
+
+**Flattening does not weaken existing casters. It produces fewer new ones.**
+[`antagonist.md`](antagonist.md) already holds that humans' capacity to *want
+differently* is what makes magic work — so **a caster raised among people who
+want nothing sharply never develops the muscle.**
+
+**The version rejected** — *flattening reduces want-diversity → converged wants
+collide → casters cancel* — **has the sign backwards on its own middle link:**
+under A′ the cluster-failure mechanism is social pressure, and flattening makes
+people **agreeable**, which *weakens* it. It also contradicts §44(a) by giving the
+uncaused fading a named cause (the antagonist), breaks Act III invariant 3
+(*magic's future stays ambiguous*) by supplying a cure, and needs the flattening
+backdated ~50 years to fit the decline curve.
+
+**Non-replacement fixes all four:** it fits §44(a), it is generational so it fits
+the 50-year curve naturally, **it offers no cure** — you cannot un-raise a
+generation, so Act III changes the future without healing the present and
+invariant 3 survives — and it keeps the two arcs **parallel**, sharing a substrate
+of the human being rather than a mechanism.
+
+### Doors this section must NOT close
+
+1. **Keep A′ away from the archivists.** Keepers are non-communicating *by
+   cosmological necessity*; the **archivist** is singular by a different mechanism
+   entirely (§36 substrate continuity). **Do not let one rule explain both**, or
+   §36 becomes a corollary of a rule invented this week.
+2. **Keepers stay apart because they never meet — NOT because they know to.**
+   A collision rule otherwise hands the tradition an implicit doctrine
+   (*stay apart or you cancel*), which quietly favours the
+   keepers-knew-what-they-were-doing branch §39 explicitly struck.
+3. **B′ and C′ together are more complete than either alone.** Individually both
+   are negative. Together they risk a *full* account — others fail because X,
+   these don't because not-X — which makes §44's *"nobody knows why, including the
+   world"* false in the DM's head while still true in the fiction. **Keeping C′
+   negative-only is what prevents this.**
+
+### The arrow nobody draws
+
+They met through transit. Their wants don't contest the same ground. **How they
+met is the connector, which invariant 4 holds permanently open.**
+
+**Keep the two facts adjacent and never draw the arrow between them out loud. The
+moment an NPC says *because*, §44's refusal of the selector is undone through the
+back door in a single sentence.**

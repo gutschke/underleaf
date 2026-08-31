@@ -66,6 +66,39 @@ This has story consequences:
 
 **Multi-PC cascade at anchor sites.** Ep 3 played established that anchor-site permeability can allow *multiple concurrent* Phase-1 casts across the party in a single session (Priya's fire, Mira's outline, Morgan's shoe-size intuition all fired at Bodie). This is on-shape but was not anticipated by earlier design: the anchor-density that makes single casts Free also lowers the threshold for co-occurring casts. Plan for it when scheduling anchor-site sessions in Act II (the Ukiah monastery; the Companion headquarters late Act II) — expect 2-3 concurrent Phase-1 casts, not one.
 
+## Eroded ground — the opposite cheapness (2026-08-30)
+
+**There is a second way for an edit to be cheap, and it is the mirror of an
+anchor site.** Where casters have worked hard and often, the local web of
+attestation *thins*: records disagree, memories fail to corroborate, the causal
+chains are already noisy. Edits there are cheap **not because anyone paid for
+them, but because there is less left to overwrite.**
+
+| | Why it is cheap |
+|---|---|
+| **Anchor site** | The anchors already attest most of the target shape. The substrate fills small gaps. |
+| **Eroded ground** | Nothing reliably attests anything. There is little to contradict. |
+
+Same pricing function, opposite mechanism. This inherits the free budget
+[`world-truths.md`](world-truths.md) already grants — *human eyewitness memory is
+notoriously unreliable and the substrate exploits that baseline* — and describes
+that unreliability spreading from memory into records.
+
+**It legitimately earns temporal locality.** Contemporaneous casts in an
+overlapping region share one attestation web, so they genuinely compound. That is
+the existing locality preference doing the work, with no currency involved.
+
+> **Cost is plausibility, not energy.** Erosion is *not* a shared balance and
+> nothing is ever banked. Two casters do not pool anything; they independently
+> degrade the same evidence. Never let this drift into a spell-point economy —
+> see [`facts-ledger.md`](facts-ledger.md) §44(h) for the version that was
+> rejected and why.
+
+**The world does not get powerful here; it gets unreliable.** That is the better
+image, and **the party can be complicit in producing it** — which a rescue-shaped
+catastrophe never could be.
+
+
 ## Index cards
 
 **Bea Ferro's index cards** (Outer Sunset house, Ep 2) are the archivist role's working record. Each card records one anomaly that Bea (or a predecessor) personally witnessed or was reliably informed about. Contemporary observations; written now; kept forever.
@@ -73,7 +106,72 @@ This has story consequences:
 Rules of the cards:
 - **The archivist writes; they don't read or interpret.** Bea will show a card. She will not explain what she thinks it means.
 - Cards accumulate across archivist tenures. The house has decades' worth. Some cards Bea has never looked at; some she's cross-referenced obsessively.
-- Cards are *low-strength anchors on their own* — they're personal-record tier. But their cumulative pattern is what makes the archivist's role load-bearing: a single anomaly is dismissible; a card-cross-referenced pattern is not.
+- **Cards are NOT anchors. They are EVIDENCE, and the two do opposite jobs.** *(Corrected 2026-08-30 — this bullet used to call them "low-strength anchors", contradicting §Keeper vs Custodian in this same file.)*
+
+> **A card is an anchor in exactly the way a police file is an anchor.** There is a
+> real cost to contradicting it — **and it is editable in principle.**
+> **A ledger entry is UNEDITABLE BY CONSTRUCTION.** That is the whole difference.
+>
+> | | Editable? |
+> |---|---|
+> | **Index card** — an observer's record of a coincidence | **YES, at a price.** Ordinary world-state. The substrate can rewrite one, and **sometimes does — and Bea will never know it happened.** |
+> | **Ledger entry** — keeper, with intent | **NO. The edit is not available**, not merely expensive. |
+
+**Why uneditability IS the mechanism, and not a bonus feature.** If an anchoring
+entry could be rewritten, the substrate would simply edit the entry and the world
+together, cheaply, and the anchor would hold nothing. **The shape holds precisely
+because the attestation cannot be revised out from under it.**
+
+> **Uneditable is not indestructible.** **Fire still works.** A ledger can be lost,
+> burned, or rot — the substrate then settles for a different self-consistent
+> shape. **This is why physical persistence matters so much for ledgers and why
+> Rosa has been quietly degrading hers for years** (took it home in 2013, wooden
+> house on a hillside, no successor). She would call it protecting it.
+
+**Bea is not a caster, so nothing she writes can anchor anything.** The archivist
+role is load-bearing anyway — and for two opposite reasons at once.
+
+### A record is only a constraint when it is CONSULTED
+
+**An inaccurate card is not a contradiction in reality. It is just an inaccurate
+card** — the same way a false memory is not a contradiction, only a fact about a
+brain. **People are wrong constantly and the world stays perfectly consistent.**
+
+**A record becomes world-state that must be reconciled at the moment somebody uses
+it to make a claim.** Until then it is ink in a drawer.
+
+> **So the substrate does not tidy.** It skips rewriting a harmless contradiction,
+> because there is nothing to fix. **This is the same latitude
+> [`world-truths.md`](world-truths.md) already grants for unreliable memory,
+> applied to paper.**
+
+### Two routes to a stable card, for OPPOSITE reasons
+
+| Route | Why it survives |
+|---|---|
+| **Cross-referenced** | **High edit cost.** It is load-bearing evidence inside a pattern somebody checks, so overwriting it consistently is expensive. |
+| **Hidden / unfindable** | **Low impact.** Nobody but the archivist can locate it, so a contradiction there changes nothing and is not worth paying to fix. |
+
+**Both give stability. Neither is anchoring.** *(This supersedes an earlier
+reading in which an inscrutable filing scheme raised the edit COST. It does not
+need to — **hiding works by irrelevance, which is cheaper and cleaner.**)*
+
+> **Which means an archivist's work is ALWAYS best-effort**, and both routes admit
+> failure. **Some of Bea's cards have been edited and she will never know.** She is
+> not a detection instrument; she is a careful person with an imperfect record.
+
+### The play consequence — this is why the party can never SEARCH the cards
+
+**The inscrutable indexing is not a quirk; it is the same fact seen from the table
+side.** A filing system that exists only in one head is precisely a filing system
+nobody else can query.
+
+> **PLAYERS CAN NEVER LOOK FOR AN INDEX CARD.** There is no research action, no
+> roll, no clever approach that retrieves a specific card. **They can only come
+> across one, or be handed one by the current archivist.**
+>
+> **This is not a DM refusal — it is what the cards ARE.** The party failed to
+> crack Bea's colour-coding in Ep 2 and that failure was correct and permanent.
 - **The house itself is a stronger anchor than any individual card.** Continuous inhabitation by the archivist role since the previous owner is what makes the cards preserved. If the house ever burned, the substrate would settle for a different self-consistent shape — probably a new archivist elsewhere with a fresh card system that would slowly re-accumulate.
 
 ## KEEPER vs CUSTODIAN — and what actually makes an anchor
@@ -100,6 +198,26 @@ Rules of the cards:
 - **An archivist-custodian leaving margin notes is safe by construction.** Marsh's annotations on rescued ledgers add documentation and no anchor weight — **they are index cards written in a different book.**
 
 > **The beat this unlocks, and it is free:** Marsh's three ledgers are in {{pc:4}}'s bag, annotated in her hand. So a single book contains **two hands doing two different jobs** — the keeper's entries, and an archivist's later documentation of them. **The party can SEE the distinction instead of being told it. Do not explain it; let them find the second hand.**
+
+### Two kinds of entry — and a keeper cannot always tell them apart
+
+*Ruled 2026-08-30, correcting a line that had a keeper describing herself like an archivist.*
+
+**1. DELIBERATE ANCHORING.** The keeper casts, and writes to make it hold. **They know exactly what that entry is for.** This is what a live ledger is *for*, and it is why handing one over hands someone a cast.
+
+**2. THE COMPULSION ENTRY.** The keeper feels they must write something down and **does not know why.** This is how a **retrocausal** event acquires an indestructible anchor: from the keeper's point of view the writing comes *first*, and the thing it anchors arrives later, or has always already been true.
+
+> **From the inside, these do not feel reliably different.** A keeper may be unable to sort their own ledger into the two piles — and an honest one will say so rather than claim they never understood any of it.
+
+**So this sentence is an ARCHIVIST's, and must never be given to a keeper:**
+
+> ❌ *"I write it down when I see it. That's all it is. I've never known what it was for."*
+
+**That is true of Bea and index cards** — she is not a caster, she genuinely never anchors, and documenting without understanding is the whole of her job. **Putting it in a keeper's mouth is a category error** that teaches the party a ledger is a diary.
+
+**The party needs the correct version, because they are going to do this.** A PC anchors deliberately in Act III, and {{pc:3}}'s Kai anchor is built on it. **If their only model of keeping is *"I never knew what it meant,"* they will not understand what they are holding when the pen reaches them.**
+
+> **A keeper who stopped casting may still get compulsion entries.** The deliberate anchoring ends with the reaching; the *"I couldn't not write this"* does not necessarily. **For Rosa that is quietly devastating and it deepens her step-back declaration** — she gave it up, and the ledger still occasionally asks her for something.
 
 **A LIVE ledger — one a keeper is still writing in — is the dangerous kind of anchor**, and that is why it cannot be entrusted to just anyone. Not because the object is hazardous, but because **writing in it with intent is a cast**, and handing it over hands someone that. **A FULL ledger is a preserved object**: fixed, custodial, safe for an archivist.
 
