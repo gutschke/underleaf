@@ -192,9 +192,11 @@ She sits them down and says:
 
 **Alaia.** See the lookup below. 
 
-### LOOKUP — if somebody mentions Alaia (can fire anywhere)
+### LOOKUP — if somebody mentions Alaia (best at the dance; see Scene 4)
 
-**Her daughter asked twice not to be mentioned. Somebody will mention her** — most likely {{pc:4}}, who overshares, and whom Alaia already routes around.
+**Her daughter asked twice not to be mentioned. Somebody will mention her.**
+
+> **The dance hall is where you want this, not the house.** At the house it is a slip that costs an awkward minute. **At the dance it is a trade the party can see and choose** — and the room pays them back for it. **Scene 4 plants it and sets the price.** If it fires here in the house instead, run it the same way, but there is no Winnie to collect from.
 
 **Rosa is not suspicious and not hurt. She is delighted.** She has spent years carefully not asking her daughter about any of this, and here is evidence the girl is engaged.
 
