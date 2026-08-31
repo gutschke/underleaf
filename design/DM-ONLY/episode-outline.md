@@ -88,6 +88,8 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 
 ## Act I close (Eps 5-9)
 
+> **Season boundary:** **Season 1 = Eps 1-8; Act I closes at Ep 9.** Ep 8 is the season finale (the hinge); **Ep 9 is the Season 2 premiere that finishes Act I's business.** The offset is deliberate — see *SEASON BOUNDARY* at the end of Ep 8.
+
 ### Ep 5 — The One Page  *(PROMOTED — `episodes/005-the-one-page/`)*
 
 - **LOAD:** MEDIUM. Revised 2026-08-27 after a five-expert review pass.
@@ -100,65 +102,583 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **A6 — Dakota's MOMENT OF RELEASE is nominated here.** *(Mislabelled as his 'realization' until 2026-08-29; those are different gates and his realization gate is undefined — see `dakota-phase-gates.md`.)* It was scheduled nowhere in Eps 5-25 (fire-by Ep 5-7), which is the S2 failure arriving from the opposite direction: the outline was so careful to stop Dakota eating other PCs' arcs that it stopped giving him one. His sheet requires him to **drop the persona in a scene where the persona would have gotten him what he wanted** — and Scene 1's *"tell me what you know"*, in front of a cop, with Morgan needing her cooperation, is exactly that room. Do not force it; if {{pc:4}}'s player reaches for politician-speech and then stops himself, that is A6 and you log it.
 - **Risk if slips:** the pre-designated cut is in the run-guide. A1 is the one thing that cannot slip again — if the party skips Bea's, the card is mailed.
 
-### Ep 6 — The Berkeley Hills
+### Ep 6 — Eight Twenty Sharp
 
-- **LOAD:** HEAVY
-- **PRIMARY SHAPE: social infiltration + assay-as-negotiation**, with a paperwork puzzle that **fails**.
-- **Arc-node:** **R(Priya) — A3 FIRES, privately.** Rosa has a small physical moment on the garden slope; Priya does what Priya does; it eases in a way her clinical training does not account for. **Rosa notices exactly what happened and says nothing**, because she has decided not to be the one to tell her.
-  **But she must visibly register it, or this destabilizes nobody.** A destabilizer the players never witness is good authorship and zero table effect. Give her **one visible tell** {{pc:2}}'s player can chew on for three sessions: she stops mid-sentence, or changes the subject in a way that is obviously a change of subject. Do not explain it. This also pays off Priya's Ep-4 covert exam of Vivian — a 98-year-old with a surprisingly strong pulse and a 79-year-old whose tremor stopped make a shape.
-- **Setting/register:** Bancroft reading room (call slips, white gloves) → Rosa's terraced garden, hands in soil. **The archive fails them**: the finding aid points to a person in informal custody, not a shelf. That inverts the records-hunt fatigue pattern instead of repeating it.
-- **Give {{pc:5}} the call-slip desk.** A reading room and a 79-year-old's garden have no surface for a warehouse supervisor, and he has nothing else this session. His domain is *walking through a door as if he owns it* — so route the finding-aid failure through a clerk who will not be moved, and let {{pc:5}} be the one who is not dismissed.
-- **A5 — R({{pc:1}}) BEGINS HERE.** It was moved out of Ep 8 in a note and never written into this session, so it existed in two places and was present in neither. **The vehicle:** Bancroft's finding aid. His domain is systems and information, and a Free-tier intuition lands him on a fact he could not have guessed from the catalogue — the record points at a *person*, and he knows it before the paperwork says so. Private, per `principles.md` §3.
-  **His release condition** is *naming the true thing to someone who will hear it*, and it pays off with Nia at Ep 8 **or** at Ep 9's cabin — **never in Ep 8 alongside the realization.** Release always follows realization; see hook-ledger A9.
-- **Plants:** peer-network seed — Rosa does **NOT** name the network (that line is Nia's, and it lands once); **S1 #2** (a librarian over-agrees with a specific-and-wrong routing and sends them to the wrong desk).
-- **Fires:** **A5 begins** · A3 · B13 (Rosa in person) · **B1 partial — the Bancroft ledger arrives, it is not hunted** (it has been on her kitchen table the whole time; she offers it at the end because it was never the point) · U9 first letter (Vivian's mailed letter file; one safe name spent: **McCulloch**) · U8 partial (mail recurrence) · **T7 fires or retires** (Dakota's brown-edged photograph dead-ends at Bancroft as designed).
-- **Coda:** Elena's note on the envelope — *"She asked me to say she's had a good week."* The dying-line displaced into understatement, which hurts more than the original.
-- **Risk if slips:** if Rosa dominates and A3 slips, every subsequent per-PC realization chain-slips.
+- **LOAD:** **HEAVY** *(re-rated 2026-08-30 after a table review counted it at ~3h05-3h35 against a 2.5h target. **Bancroft is CUT**, but the hall is not cheap.)* **Pre-cuts and a hard T+0:40 door gate are in `tmp/authoring/working-draft.md`.**
+- **PRIMARY SHAPE: a social event where the party has no standing.** **NOT an interview, NOT a records hunt, NOT a bureaucratic obstacle.** Eps 5 and 6 were back-to-back counter-and-clerk sessions; this breaks that.
 
-### Ep 7 — The Fourth Birthday  *(★ REVOKED — see the slack warning; this is MEDIUM)*
+> [!IMPORTANT]
+> **THE ONE SENTENCE FOR THIS SESSION:** *Rosa believes she is the only person in the world who does this. She has forty years of evidence. She is wrong, and her being wrong is the proof.*
+>
+> **The session's SHAPE is the refutation, and it needs no dialogue.** She thinks she is alone → so she treats five strangers as an errand → so she leaves for the thing that is actually her life → **and five casters follow her into it.** Do not have anyone say this. Let the room be it.
 
-- **LOAD:** **MEDIUM.** It was labelled LIGHT and simultaneously loaded with eight items. Compress **T1 + T2 + A8 into one combined beat** — Reggie is at the party, which covers all three — and it becomes genuinely light again. Either way, **do not spend this session absorbing overflow**: it carries the campaign's first moment-of-release.
-- **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
-- **Arc-node:** **MoR(Priya) — A9 FIRES. The campaign's first moment-of-release.** A kid goes down hard, or chokes; Priya is there before she decides to be; it resolves; **she was not trying**, and she notices afterward that she wasn't trying. Her sheet's own release condition: *the 17 moment without the crowd.*
-- **Second arc-node:** **R(Mira) begins** — at a folding table of family photographs she reads an absence that **is not Kai's** (someone else's: a divorce, a dead uncle) and for the first time understands it as *a thing she does* rather than a thing that happens to her. Private; do not resolve.
-- **Third:** **Mars's deferred A7 private beat lands here** (logged from Ep 5) — this is his **realization**. His **moment-of-release** is separate and lands Ep 11. Do not schedule both in one session.
-- **Setting/register:** Mei's fourth birthday, outdoors, kids underfoot. The only records present are photographs on a folding table.
-- **Fires:** A9 · A8 (Yui check-in) · T1 (Reggie) · T2 · T4 (Ren + Maya, 3 min) · **B15 re-plant** — Bea's *unrequested* envelope arrives that week with the Marsh galaxies-sentient clipping.
-- **Hook out:** **Nia names the date.** *(Ep 5 spends the call itself — the party dials Bea's card from the porch that night and Nia texts back the next morning: "Bea gave you this? Then I suppose we should have lunch." What Ep 5 does NOT give them is a when.)* Nia is away — a cataloguing contract out of state through most of March — and has been putting them off politely for six weeks. **This is where she finally picks a day.** Phone only. **That six-week gap is deliberate and it is the reason she does not appear until Ep 8**; if a player gets impatient in Eps 6-7, that impatience is correct and you should let it show.
-- **Risk if slips:** this is the campaign's first recovery beat and the gate-opener for every subsequent MoR. **Do not add to this session.**
+#### Why Bancroft is cut (2026-08-30)
 
-### Ep 8 — Lunch in Twos
+**Finding another ledger is a no-op and the party does not know that yet.** Ledgers anchor; they do not confer. A second reading-room session would have taught them that *ledgers are the quest*, which is the opposite of true — and it would have repeated Ep 5's shape one week later.
 
-- **LOAD:** HEAVY — the Act I→II hinge.
-- **PRIMARY SHAPE: negotiation**, with a substrate-friction escape as physical counterweight.
-- **Arc-node:** **A1 FIRES.** Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos."* Plus the authorless-cause line. She refuses the mentor frame explicitly. **A2** — Reggie named as substrate-sensitive non-caster.
-- **Second arc-node:** **R(Mira) completes (A4)** — private scene.
-- **A5 (R(Morgan) begins) MOVED TO EP 6** — Bancroft's finding aid is a better vehicle (a systems/information Free-tier intuition landing on a fact he could not have guessed), and it unloads this session, which is the Act I→II hinge and must not be rushed. His release condition — *naming the true thing to someone who will hear it* — still pays off with Nia here or at Ep 9.
-- **{{pc:4}} makes the call — this fixes a four-session drought.** {{pc:4}} has no named content in Eps 6, 7, 8 or 9, which is the same failure the outline caught at Ep 5 and only fixed there. He is the party's Control-seeker and the player whose Ep 4 record reads *"a masterclass in politician-speech."* A player like that does not sit quiet for four sessions; he fills the vacuum, and he will fill it in the two sessions that must not be crowded.
-  **So: when Nia's second caster cancels, give {{pc:4}} the phone call.** Let him deploy everything he has to talk them into coming, and let it fail **for reasons that are nobody's fault.** That demonstrates invariant 5 *on the party's Control-seeker* rather than on the room, which is far sharper — and it costs zero added minutes.
-- **THE MINOR BATTLE — form 1, "the meeting cannot happen."** Nia tries to bring a second network caster to the table. Per big-arc invariant 5, assemblies of unfamiliar casters structurally fail — and so far the party has only been *told* that. **Show it.**
-  - **The canonical mechanism is CANCELLATION and SOFTENING, not hostility.** The second caster cancels — sick, an emergency, a shift swap. Then the room declines to cooperate: a fire alarm, a delivery pallet in the doorway, a third person who joins the table and won't leave, a phone that rings. **Cap the escalation at "the meeting cannot happen."** Deflating and faintly absurd, never thrilling.
-  - **Add the softening, which is the half that carries the actual invariant:** the two casters who *are* present try the small thing either could do alone, and it doesn't take.
-  - **The felt lesson:** *"we cannot get four of us into one room, it is stupid, and it is nobody's fault."*
+**Rosa's ledger still matters — but because of what it says about HER**, not because the party gains anything by holding it. See B1's evidence floor below.
+
+- **Displaced with it:** **A5's Bancroft vehicle** (re-homed below) and **T7's designed dead-end** (now dead-ends at Rosa's kitchen, which is cheaper and just as final).
+
+#### The shape of the day
+
+**8:20am sharp, Saturday 20 February, the Berkeley Hills.** They arrive on time because she said sharp.
+
+**She has double-booked, and it is neither an accident nor a scheme.** She agreed to see them because **Vivian asked** — that is the entire reason. She scheduled them into the gap **before** the thing that is actually her life, set 8:20 because the hall opens at nine and **forty minutes is what an obligation gets**, and built herself an exit without mentioning there was one. *(She also forgot to give them the address — canon, B13. She forgot because part of her half-hoped it would not happen.)*
+
+> **A woman who believes she is the only one has no test to administer.** There is no network in her head to vet candidates for. **Play no assessment, no gatekeeping, and no criteria.** She is not weighing them; she has somewhere to be.
+
+1. **~15 minutes at the house.** The assay-cue lands — *"Sit down. Tell me who sent you and what you already know. In that order."* — and then it is visibly cut short. She is dressed for something. She keeps checking a clock.
+2. **She leaves.** Warmly, unapologetically, and without inviting them. *"I have a thing. I've had it every Saturday for thirty-one years."*
+#### THE HINGE — a script, not a hope
+
+**The DM CAN guarantee this, and should.** But it plays far better when it arrives
+on its own — **and it usually will**, because a lift is the obvious courtesy and
+these players are decent. **Start at rung 0 and stop the moment they bite.**
+**Do not run rungs you do not need.**
+
+*Rosa's voice: direct without being brusque, uses your name early and correctly,
+lets a silence sit and will not fill it.*
+
+**RUNG 0 — no prompt. Just play her getting ready.**
+She looks at the clock, stands, and starts gathering: a cardigan, a flat tin, a
+worn folder of loose paper.
+
+> *"Right. I have to be somewhere at nine."*
+
+**Then let a silence sit. She will not fill it.** Nine times in ten somebody
+offers a ride here, and everything below is unnecessary.
+
+**RUNG 1 — she makes the opening obvious.**
+> *"Did one of you drive? I usually walk down, but I've left it late."*
+
+**RUNG 2 — she asks directly.**
+> *"{{pc:1}}. Would you run me down the hill? It's five minutes and I'd be
+> grateful. We can keep talking in the car."*
+
+**← Note the last clause. It answers the objection they actually have** — that
+leaving the house ends the conversation.
+
+**RUNG 3 — the object. THIS IS THE RUNG THAT GETS THEM THROUGH THE DOOR.**
+At the kerb she is already half out, and she hands the tin or the folder to
+whoever is nearest:
+
+> *"Bring that in for me, would you. I've got the door."*
+
+**She does not wait for an answer and she does not look back.** Somebody is now
+carrying her property into a building. **The rest of the party follows the person
+holding the tin** — no decision required from anybody.
+
+**RUNG 4 — she says it plainly.** *(Only if the tin came back to her.)*
+> *"Come in. I'm not finished with you, and I'm here for an hour either way. Sit
+> at the back, or make yourself useful — but don't stand in the car park."*
+
+**Warm, direct, and effectively unrefusable.** She is 79 and she is not asking.
+
+**RUNG 5 — the room does it.** *(Only if they are still on the step.)*
+Somebody coming in behind them, arms full, entirely unbothered:
+
+> *"Are you with Rosa? Go on in, there's coffee. Prop that door, would you."*
+
+**The welcome comes from a stranger, which is the point** — Rosa never has to
+invite them, so they never have to feel they intruded.
+
+> [!IMPORTANT]
+> **Why the welcome must NOT come from Rosa.** Ep 5 taught them that her
+> graciousness is not a reliable signal — **Alaia said so twice** — so a warm
+> invitation from Rosa reads to this party as politeness masking a no. **A
+> stranger's welcome carries no such history.**
+
+> [!IMPORTANT]
+> **AND THE REAL HINGE IS INSIDE, FIVE TIMES OVER: participate, or stand at the
+> wall.** Once they are through the door the session cannot be refused into a null
+> scene, and each player still owns a genuine choice. **That is where the cost
+> lives — not in the car park.**
+
+4. **The rest of the session is at the hall**, and she is busy in it.
+
+#### Setting — Live Oak Park Social Hall, North Berkeley
+
+**Shattuck & Berryman, minutes down the hill.** A real rec-centre hall with a sprung wooden floor, folding chairs round the edges, a coffee urn, and a Saturday-morning folk-dance session that has been running for decades. **Forty to sixty people, average age about seventy, all of whom know each other.**
+
+> **Deliberately NOT Ashkenaz.** Ashkenaz is the famous Berkeley answer and it is a night venue; a 9am session there would ring false to players who know the city. **Live Oak is the one that survives local scrutiny.**
+
+**What the room does to the party:** they are the only people under sixty, nobody needs anything from them, and there is nothing to obtain. **You cannot interview a room that is dancing.**
+
+> [!IMPORTANT]
+> **DRAFTED, NOT INVITED.** At 12-15, asking a player to *volunteer* their PC into an uncool activity in front of four best friends is asking them to volunteer to be laughed at — **they will decline as a bloc.** Conscription carries no such cost: **within sixty seconds the room gives every PC a job and does not ask permission.**
+>
+> **AND THE ELDERS MUST OUT-DANCE THEM.** If the room reads as frail the humour curdles into laughing at old people inside two minutes. **Play them fitter, faster and more socially confident than the PCs.** The joke is *the party is out of its depth*, not *these people are decrepit*.
+
+#### THE ENGINE — a conversation you cannot have in one piece
+
+**Contra and square figures rotate partners every thirty seconds.** You get **one exchange** with Rosa, and then she is swung away down the line and you are facing a stranger who is delighted to meet you.
+
+**Run it literally.** Each time a PC reaches Rosa, they get **one question or one statement — not a conversation.** Then the figure takes her. The next PC to reach her inherits whatever the last one started, **and inherits nothing about what she answered** unless the party relays it.
+
+**This is the session's comic engine and its cooperation problem at once.** The party will invent a relay within two rotations. **Let the relay garble.** A question passed down four partners comes back as something adjacent and wrong, and the wrong version is often funnier and occasionally more revealing.
+
+> **Do not make them roll for this.** It is a conversation with a timer, not a skill test. **The only reason to call for a roll is if a player wants to break the pattern** — cut the line, sit one out to catch her, get the caller to change the figure.
+
+---
+
+#### Hijinks, per PC — offer, never enforce
+
+*None of this is required. If a player wants to stand by the wall all morning, that is a real choice and it has its own scene. **Nobody is pushed onto the floor.***
+
+**{{pc:1}} — he does not dance, and becomes indispensable instead.** The caller's microphone is cutting out. Within ten minutes the quietest person in the party is under the little stage with the PA, and by the second dance he is the only one who can make it work. **He has avoided dancing by becoming load-bearing**, which is the most in-character thing he could possibly do.
+- **This is also where A5 lands.** The booking calendar is on the wall **right next to the sound desk.** He does not go looking for it; he is standing there for twenty minutes with nothing to read.
+- *Running gag:* three phones, and the one that rings is never the one he reaches for.
+- *If he does dance:* he reverse-engineers the figure and executes it **perfectly and mechanically**, one beat behind everyone, like a man running someone else's code. Somebody says *"you've done this before"* and he genuinely has not.
+
+**{{pc:2}} — she has triaged the entire room before the first dance ends.** ICU night shift does not switch off. She has clocked every fall risk, two undisclosed hip replacements, and a man who should not be doing that with that knee.
+> **She is RIGHT about the anatomy and WRONG about the danger**, and that distinction is the whole tone control. **These people know exactly what their bodies do and have been managing it for twenty years.** *Her worry is the joke; their competence is the punchline.* Without this it becomes a running gag about old people falling over and the other four will join in within a minute. **NOBODY ACTUALLY FALLS** — that is Ep 7's beat.
+- *Running gag:* she keeps almost saying something to strangers about their gait.
+- > **BODY COST-TELL — check here.** Hot crowded hall, early morning, possibly straight off a night shift: **dehydration plus sleep loss is her stated migraine trigger.** If she has been pushing, this is a natural place for the first flicker. **Do not use it to punish her; use it as weather.**
+- **A3 fires inside this**, and the comedy is what makes it land: she is not being heroic, she is being *unable to stop*, and this time something else happens too.
+
+**{{pc:3}} — she starts filing, and the room is thrilled.** *(Replaced 2026-08-30. The old bits were a null closet, **a gap on a photo board — the exact object class her domain exists to read, staged as nothing**, which risks firing her Free-tier power and teaching the player her ability is unreliable next to a live stress thread, and **being physically overridden by NPCs four times**, which reads to a 12-15-year-old as the DM not letting her do what she said. **Her articulation refusal is Ep 7, so this is her whole night.**)*
+
+She is a **records clerk**, and this room has **thirty-one years of records nobody has ever filed properly** — a sign-in binder, a shoebox of receipts, a membership list in four hands. **She cannot help herself, and the room is *delighted*:** somebody has been meaning to do that since 1998.
+- **Same joke as {{pc:1}}'s PA — avoid the floor by becoming useful** — warm, three minutes, **and it puts her next to the records A5 needs.**
+- *Free second bit:* the calls are a foreign vocabulary and she audits a linguistics class. **She is transcribing them phonetically within ten minutes.**
+
+**{{pc:4}} — THE ROOM IS IMMUNE, and this is the best comedy available.** He deploys persona 2 and **forty people who have known each other for thirty years find him delightful.** He cannot get a rise out of anybody. A seventy-five-year-old woman starts calling him *"the mouthy one"* with obvious affection and introduces him to her friends that way. **He is being adopted, and there is nothing he can do about it.**
+- *Running gag:* somebody asks about the pipe. He has to explain he does not smoke it. **They think this is charming.**
+- *If he campaigns* — and he will — **nobody asks what town.** They are enthusiastic and completely uninterested in the details, which is worse than being challenged.
+- > **THE BEAT: the caller hands him the microphone — for ONE figure already taught, and feeds him the four words.** *(Rewritten 2026-08-30. **He cannot call a dance**, so an open mic in a warm room is a 12-15-year-old playing a demagogue giving a speech and getting the biggest applause of the campaign in the one venue built to deny him it. And a collapse everyone laughs at is a **rise** — he wins.)*
+>
+> **Say them plain → forty people move and he feels it in his body.** That is the beat and it is worth the session.
+> **Embellish → the caller takes the mic back mid-sentence, kindly, without breaking stride, because the music does not stop. Nobody laughs. Nobody minds.**
+>
+> Afterwards, neither praise nor rebuke: ***"You've got the voice. Come learn the dances and you can have it properly."*** **An offered future, no reward now.** **Do not hand the player a physical object.**
+>
+> **This is his whole arc as a joke, so do NOT explain it, and do not engineer it.** Offer the microphone once. If he declines, drop it entirely — an unaccepted offer costs nothing.
+> *Ladder:* **(1)** the caller is hoarse and scanning the room. **(2)** *"you've got a voice on you — want to try one?"* **(3)** nothing. Let it go.
+
+**{{pc:5}} — the most in-demand man in the building.** He is twenty-five, strong, and **5'4"**, which in a room of seventy-year-old women is not a joke about his height — **it is the correct height**, and somebody says so out loud, warmly, as an actual compliment. He will not know what to do with that.
+- *Running gag:* he is claimed for every dance. He cannot get to Rosa **because he is too popular**, which is a genuinely novel problem for him.
+- **He is the only one having an unambiguously good time**, and it will surprise the table.
+- *The organizer conversation:* the hall's lease, the rec-centre budget, who is trying to cut the Saturday session. **He is a tenants'-rights organizer and he cannot help himself.** This is real, it goes nowhere, and it is the warmest thing in the session.
+- > **THE CARRY — make it a SIGN, not a scene** *(2026-08-30)*. A pistol in a hall holding forty elderly civilians is a heavier image for a 12-15-year-old table than "slightly funny continuity" admits. **A posted notice on the door of a Berkeley municipal building** is realistic, costs no table time, and **makes leaving it in the car the path of least friction in fiction** — the graceful out his own sheet asks for (`bringAGunWatch`). **It also banks the "left it in the car" fact for later.** He reads the sign, he decides, move on. **Do not adjudicate and do not build a beat around it.**
+- > **BODY COST-TELL — check here.** Two hours of swing figures is exactly the kind of thing his neck flares after.
+
+---
+
+> [!IMPORTANT]
+> **TONE — the one rule that governs all of the above.**
+>
+> **The comedy is the bed, not the content.** This is a warm, silly, physical morning, and the party should leave it having genuinely enjoyed themselves.
+>
+> **A3 is the ONE quiet moment inside it, and it works because of the noise around it** — nobody is watching, everyone is laughing, and something happens that only two people notice. **Do not sober the room up first.** Do not let the comedy stop for it. **Come back to the jokes immediately afterwards** — that is what makes it land instead of announcing itself.
+>
+> **And nothing here is a puzzle.** There is no clue in the mops, nothing hidden on the photo board, and the sound system is just old.
+
+#### Why this session exists for {{pc:4}} — the register problem, addressed structurally
+
+**Six of {{pc:4}}'s seven personas have the same intent: get something out of somebody.** So long as every scene rewards extraction, only the extracting registers ever appear, and we have been running extraction scenes since Ep 1. **This is not fixed by giving him opportunities; it is fixed by running a scene where extraction does not score.**
+
+At Live Oak:
 
 > [!CAUTION]
-> **Do NOT run this as a physical set piece, and do NOT use combat vocabulary.** An earlier version of this entry escalated into a crowded platform, a near-miss on the tracks, and Harm box 1, with Defend/Maneuver/Aid rolls. **That was wrong and it was the most dangerous item in the plan.** Three reasons:
+> **THE ROOM'S WARMTH MUST BE UNCOUPLED FROM HIS PERFORMANCE** *(corrected 2026-08-30)*. `dakota-personas.md` is explicit: **annoyance is his win condition; what costs him is being unmoved.** An earlier draft had forty people finding persona 2 *delightful* — the largest positive reception it has ever had, which the player would correctly read as it working spectacularly.
 >
-> 1. **A coordinated hostile environment reads as agency, and agency reads as an agent.** This party's established frame is culprit-hunting — S3 exists because they landed on Dakota-as-perpetrator and it has only *softened*.
-> 2. It violates, at set-piece scale, the rule the Ep 5 run-guide states at flattening scale: *every instance must be a default, never a choice a person makes.* A fire alarm **plus** a pallet **plus** a closing platform **plus** a crowd, inside ninety seconds, reads as a choice someone made.
-> 3. **It collides with Nia in the same ninety minutes.** She is here to say *"We didn't do it. Nothing 'did.'"* Staging an authorless-cause speech and a scary-coordinated-world set piece in one session puts the party's two readings in direct competition — **and set pieces beat speeches.** `antagonist.md`: *resist the temptation to give the AI a face.* A coordinated hostile environment is a face.
+> **Keep the adoption. Uncouple it.** They are equally delighted by everyone; the same 75-year-old is affectionate to Priya too. **Nothing he does moves the temperature by one degree** — when he escalates, she pats his arm and asks if he wants coffee. **That is indifference wearing a warm coat, and it is the only version that prices him.**
+
+- **Persona 2 (the obnoxious prick) gets nothing distinguishable.** There is nothing to extract, and the room's affection does not vary with his effort.
+- **Persona 3 (the Charmer) gets exposed.** You cannot charm-and-not-listen when your mark is going to be standing beside you for two hours and will notice.
+- **Persona 1 — the un-performed one — is the only register the room does not punish.**
+
+> **Do NOT engineer this, announce it, or reward it out loud.** Build the room correctly and let him find the floor himself. **If he stays in 2 or 3 all session, that is a real and interesting outcome — log it, do not correct it.** Per `dakota-personas.md`, persona 1 is also the register his realization should fire in, because it is the only one in which nothing he gets can be credited to working the room.
+
+#### THE PLANNER — A5's object, and it is not on a wall
+
+**A small black daily planner, one page per day.** She carries it; it lives in the
+bag with the tin and the music folder.
+
+**It would work beautifully if it were not a disaster.** Post-it notes in
+drifts. Earmarked pages. Loose sheets stuffed between other days. And — **the
+party will suspect this and they will be right** — pages torn out and used as
+improvised note paper.
+
+> **The contrast is the whole point, and nobody says it aloud.** She is
+> *immaculate* with the ledger and **surprisingly chaotic with the calendar.**
 >
-> If a physical set piece is genuinely wanted, **decouple it into a different session** so it is not causally adjacent to a caster meeting failing.
+> **A plausible reason, which the DM holds and never states:** anything fixed in
+> the ledger is permanent. **Her social life is not.** You do not keep a moving
+> thing the way you keep a fixed one.
 
-- **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give the casters present Stress 1–2**, narrated as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9's confession-and-walk-and-talk session then clears it diegetically**, which is a far better joint than a bruise healing off-screen.
-- **The Bea coda MOVED TO EP 9's OPENING.** Ep 9 is a coast retreat with zero documents; a four-minute Bea beat with a coffee fits its register far better than a lunch-then-platform session, T10 lands harder next to two moments of release, and it unloads the hinge. **This session is the campaign's single largest exposition beat and Nia cannot be rushed.**
-- **Fires:** A1 · A2 · A4 · **MoR({{pc:1}}) possible here or Ep 9** · B3 seeded · **S1 #3** · T10.
+**A5 — what {{pc:1}} gets, if he looks carefully.** Not one page. **She has kept
+every planner from previous years** — and once he sees the run of them, the
+disorganisation reads differently.
 
-### Ep 9 ★ — Aftermath / The Party as Weather
+> **Maybe it is not chaos. Maybe it is just complex, and she knows exactly how to
+> hold all the moving parts together.**
+>
+> **Or maybe that is wishful thinking.** **Leave it there. Do not resolve it.**
+
+**This is a better A5 than a wall calendar** — the fact he reads off it is *she has
+been doing this longer than anyone*, and a run of identical black notebooks says
+that in a way a single year never could.
+
+> [!IMPORTANT]
+> **THE RHYME — do not point at it.** This is the same shape as **Bea's index
+> cards**, and nobody ever settles whether Bea is brilliant or hopelessly
+> chaotic. She seems to know how to find things. **Half the time, things find
+> her.**
+>
+> **Two women, two systems, the same unanswerable question** — and the party has
+> already failed to crack Bea's colour-coding five days earlier. **If a player
+> makes the connection themselves, that is a genuine and earned moment.** The DM
+> never makes it for them.
+
+#### Arc-nodes
+
+- **R({{pc:2}}) — A3 FIRES, at the hall.** Rosa has a small physical moment mid-figure; {{pc:2}} is there before she decides to be; it eases in a way her clinical training does not account for. **Rosa registers exactly what happened.**
+  **The public room makes this STRONGER than the garden did** — she cannot react, and forty people are watching the dance rather than her. Her one visible tell: she sits out the next one, which she never does. **Do not explain it.**
+- **A5 — R({{pc:1}}) begins.** *Re-homed from Bancroft's finding aid.* **New vehicle: Rosa's daily planner — see THE PLANNER above.** A records-shaped object in his domain. He clocks a true thing off it before anyone says it: **she has been doing this longer than anyone.** Private, per `principles.md` §3.
+  **His release condition** — *naming the true thing to someone who will hear it* — pays off **Ep 8 or Ep 9, never in the same session as the realization.**
+
+> [!IMPORTANT]
+> **Realizations are BEATS, not gates.** If A3 or A5 does not fire, **nothing downstream is blocked** — Ep 8 names it bluntly to all five regardless. This retires the old *"if Rosa dominates, every realization chain-slips"* warning, which the new shape also fixes structurally: **Rosa cannot dominate a room she keeps being pulled away from.**
+
+#### The articulation pass — three refusals, now in three different registers
+
+*Per facts-ledger §45 and `wants-sealed.md`. Wants are produced by REFUSAL, never by asking. **The table never hears the list** — but see the note under Ep 8 on how the sealed want differs from a per-cast stated want.*
+
+- **{{pc:2}} — Rosa declines further help**, at the hall, after A3. *"I'm fine, dear. It's my turn."* **Not hostile, not wrong, not overrulable**, and delivered in front of people.
+  - *Ladder:* **(1)** she waves it off and rejoins the set. **(2)** *"I've had people manage me before. I'd rather you didn't."* **(3)** in the car, Alaia mentions her mother has thrown out two carers.
+- **{{pc:5}} — he is asked to dance and cannot decline gracefully.** Not an official refusing him — **the opposite: the room offering him something he has no standing to accept or refuse.** A seventy-year-old woman takes his hand. **His want is *be standing there when it happens*; here, being present is the whole ask and it costs him.**
+  - *Ladder:* **(1)** someone offers. **(2)** the caller counts the set short a partner and looks straight at him. **(3)** Rosa, passing, says *"go on."*
+- **{{pc:1}} — the calendar is wrong, and nobody minds.** A booking is listed under a name that has not run it in years; he points it out; the person at the urn says *"oh, we know"* and does not correct it. **The federal contract at community-hall scale: not a clerk with process on their side, but a room that simply does not care that the record is false.** That is a different and worse refusal than Ep 5's.
+  - *Ladder:* **(1)** the discrepancy is visible on the wall. **(2)** *"oh, that's just what it's always said."* **(3)** he watches somebody else use the wrong name without noticing.
+
+> **All three now sit in different registers** — a personal boundary, a social obligation, an indifferent institution — and **none of them is a counter with a clerk behind it.** *(An earlier draft ran all three off the same Bancroft desk.)*
+
+#### The ledger — offered, not found
+
+**B1 partial. She lets them READ it. She does not give it to them, and they must not leave with it** — per `anchors-cards-ledgers.md` L6, *Rosa keeps it.* She offers the reading **at the end, back at the house, because it was never the point.** It has been on the kitchen table the whole time.
+
+> **If the party asks to take it, she says no — pleasantly, and without explaining.** *"It lives here."* **Do not let them talk her out of it.** A ledger they cannot pocket is worth more than one they can, and it is the first time the campaign says out loud that these are not collectibles.
+
+**The evidence floor (hook B1) is the only thing about it that matters: read properly, it contains no reference to any other keeper. Ever. Across forty years.** That is **her isolation rendered as an object** — not a power-up, not a clue, and not a step toward anything. **If the party treats it as loot, let them; the disappointment is on schedule.**
+
+##### What {{pc:3}} gets from the ledger — DECIDED 2026-08-30
+
+**No roll.** She reads it at the kitchen table with Rosa sitting there. **The cap
+is enforced by what is legible, not by a DM refusal** — these are one woman's
+working entries in her own shorthand, not a code to crack. **There is nothing to
+crack.**
+
+**Three things, and all three are safe** — nothing story-breaking, no new loose
+ends, and none of it needs following up:
+
+1. **The evidence floor (B1).** **No reference to any other keeper. Ever. Across
+   forty years.** Fires whether or not anyone voices the recognition.
+2. **The hand changes — and the earlier hand stops MID-PAGE.** Not at the end of a
+   book, not at the end of an entry. **It just stops.** *(This creates no loose
+   end: canon already has the previous keeper dying without a successor, and the
+   book going into an estate lot. Rosa has never known who it was — see ROSA 4 and
+   ROSA 5.)*
+3. **A few entries are dated out of sequence.** Not many. Not obviously wrong.
+   **Just not in order.** *(This is the compulsion-entry texture from
+   `anchors-cards-ledgers.md` §Two kinds of entry, planted without naming
+   anything. **Do not explain it. Do not let Rosa explain it** — she has no
+   explanation and would not offer one.)*
+
+> **Deliberately withheld:** the list of names is the ONLY content canon has ever
+> fixed as anchored. **Everything else in the ledger is the DM's to shape**, so
+> keep shaping it small. **{{pc:3}} does not get a lead out of this session.**
+
+#### IF A PC MENTIONS ALAIA — the cost, and it is paid in dignity
+
+**Alaia asked twice not to be mentioned. Somebody will mention her.** *(Most
+likely {{pc:4}}, who overshares, and whom Alaia already routes around.)*
+
+**Rosa's reaction is NOT suspicion and NOT hurt. It is delight.** She has spent
+years carefully not asking her daughter about any of this, and here is proof the
+girl is *engaged*. She is thrilled — **and she expresses it by talking about
+Alaia, warmly, at length, in front of everybody.**
+
+> **ROSA:** *"Alaia sent you? My Alaia?"*
+
+**Then she is off, and she does not stop.**
+
+##### THE PRICE, in the session's own currency
+
+**Each story costs the party ONE ROTATION.** While she is telling it she is not
+answering anything from the relay list. **That is the whole cost and it is a real
+one — they are burning the thing they came for.**
+
+**Nothing else is lost. Nobody is angry. No information is withheld permanently.**
+
+##### The release condition — she stops when the PC gives her something back
+
+**She keeps going until the cornered PC volunteers a genuinely embarrassing thing
+about themselves.** Politeness does not release her. Changing the subject does not
+release her. **A performed or obviously fake confession does not release her
+either — she has raised a teenager and she can tell.**
+
+> **This is the trap for {{pc:4}}, and it arrives by his own mistake rather than
+> by our design.** None of his registers get him out of this. **The only exit is
+> saying something true.** If he reaches for his 15-year-old-alone-in-his-room
+> speech — **that is enormous, and it is persona 1.** Log it. **Do not fish for
+> it and do not reward it out loud.**
+
+##### Story 1 — the Junior Ranger
+
+Alaia at nine wrote to the National Park Service demanding a job. She got a form
+letter. **She framed it.** Then she made herself a clipboard and began patrolling
+the block, issuing written citations to neighbours about their compost bins.
+
+> **ROSA:** *"Mrs. Ocampo got three. In one week. She kept them."*
+
+##### Story 2 — the Summer of the Tent
+
+At eleven she camped in the back garden for an entire summer "to train," and
+refused to come inside. Rosa carried dinner out to her. **It ended, definitively,
+with a skunk.**
+
+> **ROSA:** *"Six weeks. Two baths in tomato juice. She still says it was worth
+> it."*
+
+##### Story 3 — the whistle *(hold in reserve; use if 1 and 2 do not land)*
+
+At seven she was given a whistle and used it as her only form of communication
+for three weeks.
+
+##### Helping a player who freezes
+
+**Some players will not have an embarrassing story ready.** Offer, do not require —
+each of these is on their own sheet:
+
+- **{{pc:1}}** — urban exploring, three phones, a service door he should not have
+  been behind.
+- **{{pc:2}}** — a first shift. Every nurse has one.
+- **{{pc:3}}** — she can pick a lock in under a minute. **How does a person find
+  that out about themselves?**
+- **{{pc:5}}** — 5'4" and touchy about it. He has a story and he does not want to
+  tell it. **Rosa will wait.**
+
+##### Firewall + what is banked
+
+> **THE STORIES CARRY ZERO PLOT INFORMATION.** No ledger, no work, no network, no
+> hint about what Alaia knows. **They are pure cost.** If a player mines them for
+> clues, there is genuinely nothing there.
+
+**Rosa still must not learn WHO supplied the address** — she assumes her daughter
+mentioned it in passing, because that is the ordinary explanation and she has no
+reason to look further. **Do not correct her.**
+
+**Banked, not played:** Alaia asked not to be mentioned and was. **She finds out
+eventually.** Not this session, no scene, no announcement — a cooler text later, or
+nothing at all until Ep 8. *({{pc:2}}'s player has taken Alaia as a relationship;
+she is the one who will feel it.)*
+
+#### THE STEP-BACK DECLARATION — the return scene, and it is why that scene cannot be cut
+
+> [!CAUTION]
+> **This had NO HOME until 2026-08-30 and it is the session's actual arc-node.** `rosa-vega.json` and facts-ledger §24 both place it at Ep 6, at her discretion. The house scene is cut short, the hall gives her one sentence at a time, and the return was written as a ledger read only. **If it does not fire, Vivian's Ep 4 seed — *"if you're serious about my father's work, go and see Rosa"* — has been paid off with a dance.**
+
+**At the kitchen, after the ledger, once she has decided they are worth it:**
+
+> ***"I used to do what you are learning to do. I chose to stop. I remember how to remember; I no longer do the reaching."***
+
+**The lead-in is the ledger** — she has just shown them where her own hand starts. Do not let it arrive cold.
+
+- **The peer-network seed** — *"You'll meet others. Not many at once — that isn't how it works."* — fires **here or not at all this session.** She must NOT name the network.
+- **THE ASSAY IS NOT A GATE.** Her assay-cue is *how she orders a conversation*, not a test. **A woman who believes she is the only one has nothing to admit anyone to.** Say this in the run-guide, or the DM will play her as weighing them — which kills the one sentence.
+
+- **T7 RETIRES here.** {{pc:4}}'s brown-edged photograph: Rosa looks at it, says it is a building she has driven past, and hands it back. **Final. Do not re-open.**
+
+#### Also fires
+
+U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with each other about a date that is wrong, warmly, and neither is corrected.
+
+> **STAGING — the envelope arrives at {{pc:4}}'s address.** *(Decided 2026-08-30.)* **Vivian is most comfortable with him**, which is why she mails it there — and it is a quiet honour landing on the PC who has spent five sessions flailing. **Say nothing about why.**
+
+> **CARS HOME — do not plan this.** The players will argue and sort it out, and that argument is free texture. **If they dither, Rosa books an Uber.** She is 79 and prefers paper; **she does not live under a rock.**
+
+- **Coda — U9's first Vivian letter rides in Elena's envelope.** *(Returned here 2026-08-30: Ep 7 took A4 in and had to shed something, and a letter arriving inside the caregiver's envelope is a better object than a second unrelated envelope a week later.)* **One safe name spent: McCulloch.** Elena's note is on the outside — *"She asked me to say she's had a good week."* The dying-line displaced into understatement, which hurts more than the original.
+- **Rosa never generalises her own stopping.** Per §44 she chose, decades ago, for a person, and it went from there. She may show it; she must not say *"this is how it goes for everyone."* **The weight belongs to B21, her Ep 12/14 second session.**
+- **Do NOT let her name the network.** That is Nia's line and it lands once.
+- **Risk if slips:** the only real one is the party declining to follow her. **That is why step 3 has a ladder** — and if they still refuse, the session becomes the house plus a phone call, and A3/A5 move to Ep 7. Do not force them into the hall.
+
+### Ep 7 — The Fourth Birthday
+
+- **LOAD:** **MEDIUM.** Compress **T1 + T2 + A8 into one combined beat** — Reggie is at the party, which covers all three.
+- **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
+- **Arc-node:** **MoR({{pc:2}}) — A9 FIRES. The campaign's first moment-of-release.** A kid goes down hard, or chokes; {{pc:2}} is there before she decides to be; it resolves; **she was not trying**, and she notices afterward that she wasn't trying. Her sheet's own release condition: *the 17 moment without the crowd.*
+- **Second arc-node:** **R({{pc:3}}) BEGINS AND COMPLETES HERE.** *(A4 moved in from Ep 8 on 2026-08-30 — the whole thread now sits in one session, alongside her articulation refusal, and Ep 8 sheds a private scene.)* At a folding table of family photographs she reads an absence that **is not Kai's** (someone else's: a divorce, a dead uncle) and for the first time understands it as *a thing she does* rather than a thing that happens to her. Private; do not resolve.
+- **Third:** **{{pc:5}}'s deferred A7 private beat lands here** (logged from Ep 5) — this is his **realization**. His **moment-of-release** is separate and lands Ep 11. Do not schedule both in one session.
+
+#### The articulation pass — one refusal
+
+- **{{pc:3}} — the person whose absence it is does not want it read.** A relative at peace with the divorce, or with the dead uncle, who would rather it stayed unnamed. Her want — *make the world hold what it removed* — meets a person who would prefer it didn't. **She has to choose out loud. Do not resolve.**
+  - *Ladder:* **(1)** the relative changes the subject and moves the photo. **(2)** they say plainly *"I'd rather not, if you don't mind."* **(3)** afterwards someone else at the party tells her the relative has asked people not to bring it up for years.
+
+#### What Ep 7 contributes that no other session can — and it is free
+
+**A birthday party is the only session in the plan where the five of them are together with nothing to investigate.** That is the one place **non-collision reads as texture rather than mechanism**: five people wanting five different things from one afternoon, none of them contesting.
+
+**Write no beat for it.** Let the party scene run four minutes longer than it needs to and **do not fill the session with plot.** This is the single cheapest thing in the whole arc and it is invisible if rushed.
+
+- **KEEP THE FATHER THREAD WARM — 30 seconds, and it is owed.** Eps 6 and 8 have no {{pc:1}}-father content, and it is one of the three standing-presence threads that must not go quiet. **A children's birthday party is where families come up by themselves.** Somebody — a parent, not an NPC with an agenda — asks him something ordinary about his own family, and he has to answer in front of people. **No new information, no lead, no beat.** Just the thread breathing. *(B5's working answer is committed in `hook-ledger.md`; it is DM-side and nothing here reveals it. **Absolute months only, and never the phrase "seven years."**)*
+- **Setting/register:** Mei's fourth birthday, outdoors, kids underfoot. The only records present are photographs on a folding table.
+- **Fires:** A9 · A8 (Yui check-in) · T1 (Reggie) · T2 · T4 (Ren + Maya, 3 min) · **B15 re-plant** — Bea's *unrequested* envelope arrives that week with the Marsh galaxies-sentient clipping. **U9's letter went back to Ep 6** (2026-08-30) when A4 moved in here; this envelope carries the clipping only.
+- **Hook out:** **Nia names the date.** *(Ep 5 spends the call itself; Ep 5 does NOT give them a when.)* Nia is away — a cataloguing contract out of state through most of March — and has been putting them off politely for six weeks. **This is where she finally picks a day.** Phone only. **That six-week gap is deliberate and is why she does not appear until Ep 8**; if a player gets impatient in Eps 6-7, that impatience is correct and you should let it show.
+  - **ONE ADDED CLAUSE, optional, ~10 seconds:** she mentions **without any weight** that the person she was going to bring *hasn't wanted to see anybody in a while.* **Plants dissolution at NPC scale, makes Ep 8's cancellation read ordinary rather than sinister, and costs one sentence.**
+- **Risk if slips:** this is the campaign's first recovery beat and the gate-opener for every subsequent MoR. **Do not add to this session.**
+
+### Ep 8 — Lunch in Twos  ·  ★★ SEASON 1 FINALE ★★
+
+- **LOAD:** HEAVY — the Act I→II hinge **and the season finale.** See *"The Season 1 finale contract"* below for the must-achieve list.
+- **PRIMARY SHAPE: negotiation**, ending on an event rather than a debrief.
+- **THE SEASON JOB: lift the natural-discovery restriction.** *(Per `ARC-REWRITE.md`.)* **Nia names it bluntly, to all five at once. The restriction has done all the work it can do.**
+
+#### 1. Nia names it — A1 FIRES
+
+Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos."* Plus the authorless-cause line. **She refuses the mentor frame explicitly.**
+
+**Then she says the blunt thing: all five of them can do this.** No hedging, no *"you may have noticed."* This table rationalises everything it is given room to rationalise, and five sessions of that is enough.
+
+**Hand the players [`../../world/player-handout-magic.md`](../../world/player-handout-magic.md).** Physically, at the table.
+
+> [!CAUTION]
+> **NOT `rules.md`.** That file names Mars's and Dakota's domains outright, names Priya's signature phrase and her sensitivity, prints hook **A2** (which was pre-cut to Ep 9), describes the DM's realization technique, and **names The Quiet** — which locked invariant 1 forbids before Act III. **Handing out `rules.md` breaks four things at once.** The handout is the firewall-checked extract; it exists for exactly this beat.
+>
+> **Domains stay hidden.** They get the *system* — intent under pressure, cost tiers, aiming and its price, stress, being-noticed, and that each of them already has a focus **without being told what it is good for**. Domains surface in S2 through use, not revelation.
+>
+> **Do not read it aloud at the table.** Cover the tier table and the supported-cast line verbally — about five minutes — and send the sheet home with them. The contract requires them to *hold* it, not to parse it live.
+
+#### 2. {{pc:4}} makes the call — and Nia is unmoved by the performance
+
+When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him deploy everything he has to talk them into coming, and let it fail **for reasons that are nobody's fault.** That demonstrates invariant 5 on the party's Control-seeker rather than on the room, and it costs zero added minutes.
+
+**The articulation beat rides on it.** **Nia is unmoved by the performance** — no heat, no exasperation, just turning back to the work — **and gives him something real when he says the plain version.** Close enough together that the difference is visible. Ortiz did a version of this in Ep 5; **Nia is a *peer*, not an elder, so it is a new register test.**
+
+> **This touches his MOMENT-OF-RELEASE condition. It does NOT touch his Phase-2 realization gate, which remains undefined — see `dakota-phase-gates.md`. Keep them separate.**
+>
+> *Ladder:* **(1)** Nia simply doesn't react to the pitch and answers the plain sentence. **(2)** She says *"you can talk to me like a person, it's fine."* — once, without heat. **(3)** She answers a plain question from another PC warmly in his hearing, immediately after not answering his.
+
+#### 2b. Nia's clustering line — BEFORE the failure, not after
+
+**She must deliver it** (it is load-bearing per her NPC file, `big-arc.md` §Hook to Act II, and invariant 5), **and Ep 8 is her last scheduled scene** — so it lands here or it needs a new carrier before Act II.
+
+> *"Don't try to meet more than two of us at a time. It stops working when there are too many of us in a room. I don't know why — nobody does — it just does."*
+
+**Say it BEFORE the second caster cancels.** Then the failure *confirms something she already told them* — practical advice borne out — rather than being staged as a demonstration she narrates afterwards.
+
+> **This resolves an apparent conflict in an earlier draft**, which said the sequence is *"no longer a demonstration about the network."* Both are true, because there are **two arms**: the **meeting failing IS about the network** (invariant 5, and she called it), and **the party's own small success is about the party** (and nobody calls that at all). The first is explained; the second is not. **That asymmetry is the point.**
+
+**She does NOT close the question about these five.** Per facts-ledger §45 her line about the party is a shrug she does not defend: *"You five seem to be fine. I don't know why. Time, maybe."*
+
+#### 3. THE MEETING CANNOT HAPPEN — re-pointed
+
+**This is no longer a demonstration about the network. It is the party's first attempt to do something together, and the world declining.** First taste of the spent subsidy.
+
+- **The canonical mechanism is CANCELLATION and SOFTENING, not hostility.** The second caster cancels — sick, an emergency, a shift swap. Then the room declines to cooperate: **pick TWO and stop** — a fire alarm, a delivery pallet in the doorway, a third person who joins the table and won't leave, a phone that rings. **Two reads as bad luck; four reads as a coordinated hostile environment, which reads as an agent.** **Cap the escalation at "the meeting cannot happen."** Deflating and faintly absurd, never thrilling.
+- **The softening:** the two casters who *are* present try the small thing either could do alone, **and it doesn't take.**
+- **The felt lesson:** *"we cannot get four of us into one room, it is stupid, and it is nobody's fault."*
+
+#### 4. NEW — the second arm of the experiment. ~3 minutes. No commentary.
+
+**Stage the control arm properly, or the contrast does not exist.** In §3's softening, the two unfamiliar casters must **say what they are each trying for, out loud, and it must be the same thing** — they are cooperating, they agree, and it *still* doesn't take. **Without that, the table reads the sequence as a headcount (two failed, three worked) rather than as anything about wanting.**
+
+**Then, in the aftermath: three PCs try a small unimportant thing, aiming it, using the rule they were handed an hour ago — and each says a different sentence. It works.**
+
+> **It has to be AIMED.** An unplanned cast is unaimed, is never bumped anyway, and demonstrates nothing. **They must be deliberately using the new rule.** *(An earlier draft said "unplanned," which contradicted the mechanic it was staged to demonstrate.)*
+
+> **Watch the confound.** Arm 1 has two casters and arm 2 has three, so the obvious induction is *"you need three people"* — which is merely the printed rule. **The fix is the stated wants:** two people who agreed failed; three who wanted different things did not. **If a player concludes it is about numbers, do not correct them.** Ep 10 is where the other reading arrives.
+
+**Two people wanting the same thing failed. Three wanting different things worked. Ten minutes apart, same room.**
+
+**Nobody comments.** Nia notices and does not explain — she already refuses the mentor frame. If a player says *wait, did we just—*, **say nothing and move on.** This table ran a controlled magic experiment in Ep 3 unprompted; hand them a two-arm trial and no interpretation.
+
+> [!CAUTION]
+> **The ONE guard.** If someone at the table says *so we all want the same thing really* — that is the **only** moment an NPC speaks, and the line is six words:
+>
+> **Nia: *"No. That's what didn't work."***
+>
+> No elaboration, no follow-up. It corrects the read without becoming the speech. **Never explain the mechanism.** Per facts-ledger §45, the arrow between *they met through transit* and *their wants don't contest the same ground* is never drawn aloud.
+
+- **This is the one item in Ep 8 that CANNOT be told instead of played.** It is why A2 was cut (below).
+
+> [!CAUTION]
+> **Do NOT run the meeting-failure as a physical set piece, and do NOT use combat vocabulary.** An earlier version escalated into a crowded platform, a near-miss on the tracks, and Harm box 1, with Defend/Maneuver/Aid rolls. **That was wrong and it was the most dangerous item in the plan.**
+>
+> 1. **A coordinated hostile environment reads as agency, and agency reads as an agent.** This party's established frame is culprit-hunting.
+> 2. It violates, at set-piece scale, the rule the Ep 5 run-guide states at flattening scale: *every instance must be a default, never a choice a person makes.*
+> 3. **It collides with Nia in the same ninety minutes.** She is here to say *"We didn't do it. Nothing 'did.'"* **Set pieces beat speeches.** `antagonist.md`: *resist the temptation to give the AI a face.* A coordinated hostile environment is a face.
+>
+> If a physical set piece is genuinely wanted, **decouple it into a different session.**
+
+- **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give Stress 1–2 to anyone who was actually reaching for something** — the two network casters certainly, and **any PC who backed or attempted a cast. A PC who only watched takes nothing.** *(The trigger is `rules.md`'s "holding intent against intense social pressure"; a bystander is not holding intent, so do not charge them.)* Narrate it as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9 then clears it diegetically.**
+- **A4 — R({{pc:3}}) completes — MOVED TO EP 7** *(2026-08-30, for load)*. R({{pc:3}}) already *begins* in Ep 7 and her articulation refusal is there too, so the whole thread now sits in one session and Ep 8 sheds a private scene that would have idled four players during the finale.
+- **MoR({{pc:1}}) is EP 9, not here** *(decided 2026-08-30 for load)*. Ep 9 is the designated MoR session and already carries the pairing work; Ep 8 cannot hold a third private beat.
+- **PRE-CUT (2026-08-30): A2 — Reggie named as substrate-sensitive — is CUT from this session and RELOCATED to Ep 9.** Cosmology with no decision attached; it lands better among Ep 9's cabin confessions. **Cutting it is what protects §4 above.**
+- **The Bea coda remains in EP 9's OPENING.**
+- **Fires:** A1 · **S1 #3** · B3 seeded — *the vehicle is Nia embodying the Selective stance; she never names a faction (that is Alaia's, Ep 14). If no scene carries it, drop the entry rather than gesturing at it.*
+
+> **Corrected 2026-08-30:** **A4 moved to Ep 7** · **MoR({{pc:1}}) moved to Ep 9** · **T10 removed** — it is Bea's fearlessness and Bea's coda now opens Ep 9, so it was orphaned here · **S1 #3 was double-listed** in Eps 8 and 9; it fires **here**, and Ep 9 carries **#4** only.
+
+#### THE SEASON 1 FINALE CONTRACT — what must be true when the credits roll
+
+**Season 1's question was *"Is something happening to us?"* It ends on: *it is happening THROUGH us.***
+
+**Four things MUST land. If the session is dying, cut in this order — but these four do not get cut:**
+
+1. **All five have been told, in plain words, that they can do this.** Not implied. Not noticed. **Said.**
+2. **The players physically hold the magic section of `rules.md`.** Domains still hidden.
+3. **They tried something together and the world declined** — and it was nobody's fault.
+4. **The two-arm contrast happened** (§3 then §4), **with no interpretation offered.**
+
+**What must NOT be true at the end of Ep 8:**
+
+- **No one has explained why the party works.** Not Nia, not anyone.
+- **No one has said the word *needed*.**
+- **Convergence has NOT been named.** Ep 8 delivers **one data point and zero thesis.** Naming it here spends the Act III argument in Season 1 — for the second time.
+- **No cosmology briefing.** Bluntness works for *"you can all do this."* It does not survive being extended to why-magic-is-fading, which is S3's load.
+
+**The closing image of the season:** *five people who have just been told what they are, failing at the first thing they try, together.* **An event, not a debrief.**
+
+---
+
+### SEASON BOUNDARY — read this before scheduling Ep 9
+
+**Season 1 = Eps 1–8. Act I closes at Ep 9.** The season break deliberately falls **one episode before the act close**, which is why the two documents count differently.
+
+**This is intentional and it is the standard shape:** Ep 8 is the hinge — the loudest thing in Act I — so it is the finale. **Ep 9 is the Season 2 PREMIERE that finishes Act I's business**: aftermath, confession, stress cleared diegetically, and the quiet that makes the hinge mean something. Premiering on aftermath is a feature, not an overrun.
+
+**What the S2 opener (Ep 9) carries — its brief is now fixed:**
+
+1. **The comedown.** Zero documents. Fog, coast, a rented cabin at Point Reyes or Bolinas.
+2. **Ep 8's Stress clears on screen** — a full night's sleep or a meaningful conversation, per `rules.md`. **This is the joint the whole minor-battle beat was designed around.**
+3. **MoR({{pc:3}}) + MoR({{pc:1}})** in walk-and-talk pairs. **Pair {{pc:3}} with {{pc:4}}.**
+4. **A2 lands here** (relocated from Ep 8) — Reggie named as substrate-sensitive, among the cabin confessions where it belongs.
+5. **The Bea coda opens it** — four minutes at Ocean Beach with a coffee; T10 lands; she confirms nothing; then she's gone.
+6. **It opens S2's question — *"What can we do, and what does it cost?"*** — and it does that by having them **try things**, not by discussing what Nia said.
+
+> [!CAUTION]
+> **DO NOT TAKE A REAL CALENDAR BREAK BETWEEN EPS 8 AND 9.** The season label is a document-side convenience; **the schedule must not honour it.**
+>
+> **Ep 8's Stress is the reason.** The whole minor-battle beat was engineered so Ep 9 clears it diegetically. Across a multi-week gap, five players aged 12-15 will not remember they are carrying Stress 2 and −1 to WIS, and the joint the beat was built around simply does not happen.
+>
+> **Second reason:** premiering a season on a documents-free comedown, immediately after a break, re-opens the contract question for a table that calibrates early and does not revisit.
+>
+> **Run Ep 9 as the immediate next session and break AFTER it.** Say nothing about seasons at the table at all — the offset costs nothing so long as no calendar gap lands inside it.
+
+**What Ep 9 must NOT do:** re-explain Ep 8. A premiere that recaps its finale wastes the only session in the plan with no documents in it.
+
+### Ep 9 — Aftermath / The Party as Weather  ·  ★★ SEASON 2 PREMIERE ★★
+
+*(★ slack marker removed 2026-08-30 — it now carries MoR({{pc:1}}), MoR({{pc:3}}), A2 and the Bea coda. It is no longer slack.)*
 
 - **LOAD:** LIGHT (slack) — **also load-bearing; see Ep 7.**
 - **PRIMARY SHAPE: retreat / confession.** Zero documents.
 - **Arc-node:** MoR({{pc:3}}) + MoR({{pc:1}}) both land in walk-and-talk pairs.
+- **A2 lands here — relocated from Ep 8 on 2026-08-30.** Reggie named as substrate-sensitive non-caster. It is cosmology with no decision attached, so it belongs among the cabin confessions rather than in the hinge; cutting it from Ep 8 is what protects the two-arm contrast there.
+- **Its S2-premiere job: open *"what can we do, and what does it cost?"* by having them TRY things** — not by discussing what Nia said. **Do not re-explain Ep 8.** A premiere that recaps its finale wastes the only session in the plan with no documents in it.
 - **Pair {{pc:3}} with {{pc:4}}** for one of them. Her sheet: *"if she ever contradicts him openly, that's an act break for {{pc:4}}'s arc"* — she already did, publicly, in Ep 4, and nothing has come of it. The scene already exists; only the pairing changes, and it closes the second half of {{pc:4}}'s drought. Mira names Kai out loud for the first time; Morgan quietly names *the wrong thing about the world*.
 > [!WARNING]
 > **B3, the faction-choice conversation, is NOT in this session — it moved to Ep 14.** It was briefly rehoused here, which was too early: Ep 9 is Act I close, `big-arc.md` invariant 9 puts the faction choice in Act II, and the Hidden faction is not *named* until Alaia's reveal. **B2 and B3 now run back-to-back in Ep 14**, so the party chooses between two stances that were named in front of them minutes earlier rather than choosing cold.
@@ -166,10 +686,10 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
 - **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
 - **S1 #4:** at the cabin, a rental-app check-in message thanks them for a stay that hasn't happened yet, and the host's follow-up agrees it was lovely. Nobody corrects it.
-- **Fires:** A9 (second/third MoR) · T4 · **S1 #3** · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
+- **Fires:** A9 (second/third MoR) · **MoR({{pc:1}}) lands HERE** (moved from Ep 8, 2026-08-30) · **A2** (moved from Ep 8) · T4 · **S1 #4** · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
 - **NPCs:** Ren + Maya via text/photo only; Ortiz by voicemail.
 
-**Act I closes at Ep 9.** Big-arc's 6-9 session budget accommodates.
+**Act I closes at Ep 9. Season 2 opened at Ep 9 as well** — the act close and the season open are the same session, by design. Big-arc's 6-9 session budget accommodates.
 
 ---
 
@@ -189,7 +709,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Arc-node:** **VIVIAN IN PERSON — HARD FLOOR.** The 1946-47 photograph (T13) delivered **in her voice**, not by envelope. Second safe name spent. See the clock warning below.
 - **Setting/register:** a Cold-War-era garage-lab or an estate's conference room; then Vivian's.
 - **S1 #5:** an estate lawyer's assistant over-agrees with a specific-and-wrong routing and sends them to the wrong floor — *"that's what I'd have done too."*
-- **Fires:** B1 partial (Palo Alto — the last ledger actually acquired) · **T13** · U8 in person · U9 second name · **S1 #4** 
+- **Fires:** B1 partial (Palo Alto — the last ledger actually acquired) · **T13** · U8 in person · U9 second name · **S1 #5** *(renumbered 2026-08-30 — #4 is Ep 9's rental-app beat)* 
 
 > [!WARNING]
 > **Dakota's MoR does NOT belong in this session.** An earlier draft put it here. Ep 10 is a social-engineering job that *"plays to Dakota (Influence)"* — a scene where the persona **gets him what he wants**, which is the precise anti-condition his sheet names. His realization is nominated at **Ep 5 Scene 1**; his **MoR belongs in Ep 11-12**, in a room where the persona would have worked and he declines to use it. Per hook-ledger A9, release always comes AFTER realization — never in the same session.
