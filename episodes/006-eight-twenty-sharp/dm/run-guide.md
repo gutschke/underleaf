@@ -59,7 +59,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **Rosa knows Vivian is old and failing**, in general terms, as anyone does who speaks to someone several times a year. She does not know a number. **Her lack of surprise is the tell.**
 
-**Bea Ferro** is the archivist in the Outer Sunset whose house they visited, who has not been seen since Thursday the 11th — nine days now and who left a card in her own storm door with a name on it. **Rosa has never heard of her.**
+**Bea Ferro** is the archivist in the Outer Sunset whose house they visited, who has not been seen since Thursday the 11th — nine days now — and who left a card in her own storm door with a name on it. **Rosa has never heard of her.**
 
 **The ledger** is a bound book, old, on her kitchen table. **She will let them read it. She will not let them take it.**
 
@@ -69,17 +69,14 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **Print `ep6-dance-game.pdf`** — one GM page, then the cards. **On the table you need the cards and a small rubber duck.**
 
-**Deal each player three QUESTION cards FACE DOWN and privately before the dance starts.** *(Face-up, the loudest player reads somebody else's hand aloud and then shouts it back at them.)*
-
 > **Get an actual duck.** It has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
 
-> **You are not operating a system here; you are playing Rosa and the room.** The board carries the turn sequence and the cards say what to do and what to say.
+> **You are not operating a system here; you are playing Rosa and the room.** The rules sheet carries the turn sequence and the cards say what to do and what to say.
 
 **The decks:**
 
 - **CALLER** (12) — read aloud at the top of every round, at volume; the reader rotates to whoever the duck left last round. **Two carry a twist. The third — *the caller stops* — is not shuffled: set it aside and play it as the round-four call, every time.**
-- **No dice and no meeples.** *(The d6 walkthrough table duplicated three ADOPTED cards verbatim; folding it in gave that deck the reliable trigger it never had.)*
-- **ROSA** (4, **in order, never shuffled**) — drawn by whoever has the duck, rounds one to four. **Two more are held by you and are not in the deck** — see below.
+- **ROSA** (4, **in order, never shuffled**) — drawn by whoever has the duck, rounds one to four. **Two further Rosa lines are held by you and are not in this deck** — see below.
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
 - **ROUND** (24) — one per player per round, dealt **one at a time, face up, at the moment.** Never deal a player their whole hand.
   **Roughly half are marked DO THIS and are green.** Those are not texture — **they are a specific action that moves the story**, and most of them get their answer from *the room* rather than from Rosa. **Play them out and have that player tell the others.**
@@ -88,7 +85,6 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 - **ADOPTED** (11) — **deal one to each player at setup, face down: that is their first time through the dance, read out before round one.** The remaining six are drawn when somebody trades the duck for something the dance would not give them.
 - **ALAIA** (3) and **WINNIE** (3) — the trade. **One physical stack, two headers.** See Scene 4.
 - **GM-held, three cards** — the stumble · *"I've never met anyone else who does it"* · and the exit line, *"No, it lives at the house."* **Held all morning, never shuffled into anything.** The first two play back to back in Scene 5; the third goes as the band takes a break.
-
 
 ---
 
@@ -151,7 +147,10 @@ She sits them down and says:
 
 ### Things they will raise, and what she says
 
-**Vivian.** She is fond of her and unsurprised by anything about her. **If they mention Vivian's health, she is not surprised by that either — and her lack of surprise is the tell.** She will not explain it.
+**Vivian.** She is fond of her and unsurprised by anything about her.
+
+> **ROSA:** *"We talk at Christmas and a few times besides. Sixty-five years. We've met once — I was three."*
+ **If they mention Vivian's health, she is not surprised by that either — and her lack of surprise is the tell.** She will not explain it.
 
 **Loewe — HAS TO HAPPEN, and it is what Vivian sent them for. It lands in two steps, and the gap between them is the point.**
 
@@ -182,8 +181,6 @@ She sits them down and says:
 > **ROSA:** *"Don't ask me where any of it is. I've moved twice and cleared this house once. What I've got is what she told me."*
 
 *If they never raise the name:* she raises it herself on the way out — *"You said Vivian sent you. Did she tell you my mother wrote to her father?"*
-
-> **ROSA:** *"We talk at Christmas and a few times besides. Sixty-five years. We've met once — I was three."*
 
 **Bea Ferro.** She has never heard the name. She is not curious about it, and says so without it becoming a topic.
 
@@ -251,7 +248,7 @@ At about eight forty-five she stands up.
 
 ### They are drafted within sixty seconds
 
-**Beginners at a real dance are not welcomed. They are hunted.** Experienced dancers actively compete to partner with newcomers. A first-timer standing at the edge looking uncertain gets approached inside about ninety seconds, by somebody who says a version of:
+**Beginners at a real dance are not welcomed. They are hunted.** Experienced dancers actively compete to partner with newcomers. A first-timer standing at the edge looking uncertain gets approached within about a minute, by somebody who says a version of:
 
 > **A WOMAN IN A BROOMSTICK SKIRT:** *"You're new! Come and dance with me, I'll show you. No, really — everyone was new once. What's your name?"*
 
@@ -268,7 +265,7 @@ At about eight forty-five she stands up.
 
 - **When you get lost, the group of four around you silently repairs itself.** Nobody scolds, nobody sighs; three people quietly adjust and by the next figure you are back where you belong.
 - **Old dancers steer you like furniture.** A hand between the shoulder blades, and you are simply placed where you should be, without comment, sometimes without appearing to look at you.
-- **After five or six times through, the caller stops calling.** *(A caller shouts the moves in time with the music — "circle left," "swing your neighbor" — and everybody follows along half a beat late. Once the room has the pattern, he simply stops, and the dance keeps going on its own with just the fiddle.)* and it is the moment a beginner realises they have been doing it.
+- **After five or six times through, the caller stops calling.** *(A caller shouts the moves in time with the music — "circle left," "swing your neighbor" — and everybody follows along half a beat late. Once the room has the pattern, he simply stops and the dance keeps going on its own, with just the fiddle.)* **It is slightly eerie, and it is the moment a beginner realises they have been doing it.**
 
 ---
 
@@ -284,7 +281,7 @@ At about eight forty-five she stands up.
 
 ### The five dancers — name them, and use these names all morning
 
-**Each PC is paired with one of these, and their five round cards run in order as a small arc with that person: setup, complication, payoff. Deal them in order and the bits complete on their own.**
+**Each PC is paired with one of these, and their round cards run in order as a small arc with that person: setup, complication, payoff. Deal them in order and the bits complete on their own.** *({{pc:2}} has four — her fifth is the stumble, and you hold it.)*
 
 | | | Paired with |
 |---|---|---|
@@ -302,8 +299,6 @@ At about eight forty-five she stands up.
 
 **A dance runs about ten minutes.** During it nobody can hold a conversation — everybody is being moved around, and you get **one pass** at Rosa as the figure brings you together, worth about eight seconds. **Then the tune ends**, and there are two or three minutes where people get water and change partners. **That gap is the only time the party can reach each other.**
 
-
-
 ### The round
 
 **DURING THE DANCE:**
@@ -320,7 +315,7 @@ At about eight forty-five she stands up.
 7. **THE GAP.** Two or three minutes. **The party can finally talk.** Let them react, argue, work out what she meant and decide what to shout next time. **Do not hurry this — it is where the session lives.**
 
 > [!CAUTION]
-> **FOUR rounds, then {{pc:2}}'s moment. Not five.** A round costs **seven to nine minutes** once the cards are dealt. A full playtest at five rounds ran the hall sequence to **sixty-four minutes against a thirty-eight-minute target**, and the compression needed to claw that back is what makes a player ask to skip ahead.
+> **FOUR rounds, then {{pc:2}}'s moment. Not five.** A round costs **seven to nine minutes** once the cards are dealt. **A fifth round overruns by twenty minutes, and the compression needed to claw that back is what makes a player ask to skip ahead.**
 
 **It ends on {{pc:2}}'s moment, not on a count.**
 
@@ -363,7 +358,9 @@ At about eight forty-five she stands up.
 
 > **ROSA:** *"No, it lives at the house. It's not the library's."*
 
-**The six BONUS cards are texture and nothing else** — the 1979 backlog, the estate paper, sixty-five Christmases with Vivian, *"she rang about you,"* her mother and the birds, and bringing her daughter here when she was small and being hated for it.
+**Four of the six BONUS cards are texture** — the estate paper, sixty-five Christmases with Vivian, her mother and the birds, and bringing her daughter here when she was small and being hated for it.
+
+> **Two are not, and they are labelled THIS ONE MATTERS on the card:** the **1979 backlog**, which is her ledger's origin, and ***"she rang about you"***, which is Vivian's referral confirmed. **Do not let those two go past as filler.**
 
 **If they ask something the deck does not cover, give a real answer and cross the next card off. Never stall to protect the list.**
 
