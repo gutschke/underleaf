@@ -314,6 +314,20 @@ At about eight forty-five she stands up.
 
 > **Rosa is not the only source in this room, and this is what stops the garble from eating the plot.** Her answers arrive in fixed order and mostly will not fit the question — that is the joke. **The facts arrive from the forty people who have known her for decades**, through the green cards: the year she started, the sign-in book, the photo with a book under her arm, and the fact that nobody here has any idea what a second notebook-keeper would even be.
 
+### The five dancers — name them, and use these names all morning
+
+**Each PC is paired with one of these, and their five round cards run in order as a small arc with that person: setup, complication, payoff. Deal them in order and the bits complete on their own.**
+
+| | | Paired with |
+|---|---|---|
+| **DEL** | The caller. Seventy, hoarse, dry, does not thank anybody. Scans the room mid-walkthrough for the two or three people who will tell him the truth with a nod — **Rosa is one of them.** | **{{pc:1}}** — the microphone |
+| **HECTOR** | Seventy-eight. Does something with his left knee that a nurse would write up, and out-dances men half his age. Entirely at peace about it. | **{{pc:2}}** — the triage |
+| **JOYCE** | Has been meaning to file the sign-in binder since 1998. Talks continuously and is a delight. Knows everybody's business and shares it. | **{{pc:3}}** — the records |
+| **WINNIE** | Seventy-five. Drafted the party at the door. Names people on sight. **Equally delighted by everybody, which is the whole point.** | **{{pc:4}}** — the adoption |
+| **BERNARD** | An extremely good waistcoat. Wants to talk about the hall's lease and who is trying to cut the Saturday slot. | **{{pc:5}}** — the organiser |
+
+> **If one of them lands at the table, write their name in the session log and keep them.** One of these five turning up three sessions later, remembering all five PCs by name and asking whether {{pc:5}} ever came back, **is what turns a morning with nothing to obtain into the morning they made a friend.**
+
 ### What a round is, in the fiction
 
 > **One round = one whole dance, then the gap after it.**
@@ -393,7 +407,7 @@ Say what you are doing, and **the answer is yes — it costs you the duck this r
 
 The caller's microphone is cutting out. Within ten minutes the quietest person in the party is under the little stage with the sound system, and by the second dance he is the only one who can make it work. **He has avoided dancing by becoming load-bearing.**
 
-**Give him one moment where the room visibly depends on him**, so the other four see it.
+**His five cards run the bit on their own: the microphone dies, he fixes it, and Del simply starts using it without thanking him — which is better.** Fixing it is what puts him at the table where Rosa left her bag.
 
 **And this is where he notices something.** Rosa's planner is on the table by her bag: a small black daily book, one page per day, in a state — post-its in drifts, earmarked pages, loose sheets stuffed between days, **and pages torn out for scrap.** She is immaculate with the ledger and chaotic with this.
 
@@ -413,13 +427,15 @@ ICU night shift does not switch off. Every fall risk, two undisclosed hip replac
 
 **Do not hand her a list.** If her triage produces "three fall risks, two hips," the table treats it as a scoreboard and starts predicting who drops. **Let her generate it as narration.**
 
+**Hector is the countermeasure and he is on her round-two card.** He out-dances two men half his age, catches her watching, and is dry about it. **By round four he has decided he likes her and will answer a real question.**
+
 **Her headache.** Hot hall, early morning, possibly straight off a night shift — **that is her stated migraine trigger.** Weather, not punishment.
 
 ### {{pc:3}} — she starts filing, and somebody sits down next to her
 
 The hall has thirty-one years of records nobody has ever sorted: a sign-in binder, a shoebox of receipts, a membership list in four different hands. **She cannot help herself. She starts sorting it, and the room is delighted** — somebody has been meaning to do that since 1998.
 
-> **Give her a person, not a shoebox.** **The woman who has been meaning to file it since 1998 sits down beside her and talks the entire time.** {{pc:3}} learns half the room's history sideways and has somebody to be funny with. **Without the scene partner this is a player doing admin in a corner.**
+> **Joyce is the whole bit.** She sits down beside her on the round-two card and talks continuously. **{{pc:3}} learns half the room's history sideways and has somebody to be funny with.** Without her this is a player doing admin in a corner.
 
 ### {{pc:4}} — the room likes him exactly as much whatever he does
 
