@@ -77,16 +77,16 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **The decks:**
 
-- **CALLER** (12, shuffled) — read aloud at the top of every round, at volume. **Three carry a twist.** The reader rotates: whoever the duck left last round.
-- **ROSA** (5, **in order, never shuffled**) — drawn by whoever has the duck. **All five land across five rounds.** The sixth line is the exit and is not in the deck.
+- **CALLER** (12) — read aloud at the top of every round, at volume; the reader rotates to whoever the duck left last round. **Two carry a twist. The third — *the caller stops* — is not shuffled: set it aside and play it as the round-four call, every time.**
+- **ROSA** (4, **in order, never shuffled**) — drawn by whoever has the duck, rounds one to four. **Two more are held by you and are not in the deck** — see below.
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
 - **ROUND** (24) — one per player per round, dealt **one at a time, face up, at the moment.** Never deal a player their whole hand.
   **Roughly half are marked DO THIS and are green.** Those are not texture — **they are a specific action that moves the story**, and most of them get their answer from *the room* rather than from Rosa. **Play them out and have that player tell the others.**
 - **WHO HAS THE DUCK** (5) — one name each. **Draw one per round and set it aside.**
-- **QUESTION** (15) — **deal three to each player, face up, before the dance starts.** Things their character wants to know, written as topics rather than sentences. **They may shout anything they like instead; these exist so nobody is ever stuck.**
+- **QUESTION** (20) — **deal three to each player, face down and privately, before the dance starts; keep the rest as a draw pile.** *(Face-up, the loudest player reads somebody else's hand aloud.)* Topics rather than sentences. **They may shout anything else instead; these exist so nobody is ever stuck.**
 - **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
 - **ALAIA** (2) — see the lookup in Scene 1.
-- **The stumble** — one card, GM only, held all morning. See Scene 5.
+- **GM-held, two cards** — the stumble, and *"I've never met anyone else who does it."* **Held all morning; played back to back in Scene 5.**
 
 
 ---
@@ -205,6 +205,8 @@ She sits them down and says:
 **The price is one round of the dance per story.** While she is telling it she is not answering anything, **and that is the whole cost. Nothing else is lost and nobody is angry.**
 
 **She stops when the cornered player volunteers something genuinely embarrassing about themselves.** Politeness does not release her. Changing the subject does not release her. **Neither does a performed one. She has raised a teenager and she can tell.**
+
+> **THIRTY SECONDS, THEN SHE ACCEPTS WHATEVER THEY LAST SAID.** *"You're a terrible liar and I like you,"* and the caller calls the next figure and she is swept away mid-story. **Do not let this run into a second round** — the standoff is unwinnable against a player who enjoys performing, and it has cost two rounds before.
 
 **Story one — the Junior Ranger.** Alaia at nine wrote to the National Park Service demanding a job, got a form letter, and framed it. Then she made a clipboard and patrolled the block issuing written citations to the neighbours about their compost.
 
@@ -365,7 +367,9 @@ At about eight forty-five she stands up.
 >
 > **Do not cut. Cut TO.** Wait for a breath, say *"— and while they're doing that —"*, and deal a ROUND card to somebody else. They lose the camera, not the floor. **You never say the words "one sentence" out loud.**
 
-### Rosa's five answers — she says them in this order whatever she is asked
+### Rosa's answers — four in the deck, two held by you
+
+**Rounds one to four, in order, drawn by whoever has the duck and read aloud by them:**
 
 > **ROSA 1:** *"My mother kept notebooks her whole life. I never asked her why. Mine's not the same thing — mine was already started when I got it."*
 >
@@ -373,19 +377,26 @@ At about eight forty-five she stands up.
 >
 > **ROSA 3:** *"I don't know who stopped."*
 >
-> **ROSA 4:** *"I've never met anyone else who does it."*
->
-> **ROSA 5:** *"Some of it I wrote because I saw it. Some of it I wrote because I couldn't not. I've never been able to tell you which was which — not from the inside."*
+> **ROSA 4:** *"Some of it I wrote because I saw it. Some of it I wrote because I couldn't not. I've never been able to tell you which was which — not from the inside."*
 
-**Do not rush card 4.**
+> [!CAUTION]
+> **Round four is always the caller-stops card.** No shout — **the person holding the duck asks their own question and gets a straight answer to it.** By then the table has decided she is on rails, and this is where they find out she is not. **Set that card aside before you shuffle.**
 
-**Her sixth line is the exit, said as the band takes a break:**
+**You hold the last two yourself.** *(They are not in the deck and cannot be lost to a short session, a story about Alaia, or somebody trading their round away.)*
+
+**The first is the line the whole session exists for, and you say it — not a player reading off a card.** It goes in the hush **immediately after {{pc:2}}'s moment:**
+
+> **ROSA:** *"I've never met anyone else who does it."*
+
+> **She says it while looking at the one who just caught her.** That adjacency is the episode: **she states she is alone, to the person who has just proved she is not.** Nobody comments. Nobody explains.
+
+**The second is the exit, as the band takes a break:**
 
 > **ROSA:** *"No, it lives at the house. It's not the library's."*
 
-### If they want something the dance will not give them
+**The six BONUS cards are texture and nothing else** — the 1979 backlog, the estate paper, sixty-five Christmases with Vivian, *"she rang about you,"* her mother and the birds, and bringing her daughter here when she was small and being hated for it.
 
-Say what you are doing, and **the answer is yes — it costs you the duck this round.** Draw an ADOPTED card instead: they did not get Rosa, they got somebody else, and it is usually better.
+**If they ask something the deck does not cover, give a real answer and cross the next card off. Never stall to protect the list.**
 
 ### Between dances
 
@@ -511,7 +522,31 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 - **Book her for the next dance.** Completely normal to ask a stranger, and she will say yes — **but that PC is then committed and unavailable to everybody else for the whole dance.**
 - **Wait for the mid-morning break**, where she is at the centre of a knot of six people. That is a social problem, not a scheduling one.
 
-### Rolls — the only dice in the scene · miss 6− · partial 7–9 · hit 10+
+## Scene 5 — {{pc:2}}'s moment
+
+**This is the quiet centre of the session, and the whole morning has been noise so that it can happen.**
+
+***THEIR ONLY MOMENT — this is what {{pc:2}} gets tonight, and the last thing to cut.***
+
+**Fire it by putting the duck in front of her and saying nothing. No call. No shout. No countdown.** The mechanic going silent is the signature of this beat.
+
+> **DM:** *"{{pc:2}} — she's two people down the line from you, and something goes out of her for half a second. Nobody in this hall is looking. Not one person. You're moving before you decide to."*
+
+**Whatever she does, it works, and it eases faster than her training accounts for.**
+
+> **ROSA NOTICES EXACTLY WHAT HAPPENED AND SAYS NOTHING.** This is half the beat and it is easy to lose. She looks at her — one second too long — her hand closes on the girl's forearm, and she lets the figure take her away. **She has decided not to be the one to tell her.**
+
+**Her one visible tell: she sits out the next dance, which she never does.**
+
+**Then, in the hush, you say the held line — as Rosa, to her:**
+
+> **ROSA:** *"I've never met anyone else who does it."*
+
+> **She says it to the person who has just proved it wrong.** Nobody comments and nobody explains. **If a player starts to, let another player shush them; this table will.**
+
+> **Protect this beat.** If anybody talks over it, take the round back and run it again. It is the one moment tonight that belongs to a single player, and this table has form for landing a joke on exactly this kind of silence.
+
+**Do not sober the room up first. Go straight back to the jokes afterwards.**
 
 ### Ending the dance
 
