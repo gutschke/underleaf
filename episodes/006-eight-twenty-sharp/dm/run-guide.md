@@ -67,21 +67,21 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 ## Before the session — print and cut
 
-**Print `ep6-dance-game.pdf` and cut the cards.** You need **the strip** (the dance line, one box per player), **five meeples**, **a small rubber duck for Rosa — "the duck"**, the four decks, and **2d6**.
+**Print `ep6-dance-game.pdf`.** One GM page plus the cards. **You need the cards and a small rubber duck. Nothing else — no board, no meeples, no dice.**
 
-> **The duck is not a joke at the players' expense and it is not a placeholder — get an actual duck.** It has to be instantly distinguishable from five meeples at a glance across a table, and this is a session whose stated objective is that the morning is ridiculous. **A 79-year-old woman represented by a duck is free absurdity and they will remember it.**
+> **Get an actual duck.** It is the whole physical game now, it has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
 
 > **You are not operating a system here; you are playing Rosa and the room.** The board carries the turn sequence and the cards say what to do and what to say.
 
-**The four decks:**
+**The decks:**
 
-- **CALLER** (12, shuffled) — read one aloud each round. **Most move Rosa one box; some move her two, reverse her, or swap two players.** That is where the randomness lives.
-- **ROSA** (6, **in order, never shuffled**) — drawn on a successful reach. **All six land across five rounds. These are the lines that matter.**
-- **BONUS** (6, shuffled) — drawn when she sails past somebody who is not on the floor, **or when a player rolls a partial success trying to break the pattern**. **Quirky, not actionable.** It means a player whose meeple is down still gets something out of the round.
-- **ROUND** (25) — **the grid under *what each player is doing*, one card per cell.** Deal each player their five; you then do not have to read from the grid as well.
-- **ADOPTED** (8) — drawn on a miss. **The card is the whole outcome. Read it and move on.**
-
-**A standing meeple is on the floor; a lying-down meeple is doing their own thing.** They flip it whenever they like.
+- **CALLER** (12, shuffled) — **{{pc:4}}'s deck.** He reads one aloud at the top of every round, at volume.
+- **ROSA** (5, **in order, never shuffled**) — drawn by whoever has the duck. **All five land across five rounds.** The sixth line is the exit and is not in the deck.
+- **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
+- **ROUND** (24) — one per player per round. **Deal them one at a time, face up, at the moment.** Never deal a player their whole hand.
+- **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
+- **ALAIA** (2) — see the lookup in Scene 1.
+- **The stumble** — one card, GM only, held all morning. See Scene 5.
 
 
 ---
@@ -303,68 +303,48 @@ At about eight forty-five she stands up.
 
 ## Scene 4 — The dance
 
-**Read this to the table.** It takes three minutes.
+**Everything you need is the duck and the cards. No board, no meeples, no dice.**
 
-> Thirty seconds on what a contra dance is, because none of us has ever been to one.
->
-> It's a folk dance. Two long lines of people facing each other down the hall, in couples. There's a live band and a caller with a microphone who shouts what to do next in time with the music — "circle left," "swing your neighbour." **You do not need to know the dance.** Nobody does the first time. The caller walks everyone through it once without music, then the band starts and you do what he says half a beat late, like everybody else. That's the whole culture of it: beginners are normal, and somebody will grab your hands and put you where you go.
->
-> Here's the part that matters. You dance with the person across from you for about thirty seconds. Then the figure moves everybody one place down the line, and now you're facing somebody completely different. Thirty seconds later, another one. Over ten minutes you dance with nearly everyone in the hall for half a minute each, and you can't stop it, because forty people are moving and the music does not care about you.
->
-> Rosa is in that line.
->
-> So — this strip is the line. One box each. This rubber duck is Rosa. Every time the figure comes round I move her one box, and when she reaches the end she comes back to the start. **You can see her coming. You can't make her come faster.** There's no trick to it. It's a dance. It doesn't know you're here.
->
-> When she lands on your box, and you're actually out on the floor, you get **one sentence.** One. A question, or something you want to tell her. If you start a second sentence I'm going to cut you off, because she's already gone — that's not me being mean, that's what a contra line is.
->
-> And she'll answer. Probably. She's seventy-nine, she's having a lovely time, and she may answer a completely different question from the one you asked, because she's mid-dance too.
->
-> So &mdash; **your meeple standing up means you're out on the floor. Lying down means you've gone off to do something else.** Flip it whenever you like; you don't have to tell me why. That's the only thing you have to remember.
->
-> If she lands on your box and you're *not* on the floor — you're under the stage with the sound system, you're at the coffee urn — she goes straight past. Waves. Gone. That's your whole round.
->
-> So the obvious thing is going to happen and I want you to do it: you're going to start telling each other things. Somebody will reach her before you do, so you hand them your question. **One rule about that, and it's the fun one — you can't just repeat what somebody said. You have to say it the way your character would say it.** {{pc:1}}'s version of a question is not {{pc:4}}'s version. Push it through three people and it comes out different, and I promise the different version is funnier.
->
-> Also: nobody writes anything down out there. You'd look completely unhinged.
->
-> That's it. **There's nothing to solve here.** It's a dance, not a puzzle. What's happening this morning is five people wildly out of their depth at a folk dance, surrounded by forty people who have known each other for decades. Go and enjoy that.
+> **The one rule that makes this work: reaching Rosa is not your turn to ask a question. It is your turn to be the party's only mouth — and the question will not be yours.**
 
-### The round — four beats, about ninety seconds
+**The round, six beats, about ninety seconds.** *(The full teach script and the loud-player instructions are on the printed GM page — read that page at the table, not this one.)*
 
-**1. Say a call, over the music.** Five seconds of texture. Say them *over* the table's talking; never wait for quiet.
+1. **THE CALL.** {{pc:4}}'s player reads a CALLER card aloud, at volume, over everybody. **It is his deck all morning.**
+2. **THE DUCK LANDS** in front of one player. Say only: *"Rosa's in front of you."*
+3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells what they want asked, all at once. **Count down from three, out loud.**
+4. **ONE SENTENCE**, in the duck-holder's own words. **They may not ask their own question unless nobody shouted one.**
+5. **ROSA ANSWERS.** They draw the top ROSA card and read it aloud as her. **Take the duck back mid-word if you can.**
+6. **AND MEANWHILE** — one ROUND card, face up, to each of the other four. One line each. Then let them talk.
 
-> **THE CALLER:** *"Long lines forward and back!"*
+> **Duck order — Morgan · Mira · Dakota · Mars · Priya.** The quiet players get it while the table is still obedient about one sentence. **Reorder silently at any time; never explain.**
+
+**Five rounds. Fewer is better. It ends on {{pc:2}}'s moment, not on a count.**
+
+### Rosa's five answers — she says them in this order whatever she is asked
+
+> **ROSA 1:** *"My mother kept notebooks her whole life. I never asked her why. Mine's not the same thing — mine was already started when I got it."*
 >
-> **THE CALLER:** *"Circle left, three places — and back the other way!"*
+> **ROSA 2:** *"The hand isn't mine at the front. I can show you where mine starts."*
 >
-> **THE CALLER:** *"Neighbour swing! Give weight!"*
+> **ROSA 3:** *"I don't know who stopped."*
 >
-> **THE CALLER:** *"Right hand star, all the way round!"*
+> **ROSA 4:** *"I've never met anyone else who does it."*
 >
-> **THE CALLER:** *"Do-si-do your neighbour — don't touch, just go round —"*
->
-> **THE CALLER:** *"Down the hall four in line, turn as a couple, come on back!"*
->
-> **THE CALLER:** *"Larks and robins, allemande left!"*
+> **ROSA 5:** *"Some of it I wrote because I saw it. Some of it I wrote because I couldn't not. I've never been able to tell you which was which — not from the inside."*
 
-*(Modern contra says **larks and robins** rather than gents and ladies — left-hand and right-hand roles, not gendered. A Berkeley session uses them. Being told you are a robin this dance is a nice small confusion.)*
+**Do not rush card 4.**
 
-**2. Do what the card says** — usually move Rosa one box right, wrapping past the last.
+**The sixth line is not in the deck.** It is the exit, said as the band takes a break:
 
-- **On the floor** → they get **one sentence**, out loud, in character. **Hand that player the top ROSA card and have them read it aloud, whatever they asked.** Then slide the duck on.
+> **ROSA:** *"No, it lives at the house. It's not the library's."*
 
-> **If anybody starts a second sentence, talk over them. Cheerfully. Every time, from round one.**
->
-> > **DM:** *"— and she's gone."*
->
-> **This is the pacing protection the whole scene rests on.** Let it slide once and it will not hold.
-- **Not on the floor** → she sails past. **Draw a BONUS card** — she says it over her shoulder, already going — then they say what they were doing instead.
+### If they want something the dance will not give them
 
-**3. Go round the table fast and hand every other player one line from their own thread.** Ten seconds each. **Nobody is watching the Rosa conversation, because it was fifteen seconds long and is already over.**
+**No dice.** Say what you are doing, and **the answer is yes — it costs you the duck this round.** Draw an ADOPTED card instead: they did not get Rosa, they got somebody else, and it is usually better.
 
-**4. Shut up and let them talk.** Free cross-table conversation in character. **This is where the session actually lives.**
+### Between dances
 
-> **Five rounds maximum. Four is better.** It ends on {{pc:2}}'s moment, not on a count.
+**The gap is two to four minutes and Rosa is not free in it.** A regular with thirty-one years in the room is booked. **Show it physically the first time** — somebody intercepts her mid-approach, delighted, wanting to tell her about a hip — or it reads as you refusing them.
 
 ### Beat 3 in full — what each player is doing while the duck moves
 
@@ -386,7 +366,7 @@ The caller's microphone is cutting out. Within ten minutes the quietest person i
 
 **And this is where he notices something.** Rosa's planner is on the table by her bag: a small black daily book, one page per day, in a state — post-its in drifts, earmarked pages, loose sheets stuffed between days, **and pages torn out for scrap.** She is immaculate with the ledger and chaotic with this.
 
-**If he looks properly: she has kept every previous year's.** A run of identical black notebooks. **And once he sees the run of them, the disorganisation reads differently.** Maybe it is not chaos. Maybe it is complex and she knows exactly how to hold it together. **Or maybe that is wishful thinking. Leave it there.**
+**That is all he gets here.** One year's planner, in a state. **The rest of it is at the house** — see Scene 6.
 
 > **Do not point at the resemblance to Bea's index cards.** If a player makes the connection themselves it is a real moment. **You never make it for them.**
 
@@ -504,14 +484,14 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 | What you see | What it means | Do this |
 |---|---|---|
-| A player says a **number** — *"if she's on three then next round—"* | They are solving the line instead of playing the scene | Stop naming boxes aloud. Hand the duck to a player to move. Open rounds with the interruptions instead of the reach. |
+
 | **Two rounds in a row with no laughter** | The relay has gone efficient — they are repeating each other accurately | Enforce *"not in his words, in yours"* once, cheerfully. Then let the woman who calls {{pc:4}} "the mouthy one" carry a message to Rosa and mangle it enthusiastically. **Once only.** |
 | Somebody asks **"why are we still here?"** and nothing answers it | The earliest and most reliable failure signal | Answer it in fiction within a minute. Rosa's next line, or the room needing something from them. |
 | A player narrates in **flat third person** — *"yeah, {{pc:3}} dances, whatever"* | They are putting distance between themselves and a character being embarrassed | Give that PC a job that is not dancing. Nobody dances badly unless their player says so. |
 | Somebody does an **old-person voice** | The room is reading as frail | Within thirty seconds, an NPC out-dances a PC visibly and is dry about it. |
 | All five at the coffee urn, **narrating instead of doing** | They were invited rather than drafted | Stop offering. Start assigning. The room gives them jobs and does not ask. |
 | **Twelve minutes gone by the end of round two** | You are on a three-hour-plus session | Drop to three rounds and fire {{pc:2}}'s moment in the next one. |
-| By round three somebody has had **zero exchanges** | The strip order plus the not-on-the-floor rule has shut them out | Silently reorder the strip between rounds. **Never explain.** |
+| By round three somebody has had **zero exchanges** | The duck order has shut them out | Silently reorder it. **Never explain.** |
 | You catch yourself saying **"okay, so mechanically—"** twice | The procedure has become the session | Slide the strip away and narrate. **You lose nothing.** |
 
 ---
@@ -522,6 +502,10 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 ***THEIR ONLY MOMENT — this is what {{pc:2}} gets tonight, and the last thing to cut.***
 
+> **Her fifth round card is NOT dealt with the others. You hold it all morning.** *(Dealt up front, she reads it an hour early and sits on it — which defuses the best beat in the session.)*
+>
+> **It fires by you putting the duck in front of her and saying nothing at all. No call. No shout. No countdown.** The mechanic going quiet is the signature of this beat. **The duck then stays with her.**
+
 > **DM:** *"{{pc:2}} — she's two people down the line from you, and something goes out of her for half a second. Nobody else in this hall is looking. You're moving before you decide to."*
 
 **Mid-figure, Rosa has a small physical moment.** A tremor, or a half-second of dizziness. **{{pc:2}} is there before she decides to be**, and it eases in a way her clinical training does not account for.
@@ -531,6 +515,8 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 > **The public room makes this stronger than a quiet one would.** She cannot react, and forty people are watching the dance rather than her. **Her single visible tell: she sits out the next one, which she never does.**
 
 **Do not sober the room up first. Go straight back to the jokes afterwards.**
+
+> **Protect this beat. If anybody talks over it, take the round back and run it again.** It is the one moment tonight that belongs to a single player, and this table has form for landing a joke on top of exactly this.
 
 ### Ending the dance
 
@@ -554,6 +540,16 @@ Afterwards, at the edge of the floor.
 ## Scene 6 — Back at the house
 
 **Late morning. The kitchen.** This scene cannot be cut.
+
+### The shelf of planners — {{pc:1}}'s beat completes
+
+**Only if he noticed the planner at the hall.** Back in the kitchen there is a shelf, and on it **a run of identical small black notebooks going back decades.** Every year she has ever had.
+
+**And once he sees the run of them, this morning's mess reads differently.** Maybe it is not chaos. Maybe it is complex, and she knows exactly how to hold all of it together.
+
+**Or maybe that is wishful thinking. Leave it there and do not resolve it.**
+
+> **Do not point at the resemblance to Bea's index cards.** If a player makes the connection themselves it is a real moment. **You never make it for them.**
 
 ### The ledger
 
