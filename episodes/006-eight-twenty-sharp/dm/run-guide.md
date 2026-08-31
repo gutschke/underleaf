@@ -67,9 +67,9 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 ## Before the session — print and cut
 
-**Print `ep6-dance-game.pdf`.** One GM page plus the cards. **You need the cards and a small rubber duck. Nothing else — no board, no meeples, no dice.**
+**Print `ep6-dance-game.pdf`** — one GM page, then the cards. **On the table you need the cards and a small rubber duck.**
 
-> **Get an actual duck.** It is the whole physical game now, it has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
+> **Get an actual duck.** It has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
 
 > **You are not operating a system here; you are playing Rosa and the room.** The board carries the turn sequence and the cards say what to do and what to say.
 
@@ -93,7 +93,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 1. **Be out of Rosa's house by forty minutes in.** Everything that makes this session unlike the last two is inside the hall. Set a visible timer.
 2. **The dance runs five rounds at most, and fewer is better.** It ends when {{pc:2}}'s moment lands, not when the rounds run out.
 
-**Two things are already pre-cut and written that way in Scene 0:** the records-database lead arrives as a voicemail rather than a scene, and the drive to Berkeley is told in sixty seconds.
+**Scene 0 carries both pre-cuts:** the records lead arrives as a voicemail, and the drive is told in sixty seconds.
 
 **Never cut:** the lift, the ledger read, Rosa saying she used to be able to do this, and the envelope at the end.
 
@@ -303,7 +303,7 @@ At about eight forty-five she stands up.
 
 ## Scene 4 — The dance
 
-**Everything you need is the duck and the cards. No board, no meeples, no dice.**
+**The duck and the cards are the whole game.**
 
 > **The one rule that makes this work: reaching Rosa is not your turn to ask a question. It is your turn to be the party's only mouth — and the question will not be yours.**
 
@@ -334,13 +334,13 @@ At about eight forty-five she stands up.
 
 **Do not rush card 4.**
 
-**The sixth line is not in the deck.** It is the exit, said as the band takes a break:
+**Her sixth line is the exit, said as the band takes a break:**
 
 > **ROSA:** *"No, it lives at the house. It's not the library's."*
 
 ### If they want something the dance will not give them
 
-**No dice.** Say what you are doing, and **the answer is yes — it costs you the duck this round.** Draw an ADOPTED card instead: they did not get Rosa, they got somebody else, and it is usually better.
+Say what you are doing, and **the answer is yes — it costs you the duck this round.** Draw an ADOPTED card instead: they did not get Rosa, they got somebody else, and it is usually better.
 
 ### Between dances
 
@@ -466,63 +466,11 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 ### Rolls — the only dice in the scene · miss 6− · partial 7–9 · hit 10+
 
-**You never roll to follow the procedure. You roll only to break it:** cutting across the line, sitting a dance out to catch her, getting the caller to change the figure, following her off the floor. **Three to five rolls in the whole sequence.**
-
-**Nothing bad can happen here, so a miss is not a refusal — it is a different scene.**
-
-- **Miss — 6 or less** — you do not get Rosa. **You get adopted.** You are swung into the arms of a delighted stranger who wants to know where you are from. **This is frequently a better outcome than the one they asked for, and they will work that out.**
-- **Partial — 7, 8 or 9** — **draw a BONUS card instead of a ROSA card.** She heard them and answered somebody else.
-- **Hit — 10 or more** — **fan the remaining ROSA cards face up and let them pick one, then put the rest back in order.** The only place anybody steers anything.
-- **Snake eyes — two ones** — the caller changes the figure and the whole strip order reverses. Comedy, not cost.
-- **Boxcars — two sixes** — the player narrates. Let them invent somebody.
-
-**No harm and no stress in this scene at all.** {{pc:2}}'s headache and {{pc:5}}'s neck are **weather: narrate them, do not tick a box.**
-
----
-
-### Is it going wrong? Check inside five minutes
-
-| What you see | What it means | Do this |
-|---|---|---|
-
-| **Two rounds in a row with no laughter** | The relay has gone efficient — they are repeating each other accurately | Enforce *"not in his words, in yours"* once, cheerfully. Then let the woman who calls {{pc:4}} "the mouthy one" carry a message to Rosa and mangle it enthusiastically. **Once only.** |
-| Somebody asks **"why are we still here?"** and nothing answers it | The earliest and most reliable failure signal | Answer it in fiction within a minute. Rosa's next line, or the room needing something from them. |
-| A player narrates in **flat third person** — *"yeah, {{pc:3}} dances, whatever"* | They are putting distance between themselves and a character being embarrassed | Give that PC a job that is not dancing. Nobody dances badly unless their player says so. |
-| Somebody does an **old-person voice** | The room is reading as frail | Within thirty seconds, an NPC out-dances a PC visibly and is dry about it. |
-| All five at the coffee urn, **narrating instead of doing** | They were invited rather than drafted | Stop offering. Start assigning. The room gives them jobs and does not ask. |
-| **Twelve minutes gone by the end of round two** | You are on a three-hour-plus session | Drop to three rounds and fire {{pc:2}}'s moment in the next one. |
-| By round three somebody has had **zero exchanges** | The duck order has shut them out | Silently reorder it. **Never explain.** |
-| You catch yourself saying **"okay, so mechanically—"** twice | The procedure has become the session | Slide the strip away and narrate. **You lose nothing.** |
-
----
-
----
-
-## Scene 5 — {{pc:2}}'s moment, and the end of the dance
-
-***THEIR ONLY MOMENT — this is what {{pc:2}} gets tonight, and the last thing to cut.***
-
-> **Her fifth round card is NOT dealt with the others. You hold it all morning.** *(Dealt up front, she reads it an hour early and sits on it — which defuses the best beat in the session.)*
->
-> **It fires by you putting the duck in front of her and saying nothing at all. No call. No shout. No countdown.** The mechanic going quiet is the signature of this beat. **The duck then stays with her.**
-
-> **DM:** *"{{pc:2}} — she's two people down the line from you, and something goes out of her for half a second. Nobody else in this hall is looking. You're moving before you decide to."*
-
-**Mid-figure, Rosa has a small physical moment.** A tremor, or a half-second of dizziness. **{{pc:2}} is there before she decides to be**, and it eases in a way her clinical training does not account for.
-
-**Rosa notices exactly what happened.** She says nothing, because she has decided not to be the one to tell her.
-
-> **The public room makes this stronger than a quiet one would.** She cannot react, and forty people are watching the dance rather than her. **Her single visible tell: she sits out the next one, which she never does.**
-
-**Do not sober the room up first. Go straight back to the jokes afterwards.**
-
-> **Protect this beat. If anybody talks over it, take the round back and run it again.** It is the one moment tonight that belongs to a single player, and this table has form for landing a joke on top of exactly this.
-
 ### Ending the dance
 
-**Take the duck off the strip and put it in front of {{pc:2}}'s player.** Say nothing about rules. **The token leaving the line is the sentence "this is no longer between you and her."**
+**Put the duck in front of {{pc:2}}'s player and leave it there.** Say nothing about rules. **The duck staying with her says it.**
 
-**If {{pc:2}}'s moment has not landed by the end of round five:** the band takes a break, the caller thanks everybody, and the strip retires on its own. **Never run a sixth round.**
+**If it has not landed by the end of round five:** the band takes a break and the caller thanks everybody. **Never run a sixth round.**
 
 ### Rosa declines further help — {{pc:2}}'s other beat
 
@@ -559,7 +507,7 @@ Afterwards, at the edge of the floor.
 
 > **ROSA:** *"It lives here."*
 
-**Do not let them talk her out of it.** A book they cannot pocket is worth more than one they can.
+**Do not let them talk her out of it.**
 
 **No roll.** {{pc:3}} reads it at the table with Rosa sitting there, and the limit is what is legible — **it is one woman's working entries in her own shorthand, not a code to crack.**
 
