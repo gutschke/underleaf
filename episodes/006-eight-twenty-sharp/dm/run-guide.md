@@ -32,7 +32,19 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **Her daughter is Alaia Vega**, the ranger from Bodie — which the party already knows. **Alaia gave them Rosa's address and asked twice not to be mentioned.** Rosa does not know that.
 
-**Vivian Loewe** is the 98-year-old in Sacramento they visited two sessions ago. She and Rosa have spoken several times a year for sixty-five years and met in person once, when Rosa was three. **Vivian phoned her about the party.** Neither woman knows what the other is.
+**Vivian Loewe** is the 98-year-old in Sacramento they visited two sessions ago. She and Rosa have spoken several times a year for sixty-five years and met in person once, when Rosa was three. **Vivian phoned her about the party.**
+
+**Why Vivian sent them here, and it is not a surname handoff.** Her words were *"there's one person still alive who might know what he was thinking."* **She means it.** Her father wrote to Rosa's mother, Isabel, about his work; Rosa grew up around that and stayed interested; and over sixty-five years Vivian has come to believe **Rosa understands her father's work better than she does.**
+
+> **Vivian does not know Rosa keeps a ledger and does not know she ever cast.** She thinks of her as Isabel's clever daughter who kept up with the material. **The referral is correct and it has to pay off — never play it as a coincidence.**
+
+**What pays it.** **Rosa has her mother's side of that correspondence and does not know where it is** — uncatalogued, like everything of hers that is not the ledger. **She recognises the name immediately** and can say what her mother thought he was working on.
+
+> **ROSA:** *"Loewe. Yes. My mother wrote to him for years — I've got her half of it somewhere. Don't ask me where."*
+
+**She cannot produce the letters today and she offers to look.** That is the honest payoff, it keeps this session from carrying a second artifact, and it gives her next appearance something to arrive with. **She has never connected her mother's correspondent to her own book.**
+
+**Rosa knows Vivian is old and failing**, in general terms, as anyone does who speaks to someone several times a year. She does not know a number. **Her lack of surprise is the tell.**
 
 **Bea Ferro** is the archivist in the Outer Sunset whose house they visited, who has not been seen since Thursday and who left a card in her own storm door with a name on it. **Rosa has never heard of her.**
 
@@ -70,6 +82,14 @@ She sits them down and says:
 ### Things they will raise, and what she says
 
 **Vivian.** She is fond of her and unsurprised by anything about her. **If they mention Vivian's health, she is not surprised by that either — and her lack of surprise is the tell.** She will not explain it.
+
+**Loewe — HAS TO HAPPEN, and it is what Vivian sent them for.** The moment the name comes up, she knows it.
+
+> **ROSA:** *"Loewe. Yes. My mother wrote to him for years — I've got her half of it somewhere. Don't ask me where."*
+
+**She can say what Isabel thought he was working on**, in her mother's words rather than her own, and she is plainly reporting rather than interpreting. **She cannot find the letters today and she offers to look.**
+
+*If they do not raise the name:* she raises it herself as she is leaving — *"You said Vivian sent you. Did she tell you about my mother and her father?"*
 
 > **ROSA:** *"We talk at Christmas and a few times besides. Sixty-five years. We've met once — I was three."*
 

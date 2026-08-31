@@ -871,7 +871,15 @@ Rosa Vega (b. ~1947, currently ~79) is:
 
 **Index-cards-vs-ledgers reminder** (per §36 canon): the two are functionally distinct. Rosa's Bancroft holding is a LEDGER — bound, fixed, an anchor in reality that serves a heavier substrate function than observational index cards. **The party does NOT visit Bancroft in Ep 6 — it was cut on 2026-08-30** (finding another ledger is a no-op, and it repeated Ep 5's shape). The ledger is read at Rosa's kitchen table and **she keeps it.** If Rosa discusses the collection, they should be able to distinguish (a) the bound anomalous-ephemera book that lives in Bancroft's special collections from (b) any looser card-style annotations Rosa may have kept elsewhere for her own working notes. This distinction matters more the deeper the party goes.
 
-**Ep 4 does NOT tip her former-caster status.** Vivian genuinely doesn't know Rosa was ever a caster — Vivian sees Rosa as "Isabel's clever daughter who lives in Berkeley." The former-caster reveal belongs to the **in-person Berkeley visit** (Ep 5 or Ep 6), when Rosa herself decides whether to disclose to the party.
+**Ep 4 does NOT tip her former-caster status.** Vivian genuinely doesn't know Rosa was ever a caster — Vivian sees Rosa as "Isabel's clever daughter who lives in Berkeley."
+
+> **But the referral is not a surname handoff, and this was under-stated until 2026-08-31.** Vivian's played line was *"There's one person still alive who might know what he was thinking."* **She means it.** Loewe corresponded with **Isabel Vega** about his work, Rosa grew up around that and stayed interested, and across sixty-five years of calls Vivian has come to believe **Rosa understands her father's work better than she does.**
+>
+> **So Vivian knows more about Rosa than "neither knows what the other is" allowed** — she knows Rosa *understands the material*. She does not know Rosa keeps a ledger or ever cast. **The referral is correct and must pay off; never play it as a coincidence.**
+>
+> **And Rosa knows Vivian is old and failing**, in general terms, as anyone would who speaks to someone several times a year. **Her lack of surprise is the tell.**
+>
+> **What pays it (decided 2026-08-31):** Rosa has **her mother's side of the Loewe correspondence** and does not know where it is — uncatalogued, like everything of hers that is not the ledger. She recognises the name at once and can say what her mother thought he was working on. **She cannot produce the letters in Ep 6 and offers to look**, which keeps that session's load down and gives her second session something to arrive with. **She has never connected her mother's correspondent to her own ledger.** The former-caster reveal belongs to the **in-person Berkeley visit** (Ep 5 or Ep 6), when Rosa herself decides whether to disclose to the party.
 
 **Her role in the arc:**
 - Ep 5/6 arc-node: Berkeley visit → Rosa in-person → Bancroft ledger revealed → former-caster status revealed (at Rosa's discretion) → Alaia connection surfaces (already partially known via Vivian).
