@@ -94,14 +94,14 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 ## How full is this session
 
-**Very.** Honestly counted it runs about three hours and ten minutes, against a two-and-a-half-hour target and a three-hour ceiling. **Two things protect you and you must actually do them:**
+**Very.** It runs about **2h50** against a two-and-a-half-hour target and a three-hour ceiling. **Two things protect you and you must actually do them:**
 
 1. **Be out of Rosa's house by forty minutes in.** Everything that makes this session unlike the last two is inside the hall. Set a visible timer.
 2. **The dance runs four rounds, never five.** It ends when {{pc:2}}'s moment lands, not when the rounds run out.
 
 **Scene 0 carries both pre-cuts:** the records lead arrives as a voicemail, and the drive is told in sixty seconds.
 
-**Never cut:** the lift, the ledger read, Rosa saying she used to be able to do this, and the envelope at the end.
+**Never cut:** the lift · **{{pc:2}}'s moment** · the ledger read · Rosa saying she used to be able to do this · the envelope.
 
 ---
 
@@ -163,7 +163,7 @@ She sits them down and says:
 
 > **ROSA:** *(a pause, glasses coming down off her forehead)* *"…Vivian's father. Of course he was. I have known that woman my whole life and I have never once put those two things together."*
 
-> **Play it as a mildly embarrassing lapse, not a revelation.** Vivian has been a family friend since Rosa was four; nobody re-examines that surname.
+> **Play it as a mildly embarrassing lapse, not a revelation.** Vivian has been a family friend since Rosa was small; nobody re-examines that surname.
 
 **What she gives them is what Isabel said about the work.** She reports it; she does not interpret it. Glasses down, looking at the table rather than at them.
 
@@ -280,6 +280,8 @@ At about eight forty-five she stands up.
 
 > **Rosa is not the only source in this room, and this is what stops the garble from eating the plot.** Her answers arrive in fixed order and mostly will not fit the question — that is the joke. **The facts arrive from the forty people who have known her for decades**, through the green cards: the year she started, the sign-in book, the photo with a book under her arm, and the fact that nobody here has any idea what a second notebook-keeper would even be.
 
+> **TWO DATES, AND THEY ARE NOT THE SAME.** **The dance has run since 1996** — thirty-one years, which is what she has not missed. **Rosa's ledger starts in 1979**, at the library, and has nothing to do with this hall. **The party writes the hall's date on a slip**, so do not let 1979 anywhere near it.
+
 ### The five dancers — name them, and use these names all morning
 
 **Each PC is paired with one of these, and their five round cards run in order as a small arc with that person: setup, complication, payoff. Deal them in order and the bits complete on their own.**
@@ -300,14 +302,14 @@ At about eight forty-five she stands up.
 
 **A dance runs about ten minutes.** During it nobody can hold a conversation — everybody is being moved around, and you get **one pass** at Rosa as the figure brings you together, worth about eight seconds. **Then the tune ends**, and there are two or three minutes where people get water and change partners. **That gap is the only time the party can reach each other.**
 
-**At the table the whole round takes about ninety seconds.**
+
 
 ### The round
 
 **DURING THE DANCE:**
 
-1. **THE CALL.** Whoever the duck left last round reads a CALLER card aloud, at volume. *(Round one: anybody.)* **Three of the twelve carry a twist — read what it says and do it.**
-2. **THE DUCK LANDS.** Draw a *who has the duck* card and set it aside. **Everybody gets it exactly once and nobody can work out when.** *"The figure brings you round and Rosa is right there."*
+1. **THE CALL.** Whoever the duck left last round reads a CALLER card aloud, at volume. *(Round one: anybody. **Round four is always the caller-stops card** — set it aside before you shuffle.)* **Two of the eleven in hand carry a twist — read what it says and do it.**
+2. **THE DUCK LANDS.** Draw a *who has the duck* card and set it aside. **Most players get it once; at least one will not, and nobody can work out who.** *(Do not promise them one each — it is false, and a table that works that out stops shouting.)* *"The figure brings you round and Rosa is right there."*
 3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells across the set what they want asked — **off a question card in front of them, or straight out of their head.** Count down from three, out loud. **A card that gets shouted is discarded; deal that player a fresh one.**
 4. **ONE SENTENCE**, in the duck-holder's own words. **They may not ask their own unless nobody shouted one.**
 5. **ROSA ANSWERS.** They draw the top ROSA card and read it aloud as her. **Take the duck back mid-word if you can.**
@@ -365,17 +367,17 @@ At about eight forty-five she stands up.
 
 **If they ask something the deck does not cover, give a real answer and cross the next card off. Never stall to protect the list.**
 
-### What the party builds — four blank slips in the middle of the table
+### What the party builds — five blank slips in the middle of the table
 
 **A pen and five blank slips, in the centre, where everyone can reach them.**
 
 **Every time a green card turns up a fact about Rosa, the player who got it writes it on a slip in their own words and pushes it to the middle.** There are five to find:
 
-**1979** · **her name in every sign-in book since** · **a photo from the eighties with a book under her arm** · **nobody here knows what a second notebook-keeper would even be** · **she wrote something down about this building once and was right**
+**her name in every sign-in book since 1996** · **the year the dance started** · **a photo from the eighties with a book under her arm** · **nobody here knows what a second notebook-keeper would even be** · **she wrote something down about this building once and was right**
 
 > **This is the only thing on the table that changes, and it is the reason to watch somebody else's card.** The shout gets something to argue from, the gap gets something to point at, and by the last round they can look down and see what they have built. **Do not write on the slips yourself and do not correct what they write.**
 >
-> **Those four facts are also the whole case that she is not alone** — which is why {{pc:2}} catching her, and then Rosa saying *"I've never met anyone else who does it"*, lands the way it does. **The party assembled the contradiction themselves and it is sitting in front of them.**
+> **Those five facts are also the whole case that she is not alone** — which is why {{pc:2}} catching her, and then Rosa saying *"I've never met anyone else who does it"*, lands the way it does. **The party assembled the contradiction themselves and it is sitting in front of them.**
 
 ### The Alaia trade — plant it, then let them choose it
 
@@ -411,15 +413,15 @@ At about eight forty-five she stands up.
 
 ### The round cards — deal them, do not narrate from this table
 
-**This is a summary. The cards are the source of truth, and they carry text this table does not.** Deal each player their five in order; the arcs run setup → complication → payoff on their own.
+**This is a summary. The cards are the source of truth and carry text this table does not.** **Deal one card per player per round, in numbered order — never a whole stack.** The arcs run setup → complication → payoff on their own.
 
 | | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| **{{pc:1}}** | Del's mic dies; only he can fix it | it works, and he is now at the table where her bag is | **green** — the planner | **green** — Del: *"since seventy-nine"* | *"You'll be here next week, then."* |
+| **{{pc:1}}** | Del's mic dies; only he can fix it | it works, and he is now at the table where her bag is | **green** — the planner | **green** — Del: *"since ninety-six"* | *"You'll be here next week, then."* |
 | **{{pc:2}}** | Hector's knee; say what she almost says, then don't | he out-dances two men half his age and is dry about it | a woman hands her rings and walks off | **green** — Hector: *"she's the one who notices things"* | *(held by you — the stumble)* |
-| **{{pc:3}}** | **green** — the sign-in binder, back to 1979 | Joyce sits down and talks | **green** — the photo board, a book under her arm | a 1996 receipt for the same urn | Joyce: *"do you do this professionally?"* |
+| **{{pc:3}}** | **green** — the sign-in binder, back to 1996 | Joyce sits down and talks | **green** — the photo board, a book under her arm | a 1996 receipt for the same urn | Joyce: *"do you do this professionally?"* |
 | **{{pc:4}}** | Winnie: *"ooh, a mouthy one"* | introduced to two more friends | he escalates; she offers him coffee | **green** — asks the room about notebooks; nobody knows what he means | Del is hoarse and looking at him |
-| **{{pc:5}}** | claimed before this dance has ended | *"you're exactly the right height"* | **green** — Bernard, the lease, *"she was right about it"* | claimed again | his neck goes; Bernard fetches a chair |
+| **{{pc:5}}** | claimed before this dance has ended | **green** — Bernard, the lease, *"she was right about it"* | *"you're exactly the right height"* | claimed again | his neck goes; Bernard fetches a chair |
 
 > **Four rounds means the fifth card in each row is not dealt.** Three of those are codas and can go. **{{pc:1}}'s is his payoff — *"You'll be here next week, then"* — so give it to him at the end of the dance rather than losing it.**
 >
@@ -501,15 +503,39 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 ---
 
-### Ending the dance
+## Scene 5 — {{pc:2}}'s moment
 
-**Put the duck in front of {{pc:2}}'s player and leave it there.** Say nothing about rules. **The duck staying with her says it.**
+**This is the quiet centre of the session. The whole morning has been noise so that this can happen in silence.**
 
-**If it has not landed by the end of round four:** the band takes a break and the caller thanks everybody. **Never run a fifth round.**
+***THEIR ONLY MOMENT — this is what {{pc:2}} gets tonight, and the last thing to cut.***
 
-### Rosa declines further help — {{pc:2}}'s other beat
+**Fire it by putting the duck in front of her and saying nothing.** No call, no shout, no countdown. **The mechanic going silent is the signature of this beat.**
 
-Afterwards, at the edge of the floor.
+> **DM:** *"{{pc:2}} — she's two people down the line from you, and something goes out of her for half a second. Nobody in this hall is looking. Not one person. You're moving before you decide to."*
+
+**Whatever she does, it works — and here is the half that must not be lost:**
+
+> **It eases in a way her clinical training does not account for.** She has caught people before. This is not that. **Do not explain it and do not let her roll for it.**
+
+*(Without that sentence she has helped an old woman keep her balance, which is an ordinary thing, and the realization this beat exists to carry has nothing to stand on.)*
+
+**Rosa notices exactly what happened and says nothing.** She looks at her one second too long, her hand closes on the girl's forearm, and she lets the figure take her away. **She has decided not to be the one to tell her.**
+
+**Then, in the hush, you say the first held card — as Rosa, to her:**
+
+> **ROSA:** *"I've never met anyone else who does it."*
+
+> **She says it to the person who has just proved it wrong**, with the slips the party wrote sitting face-up on the table. Nobody comments. **If a player starts to, let another player shush them — this table will.**
+
+> **Protect this beat.** If anybody talks over it, take the round back and run it again. It is the one moment tonight that belongs to a single player.
+
+### Her one visible tell — do not skip this
+
+**She sits out the next dance. She never sits out.**
+
+**That is the only outward sign that anything happened**, it is the thing {{pc:2}}'s player can chew on for three sessions, and it costs one sentence.
+
+**Then, at the edge of the floor:**
 
 > **ROSA:** *"I'm fine, dear. It's my turn."*
 
@@ -517,6 +543,14 @@ Afterwards, at the edge of the floor.
 
 - *If it does not land:* **ROSA:** *"I've had people manage me before. I'd rather you didn't."*
 - *Still nothing:* the woman at the urn, fondly — *"She does that."*
+
+**Go straight back to the jokes afterwards. Do not sober the room up.**
+
+### Ending the dance
+
+**Put the duck in front of {{pc:2}}'s player and leave it there.** Say nothing about rules. **The duck staying with her says it.**
+
+**If it has not landed by the end of round four:** the band takes a break and the caller thanks everybody. **Never run a fifth round.**
 
 ---
 

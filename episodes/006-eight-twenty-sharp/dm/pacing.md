@@ -17,7 +17,7 @@
 
 | Scene | Run | Cut to | Don't break mid- |
 |---|---:|---:|---|
-| 0 · Recap | 10 | **3** | — |
+| 0 · Recap *(already cut to 3)* | 3 | 3 | — |
 | 1 · The house | 25 | 18 | — |
 | 2 · **The lift** | 10 | 6 | **the tin changing hands** |
 | 3 · Arrival, drafted in | 12 | 8 | the first draft landing |
@@ -34,10 +34,9 @@
 
 ## If you fall behind, in this order
 
-1. **Recap → 3-minute summary** (−7)
-2. **Dance: three rounds** — fire {{pc:2}}'s moment in round three (−8)
-3. **Drop the microphone** if the clock has passed 2:00 (−8)
-4. **House questions → ten minutes.** She is leaving anyway.
+1. **Dance: three rounds** — round three becomes the caller-stops round; read ROSA 3 and 4 back to back (−8)
+2. **Drop the microphone** if the clock has passed 2:00 (−8)
+3. **House questions → ten minutes.** She is leaving anyway.
 
 **Do NOT cut Rosa's answers — they are the payout schedule.** A room with nothing to obtain only works while something keeps arriving. **Cut character bits first.**
 
@@ -47,7 +46,7 @@
 - **Never say "one sentence" out loud. Cut TO somebody else.**
 - **Hold {{pc:2}}'s fifth round card all morning.** It fires in silence — no call, no shout.
 - **Answers in order, whatever was asked.** The mismatch is the joke.
-- **Relay rule:** *"Not in his words — in yours."*
+- **Relay rule:** *"Not in their words — in yours."*
 - **Nobody writes anything down.**
 - **The welcome comes from a stranger, never from Rosa.**
 - **{{pc:4}}: the room's warmth never varies with his performance** — show it once, by being equally warm to {{pc:2}} in his hearing.
