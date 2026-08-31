@@ -400,6 +400,28 @@ At about eight forty-five she stands up.
 
 **If they ask something the deck does not cover, give a real answer and cross the next card off. Never stall to protect the list.**
 
+### The Alaia trade — plant it, then let them choose it
+
+**Somewhere in the first two rounds the room mentions Rosa's daughter.** A bonus card does it, or Winnie does:
+
+> **WINNIE:** *"She used to bring her girl to this. Hated every minute of it."*
+
+**Now the party knows the name is live, and what follows is their choice rather than your ambush.**
+
+**Say Alaia's name to Rosa and you trade this round's answer for a story.** She is *delighted*, not offended.
+
+> **ROSA:** *"Alaia sent you? My Alaia?"*
+
+**She does not stop until whoever said it admits something true and embarrassing about themselves — or thirty seconds, whichever comes first.** A performed confession does not count; she has raised a teenager.
+
+**Then Winnie gets her own back on Rosa's behalf, and that is what they actually bought:**
+
+> **WINNIE:** *"Rosa. Rosa. Tell them about the year you catalogued the whole hall's records and put them all back in the wrong boxes."*
+>
+> **ROSA:** *(not turning round)* *"They were not the wrong boxes. They were better boxes."*
+
+> **The room tells them something about Rosa that Rosa never would.** That is why the trade is worth taking, and **the table should be able to see that it is worth taking.** Three Alaia stories and three Winnie returns — enough to fire twice without repeating.
+
 ### Between dances
 
 **The gap is two to four minutes and Rosa is not free in it.** A regular with thirty-one years in the room is booked. **Show it physically the first time** — somebody intercepts her mid-approach, delighted, wanting to tell her about a hip — or it reads as you refusing them.
@@ -491,64 +513,6 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 **His neck.** Two hours of swing figures is exactly what it flares after. Weather.
 
 ---
-
-### Rosa's six answers — the deck, for reference
-
-**They are on cards, in this order, and the player who reached her reads them aloud.** **Several answer questions nobody has asked yet.**
-
-> **ROSA 1:** *"My mother kept notebooks. I thought that was just a thing she did."*
->
-> **ROSA 2:** *"The hand isn't mine at the front. I can show you where mine starts."*
->
-> **ROSA 3:** *"I don't know who stopped."*
->
-> **ROSA 4:** *"I've never met anyone else who does it."*
->
-> **ROSA 5:** *"Some of it I wrote because I saw it. Some of it I wrote because I couldn't not. I've never been able to tell you which was which — not from the inside."*
->
-> **ROSA 6:** *"No, it lives at the house. It's not the library's."*
-
-**Do not rush card 4.**
-
-**The six BONUS cards, which are texture and nothing else:** the 1979 backlog · the estate paper it was filed with · sixty-five years of Christmases with Vivian and one meeting when Rosa was three · *"She rang about you. She didn't say what it was about — she never does."* · her mother thinking the birds knew · *"You'd have to ask my daughter what she wants you to know."*
-
-**If they ask something these do not cover, give a real answer and cross the next one off. Never stall to protect the list.**
-
-### Between dances
-
-**The gap is two to four minutes and Rosa is not free in it.** A beloved regular with thirty-one years in the room is booked; people ask her for dances two and three ahead. **Show this physically the first time** — somebody intercepts her mid-approach, delighted, wanting to tell her about a hip or a grandchild — or it reads as you refusing them.
-
-**Three things they can do about it, all good play:**
-
-- **Reach her inside fifteen seconds**, which is a race across a crowded floor.
-- **Book her for the next dance.** Completely normal to ask a stranger, and she will say yes — **but that PC is then committed and unavailable to everybody else for the whole dance.**
-- **Wait for the mid-morning break**, where she is at the centre of a knot of six people. That is a social problem, not a scheduling one.
-
-## Scene 5 — {{pc:2}}'s moment
-
-**This is the quiet centre of the session, and the whole morning has been noise so that it can happen.**
-
-***THEIR ONLY MOMENT — this is what {{pc:2}} gets tonight, and the last thing to cut.***
-
-**Fire it by putting the duck in front of her and saying nothing. No call. No shout. No countdown.** The mechanic going silent is the signature of this beat.
-
-> **DM:** *"{{pc:2}} — she's two people down the line from you, and something goes out of her for half a second. Nobody in this hall is looking. Not one person. You're moving before you decide to."*
-
-**Whatever she does, it works, and it eases faster than her training accounts for.**
-
-> **ROSA NOTICES EXACTLY WHAT HAPPENED AND SAYS NOTHING.** This is half the beat and it is easy to lose. She looks at her — one second too long — her hand closes on the girl's forearm, and she lets the figure take her away. **She has decided not to be the one to tell her.**
-
-**Her one visible tell: she sits out the next dance, which she never does.**
-
-**Then, in the hush, you say the held line — as Rosa, to her:**
-
-> **ROSA:** *"I've never met anyone else who does it."*
-
-> **She says it to the person who has just proved it wrong.** Nobody comments and nobody explains. **If a player starts to, let another player shush them; this table will.**
-
-> **Protect this beat.** If anybody talks over it, take the round back and run it again. It is the one moment tonight that belongs to a single player, and this table has form for landing a joke on exactly this kind of silence.
-
-**Do not sober the room up first. Go straight back to the jokes afterwards.**
 
 ### Ending the dance
 
