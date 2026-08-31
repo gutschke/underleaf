@@ -275,7 +275,7 @@ At about eight forty-five she stands up.
 
 > **The one rule that makes this work: reaching Rosa is not your turn to ask a question. It is your turn to be the party's only mouth — and the question will not be yours.**
 
-> **Rosa is not the only source in this room, and this is what stops the garble from eating the plot.** Her answers arrive in fixed order and mostly will not fit the question — that is the joke. **The facts arrive from the forty people who have known her for decades**, through the green cards: the year she started, the sign-in book, the photo with a book under her arm, and the fact that nobody here has any idea what a second notebook-keeper would even be.
+> **Rosa is not the only source in this room, and this is what stops the garble from eating the plot.** Her answers arrive in fixed order and mostly will not fit the question — that is the joke. **The facts arrive from the forty people who have known her for decades**, through the green cards: the year she started, the sign-in book, the photo from 1997 with a book under her arm, and the fact that nobody here has any idea what a second notebook-keeper would even be.
 
 > **TWO DATES, AND THEY ARE NOT THE SAME.** **The dance has run since 1996** — thirty-one years, which is what she has not missed. **Rosa's ledger starts in 1979**, at the library, and has nothing to do with this hall. **The party writes the hall's date on a slip**, so do not let 1979 anywhere near it.
 
@@ -370,7 +370,7 @@ At about eight forty-five she stands up.
 
 **Every time a green card turns up a fact about Rosa, the player who got it writes it on a slip in their own words and pushes it to the middle.** There are five to find:
 
-**her name in every sign-in book since 1996** · **the year the dance started** · **a photo from the eighties with a book under her arm** · **nobody here knows what a second notebook-keeper would even be** · **she wrote something down about this building once and was right**
+**her name in every sign-in book since 1996** · **the year the dance started** · **a photo from 1997 with a book under her arm** · **nobody here knows what a second notebook-keeper would even be** · **she wrote something down about this building once and was right**
 
 > **This is the only thing on the table that changes, and it is the reason to watch somebody else's card.** The shout gets something to argue from, the gap gets something to point at, and by the last round they can look down and see what they have built. **Do not write on the slips yourself and do not correct what they write.**
 >
@@ -415,8 +415,8 @@ At about eight forty-five she stands up.
 | | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
 | **{{pc:1}}** | Del's mic dies; only he can fix it | it works, and he is now at the table where her bag is | **green** — the planner | **green** — Del: *"since ninety-six"* | *"You'll be here next week, then."* |
-| **{{pc:2}}** | Hector's knee; say what she almost says, then don't | he out-dances two men half his age and is dry about it | a woman hands her rings and walks off | **green** — Hector: *"she's the one who notices things"* | *(held by you — the stumble)* |
-| **{{pc:3}}** | **green** — the sign-in binder, back to 1996 | Joyce sits down and talks | **green** — the photo board, a book under her arm | a 1996 receipt for the same urn | Joyce: *"do you do this professionally?"* |
+| **{{pc:2}}** | Hector's knee; she opens her mouth and stops herself | he out-dances two men half his age and is dry about it | a woman hands her rings and walks off | **green** — Hector: *"half a step ahead of the music"* | *(held by you — the stumble)* |
+| **{{pc:3}}** | **green** — the sign-in binder, back to 1996 | Joyce sits down and talks | **green** — the photo board, 1997, a book under her arm | a 1998 receipt for the same urn | Joyce: *"do you do this professionally?"* |
 | **{{pc:4}}** | Winnie: *"ooh, a mouthy one"* | introduced to two more friends | he escalates; she offers him coffee | **green** — asks the room about notebooks; nobody knows what he means | Del is hoarse and looking at him |
 | **{{pc:5}}** | claimed before this dance has ended | **green** — Bernard, the lease, *"she was right about it"* | *"you're exactly the right height"* | claimed again | his neck goes; Bernard fetches a chair |
 
@@ -430,7 +430,7 @@ The caller's microphone is cutting out. Within ten minutes the quietest person i
 
 **His five cards run the bit on their own: the microphone dies, he fixes it, and Del simply starts using it without thanking him — which is better.** Fixing it is what puts him at the table where Rosa left her bag.
 
-**And this is where he notices something.** Rosa's planner is on the table by her bag: a small black daily book, one page per day, in a state — post-its in drifts, earmarked pages, loose sheets stuffed between days, **and pages torn out for scrap.** She is immaculate with the ledger and chaotic with this.
+**And this is where he notices something.** Rosa's planner is on the table by her bag: a small black daily book, one page per day, in a state — post-it notes stuck three deep, earmarked pages, loose sheets pushed in between days, **and pages torn out for scrap.** She is immaculate with the ledger and chaotic with this.
 
 **That is all he gets here.** One year's planner, in a state. **The rest of it is at the house** — see Scene 6.
 
@@ -512,9 +512,9 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 **Whatever she does, it works — and here is the half that must not be lost:**
 
-> **It eases in a way her clinical training does not account for.** She has caught people before. This is not that. **Do not explain it and do not let her roll for it.**
+> **Rosa steadies faster and more completely than a stumble should let her.** {{pc:2}} is a nurse. She knows what catching somebody looks like, **and this was not that.** Do not explain it, and do not let her roll for it.
 
-*(Without that sentence she has helped an old woman keep her balance, which is an ordinary thing, and the realization this beat exists to carry has nothing to stand on.)*
+*(Without that, she has helped an old woman keep her balance — an ordinary thing — and the realization this beat exists to carry has nothing to stand on.)*
 
 **Rosa notices exactly what happened and says nothing.** She looks at her one second too long, her hand closes on the girl's forearm, and she lets the figure take her away. **She has decided not to be the one to tell her.**
 
