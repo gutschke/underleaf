@@ -76,7 +76,7 @@ Ep 8, Nia. **It lands once and is not repeated.**
 ### 3. Re-demonstrate, and make the thread count visibly fall
 
 **Ep 12 retires B1 on the evidence floor** — Rosa's ledger names no other keeper,
-ever, across forty years — **whether or not any player says the recognition line.**
+ever, across nearly fifty years — **whether or not any player says the recognition line.**
 That is the model: the artifact does the work.
 
 **Two demonstrations across twenty-five sessions is thin. Add a third, early:**
@@ -97,7 +97,7 @@ their own case. It should be the third or fourth.**
 Someone has to say plainly that **they wanted there to be someone too.**
 
 > **Rosa is the right mouth for it.** She is the only person the party will meet
-> who had this and *stopped* — and a woman who spent forty years believing she was
+> who had this and *stopped* — and a woman who spent nearly fifty years believing she was
 > the only one is the one person whose disappointment is earned rather than
 > supplied.
 

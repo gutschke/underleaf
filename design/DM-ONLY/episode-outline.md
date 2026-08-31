@@ -108,7 +108,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **PRIMARY SHAPE: a social event where the party has no standing.** **NOT an interview, NOT a records hunt, NOT a bureaucratic obstacle.** Eps 5 and 6 were back-to-back counter-and-clerk sessions; this breaks that.
 
 > [!IMPORTANT]
-> **THE ONE SENTENCE FOR THIS SESSION:** *Rosa believes she is the only person in the world who does this. She has forty years of evidence. She is wrong, and her being wrong is the proof.*
+> **THE ONE SENTENCE FOR THIS SESSION:** *Rosa believes she is the only person in the world who does this. She has forty-eight years of evidence. She is wrong, and her being wrong is the proof.*
 >
 > **The session's SHAPE is the refutation, and it needs no dialogue.** She thinks she is alone → so she treats five strangers as an errand → so she leaves for the thing that is actually her life → **and five casters follow her into it.** Do not have anyone say this. Let the room be it.
 
@@ -370,7 +370,7 @@ that in a way a single year never could.
 
 > **If the party asks to take it, she says no — pleasantly, and without explaining.** *"It lives here."* **Do not let them talk her out of it.** A ledger they cannot pocket is worth more than one they can, and it is the first time the campaign says out loud that these are not collectibles.
 
-**The evidence floor (hook B1) is the only thing about it that matters: read properly, it contains no reference to any other keeper. Ever. Across forty years.** That is **her isolation rendered as an object** — not a power-up, not a clue, and not a step toward anything. **If the party treats it as loot, let them; the disappointment is on schedule.**
+**The evidence floor (hook B1) is the only thing about it that matters: read properly, it contains no reference to any other keeper. Ever. Across nearly fifty years.** That is **her isolation rendered as an object** — not a power-up, not a clue, and not a step toward anything. **If the party treats it as loot, let them; the disappointment is on schedule.**
 
 ##### What {{pc:3}} gets from the ledger — DECIDED 2026-08-30
 
@@ -383,7 +383,7 @@ crack.**
 ends, and none of it needs following up:
 
 1. **The evidence floor (B1).** **No reference to any other keeper. Ever. Across
-   forty years.** Fires whether or not anyone voices the recognition.
+   nearly fifty years.** Fires whether or not anyone voices the recognition.
 2. **The hand changes — and the earlier hand stops MID-PAGE.** Not at the end of a
    book, not at the end of an entry. **It just stops.** *(This creates no loose
    end: canon already has the previous keeper dying without a successor, and the
@@ -754,7 +754,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **The ledger:** confirmed to exist and to be safe. **The party never sees it.** That is a legitimate ending for a ledger and it teaches diffuseness better than acquisition does.
 - **{{pc:3}} goes dark from Ep 10 to Ep 22 — twelve sessions — unless this session fixes it.** Her only named item in that span is B1's recognition line, which is not even assigned to a PC, while `B16` holds the default that Kai is *truly lost*. So her sub-arc's payoff is her holding, with nothing to hold *with*.
   **Fix, which also closes B21:** hook-ledger B21 already prescribes giving **Rosa a second session** because U7's six figures and T14's crows both route through carriers spent at Eps 6 and 8. **Put Rosa here, and put {{pc:3}} in that scene** — let Rosa be the one who finally makes the excised diagram mean something. One fix, three hooks.
-- **Fires:** B4 · **B1 RETIRES HERE** (moved from the absorbed Ep 13) — on the evidence floor, i.e. Rosa's ledger referencing no other keeper across forty years, whether or not a player voices the recognition line · **B14 Vasiliev must be re-homed here or lost** — he was routed through this episode's cut ledger. Candidate vehicles: Bao's Q&A, or a Loewe letter. **Must be explicit; must land by Ep 12-13.**
+- **Fires:** B4 · **B1 RETIRES HERE** (moved from the absorbed Ep 13) — on the evidence floor, i.e. Rosa's ledger referencing no other keeper across nearly fifty years, whether or not a player voices the recognition line · **B14 Vasiliev must be re-homed here or lost** — he was routed through this episode's cut ledger. Candidate vehicles: Bao's Q&A, or a Loewe letter. **Must be explicit; must land by Ep 12-13.**
 
 ### Ep 13 — ABSORBED (2026-08-27) — this slot is BUFFER
 
@@ -1081,7 +1081,7 @@ This invalidates a whole class of plan. A beat that reads beautifully on the pag
 | **A6 — {{pc:4}}'s persona drop** | Ep 5, *"tell me what you know"* | Ortiz stops addressing him and talks only to {{pc:1}} — consequence, not punishment |
 | **U7 — the six-figure diagram** | Act II mid | The two shapes physically side by side on a table; then, if needed, an NPC counting *"Six. He drew six."* |
 | **A3 — {{pc:2}}'s realization** | Ep 6, Rosa's garden | Rosa **visibly registers** it — stops mid-sentence, or changes the subject obviously |
-| **B1 — the network recognition** | Ep 12 | Not a ladder but an **evidence floor**: Rosa's ledger names no other keeper across forty years, and B1 retires on that whether or not anyone says the line |
+| **B1 — the network recognition** | Ep 12 | Not a ladder but an **evidence floor**: Rosa's ledger names no other keeper across nearly fifty years, and B1 retires on that whether or not anyone says the line |
 
 **When planning any session, ask: does anything here require a PC to do something they have no way of knowing is wanted?** If yes, it needs a ladder or a floor before the session runs.
 
