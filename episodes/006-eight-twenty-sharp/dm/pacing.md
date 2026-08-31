@@ -1,7 +1,7 @@
 # Ep 6 — clock card
 *Saturday 20 Feb 2027, 8:20am · names below are character (player).*
 
-**Target 2h30 · ceiling 3h.** Runs **2h50**. **A dance round costs 5-6 min, not 90 sec — four rounds, never five.** **Two cuts are already applied.**
+**Target 2h30 · ceiling 3h.** Runs **2h50**. **A dance round costs 7-9 min. Four rounds, never five.** **Two cuts are already applied.**
 
 ## Gates
 

@@ -97,7 +97,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 **Very.** Honestly counted it runs about three hours and ten minutes, against a two-and-a-half-hour target and a three-hour ceiling. **Two things protect you and you must actually do them:**
 
 1. **Be out of Rosa's house by forty minutes in.** Everything that makes this session unlike the last two is inside the hall. Set a visible timer.
-2. **The dance runs five rounds at most, and fewer is better.** It ends when {{pc:2}}'s moment lands, not when the rounds run out.
+2. **The dance runs four rounds, never five.** It ends when {{pc:2}}'s moment lands, not when the rounds run out.
 
 **Scene 0 carries both pre-cuts:** the records lead arrives as a voicemail, and the drive is told in sixty seconds.
 
@@ -318,7 +318,7 @@ At about eight forty-five she stands up.
 7. **THE GAP.** Two or three minutes. **The party can finally talk.** Let them react, argue, work out what she meant and decide what to shout next time. **Do not hurry this — it is where the session lives.**
 
 > [!CAUTION]
-> **FOUR rounds, then {{pc:2}}'s moment. Not five.** A round costs **five to six minutes** once the cards are dealt — not ninety seconds. A full playtest at five rounds ran the hall sequence to **sixty-four minutes against a thirty-eight-minute target**, and the compression needed to claw that back is what makes a player ask to skip ahead.
+> **FOUR rounds, then {{pc:2}}'s moment. Not five.** A round costs **seven to nine minutes** once the cards are dealt. A full playtest at five rounds ran the hall sequence to **sixty-four minutes against a thirty-eight-minute target**, and the compression needed to claw that back is what makes a player ask to skip ahead.
 
 **It ends on {{pc:2}}'s moment, not on a count.**
 
