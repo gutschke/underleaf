@@ -1,7 +1,7 @@
 # Ep 6 — clock card
 *Saturday 20 Feb 2027, 8:20am · names below are character (player).*
 
-**Target 2h30 · ceiling 3h.** Counted honestly this runs **2h50**. **Two cuts are already applied.**
+**Target 2h30 · ceiling 3h.** Runs **2h50**. **A dance round costs 5-6 min, not 90 sec — four rounds, never five.** **Two cuts are already applied.**
 
 ## Gates
 
@@ -21,7 +21,7 @@
 | 1 · The house | 25 | 18 | — |
 | 2 · **The lift** | 10 | 6 | **the tin changing hands** |
 | 3 · Arrival, drafted in | 12 | 8 | the first draft landing |
-| 4 · **The dance — 5 rounds** | 38 | 28 | **a round, once begun** |
+| 4 · **The dance — 4 rounds** | 34 | 26 | **a round, once begun** |
 | 5 · **{{pc:2}}'s moment** | 6 | 6 | **never cut** |
 | 6 · Ledger · **what she used to be** · envelope | 27 | 21 | **the ledger + the declaration** |
 
@@ -35,7 +35,7 @@
 ## If you fall behind, in this order
 
 1. **Recap → 3-minute summary** (−7)
-2. **Dance: four rounds, then three** — fire {{pc:2}}'s moment in round three (−15)
+2. **Dance: three rounds** — fire {{pc:2}}'s moment in round three (−8)
 3. **Drop the microphone** if the clock has passed 2:00 (−8)
 4. **House questions → ten minutes.** She is leaving anyway.
 
@@ -44,7 +44,7 @@
 ## Pre-decided · say it right
 
 - **"I haven't missed it in thirty-one years."** It is a dance *weekend*, not a weekly class.
-- **Never say "one sentence" out loud. Cut TO somebody else, not off.** The rule only ever gets enforced against the quiet ones.
+- **Never say "one sentence" out loud. Cut TO somebody else.**
 - **Hold {{pc:2}}'s fifth round card all morning.** It fires in silence — no call, no shout.
 - **Answers in order, whatever was asked.** The mismatch is the joke.
 - **Relay rule:** *"Not in his words — in yours."*
