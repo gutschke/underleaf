@@ -10,14 +10,14 @@
 |---|---|
 | **Before the session** — print and cut | what you need on the table |
 | **Scene 0** — recap, the voicemail, the drive | 3 min |
-| **Scene 1** — the house | 25 min · *includes the Alaia lookup* |
+| **Scene 1** — the house | 25 min |
 | **Scene 2** — the lift | 10 min · **the session depends on this** |
 | **Scene 3** — the hall | 12 min |
-| **Scene 4** — the dance | 55 min · teach · rounds · answers · rolls · *is it going wrong* |
+| **Scene 4** — the dance | 34 min · teach · rounds · answers · **the Alaia trade** · *is it going wrong* |
 | **Scene 5** — {{pc:2}}'s moment | 6 min · **last thing to cut** |
 | **Scene 6** — back at the house | ledger · what she used to be · the envelope |
 
-**Read non-linearly.** The Alaia lookup and the *is it going wrong* table are both filed inside the scenes where they fire.
+**Read non-linearly.** The *is it going wrong* table is filed inside Scene 4, where every row of it applies.
 
 ---
 
@@ -190,50 +190,11 @@ She sits them down and says:
 
 **Their theory about the insurance company.** She does not recognise the name and has no opinion. **Do not let her settle it either way** — she is a librarian, not an investigator, and she has never worked in insurance.
 
-**Alaia.** See the lookup below. 
+**Alaia.** **Do not run it here.** Rosa names Vivian herself and never asks who sent them, so the name should not come up — and if a player says it anyway, she is pleased and incurious and moves on:
 
-### LOOKUP — if somebody mentions Alaia (best at the dance; see Scene 4)
+> **ROSA:** *"Oh — she'll have got that from me, then. Go on."*
 
-**Her daughter asked twice not to be mentioned. Somebody will mention her.**
-
-> **The dance hall is where you want this, not the house.** At the house it is a slip that costs an awkward minute. **At the dance it is a trade the party can see and choose** — and the room pays them back for it. **Scene 4 plants it and sets the price.** If it fires here in the house instead, run it the same way, but there is no Winnie to collect from.
-
-**Rosa is not suspicious and not hurt. She is delighted.** She has spent years carefully not asking her daughter about any of this, and here is evidence the girl is engaged.
-
-> **ROSA:** *"Alaia sent you? My Alaia?"*
-
-**And then she is off, and she does not stop.**
-
-**The price is one round of the dance per story.** While she is telling it she is not answering anything, **and that is the whole cost. Nothing else is lost and nobody is angry.**
-
-**She stops when the cornered player volunteers something genuinely embarrassing about themselves.** Politeness does not release her. Changing the subject does not release her. **Neither does a performed one. She has raised a teenager and she can tell.**
-
-> **THIRTY SECONDS, THEN SHE ACCEPTS WHATEVER THEY LAST SAID.** *"You're a terrible liar and I like you,"* and the caller calls the next figure and she is swept away mid-story. **Do not let this run into a second round** — the standoff is unwinnable against a player who enjoys performing, and it has cost two rounds before.
-
-**Story one — the Junior Ranger.** Alaia at nine wrote to the National Park Service demanding a job, got a form letter, and framed it. Then she made a clipboard and patrolled the block issuing written citations to the neighbours about their compost.
-
-> **ROSA:** *"Mrs Ocampo got three. In one week. She kept them."*
-
-**Story two — the Summer of the Tent.** At eleven she camped in the back garden for a whole summer to train, and refused to come in. It ended with a skunk.
-
-> **ROSA:** *"Six weeks. Two baths in tomato juice. She still says it was worth it."*
-
-**Story three, held in reserve:** at seven she was given a whistle and used it as her only form of communication for three weeks.
-
-**If a player freezes, offer — do not require:**
-
-- **{{pc:1}}** — urban exploring, three phones, a service door he should not have been behind.
-- **{{pc:2}}** — a first shift. Every nurse has one.
-- **{{pc:3}}** — she can pick a lock in under a minute. How does a person find that out about themselves?
-- **{{pc:5}}** — five foot four and touchy about it. He has a story and does not want to tell it. **Rosa will wait.**
-
-> **The stories contain no information about anything.** No ledger, no work, no hint about what Alaia knows. **They are pure cost.** If a player mines them for clues there is genuinely nothing there.
-
-**Rosa does not learn who supplied the address.** She assumes her daughter mentioned it in passing, because that is the ordinary explanation. **Do not correct her.**
-
-**Alaia finds out eventually. Not this session, no scene, no announcement.**
-
----
+**The Alaia material is a piece of the dance and it only works there**, because the payoff is the room getting its own back on Rosa. **In this kitchen there is no room to do that. Hold it.** 
 
 ### She leaves
 
@@ -427,7 +388,11 @@ At about eight forty-five she stands up.
 
 > **ROSA:** *"Alaia sent you? My Alaia?"*
 
-**She does not stop until whoever said it admits something true and embarrassing about themselves — or thirty seconds, whichever comes first.** A performed confession does not count; she has raised a teenager.
+**Then draw an ALAIA card and read the story off it.** The cards carry the whole thing; you are not improvising.
+
+**She stops when whoever said the name admits something true and embarrassing about themselves — or after thirty seconds, whichever comes first.** A performed confession does not count; she has raised a teenager. **At thirty seconds, take whatever they last said:**
+
+> **ROSA:** *"You're a terrible liar and I like you."*
 
 > **If Alaia fires, deal TWO Rosa cards next round** — she answers, catches herself still talking about her daughter, and answers again. **Otherwise the deck runs one behind all morning and round four's promise breaks.**
 
