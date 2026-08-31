@@ -69,7 +69,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **Print `ep6-dance-game.pdf`** — one GM page, then the cards. **On the table you need the cards and a small rubber duck.**
 
-**Deal each player three QUESTION cards, face up, before the dance starts.**
+**Deal each player three QUESTION cards FACE DOWN and privately before the dance starts.** *(Face-up, the loudest player reads somebody else's hand aloud and then shouts it back at them.)*
 
 > **Get an actual duck.** It has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
 
@@ -82,7 +82,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
 - **ROUND** (24) — one per player per round, dealt **one at a time, face up, at the moment.** Never deal a player their whole hand.
   **Roughly half are marked DO THIS and are green.** Those are not texture — **they are a specific action that moves the story**, and most of them get their answer from *the room* rather than from Rosa. **Play them out and have that player tell the others.**
-- **WHO HAS THE DUCK** (7) — five names plus **two SHE GOES PAST cards.** Draw one per round and set it aside. **Seven cards over four rounds means the queue never resolves** — a five-card deck is fully solved by round three and somebody will say *"then it's me next"* and stop shouting. **On a SHE GOES PAST, nobody reaches her: read a BONUS aside and everybody still gets their round card.**
+- **WHO HAS THE DUCK** (7) — five names plus **two SHE GOES PAST cards.** **On a PAST, deal two Rosa cards next round** — same rule as after an Alaia story, and for the same reason. Draw one per round and set it aside. **Seven cards over four rounds means the queue never resolves** — a five-card deck is fully solved by round three and somebody will say *"then it's me next"* and stop shouting. **On a SHE GOES PAST, nobody reaches her: read a BONUS aside and everybody still gets their round card.**
 - **QUESTION** (20) — **deal three to each player FACE DOWN and privately before the dance starts; keep the rest as a draw pile.** *(Face-up, the loudest player reads somebody else's hand aloud.)* Topics rather than sentences. **They may shout anything else instead; these exist so nobody is ever stuck.**
 - **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
 - **ALAIA** (2) — see the lookup in Scene 1.
@@ -405,11 +405,11 @@ At about eight forty-five she stands up.
 
 ### What the party builds — four blank slips in the middle of the table
 
-**A pen and four blank slips, in the centre, where everyone can reach them.**
+**A pen and five blank slips, in the centre, where everyone can reach them.**
 
-**Every time a green card turns up a fact about Rosa, the player who got it writes it on a slip in their own words and pushes it to the middle.** There are four to find:
+**Every time a green card turns up a fact about Rosa, the player who got it writes it on a slip in their own words and pushes it to the middle.** There are five to find:
 
-**1979** · **her name in every sign-in book since** · **a photo from the eighties with a book under her arm** · **nobody here knows what a second notebook-keeper would even be**
+**1979** · **her name in every sign-in book since** · **a photo from the eighties with a book under her arm** · **nobody here knows what a second notebook-keeper would even be** · **she wrote something down about this building once and was right**
 
 > **This is the only thing on the table that changes, and it is the reason to watch somebody else's card.** The shout gets something to argue from, the gap gets something to point at, and by the last round they can look down and see what they have built. **Do not write on the slips yourself and do not correct what they write.**
 >
@@ -455,10 +455,9 @@ At about eight forty-five she stands up.
 | **{{pc:4}}** | Winnie: *"ooh, a mouthy one"* | introduced to two more friends | he escalates; she offers him coffee | **green** — asks the room about notebooks; nobody knows what he means | Del is hoarse and looking at him |
 | **{{pc:5}}** | claimed before this dance has ended | *"you're exactly the right height"* | **green** — Bernard, the lease, *"she was right about it"* | claimed again | his neck goes; Bernard fetches a chair |
 
-> **Four rounds means the fifth card in each row will not be dealt.** That is fine for four of them — but **two of the green cards are load-bearing and must not be lost to a draw**, so they are yours to place rather than deal:
+> **Four rounds means the fifth card in each row is not dealt.** Three of those are codas and can go. **{{pc:1}}'s is his payoff — *"You'll be here next week, then"* — so give it to him at the end of the dance rather than losing it.**
 >
-> - **{{pc:4}}'s notebooks question.** *"Nobody knows what you mean. Not one person."* **This is what makes her later line land** — it establishes she is alone half an hour before she says it. **Work it in wherever he is being sociable.**
-> - **{{pc:2}}'s Hector question.** *"She's the one who notices things. Always has been. We stopped asking how."* **It is what turns her four earlier cards into an arc instead of four things done to her.**
+> **Deal cards one to four normally. Do not pre-place any of them** — every player gets a card every round, so the greens arrive on their own.
 
 ### {{pc:1}} — he does not dance, and becomes indispensable instead
 
@@ -540,7 +539,7 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 **Put the duck in front of {{pc:2}}'s player and leave it there.** Say nothing about rules. **The duck staying with her says it.**
 
-**If it has not landed by the end of round five:** the band takes a break and the caller thanks everybody. **Never run a sixth round.**
+**If it has not landed by the end of round four:** the band takes a break and the caller thanks everybody. **Never run a fifth round.**
 
 ### Rosa declines further help — {{pc:2}}'s other beat
 
