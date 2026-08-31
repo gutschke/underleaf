@@ -5,6 +5,29 @@
 
 # Anchors, cards, ledgers — how the substrate attests shape
 
+
+> ## READ FIRST — "used to" does not mean what you think it means
+>
+> **This document describes edits in sequential language throughout, and that
+> language invites a mistake that was made in writing on 2026-08-30, by someone
+> who had been working on this cosmology all day.**
+>
+> **Reality changes. That is the whole point. But in a block-like reality that
+> permits retrocausality, "used to" does not carry its ordinary sense.**
+>
+> **{{pc:2}} used to have no 1878 attestation. She now does. And she always has.**
+>
+> **There is one shape.** The pre-edit state is not a rival fact competing with
+> the current one — it is a *residue*, carried only by whoever remembers it, and
+> attested by nothing. So do not reason subtractively: nobody *loses* an
+> attestation, nobody *had* a slot taken. **Ask only what the current shape says,
+> and what it cost to be this shape rather than another.**
+>
+> **Practical consequence when auditing:** a proposed change is not "two edits in
+> sequence." It is one shape, with one price. Costing it as a sequence
+> systematically overstates it — and treating pre- and post-edit states as
+> simultaneously true manufactures contradictions that are not there.
+
 The world has ONE timeline that adjusts under self-consistency (see [`world-truths.md`](world-truths.md)). Different observers' snapshots of that timeline default to different behavior; the substrate settles per-observer on whichever configuration is cheapest to keep the block self-consistent. This doc collects the specific vocabulary the DM uses to reason about that machinery.
 
 ## Anchors
@@ -106,7 +129,7 @@ Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*)
 | L2, L3, L4 | **Eleanor Marsh's three** (Sacramento locker) | **Dakota** (Ep 3 acquired) | The three the party physically saw on Dakota's dining table in Ep 4. Marsh's own annotated ledgers, pulled into the Sacramento locker before she died in 1987 |
 | L5 | Palo Alto | executor (unnamed) — **unfound** | Estate of a Wiener-adjacent Cold-War-era researcher; the executor does not know what she has |
 | L6 | Bancroft | Rosa Vega (Berkeley) — **read Ep 6, NOT acquired; Rosa keeps it** | Rosa was the 1979 Bancroft cataloguer; she kept custody informally after her official service ended |
-| L7 | San Bernardino | hoarder-collector (unnamed) — **GONE** | The unit was re-auctioned; the trail dies helpfully. Carries the deliberately-unfindable slack function. **Stage its death by Ep 12**; do not run a San Bernardino episode |
+| L7 | San Bernardino | hoarder-collector (unnamed) — **GONE, and droppable entirely** | The unit was re-auctioned; the trail dies helpfully. Carries the deliberately-unfindable slack function. **Stage its death by Ep 12**; do not run a San Bernardino episode |
 | L8 | **City of Ten Thousand Buddhas, Ukiah** | monastic community — **confirmed but never seen** | Preserved out of politeness; the monks do not consult it. **The party never sees this one** — a legitimate ending for a ledger, and it teaches diffuseness better than acquisition does |
 
 > [!IMPORTANT]
@@ -175,3 +198,21 @@ Under both conditions, reversing the damage is a tiny localized retro-causal edi
 - [`world-truths.md`](world-truths.md) — the underlying cosmology (single timeline, self-consistency, record-vs-memory asymmetry)
 - [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) — the record-vs-memory asymmetry worked example (Yui, Reggie, camera)
 - [`../../episodes/003-bodie-convergence/dm/what-the-dm-holds.md`](../../episodes/003-bodie-convergence/dm/what-the-dm-holds.md) — worked examples of the 1878-ledger anchor + the 8-ledger network + the Annex 7 preservation lineage
+
+
+## Trimming the ledger count — standing permission (2026-08-30)
+
+**Outstanding ledgers may be removed whenever it helps the story**, and doing so
+costs almost nothing: **L5 (Palo Alto) and L7 (San Bernardino) exist only in DM
+notes. The players have never been told either.**
+
+> **The principle behind it:** *"Making this all a hunt for yet another ledger
+> doesn't make for a great campaign. Ledgers are important, but after the party
+> knows about some, they know about all."* **The eighth ledger teaches nothing the
+> third did not.**
+
+**What must survive any trim:** the party's *"Bea has one. I have three. There are
+four more"* — said at the Ep 3 table. Keep the **number** they heard, and let
+individual ledgers end as *confirmed but never seen*, *lost*, or simply never
+raised again. **Retirement to texture is a valid ending and B1 is already
+de-iterated to a recognition rather than a collection.**

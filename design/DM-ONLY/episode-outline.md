@@ -1,5 +1,8 @@
 # Underleaf — episode outline (Eps 5-25)
 
+> **Before scheduling anything in Acts II–III, read `the-landing.md`.** The ending is a reveal of an absence, and absences fail when the thread count is still rising. **Retired threads are fuel; live threads are debt.** The two highest-leverage items in the plan are the **S1 flattening drought in Eps 9–14** and the **unbooked recap time** (two missing sessions).
+
+
 > [!CAUTION]
 > **DM-ONLY — FULL CAMPAIGN SPOILERS**
 > Session-by-session horizon through the projected end of the campaign. If you are or might become a player, close this file now.

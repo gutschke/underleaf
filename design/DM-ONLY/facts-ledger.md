@@ -1541,3 +1541,60 @@ party, which is in character.**
 **The doc evidence was there all along:** the sticky note is in his hand, at
 Building 7; and {{pc:1}} spotted a size-11 footprint and inexplicably knew whose
 shoe size it was.
+
+
+### §42 Kai Sun — SETTLED, and the question is closed (2026-08-30)
+
+**Kai had to be edited out of reality. The reasons were edited out with him.**
+
+**We will never know why, and neither will anyone else. He is extremely unlikely
+ever to be edited back in. It simply is. It cannot be questioned. And NO ENTITY
+FORCED IT.**
+
+> **This closes B16 by superseding it.** Kai is not a reserved card any more. He
+> is a settled fact with no answer behind it, and that is the whole of his
+> function. **Do not re-open him, do not give him a cause, and do not let an NPC
+> supply one.**
+
+**What survives, and why only these two things:**
+
+1. **{{pc:3}}'s readings** — the absences she perceives, including the six shapes.
+2. **The note in her locket** — Kai's handwriting, preserved with its typos:
+   *"Dont listen to what they tell you about me. I still exsit and I will find you
+   one day."*
+
+**Both survive because a private memory and a scrap of paper in a locket do not
+justify an expensive edit.** The world does not spend to erase what nobody can
+corroborate. That is the cost model working exactly as written, not an oversight.
+
+**{{pc:3}} may tell the party any of it.** It will not cause a reality conflict —
+**they already know she senses holes in things**, so her saying so attests
+nothing the world has to reconcile.
+
+> **Why this matters for the ending:** an erasure with a *purpose* would
+> retroactively supply every other erasure with a possible purpose, and convert
+> *the world unmakes people authorlessly* into *erasures are performed to arrange
+> things.* **That is the conspiracy shape, in the one place the campaign most
+> needs it absent.** Kai's uncaused-ness is load-bearing for the Act III landing.
+
+**Consequently: the sixth figure in Loewe's diagram is NOT Kai, and is not
+anybody.** See §43.
+
+### §43 The sixth figure — no referent (2026-08-30)
+
+**Loewe drew six because he was modelling six. He could only ever name five. He
+never learned why, and that is why he cut the pages out.**
+
+**This thickens rather than thins.** It keeps every §39 branch live, needs no
+erased person, requires no retcon — and it sharpens the retirement he already
+has in canon: *he lost faith because he could not verify it.* **A man who could
+name five of his own six colleagues and never account for the sixth is a man with
+excellent reason to stop believing himself.**
+
+**It rhymes with {{pc:3}} instead of duplicating her.** She reads a shape with
+nothing in it; he drew one. Neither can say who.
+
+> **§21's standing rule is unchanged and now has a reason: the sixth figure stays
+> unresolved regardless of level.** If {{pc:3}} reads that position and finds the
+> particular texture of absence she has known since she was four, **she may supply
+> Kai herself. The DM never does, and never confirms it.**
