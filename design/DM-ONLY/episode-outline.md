@@ -129,7 +129,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 > **A woman who believes she is the only one has no test to administer.** There is no network in her head to vet candidates for. **Play no assessment, no gatekeeping, and no criteria.** She is not weighing them; she has somewhere to be.
 
 1. **~15 minutes at the house.** The assay-cue lands — *"Sit down. Tell me who sent you and what you already know. In that order."* — and then it is visibly cut short. She is dressed for something. She keeps checking a clock.
-2. **She leaves.** Warmly, unapologetically, and without inviting them. *"I have a thing. I've had it every Saturday for thirty-one years."*
+2. **She leaves.** Warmly, unapologetically, and without inviting them. *"I have a thing. I haven't missed it in thirty-one years."*
 #### THE HINGE — a script, not a hope
 
 **The DM CAN guarantee this, and should.** But it plays far better when it arrives
@@ -198,6 +198,15 @@ invite them, so they never have to feel they intruded.
 4. **The rest of the session is at the hall**, and she is busy in it.
 
 #### Setting — Live Oak Park Social Hall, North Berkeley
+
+> [!CAUTION]
+> **IT IS A DANCE WEEKEND, NOT A WEEKLY CLASS — and this correction is load-bearing.** **There is no such thing as a Saturday-morning contra dance.** Contra is an evening form; a weekly 9am session does not exist anywhere and would be the one detail a knowledgeable player could catch.
+>
+> **The fix costs nothing and improves the room:** this is the **Saturday-morning session of a weekend-long dance event** — an annual gathering, walkthrough-heavy, explicitly beginner-friendly.
+>
+> **And it explains the demographic for free.** Berkeley contra normally skews young; **the morning slot at a dance weekend skews old because the twenty-five-year-olds who danced until eleven last night are asleep.** Forty to sixty people, average age about seventy, who see each other at this every year.
+>
+> **Rosa has not missed it in thirty-one years.** That is a far stronger reason not to cancel than a weekly class, and it makes the double-booking sharper.
 
 **Shattuck & Berryman, minutes down the hill.** A real rec-centre hall with a sprung wooden floor, folding chairs round the edges, a coffee urn, and a Saturday-morning folk-dance session that has been running for decades. **Forty to sixty people, average age about seventy, all of whom know each other.**
 
