@@ -74,7 +74,7 @@ This lands when Nia Chen (peer-generation caster) explains it. She is not the Wi
 
 1. No single mentor figure holds the answer about the gate-edit, and there is no culprit to find. The network is the answer the PCs *earn* about the phenomenon in general; the cause of the inciting event is held permanently open (authorless self-consistency).
 2. The flattening is not yet visible to the PCs as a pattern. Background NPCs may be subtly too agreeable, but the PCs don't connect dots.
-3. No PC achieves reliable intentional casting until they earn the trying-too-hard release.
+3. No PC achieves reliable *solo* intentional casting until they earn the release. **Supported casts are the exception by design** — aiming with two other PCs backing it is unbumped from the moment the rule is handed out at Ep 8. *(Amended 2026-08-30.)*
 4. The Quiet is **not named** in Act I.
 
 ### Recurring NPCs introduced
@@ -209,9 +209,11 @@ Both paths lead to viable conclusions. The choice determines what is lost and wh
 
 The straw-man broad-public campaign (billboards, viral outrage, *"AI is stealing your soul"* mass-market push) does NOT play — for cosmological reasons, not design fiat. When the party picks expose, DM prep needs one of the shapes above (or a similarly-consistent variant), not "the story just tries harder."
 
-### Trying-too-hard tax in Act III
+### The aiming cost in Act III
 
 The AI's **regard** becomes the new social pressure the PCs must hold intent against. The hardest casts of the campaign happen here — not because they're large, but because the channel is fragile under observation. PCs who completed Act I's release have to re-learn the move under different conditions.
+
+**And this is where supported casts pay off structurally.** Under the AI's regard, solo aiming is at its most expensive — while a cast backed by the other four, each wanting something different from it, is not bumped at all. **The party will have been using that rule since Ep 8 without anyone naming why it works.** Act III is where the reason arrives, and they will already have lived it. *(See facts-ledger §45 D′.)*
 
 ### Invariants
 
@@ -365,7 +367,7 @@ Compiled across acts for the DM's quick reference:
 
 1. The Quiet is not named until Act III sub-phase 4.
 2. The flattening is not visible to the PCs as a pattern until late Act I or early Act II.
-3. The trying-too-hard tax ends through an earned moment of release, not by DM declaration.
+3. The aiming cost ends through an earned moment of release, not by DM declaration — **but release is a BEAT, not a gate**: a PC who has not had theirs is never blocked from anything. *(Amended 2026-08-30.)*
 4. No single figure explains the gate edit; there is no culprit to find. The network is real and discovered, but the inciting cause is held permanently open (authorless self-consistency).
 5. The network is structurally diffuse; the party's own five-person cohesion is stable, but assemblies of *multiple network casters* (or a party+network council) structurally fail — the friction bites at unfamiliar-caster clustering, not at any-casters-in-a-room.
 6. The institution is never a villain.

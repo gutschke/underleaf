@@ -40,7 +40,7 @@ Magic-discovery arc: **Realization beats land per-PC, sessions 3-6, delivered pr
 
 Ep 3 played established the rationalization dynamic (party's response to Priya's fire cast: "curse Dakota" rather than examine). Expect this pattern to recur for subsequent PC casts. When it does, do NOT force examination at the table; construct the private scene next session.
 
-After realization, the **trying-too-hard tax** applies: -2 on intentional casts, dropping to 0 when the PC experiences a moment of release. Each PC realizes and releases on their own schedule.
+After realization, **aiming costs a tier** (Free → Cheap, Cheap → Costly, Costly → Hard), retired when the PC experiences a moment of release. **An aimed cast backed by two other PCs — each saying in one sentence what *they* want from it — is not bumped.** Each PC realizes and releases on their own schedule, and **release is a beat, not a gate**. *(Changed 2026-08-30; replaces a flat -2. See [`../../world/rules.md`](../../world/rules.md) §Supported casts.)*
 
 Phase change at the end of phase II: the PCs accept that magic is real, that they can do it, that it's mediated by something they don't understand.
 

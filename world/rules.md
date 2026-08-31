@@ -112,6 +112,15 @@ Combat is rare and lethal. PCs are mostly civilians.
 
 ## Magic
 
+> [!CAUTION]
+> **THIS FILE IS NOT PLAYER-SAFE AND MUST NEVER BE HANDED OUT.** The sections
+> below name **specific PCs' cast domains**, a PC's signature intent-phrase, a
+> named substrate-sensitive NPC (hook A2), the DM's realization technique, and
+> **The Quiet** — which locked invariant 1 forbids naming before Act III.
+>
+> **The player handout is [`player-handout-magic.md`](player-handout-magic.md).**
+> That file is firewall-checked. Hand out that one.
+
 For the world rationale (The Quiet, plausibility, foci as cognitive anchors), see the campaign's design docs. The framework's mechanical interface is:
 
 | Tier | Roll? | Outcome |
@@ -177,11 +186,44 @@ For the sample campaign, PCs *can* cast from session one but do not know it. The
 
 1. **Accidental** (sessions 1-3): players have no cast action on their sheets; the DM may silently grant Free or Cheap effects to strong intent, attributed in fiction to luck. Tracked in a DM-private out-of-session log.
 2. **Realization** (per-PC, sessions 3-6, private): the DM shows the caster something the party missed. See "Realization mechanics" below for how this differs from a scripted table beat.
-3. **Trying-too-hard tax** (next 2-3 sessions per PC): intentional casts take -2 until the PC learns to hold intent without forcing it.
+3. **Aiming costs a tier** (from realization onward): a cast the PC is deliberately *aiming* resolves **one plausibility tier worse** (Free → Cheap, Cheap → Costly, Costly → Hard). Unaimed casts are unaffected.
 
-The tax is framed in-fiction: *"Now that you know magic exists, you're trying. Trying breaks intent. Until you re-learn how to hold an intention without forcing it."* The end-condition is concrete and player-perceivable: the PC must experience **one quiet moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast they didn't aim for. The release **drops the tax to 0** for that PC. Until then it stays at -2.
+The cost is framed in-fiction: *"Now that you know magic exists, you're trying. Trying breaks intent."* The end-condition is concrete and player-perceivable: the PC must experience **one quiet moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast they didn't aim for.
 
-This is not a fade-out (no gradual -2 → -1 → 0); it's a gating beat. The PC either has had their moment or hasn't.
+*(Changed 2026-08-30. This replaces a flat **-2** on intentional casts. A flat penalty made aiming feel merely unlucky; a tier bump makes it feel* expensive*, which is the same lesson in the currency the rest of the system already uses.)*
+
+### Supported casts
+
+**An aimed cast made with at least two other PCs present and backing it — each saying, in one sentence, what *they* want from it — is not bumped. It resolves at its natural tier.**
+
+**Alone, aiming still costs you a tier.**
+
+**Definitions, because they will be tested:**
+
+- **Present** = in the scene, able to see or hear what is happening, and able to
+  act in it. **A phone call is not present. Another room is not present.** If a PC
+  could not be given a roll in that moment, they are not present.
+- **Backing it** = saying the sentence and meaning it. **A PC may decline**, and
+  declining is never a penalty to anyone. With four other PCs available, one
+  refusal is survivable — this is deliberately not a veto, and **must never be
+  played as one.** If it starts becoming a lever between players, drop the rule
+  and go back to a flat tier bump; **no mechanic is worth that at this table.**
+- **The sentences differing is not adjudicated.** The DM does **not** grade
+  want-diversity, and there is no threshold to hit — that would make it a puzzle
+  with a correct answer. Ask each player what their PC wants and take the answer.
+  **If three players give the same sentence, let it work and say nothing.** The
+  lesson is not taught by refusing it.
+
+**The cost, which is not a dice cost.** Casting together is cheap *and* the group
+registers as a group: **a supported cast advances thread debt for every
+participant, not just the caster.** That is the whole price, and it is the
+mechanism by which Act II's ladder starts biting.
+
+The three sentences do not have to agree, and **should not**. Each person says what *they* want out of it, in their own words. Three people wanting the same thing is not what this rewards.
+
+> **This removes a penalty; it never grants a discount.** A supported cast is never *cheaper* than the same cast made without aiming, so it cannot stack with a focus into free Hard-tier effects and needs no cap.
+
+**Moments of release are beats, not gates.** A PC who has not had theirs is not blocked from anything; release simply retires the aiming cost for that PC. Each PC gets there on their own schedule, and the DM does not steer.
 
 Each PC realizes on their own schedule. The moment of release is itself the cue for the act break in Underleaf's three-act structure.
 
