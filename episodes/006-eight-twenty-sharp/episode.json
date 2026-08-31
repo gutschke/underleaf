@@ -1,0 +1,35 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Eight Twenty Sharp",
+  "summary": "Saturday morning in the Berkeley Hills, at the time Rosa Vega named and then treated as an errand. She has double-booked them against the folk dance she has not missed in thirty-one years, and she asks for a lift down the hill. Nobody invites the party in; the room does it instead. What follows is an hour in a hall where forty people who have known each other for decades are dancing, nobody needs anything from five strangers, and the only woman who can answer their questions keeps being swung away down the line. {{pc:2}} cannot stop reading the room for people about to fall. {{pc:1}} avoids the floor by fixing the public-address system. {{pc:3}} finds thirty-one years of records nobody has ever filed. And at the end of the morning, back at the kitchen table, Rosa lets them read a ledger she will not let them take, and says the thing she has not said to anyone in decades.",
+  "prerequisites": [
+    "001-unattended-baggage",
+    "002-the-archivists-index",
+    "003-bodie-convergence",
+    "004-the-sacramento-visit",
+    "005-the-one-page"
+  ],
+  "hooks": [
+    "Rosa Vega said 8:20 sharp and hung up without giving an address. The ranger at Bodie supplied it, and asked not to be mentioned.",
+    "{{pc:3}} has been carrying Loewe's notebook since Monday, and Rosa's ledger is the second document she can compare it against.",
+    "The index card in Bea Ferro's storm door had a name and a number on it. Nia Chen has been politely putting them off for six weeks."
+  ],
+  "scenes": [],
+  "dmDocs": [
+    "dm/run-guide.md",
+    "dm/pacing.md"
+  ],
+  "inGameDate": "Saturday 20 February 2027, 8:20am — five days after the Monday of Ep 5",
+  "arcBeats": [
+    "The party meets a keeper: a woman who has written in the same book for forty years and believes she is the only person in the world who does it.",
+    "{{pc:2}}'s intuition eases something it should not have been able to ease, in a room too busy to notice — and Rosa notices exactly what happened and says nothing.",
+    "The ledger contains no reference to any other keeper across forty years. The party can see the isolation instead of being told about it.",
+    "Rosa says that she used to do what they are learning to do, and that she chose to stop."
+  ],
+  "tags": [
+    "social-event",
+    "no-object-to-obtain",
+    "comedy",
+    "elder-encounter"
+  ]
+}
