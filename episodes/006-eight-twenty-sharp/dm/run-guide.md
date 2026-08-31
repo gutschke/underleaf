@@ -80,7 +80,8 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 - **CALLER** (12, shuffled) — read aloud at the top of every round, at volume. **Three carry a twist.** The reader rotates: whoever the duck left last round.
 - **ROSA** (5, **in order, never shuffled**) — drawn by whoever has the duck. **All five land across five rounds.** The sixth line is the exit and is not in the deck.
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
-- **ROUND** (24) — one per player per round. **Deal them one at a time, face up, at the moment.** Never deal a player their whole hand.
+- **ROUND** (24) — one per player per round, dealt **one at a time, face up, at the moment.** Never deal a player their whole hand.
+  **Roughly half are marked DO THIS and are green.** Those are not texture — **they are a specific action that moves the story**, and most of them get their answer from *the room* rather than from Rosa. **Play them out and have that player tell the others.**
 - **WHO HAS THE DUCK** (5) — one name each. **Draw one per round and set it aside.**
 - **QUESTION** (15) — **deal three to each player, face up, before the dance starts.** Things their character wants to know, written as topics rather than sentences. **They may shout anything they like instead; these exist so nobody is ever stuck.**
 - **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
@@ -311,6 +312,8 @@ At about eight forty-five she stands up.
 
 > **The one rule that makes this work: reaching Rosa is not your turn to ask a question. It is your turn to be the party's only mouth — and the question will not be yours.**
 
+> **Rosa is not the only source in this room, and this is what stops the garble from eating the plot.** Her answers arrive in fixed order and mostly will not fit the question — that is the joke. **The facts arrive from the forty people who have known her for decades**, through the green cards: the year she started, the sign-in book, the photo with a book under her arm, and the fact that nobody here has any idea what a second notebook-keeper would even be.
+
 ### What a round is, in the fiction
 
 > **One round = one whole dance, then the gap after it.**
@@ -328,7 +331,7 @@ At about eight forty-five she stands up.
 3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells across the set what they want asked — **off a question card in front of them, or straight out of their head.** Count down from three, out loud. **A card that gets shouted is discarded; deal that player a fresh one.**
 4. **ONE SENTENCE**, in the duck-holder's own words. **They may not ask their own unless nobody shouted one.**
 5. **ROSA ANSWERS.** They draw the top ROSA card and read it aloud as her. **Take the duck back mid-word if you can.**
-6. **EVERYONE ELSE** gets one ROUND card, face up. **That is what they were doing for the ten minutes they were not near her.**
+6. **EVERYONE ELSE** gets one ROUND card, face up. **That is what they were doing for the ten minutes they were not near her.** **A green DO THIS card is a real action with a real result — give it thirty seconds, not one line.**
 
 **THEN THE TUNE ENDS:**
 
