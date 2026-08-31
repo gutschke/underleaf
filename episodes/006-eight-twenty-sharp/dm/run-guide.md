@@ -532,7 +532,24 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 **What this is not:** not healing · not Rosa casting · not a sign that Rosa is ill or dying · **not anything protecting anybody.** Nobody decided this and nothing intervened.
 
-**What it sets up:** this is {{pc:2}}'s realization vehicle — the first time she has done something her training cannot account for **while sober, rested, and paying attention.** And it is the party's refutation of Rosa standing in front of them, which is why the held line lands thirty seconds later.
+### She cannot work out that she did it, and she is not supposed to
+
+**Do not expect this to be the moment {{pc:2}} realises anything.** From inside her own head she caught somebody who was going down, and they turned out to be steadier than she feared. **There is nothing in that a nurse would find remarkable.** She has no way to reach *I caused this* from here, and pushing her toward it will only make the beat feel authored.
+
+**What she can actually get is one thing, and it is not about her hands:**
+
+> **Rosa looked at her.** One second too long, at nothing, in a room where nobody else registered anything happened — **and then sat out a dance she never sits out.**
+
+**So the thread {{pc:2}}'s player has is not *"did I do that?"* It is *"why does that woman think I did something?"*** That is a far better hook, it is entirely in her reach, and it keeps for three sessions.
+
+**What to log, silently:**
+
+- **Whether her player says anything of the shape *"I just want…"***. That is her signature phrasing and it is the thing she can be shown later, in her own words.
+- **The sleep-and-appetite tell**, whenever it surfaces. Her realization is built from a **correlation accumulating across sessions**, not from one event — the migraine track is the same instrument.
+
+**So this beat is a data point, not a conclusion.** It will be the strongest one she has when Ep 8 tells all five of them outright, and its job is to be there waiting when that happens.
+
+**And it is the party's refutation of Rosa standing in front of her**, which is why the held line lands thirty seconds later.
 
 **Rosa notices exactly what happened and says nothing.** She looks at her one second too long, her hand closes on the girl's forearm, and she lets the figure take her away. **She has decided not to be the one to tell her.**
 

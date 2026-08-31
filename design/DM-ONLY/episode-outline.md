@@ -343,7 +343,7 @@ that in a way a single year never could.
 
 #### Arc-nodes
 
-- **R({{pc:2}}) — A3 FIRES, at the hall.** Rosa has a small physical moment mid-figure; {{pc:2}} is there before she decides to be; it eases in a way her clinical training does not account for. **Rosa registers exactly what happened.**
+- **R({{pc:2}}) — A3 IS PLANTED, NOT FIRED, at the hall.** *(Corrected: {{pc:2}} has no route from this beat to "I caused it" — from inside her head she caught somebody and they were steadier than she feared, which is unremarkable to a nurse. **What she gets is that ROSA noticed**, and the thread is *"why does that woman think I did something?"* A3 completes on the accumulating correlation the migraine track feeds, or at Ep 8 when it is said outright.)* Rosa has a small physical moment mid-figure; {{pc:2}} is there before she decides to be; it eases in a way her clinical training does not account for. **Rosa registers exactly what happened.**
   **The public room makes this STRONGER than the garden did** — she cannot react, and forty people are watching the dance rather than her. Her one visible tell: she sits out the next one, which she never does. **Do not explain it.**
 - **A5 — R({{pc:1}}) begins.** *Re-homed from Bancroft's finding aid.* **New vehicle: Rosa's daily planner — see THE PLANNER above.** A records-shaped object in his domain. He clocks a true thing off it before anyone says it: **she has been doing this longer than anyone.** Private, per `principles.md` §3.
   **His release condition** — *naming the true thing to someone who will hear it* — pays off **Ep 8 or Ep 9, never in the same session as the realization.**
