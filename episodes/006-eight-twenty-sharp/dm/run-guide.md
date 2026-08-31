@@ -78,15 +78,16 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 **The decks:**
 
 - **CALLER** (12) — read aloud at the top of every round, at volume; the reader rotates to whoever the duck left last round. **Two carry a twist. The third — *the caller stops* — is not shuffled: set it aside and play it as the round-four call, every time.**
+- **No dice and no meeples.** *(The d6 walkthrough table duplicated three ADOPTED cards verbatim; folding it in gave that deck the reliable trigger it never had.)*
 - **ROSA** (4, **in order, never shuffled**) — drawn by whoever has the duck, rounds one to four. **Two more are held by you and are not in the deck** — see below.
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
 - **ROUND** (24) — one per player per round, dealt **one at a time, face up, at the moment.** Never deal a player their whole hand.
   **Roughly half are marked DO THIS and are green.** Those are not texture — **they are a specific action that moves the story**, and most of them get their answer from *the room* rather than from Rosa. **Play them out and have that player tell the others.**
 - **WHO HAS THE DUCK** (7) — five names plus **two SHE GOES PAST cards.** **On a PAST, deal two Rosa cards next round** — same rule as after an Alaia story, and for the same reason. Draw one per round and set it aside. **Seven cards over four rounds means the queue never resolves** — a five-card deck is fully solved by round three and somebody will say *"then it's me next"* and stop shouting. **On a SHE GOES PAST, nobody reaches her: read a BONUS aside and everybody still gets their round card.**
 - **QUESTION** (20) — **deal three to each player FACE DOWN and privately before the dance starts; keep the rest as a draw pile.** *(Face-up, the loudest player reads somebody else's hand aloud.)* Topics rather than sentences. **They may shout anything else instead; these exist so nobody is ever stuck.**
-- **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
-- **ALAIA** (2) — see the lookup in Scene 1.
-- **GM-held, two cards** — the stumble, and *"I've never met anyone else who does it."* **Held all morning; played back to back in Scene 5.**
+- **ADOPTED** (11) — **deal one to each player at setup, face down: that is their first time through the dance, read out before round one.** The remaining six are drawn when somebody trades the duck for something the dance would not give them.
+- **ALAIA** (3) and **WINNIE** (3) — the trade. **One physical stack, two headers.** See Scene 4.
+- **GM-held, three cards** — the stumble · *"I've never met anyone else who does it"* · and the exit line, *"No, it lives at the house."* **Held all morning, never shuffled into anything.** The first two play back to back in Scene 5; the third goes as the band takes a break.
 
 
 ---
