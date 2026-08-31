@@ -516,6 +516,24 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 
 *(Without that, she has helped an old woman keep her balance — an ordinary thing — and the realization this beat exists to carry has nothing to stand on.)*
 
+### What actually happened — for you, not for the table
+
+**Nothing is wrong with Rosa.** She is 79 and she had a half-second of dizziness, which is the most ordinary thing in this room. **The stumble is not the event. The resolution is.**
+
+**{{pc:2}} cast.** She wanted Rosa to be all right — in public, with no time to think, about a woman she has decided she likes. **That is intent under pressure, and it is the whole mechanism.** Her domain is body and care: *a wound clots faster than it should, a pain steps down a rung.* This is that.
+
+**It was free.** An unrecorded, unwitnessed half-second in an elderly woman nobody was looking at is the cheapest thing the world can be asked to rearrange — nothing had to be overwritten, because nothing had yet been written down.
+
+> **And the precise version matters, because it is what the campaign is about: {{pc:2}} did not heal her.** The shape in which Rosa was going down was replaced by one in which she was not. **There was nothing to fix, because in the version that held, nothing was wrong.**
+
+**The cost is sleep and appetite, not stress** — that is her tell at this tier. **Play it as weather** later in the morning or on the drive home. Do not tick a box and do not mention it near the beat itself.
+
+**Why Rosa knows.** She used to do this. **She recognises the texture of a moment that resolves too neatly** — from the inside, decades ago, in her own hands. **She cannot prove it, she will never ask, and she is not certain.** That uncertainty is why she says nothing, and it is more interesting than discretion would be.
+
+**What this is not:** not healing · not Rosa casting · not a sign that Rosa is ill or dying · **not anything protecting anybody.** Nobody decided this and nothing intervened.
+
+**What it sets up:** this is {{pc:2}}'s realization vehicle — the first time she has done something her training cannot account for **while sober, rested, and paying attention.** And it is the party's refutation of Rosa standing in front of them, which is why the held line lands thirty seconds later.
+
 **Rosa notices exactly what happened and says nothing.** She looks at her one second too long, her hand closes on the girl's forearm, and she lets the figure take her away. **She has decided not to be the one to tell her.**
 
 **Then, in the hush, you say the first held card — as Rosa, to her:**
