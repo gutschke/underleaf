@@ -1437,3 +1437,80 @@ It works because it is deniable: **Chinatown to Fisherman's Wharf is about a mil
 **{{pc:3}}'s notebook read — the 10–11 band landed.** Six schematic shapes in some relationship, followed by writing; pressing harder went fuzzy. She reached it by photographing every page on the theory that the page count might change on its own, then reconciling her count (~150 by page number) against {{pc:4}}'s (~20 fewer, by file). **Alaia dismissed the whole exchange as new-age nonsense**, which is exactly right for her.
 
 **Nia has agreed to lunch and named no date** — reached by voicemail, answered by text. **The party cannot tell whether Nia is young or old.** {{pc:3}} left the message under a half-joking pretext about a forgotten lunchbox.
+
+
+### §39 The red line — DM-side canon, never voiced (2026-08-30)
+
+**One chain runs through Ep 1, Ep 3 and Ep 4, and the DM should hold it as settled
+even though the table never will.**
+
+**Reality wanted continuity with a trusted group while Vivian Loewe was at the end
+of her life.** So:
+
+- **Ep 1** — the five were delivered to the same aircraft. *(Already canon: the
+  cable, `episodes/001-unattended-baggage/dm/the-cable.md`.)*
+- **Ep 3** — the 1878 Bodie mining ledger carries four of their surnames, because
+  editing one preserved 141-year-old record was **cheaper than editing five
+  lifetimes of memory** into knowing each other since childhood. *(Already canon:
+  §1's own cost reasoning.)*
+- **Ep 4** — **Vivian recognised the names and the page**, and that is what
+  decided her. It moved her to talk to {{pc:4}} and prepared her to release her
+  father's notebook before she dies.
+
+**Nothing in the record contradicts this. It is the mechanism §1 already
+describes, with a purpose attached.**
+
+> **CANON FOR THE DM. NEVER VOICED.** §1's standing instruction holds: *never
+> voice the mechanism; neither "they existed" nor "they didn't"; hold both open
+> forever.* **The DM gets the spine; the players keep the question.** If a player
+> assembles the cost-gradient rubric themselves, that is a realization moment and
+> earns *"Could be. Could not be."*
+
+**A retired reading, for the record:** that an 1878 keeper wrote those names with
+intent. **Struck** — §1 has the *substrate* routing through an already-anchored
+artifact, not a person acting, and the keeper version needs a human at the 1878
+end that nothing supports.
+
+**And note who is attested:** the four matched surnames are **J. Reyes, M. Sun,
+C. Whitmore, D. Faraone** — {{pc:1}}, {{pc:3}}, **{{pc:4}}**, {{pc:5}}. The
+illegible fifth is the *physician*, which is {{pc:2}}. **{{pc:4}} is attested.**
+The party distrusts him and an 1878 record says he belongs.
+
+### §40 The Bodie ledger is NOT one of the eight (2026-08-30)
+
+**Same word, two meanings, and the DM may say exactly that to the players.**
+
+- **The eight are closed and allocated:** Bea 1 · Marsh's three 2–4 · Palo Alto 5
+  · Bancroft 6 · San Bernardino 7 · Ukiah 8. **{{pc:4}}'s table line — *"Bea has
+  one. I have three. There are four more"* — only sums to eight if Bodie is
+  outside it. Adding it makes nine and breaks arithmetic the party said aloud.**
+- **What the Bodie book is:** an 1878 **mining company's** ledger, catalogued and
+  preserved under federal seal by the Annex 7 team. **Already institutionally
+  anchored — which is precisely why the substrate chose it** as the cheapest
+  surface available. Most of its entries are ordinary clerical work by
+  bookkeepers who were nobody.
+- **It is an ANCHOR DOCUMENT attached to that generation's ledger, not a keeper's
+  ledger.** Per `anchors-cards-ledgers.md`, anchoring requires writing **plus
+  intent in the casting sense** — the mining company's clerks had neither.
+
+### §41 {{pc:4}}'s Ep 3 movements — resolved from the played record (2026-08-30)
+
+**This was never a documentation contradiction; it was {{pc:4}} misleading the
+party, which is in character.**
+
+1. He learned of Annex 7 **from what he saw at Bea's**, between Eps 2 and 3.
+2. **He went to Building 7 himself.** He found the ledger and **did not take it**
+   — for his own reasons, which he has never explained.
+3. He **left the sticky note on it**: *"Bea has this exact roster in her index — I
+   checked. Don't try to explain it to yourselves yet. Just SEE it."*
+4. He summoned the party, **implying he had not been** — because he judged he
+   could not convince them of its significance secondhand.
+5. **He meant to go with them.** Then his further research turned up the
+   Sacramento storage locker, and he went there instead, where he found **Marsh's
+   three ledgers**.
+6. **Those three cannot reference Bodie** — he had already arranged the trip
+   before he had them.
+
+**The doc evidence was there all along:** the sticky note is in his hand, at
+Building 7; and {{pc:1}} spotted a size-11 footprint and inexplicably knew whose
+shoe size it was.
