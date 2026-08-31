@@ -69,6 +69,8 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 **Print `ep6-dance-game.pdf`** — one GM page, then the cards. **On the table you need the cards and a small rubber duck.**
 
+**Deal each player three QUESTION cards, face up, before the dance starts.**
+
 > **Get an actual duck.** It has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
 
 > **You are not operating a system here; you are playing Rosa and the room.** The board carries the turn sequence and the cards say what to do and what to say.
@@ -80,6 +82,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 - **BONUS** (6, shuffled) — **quirky, not actionable.** Draw one when she goes past somebody without stopping.
 - **ROUND** (24) — one per player per round. **Deal them one at a time, face up, at the moment.** Never deal a player their whole hand.
 - **WHO HAS THE DUCK** (5) — one name each. **Draw one per round and set it aside.**
+- **QUESTION** (15) — **deal three to each player, face up, before the dance starts.** Things their character wants to know, written as topics rather than sentences. **They may shout anything they like instead; these exist so nobody is ever stuck.**
 - **ADOPTED** (8) — drawn when somebody trades the duck for something the dance would not give them. **The card is the whole outcome.**
 - **ALAIA** (2) — see the lookup in Scene 1.
 - **The stumble** — one card, GM only, held all morning. See Scene 5.
@@ -322,7 +325,7 @@ At about eight forty-five she stands up.
 
 1. **THE CALL.** Whoever the duck left last round reads a CALLER card aloud, at volume. *(Round one: anybody.)* **Three of the twelve carry a twist — read what it says and do it.**
 2. **THE DUCK LANDS.** Draw a *who has the duck* card and set it aside. **Everybody gets it exactly once and nobody can work out when.** *"The figure brings you round and Rosa is right there."*
-3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells across the set what they want asked. **Count down from three, out loud.**
+3. **THE SHOUT.** Ten seconds. Everyone *except* the duck-holder yells across the set what they want asked — **off a question card in front of them, or straight out of their head.** Count down from three, out loud. **A card that gets shouted is discarded; deal that player a fresh one.**
 4. **ONE SENTENCE**, in the duck-holder's own words. **They may not ask their own unless nobody shouted one.**
 5. **ROSA ANSWERS.** They draw the top ROSA card and read it aloud as her. **Take the duck back mid-word if you can.**
 6. **EVERYONE ELSE** gets one ROUND card, face up. **That is what they were doing for the ten minutes they were not near her.**
@@ -332,6 +335,8 @@ At about eight forty-five she stands up.
 7. **THE GAP.** Two or three minutes. **The party can finally talk.** Let them react, argue, work out what she meant and decide what to shout next time. **Do not hurry this — it is where the session lives.**
 
 **Five rounds. Fewer is better. It ends on {{pc:2}}'s moment, not on a count.**
+
+> **The shout is the part most likely to fail, and the question cards are the fix.** At hour two a tired player asked to invent a question on ten seconds' notice will simply say nothing, and the round dies. **Three cards in front of them means there is always something to yell.** They are topics, not scripts — the shouter phrases it, and then the duck-holder rephrases it again, **which is where the mangling comes from.**
 
 ### One sentence — what it means
 
