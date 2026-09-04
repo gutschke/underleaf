@@ -67,7 +67,7 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 ## Before the session — print and cut
 
-**Print `ep6-dance-game.pdf`** — one GM page, then the cards. **On the table you need the cards and a small rubber duck.**
+**Print `ep6-dance-game.pdf`** — one GM page, then the cards. **On the table you need the cards, a small rubber duck, five blank slips of paper and a pen the players can reach.**
 
 > **Get an actual duck.** It has to read across a table at a glance, and the morning is meant to be ridiculous. **They will remember it.**
 
