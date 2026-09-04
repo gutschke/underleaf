@@ -446,6 +446,18 @@ The caller's microphone is cutting out. Within ten minutes the quietest person i
 
 > **Do not point at the resemblance to Bea's index cards.** If a player makes the connection themselves it is a real moment. **You never make it for them.**
 
+**And there is a second thing at the sound desk, which is a different beat entirely.** The hall's booking calendar is on the wall right there, and he is standing under it for twenty minutes with nothing to read. **One of the standing bookings is listed under a name that has not run it in years.**
+
+**When he says so:**
+
+> **THE WOMAN AT THE URN:** *(pleasantly)* *"Oh, we know. That's just what it's always said."*
+
+**And she does not correct it, and nobody minds, and the morning carries on.**
+
+> **This is a refusal, and it is a worse one than Ep 5's.** In Ep 5 a person with process behind them declined to fix a record. **Here there is no process and no adversary — there is a room that simply does not care that the record is false.** Say nothing about the parallel and do not let anyone else say it. **Play the woman as warm. The warmth is the point.**
+>
+> *If he lets it go:* **(1)** leave the discrepancy visible on the wall and say nothing. **(2)** have somebody use the wrong name out loud, in front of him, without noticing. **(3)** drop it — he had two chances and this is not a gate.
+
 ### {{pc:2}} — she has triaged the room before the first dance ends
 
 ICU night shift does not switch off. Every fall risk, two undisclosed hip replacements, a man who should not be doing that with that knee.
@@ -507,6 +519,8 @@ Twenty-five, strong, and five foot four, which in this room is not a joke about 
 > **His pistol — a sign, not a scene.** There is a posted notice on the door of a Berkeley municipal building. **He reads it, he decides, you move on.** Do not adjudicate it, do not build a beat on it, do not make it a threat. **If he leaves it in the car, note that.**
 
 **His neck.** Two hours of swing figures is exactly what it flares after. Weather.
+
+> **The one thing to actually stage for him: he is offered something he has no standing to refuse.** A woman of seventy takes his hand and it is not a question. **The room is not asking him for anything — it is giving him something**, and he does not have a move for that. *If it does not land the first time:* **(1)** somebody simply offers. **(2)** the caller is a partner short and looks straight at him. **(3)** Rosa, going past, says *"go on."*
 
 ---
 
