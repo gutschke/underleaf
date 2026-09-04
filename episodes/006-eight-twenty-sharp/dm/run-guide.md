@@ -408,6 +408,16 @@ At about eight forty-five she stands up.
 
 **The gap is two to four minutes and Rosa is not free in it.** A regular with thirty-one years in the room is booked. **Show it physically the first time** — somebody intercepts her mid-approach, delighted, wanting to tell her about a hip — or it reads as you refusing them.
 
+**Play this once, in a gap, over the top of everything else. Fifteen seconds.** Two people at the urn, warmly, about the last time the hall flooded:
+
+> **DEL:** *"That was the March, the one after we lost the piano."*
+>
+> **JOYCE:** *"It was, it was — the March. Terrible."*
+
+**It was not March and it was not that year, and neither of them is troubled by it.** They agree with each other, comfortably, and move on.
+
+> **Nobody corrects them and nothing comes of it — that is the whole beat.** If a PC does the arithmetic out loud, the two of them agree with the PC just as warmly and just as fast. **Do not explain it, do not weight it, do not let it become a scene.** It is a fifteen-second drip that has to keep landing for another ten sessions before it means anything.
+
 ### The round cards — deal them, do not narrate from this table
 
 **This is a summary. The cards are the source of truth and carry text this table does not.** **Deal one card per player per round, in numbered order — never a whole stack.** The arcs run setup → complication → payoff on their own.

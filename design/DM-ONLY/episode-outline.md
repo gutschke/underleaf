@@ -236,7 +236,7 @@ invite them, so they never have to feel they intruded.
 *None of this is required. If a player wants to stand by the wall all morning, that is a real choice and it has its own scene. **Nobody is pushed onto the floor.***
 
 **{{pc:1}} — he does not dance, and becomes indispensable instead.** The caller's microphone is cutting out. Within ten minutes the quietest person in the party is under the little stage with the PA, and by the second dance he is the only one who can make it work. **He has avoided dancing by becoming load-bearing**, which is the most in-character thing he could possibly do.
-- **This is also where A5 lands.** The booking calendar is on the wall **right next to the sound desk.** He does not go looking for it; he is standing there for twenty minutes with nothing to read.
+- **This is also where A5 lands — and the object is her planner, not a wall calendar.** Fixing the PA is what puts him at the table where Rosa left her bag. **See THE PLANNER below**; the earlier wall-calendar vehicle is retired. *(An A5 fact was briefly homed on the hall's sign-in binder as well — that binder now belongs to {{pc:3}}'s green cards, and {{pc:1}} does not need it.)*
 - *Running gag:* three phones, and the one that rings is never the one he reaches for.
 - *If he does dance:* he reverse-engineers the figure and executes it **perfectly and mechanically**, one beat behind everyone, like a man running someone else's code. Somebody says *"you've done this before"* and he genuinely has not.
 
@@ -1080,7 +1080,7 @@ This invalidates a whole class of plan. A beat that reads beautifully on the pag
 | **The Kai adjacency** | Ep 5, the notebook read | A private body-tell naming the *pattern* without naming Kai |
 | **A6 — {{pc:4}}'s persona drop** | Ep 5, *"tell me what you know"* | Ortiz stops addressing him and talks only to {{pc:1}} — consequence, not punishment |
 | **U7 — the six-figure diagram** | Act II mid | The two shapes physically side by side on a table; then, if needed, an NPC counting *"Six. He drew six."* |
-| **A3 — {{pc:2}}'s realization** | Ep 6, Rosa's garden | Rosa **visibly registers** it — stops mid-sentence, or changes the subject obviously |
+| **A3 — {{pc:2}} notices she was noticed** *(not a realization — see Ep 6 §R({{pc:2}}))* | Ep 6, the hall, mid-dance | Rosa **visibly registers** it — sits out the next dance, in view, having never sat one out |
 | **B1 — the network recognition** | Ep 12 | Not a ladder but an **evidence floor**: Rosa's ledger names no other keeper across nearly fifty years, and B1 retires on that whether or not anyone says the line |
 
 **When planning any session, ask: does anything here require a PC to do something they have no way of knowing is wanted?** If yes, it needs a ladder or a floor before the session runs.
