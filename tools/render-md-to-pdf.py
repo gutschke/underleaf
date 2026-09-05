@@ -560,8 +560,19 @@ THEME_POSTPROCESS = {
 }
 
 
-def render(md_path: Path, pdf_path: Path, title: str, theme: str) -> None:
+def first_h1(text: str) -> str | None:
+    """The document's own title, so a printed page never shows a build filename."""
+    m = re.search(r"^#\s+(.+?)\s*$", text, re.M)
+    return m.group(1) if m else None
+
+
+def render(md_path: Path, pdf_path: Path, title: str | None, theme: str) -> None:
     text = md_path.read_text()
+    heading = first_h1(text)
+    # Default to the document's own H1 rather than the input filename, which is
+    # often an intermediate like "ep6-run-guide-resolved" and must never print.
+    if title is None:
+        title = heading or md_path.stem
     text = preprocess_gfm_callouts(text)
 
     body_html = md_lib.markdown(
@@ -590,7 +601,7 @@ def render(md_path: Path, pdf_path: Path, title: str, theme: str) -> None:
 <style>{css}</style>
 </head>
 <body>
-<div class="doc-header">{html.escape(title)}</div>
+{"" if title == heading else f'<div class="doc-header">{html.escape(title)}</div>'}
 {body_wrapper_open}
 {body_html}
 {body_wrapper_close}
@@ -625,8 +636,7 @@ def main():
     ap.add_argument("--theme", choices=["default", "guide", "compact", "card"], default="default")
     args = ap.parse_args()
 
-    title = args.title or args.input.stem
-    render(args.input, args.output, title, args.theme)
+    render(args.input, args.output, args.title, args.theme)
     size_kb = args.output.stat().st_size // 1024
     print(f"Wrote {args.output} ({size_kb} KB, theme={args.theme})")
 
