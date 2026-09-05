@@ -1,0 +1,20 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Trina Vo",
+  "pronouns": "she/her",
+  "role": "Corporate investigations, Oakland; {{pc:1}}'s former colleague on the federal red-team contract, and the database contact he took as an advancement after Ep 5",
+  "disposition": "dry, transactional, fond of him and unembarrassed about having stayed",
+  "alignment": "true-neutral",
+  "description": "Thirty-four, Vietnamese-American, raised in East San Jose, works out of a two-room office above a print shop on Grand Avenue. Ran the same federal red-team contract {{pc:1}} did. **She was in the room when he raised it internally, and she did not back him.** She was not cruel about it; she simply did the arithmetic on her mortgage out loud, once, and then stopped discussing it. She now does corporate due diligence and skip-tracing, which pays.",
+  "voice": "Short sentences. Names the price before the favour. Never apologises for the thing she did not do, and never pretends it did not happen. Calls him Reyes.",
+  "signature": [
+    "Quoting a number first: 'That's a two-hour pull. What do you actually need out of it?'",
+    "'I've got that legitimately. The other thing I've got is not legitimate, and I'll want to know why before I touch it.'",
+    "The unbothered version of the old argument: 'You were right. I still wasn't going to do it.'"
+  ],
+  "access": {
+    "legitimate": "A billed LexisNexis seat, TLO and IRB through the investigations firm, PACER, county recorder portals, and a corporate-registry aggregator. Everything here is logged and attributable to her.",
+    "dubious": "Breach-dump aggregators, a skip-trace broker who does not ask, and two former contract colleagues who will run a name as a favour. **She will use these, and she will make him say out loud that he is asking for it.**"
+  },
+  "dmNotes": "**BOUGHT AS AN ADVANCEMENT (resource/contact), Ep 5, by {{pc:1}}.** Per the standing ruling she does not betray him; her worst case is declining a specific ask — a priced refusal, never a turn. **She also does not solve the arc.** Per hook B23, any search for who else has been pulling these records **confirms a pattern and names nobody**: the requests are real, they cluster, and every one of them terminates in a routing code or a retired clerk. Let her be genuinely competent and genuinely fast, and let the answer still be an absence — that is the point of B23 and it is what makes {{pc:1}}'s want bite.\n\n**Why her and not a neutral contact.** {{pc:1}}'s want is *get the record corrected*, and it was forged against a refusal — 'polished, cold, and included a suggestion that I not.' **Trina is that refusal with a face on it, and she likes him.** She is the proof that the people who declined to back him were not villains; they had mortgages. Do not let her become an antagonist and do not let him win the old argument. **She has already conceded he was right. It changed nothing, and that is the wound.**\n\n**Do not make her a search engine.** Price every pull in time or in exposure. The dubious sources cost her something real, and she says so.\n\n**PROVISIONAL NAME.** She was created to give a purchased advancement a face; rename freely before she is spoken aloud at the table."
+}

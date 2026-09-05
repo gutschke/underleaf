@@ -45,12 +45,13 @@
       "name": "Mars Faraone",
       "type": "PC",
       "description": "Met on War Thunder eight months ago; became close friends over long late-night calls. Going to Taipei together — the bond is stronger than either of them says."
-    }
+    },
+    "**Resource — Trina Vo.** Taken after Ep 5. Corporate investigations in Oakland; ran the same federal red-team contract he did, and did not back him when he raised it. **A billed LexisNexis seat, TLO, IRB, PACER and county portals — plus sources she will not name until he asks out loud.** She turns up when {{pc:1}} calls, not when the plot needs her. Per the standing ruling she does not betray him; her worst case is a priced refusal."
   ],
   "harm": 0,
   "stress": 0,
-  "advancements": 0,
-  "marks": 5,
+  "advancements": 1,
+  "marks": 0,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -69,11 +70,11 @@
     ]
   },
   "markBullets": {
-    "hardMoment": true,
-    "learned": true,
-    "risk": true,
-    "against": true,
-    "complication": true
+    "hardMoment": false,
+    "learned": false,
+    "risk": false,
+    "against": false,
+    "complication": false
   },
   "markLog": [
     {
@@ -122,5 +123,14 @@
       "laptop he still opens like it might bite him",
       "three separate phones"
     ]
-  }
+  },
+  "advancementLog": [
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "taken": "resource / contact",
+      "detail": "Trina Vo — database access, legitimate (LexisNexis, TLO, IRB, PACER, county portals) and otherwise.",
+      "disclosure": "He was told in Ep 5, in as many words, that he needed one."
+    }
+  ]
 }

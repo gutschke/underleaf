@@ -20,6 +20,10 @@
     "Subterfuge",
     "Insight"
   ],
+  "skillLevels": {
+    "Subterfuge": 2,
+    "Insight": 1
+  },
   "tags": [
     "records clerk, San Mateo County (recorder's office) — first job out of college",
     "deferred MA in linguistics at SF State; audits an evening class",
@@ -49,8 +53,8 @@
   ],
   "harm": 0,
   "stress": 1,
-  "advancements": 0,
-  "marks": 5,
+  "advancements": 1,
+  "marks": 0,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -68,11 +72,11 @@
     "firstStress": "**FIRST STRESS BOX — Ep 5, and she has not noticed what it means.** After reading the notebook's excision at Caffè Strada, she pushed a second time at Bea's house, looking for anything out of place. **Nothing, and a mild headache.** She accepted the answer and moved on.\n\n**She has not connected the headache to the reading. Do not connect it for her.** **But it is now a live thread:** a second headache after a second push, in a later session, is a pattern she can find herself — and finding it herself is the whole shape of her realization. **Per rules, realization is per-PC and private; never a table beat.**"
   },
   "markBullets": {
-    "hardMoment": true,
-    "learned": true,
-    "risk": true,
-    "against": true,
-    "complication": true
+    "hardMoment": false,
+    "learned": false,
+    "risk": false,
+    "against": false,
+    "complication": false
   },
   "markLog": [
     {
@@ -121,5 +125,14 @@
       "Kwikset practice lock and picks",
       "archival gloves, out of habit"
     ]
-  }
+  },
+  "advancementLog": [
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "taken": "category mastery",
+      "detail": "Subterfuge +1 -> +2. Stealth, lying, manipulation and theft, all four.",
+      "disclosure": "Offered alongside +1 DEX. She was told explicitly that the category comes as a set and that chaotic-good means she will realistically use two of the four; she took it anyway."
+    }
+  ]
 }
