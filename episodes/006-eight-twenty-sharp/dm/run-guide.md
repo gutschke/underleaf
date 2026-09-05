@@ -73,6 +73,8 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
 
 > **You are not operating a system here; you are playing Rosa and the room.** The rules sheet carries the turn sequence and the cards say what to do and what to say.
 
+> **Four decks are in a fixed order and must never be shuffled — not at setup, not between rounds, not while tidying up:** **ROSA** · **ROUND** · **ALAIA/WINNIE** · the three **GM ONLY** cards. **Every card in those four prints its own position**, so a stack that gets mixed can always be rebuilt. **Everything else shuffles freely.**
+
 **The decks:**
 
 - **CALLER** (12) — read aloud at the top of every round, at volume; the reader rotates to whoever the duck left last round. **Two carry a twist. The third — *the caller stops* — is not shuffled: set it aside and play it as the round-four call, every time.**
@@ -82,8 +84,8 @@ She found the book in 1979, in a box of unsorted estate paper at the library whe
   **Roughly half are marked DO THIS and are green.** Those are not texture — **they are a specific action that moves the story**, and most of them get their answer from *the room* rather than from Rosa. **Play them out and have that player tell the others.**
 - **WHO HAS THE DUCK** (7) — five names plus **two SHE GOES PAST cards.** **On a PAST, deal two Rosa cards next round** — same rule as after an Alaia story, and for the same reason. Draw one per round and set it aside. **Seven cards over four rounds means the queue never resolves** — a five-card deck is fully solved by round three and somebody will say *"then it's me next"* and stop shouting. **On a SHE GOES PAST, nobody reaches her: read a BONUS aside and everybody still gets their round card.**
 - **QUESTION** (20) — **deal three to each player FACE DOWN and privately before the dance starts; keep the rest as a draw pile.** *(Face-up, the loudest player reads somebody else's hand aloud.)* Topics rather than sentences. **They may shout anything else instead; these exist so nobody is ever stuck.**
-- **ADOPTED** (11) — **deal one to each player at setup, face down: that is their first time through the dance, read out before round one.** The remaining six are drawn when somebody trades the duck for something the dance would not give them.
-- **ALAIA** (3) and **WINNIE** (3) — the trade. **One physical stack, two headers.** See Scene 4.
+- **ADOPTED** (10) — **deal one to each player at setup, face down: that is their first time through the dance, read out before round one.** The remaining five are drawn when somebody trades the duck for something the dance would not give them.
+- **ALAIA** (3) and **WINNIE** (3) — the trade. **One physical stack, numbered 1 to 6 and kept in that order**: a story, then the Winnie return that answers it, then the next pair. **Mid-game there is no other way to tell which return belongs to which story**, which is why the number is printed on every one. See Scene 4.
 - **GM-held, three cards** — the stumble · *"I've never met anyone else who does it"* · and the exit line, *"No, it lives at the house."* **Held all morning, never shuffled into anything.** The first two play back to back in Scene 5; the third goes as the band takes a break.
 
 ---
@@ -430,7 +432,9 @@ At about eight forty-five she stands up.
 | **{{pc:4}}** | Winnie: *"ooh, a mouthy one"* | introduced to two more friends | he escalates; she offers him coffee | **green** — asks the room about notebooks; nobody knows what he means | Del is hoarse and looking at him |
 | **{{pc:5}}** | claimed before this dance has ended | **green** — Bernard, the lease, *"she was right about it"* | *"you're exactly the right height"* | claimed again | his neck goes; Bernard fetches a chair |
 
-> **Four rounds means the fifth card in each row is not dealt.** Three of those are codas and can go. **{{pc:1}}'s is his payoff — *"You'll be here next week, then"* — so give it to him at the end of the dance rather than losing it.**
+> **Four rounds means the fifth card in each row is not dealt, and that is correct — nothing is missing.** Each row is a small arc and the fifth is its coda. Three of them can simply stay in the box. **{{pc:1}}'s is his payoff — *"You'll be here next week, then"* — so give it to him at the end of the dance rather than losing it.**
+>
+> **{{pc:2}}'s row is the one exception: she has four cards, not five.** Her fifth is **the stumble**, and it was never a round card — it is GM ONLY 1 of 3, in your hand all morning, played in silence in Scene 5. **The machinery going quiet for her is the beat.** *(That is also why the ROUND deck is 24 and not 25. If you ever count 25, one of them is in the wrong pile.)*
 >
 > **Deal cards one to four normally. Do not pre-place any of them** — every player gets a card every round, so the greens arrive on their own.
 
