@@ -287,6 +287,15 @@ HTML = f"""<meta charset="utf-8"><title>The Duck Has You</title>
  .setup {{ background:#f2f1ed; border:1px solid #d8d1bf; padding:6px 9px; margin:11px 0 0;
            font-size:8.8pt; color:#4a463c; }}
  .pagebreak {{ page-break-before:always; }}
+ .slipgrid {{ display:flex; flex-wrap:wrap; }}
+ .slip {{ width:3.7in; height:1.9in; box-sizing:border-box; border:1px dashed #9c9484;
+         padding:9px 11px; display:flex; flex-direction:column; background:#fff;
+         page-break-inside:avoid; }}
+ .slip .lbl {{ font-size:6.6pt; letter-spacing:.13em; font-weight:700; color:#8a5a10;
+              text-transform:uppercase; }}
+ .slip .rule {{ flex:1; margin-top:6px; background:repeating-linear-gradient(
+              transparent 0 26px, #ddd6c2 26px 27px); }}
+ .slip .hint {{ font-size:6.2pt; color:#a49b88; margin-top:4px; }}
  .grid {{ display:flex; flex-wrap:wrap; }}
  .card {{ width:3.7in; height:2.0in; box-sizing:border-box; border:1px dashed #9c9484;
          padding:7px 9px; display:flex; flex-direction:column; page-break-inside:avoid;
@@ -425,6 +434,12 @@ gap.</b> Nothing in this game breaks by moving forward, and nothing needs to be 
 <div class="pagebreak"></div>
 <h1 style="margin-bottom:10px">Cards &mdash; cut along the dashes</h1>
 <div class="grid">{''.join(cards)}</div>
+<div class="pagebreak"></div>
+<h1 style="margin-bottom:4px">The slips</h1>
+<p class="sub" style="margin-bottom:10px"><b>Cut these apart and put five in the
+middle of the table with a pen.</b> The other three are spares &mdash; this page is
+the only one you will ever need to reprint. <b>Single-sided.</b></p>
+<div class="slipgrid"><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div></div>
 """
 out_pdf = args.out.resolve()
 if args.keep_html:
