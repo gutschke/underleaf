@@ -73,6 +73,33 @@ def deck_counts(text):
     return {m.group(1): int(m.group(2))
             for m in re.finditer(r"\*\*([A-Z][A-Z ]+)\*\*\s*\((\d+)", text)}
 
+def check_npc_date_conflicts(root):
+    """Contradictory dates inside a SINGLE character file.
+
+    Partial edits are this repo's commonest defect, and JSON was a blind spot:
+    Rosa's husband died in 2007 in one field and 2016 in another, in adjacent
+    fields, introduced and missed on the same day.
+    """
+    import json as _json
+    bad = []
+    for f in sorted(root.rglob("characters/**/*.json")):
+        try:
+            blob = _json.dumps(_json.loads(f.read_text()), ensure_ascii=False)
+        except Exception:
+            continue
+        # Only relationship words that can refer to ONE person within one file.
+        # "died"/"deceased" are too noisy — a single NPC file legitimately
+        # mentions several deaths — and a check that cries wolf gets ignored.
+        for subject in ("husband", "wife"):
+            years = set()
+            # (?!-) skips ISO date stamps like "corrected 2026-09-05"
+            for m in re.finditer(rf"{subject}[^.\"]{{0,80}}?((?:19|20)\d\d)(?!-)", blob, re.I):
+                years.add(m.group(1))
+            if len(years) > 1:
+                bad.append(f"{f.name}: '{subject}' has conflicting years {sorted(years)}")
+    return bad
+
+
 def main(root, cut=()):
     root = pathlib.Path(root)
     checks = list(BAD_PHRASES) + [CUT_PATTERNS[c] for c in cut if c in CUT_PATTERNS]
@@ -84,6 +111,8 @@ def main(root, cut=()):
     if not docs:
         print(f"no markdown under {root}"); return 1
     bad = 0
+    for line in check_npc_date_conflicts(root):
+        print(f"  {line}"); bad += 1
     for d in docs:
         t = d.read_text()
         for pat, why in checks:
