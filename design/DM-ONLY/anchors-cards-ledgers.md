@@ -228,7 +228,7 @@ nobody else can query.
 Rules of the ledgers:
 - One ledger per keeper at a time. Ledgers are passed down or lost when the keeper dies without a designated successor.
 - Ledger-keepers do NOT communicate with each other. Most don't know the others exist. The ledger tradition is diffuse by cosmological necessity (the same diffuse-network principle that governs the caster network — assembly creates social pressure that breaks intent integrity, per big-arc.md).
-- Ledgers contain both direct observations by the keeper AND **preserved anchor documents** — old records the keeper judged worth attaching to the ledger. The 1878 mining ledger at Bodie Building 7 is an anchor document that was preserved by the Annex 7 team (1942-1948) and became attached to that generation's ledger.
+- Ledgers contain both direct observations by the keeper AND **preserved anchor documents** — old records the keeper judged worth attaching to the ledger. The 1878 crew roster at Bodie Building 7 is an anchor document that was preserved by the Annex 7 team (1942-1948) and became attached to that generation's ledger.
 - Ledgers are much STRONGER anchors than individual cards. Their material persistence + preservation-through-generations + typical location in an archive makes them expensive to edit. The substrate uses them when it needs a durable anchor for a shape.
 
 **Relationship to the archivist role:**
@@ -275,6 +275,42 @@ confused is not a problem. Losing track internally is.**
 > motivated. **But never confirm it either.** The moment an NPC says *yes, you
 > need all eight*, it becomes a fetch quest with a known length.
 
+## Paper nouns — name a thing by what is UNIQUE about it, never by what KIND it is
+
+**This is the most under-recognised source of confusion at the table, and it is
+not a cast problem.** The party has to say these words every session; they do not
+have to say "Erik Loewe" to play. Six of our eight paper objects were named by
+their *category*, and the categories are audibly interchangeable — **when one
+player says "the notebook," the others hear "the ledger."** The fix has to be
+auditory, because the failure is.
+
+| Say | Not | Why |
+|---|---|---|
+| **the ledgers**, collectively — individually always possessive: *Rosa's*, *{{pc:4}}'s three*, *Bea's* | "the ledger", bare | They genuinely are one class. The bare singular is the collision. |
+| **the annex notebook** *(or the excised notebook)* | "the notebook" | Its own file demands the distinction be said aloud. Give it a word that carries it. |
+| **the cards** | — | Already unique. Leave it. |
+| **the planners**, always plural | "the planner" | The *run* of them is the whole payload of A5, and a plural is audibly unmistakable against every singular here. |
+| **the sign-in sheets** | "the sign-in book" | Plural, and demoted: it is a venue prop, not an artifact. |
+| **the letters** | "the receipt box" | Drop the box entirely. |
+| **Ortiz's page** | "the one page" | **"The One Page" is an EPISODE TITLE. Never let an episode title double as an object name.** |
+| **the 1878 crew roster** | "the 1878 mining ledger" | **This was the worst one.** It was called a ledger, it is not one of the eight, and the party is actively doing arithmetic on eight ledgers. *(Renamed 2026-09-06. It is a crew roster — four matched names and an illegible fifth — so the new name is also the more accurate one.)* |
+
+> **This is a demotion, not a retcon.** The objects have not changed. **We stop
+> feeding the collision in our own prose; nobody corrects a player who says "the
+> 1878 ledger."** Over a few sessions our vocabulary wins by attrition.
+
+### The two authoring checks
+
+1. **A scene introduces at most one new paper object**, and its first mention must
+   contain a **non-category word** — roster, planners, sheets, cards, letters,
+   page. **If the only word you have for it is "notebook" or "ledger", you have
+   not finished designing it.**
+2. **The read-aloud test.** Say the new object's name out loud immediately
+   followed by the three nearest existing paper nouns. *Annex notebook. Ledger.
+   Cards. Planners.* **If any two could be misheard across a table with five
+   talking teenagers, change it now** — it costs nothing at the desk and cannot be
+   fixed after it is spoken.
+
 ### Ledgers have rules, and the rules are not legible
 
 > **A ledger is not a book. It is a functional aspect of reality**, and what that
@@ -300,7 +336,7 @@ why it must stay there.** She is obeying something she cannot articulate.
 
 > ### It is not a rule. It is a price.
 >
-> **This is the same reasoning as the 747 and the 1878 mining ledger.** The party
+> **This is the same reasoning as the 747 and the 1878 crew roster.** The party
 > had to be on that plane; their names had to be in that book; **that is why
 > Vivian accepted them on sight.** Those are not coincidences and they are not
 > decisions by anything. **They are threads of reality that have to align
@@ -384,7 +420,7 @@ is closed, and the author has deliberately not decided that it is.**
 Both cards and ledgers can contain writing that was **retro-causally informed** — writing that was physically composed at time T with real period materials, but whose CONTENT reflects events that hadn't yet occurred at time T. Examples:
 
 - **A ledger-keeper's margin note referencing a Bay Area coincidence-event that hadn't happened yet** (hypothetical worked example: a 1979 annotation naming a person who wouldn't be born for another decade).
-- **The 1878 mining ledger** listing surnames that match modern PCs whose parents hadn't been born.
+- **The 1878 crew roster** listing surnames that match modern PCs whose parents hadn't been born.
 
 Mechanism (careful phrasing per [`world-truths.md`](world-truths.md) §"Precise phrasing — single-timeline discipline"): the ledger PHYSICALLY EXISTED in 1878 (or 1979) with actual period ink. What was retro-causally edited was not the ledger's material substance but the CONTENT the current-attested shape records the ledger as having had. From Eleanor's POV in 1979, she wrote the margin note because it felt right to write; she couldn't have said why; she was a soft-network Bea-adjacent figure whose hand was informed by the shape the world would need her to have attested by 2027. Same for the 1878 bookkeeper.
 

@@ -639,7 +639,7 @@ She texted {{pc:1}} *"see you in Berkeley soon"* on Saturday — **two days ago*
 >
 > **Voice:** slightly-clipped Bay-Area cadence. Gives the shorter answer first and the longer one only if asked twice. Warmth is real but rationed. Uses names sparingly and correctly. Does not perform authority.
 >
-> **Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 mining-company ledger**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
+> **Building 7, Bodie, Ep 3.** A locked outbuilding at the ghost town. {{pc:3}} picked the Yale padlock to get in. Inside: a **water-damaged 1878 crew roster**, dog-eared to a page listing five members of a Bodie mining crew — **four of the surnames match the party**, the fifth entry is illegible. Also inside, on the inside face above the door, a brass plaque: **"Field Annex 7 — WD/DOI — 1942–1948 — Access Restricted."** The party noticed the plaque on the way out and did not register its importance; a blizzard was closing the road.
 >
 > **Alaia was the ranger on duty, and she did NOT let them in.** {{pc:3}} picked the 1950s Yale padlock in thirty-six seconds.
 >

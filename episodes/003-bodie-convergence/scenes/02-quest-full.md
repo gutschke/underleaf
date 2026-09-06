@@ -8,7 +8,7 @@
 ## Arc position (DM's private map)
 
 Where this episode sits in the campaign shape:
-- **Arc-beat one:** *pattern-is-older-than-the-PCs.* Ep 2 planted; Ep 3 corroborates with a physical artifact (the 1878 mining-crew ledger).
+- **Arc-beat one:** *pattern-is-older-than-the-PCs.* Ep 2 planted; Ep 3 corroborates with a physical artifact (the 1878 crew roster).
 - **Arc-beat two:** *first-witnessed-accidental-cast.* Ep 2 was the first cast the group experienced (Yui / footage / lights-out). Ep 3 is the first one the players *watch each other do* — the "we all saw that" beat.
 - **Arc-beat three seeded:** *wartime annex* — a foreshadow of the pioneer-generation thread (Turing / Wiener / Rosenblatt cameo material). Fires much later. Ledgered in the Chekov tracker.
 - **Not this session:** the realization beat (Phase 1 → Phase 2 transition). Save for Ep 4-5.

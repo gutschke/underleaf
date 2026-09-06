@@ -43,7 +43,7 @@ Structure of each fact section:
 
 ### Ep 3 — planted at Bodie (§1–§18)
 
-- [§1 The 1878 mining-crew ledger + illegible 5th name](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
+- [§1 The 1878 crew roster + illegible 5th name](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
 - [§2 The eight ledgers — Dakota's voicemail](#2-the-eight-ledgers--dakotas-voicemail)
 - [§3 How does Dakota know? — the Sacramento thread + Vivian Loewe](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) — **Ep 4 handled**
 - [§4 The Field Annex 7 plaque — wartime 1942-1948](#4-the-field-annex-7-plaque--wartime-1942-1948) — **Ep 4 referenced via Vivian**
@@ -102,7 +102,7 @@ Structure of each fact section:
 
 ---
 
-## 1. The 1878 mining-crew ledger with four matched names + one illegible
+## 1. The 1878 crew roster with four matched names + one illegible
 
 **The seed** (Scene 02 §Building 7, verbatim to players): a water-damaged mining-company ledger from 1878, dog-eared to a specific page listing five members of a Bodie Mining Company crew. Four names match the PCs' modern surnames + initials (J. Reyes, M. Sun, C. Whitmore, D. Faraone). The fifth entry — occupation "physician" — has its surname portion smudged illegible. {{pc:4}} left a sticky note: *"Bea has this exact roster in her index — I checked. Don't try to explain it to yourselves yet. Just SEE it."*
 
@@ -677,7 +677,7 @@ She does, however, believe: **others will eventually deserve the role of receivi
 
 At the end of Ep 4 she warned Priya on the way out: *"there have always been people who ask about my father… not all of them deserve an answer."* She is discerning. Her assay in Scene 3 was real — the party could have failed it.
 
-**She is sure the PCs are meant to know.** What convinced her: **the 1878 mining-company ledger with the party's surnames on it.** For her, the ledger reads as a substrate anchor that predates any of them, and the world's cheapest self-consistent configuration attests these names as belonging on that page — that's not a coincidence she can rationalize away. It's the same shape her father spent his career cataloguing.
+**She is sure the PCs are meant to know.** What convinced her: **the 1878 crew roster with the party's surnames on it.** For her, the ledger reads as a substrate anchor that predates any of them, and the world's cheapest self-consistent configuration attests these names as belonging on that page — that's not a coincidence she can rationalize away. It's the same shape her father spent his career cataloguing.
 
 Whether the 1878 ledger EXISTS *specifically to serve as an anchor for reality edits* — or exists for some other reason and has *become* an anchor over time — is deliberately undecided in canon. What is decided: it serves as an anchor for **Vivian's belief that she can trust the PCs specifically**. That's its load-bearing function this arc.
 

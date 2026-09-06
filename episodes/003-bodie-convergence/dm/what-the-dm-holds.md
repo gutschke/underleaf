@@ -20,7 +20,7 @@ Structure of each section:
 
 Pre-play sections (planted at Ep 3, some already answered in Ep 4):
 
-- [§1 The 1878 mining-crew ledger + illegible 5th name](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
+- [§1 The 1878 crew roster + illegible 5th name](#1-the-1878-mining-crew-ledger-with-four-matched-names--one-illegible)
 - [§2 The eight ledgers — Dakota's voicemail](#2-the-eight-ledgers--dakotas-voicemail)
 - [§3 How does Dakota know? — the Sacramento thread + Vivian Loewe](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find) — **Ep 4 handles**
 - [§4 The Field Annex 7 plaque — wartime 1942-1948](#4-the-field-annex-7-plaque--wartime-1942-1948) — **Ep 4 references via Vivian**
@@ -50,7 +50,7 @@ Post-Ep-3-played record (session recap + hook fire status):
 
 ---
 
-## 1. The 1878 mining-crew ledger with four matched names + one illegible
+## 1. The 1878 crew roster with four matched names + one illegible
 
 **The seed** (Scene 02 §Building 7, verbatim to players): a water-damaged mining-company ledger from 1878, dog-eared to a specific page listing five members of a Bodie Mining Company crew. Four names match the PCs' modern surnames + initials (J. Reyes, M. Sun, C. Whitmore, D. Faraone). The fifth entry — occupation "physician" — has its surname portion smudged illegible. {{pc:4}} left a sticky note: *"Bea has this exact roster in her index — I checked. Don't try to explain it to yourselves yet. Just SEE it."*
 

@@ -146,7 +146,7 @@ If the DM teaches *"your memory was edited"* at the table (memory-targeting), pl
 
 - **Yui + the bag-hold** (Ep 1-2 record-vs-memory asymmetry): [`../../episodes/001-unattended-baggage/dm/the-cable.md`](../../episodes/001-unattended-baggage/dm/the-cable.md) §"What the edit had to do." The canonical demonstration that records default to current-shape, memories hold whichever cheap version fits, and the visible signature of an edit is the pattern-mismatch — not any single memory being "wrong."
 - **Kai Sun's default-lost stance**: [`facts-ledger.md`](facts-ledger.md) §31. The load-bearing example that "the world attests he never existed" phrasing does what "erased" cannot.
-- **The 1878 mining ledger surnames**: [`../../episodes/003-bodie-convergence/scenes/02-quest-full.md`](../../episodes/003-bodie-convergence/scenes/02-quest-full.md) §"Why the fifth entry is illegible." The cost-gradient in retro-causal writing made physical.
+- **The 1878 crew roster surnames**: [`../../episodes/003-bodie-convergence/scenes/02-quest-full.md`](../../episodes/003-bodie-convergence/scenes/02-quest-full.md) §"Why the fifth entry is illegible." The cost-gradient in retro-causal writing made physical.
 
 ## Surprise 1.5: AI is also happening (in parallel)
 

@@ -2,7 +2,7 @@
 
 **Underleaf ships with a specific, canonical five-PC party** — the characters the published episodes are written around. They are recommended, not required; a table can freely substitute their own PCs (see "Adapting" below) but should expect to also adapt the campaign material when they do.
 
-Quire couples PCs to story more tightly than a typical D&D module. Ep 3 §1 hardcodes an 1878 mining-crew ledger with the party's four surnames (Reyes / Iyer / Sun / Whitmore / Faraone; the fifth is deliberately smudged). Ep 4 introduces an NPC (Vivian Loewe) who reads Dakota's specific shape at her door and asks each PC one small personal question. Substituting your own party works — but where the campaign's DM notes reference these PCs by name or role, you'll need to remap or rewrite. That's the cost of the tighter coupling; the payoff is scenes that land specifically rather than generically.
+Quire couples PCs to story more tightly than a typical D&D module. Ep 3 §1 hardcodes an 1878 crew roster with the party's four surnames (Reyes / Iyer / Sun / Whitmore / Faraone; the fifth is deliberately smudged). Ep 4 introduces an NPC (Vivian Loewe) who reads Dakota's specific shape at her door and asks each PC one small personal question. Substituting your own party works — but where the campaign's DM notes reference these PCs by name or role, you'll need to remap or rewrite. That's the cost of the tighter coupling; the payoff is scenes that land specifically rather than generically.
 
 ## The five PCs (in slot order)
 
@@ -33,7 +33,7 @@ Published DM notes assume these:
 
 ## Load-bearing surnames
 
-Ep 3 §1's 1878 mining-crew ledger names four of the party's surnames as historical miners at Bodie's Standard Mill (Reyes / Sun / Whitmore / Faraone). Iyer is the deliberately-smudged fifth entry (a "physician") whose surname can't be verified. **If you substitute PCs, the surname name-match beat can either be rewritten around your PCs' surnames OR the scene will lose its central hook.** See Ep 3 §1 answers doc for the mechanism (cheap-shape cost-gradient; the substrate routed through the cheapest available anchor).
+Ep 3 §1's 1878 crew roster names four of the party's surnames as historical miners at Bodie's Standard Mill (Reyes / Sun / Whitmore / Faraone). Iyer is the deliberately-smudged fifth entry (a "physician") whose surname can't be verified. **If you substitute PCs, the surname name-match beat can either be rewritten around your PCs' surnames OR the scene will lose its central hook.** See Ep 3 §1 answers doc for the mechanism (cheap-shape cost-gradient; the substrate routed through the cheapest available anchor).
 
 ## Adapting the party
 
