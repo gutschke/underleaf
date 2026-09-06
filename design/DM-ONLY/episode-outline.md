@@ -857,6 +857,59 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 ### Ep 12 — The City of Ten Thousand Buddhas
 
+> [!CAUTION]
+> ### RE-POINTED 2026-09-06 — this was the most overloaded session in the plan and nobody had counted it
+>
+> **Ten payloads, on a session rated MEDIUM whose own design note says *"the
+> ledger is cut precisely so that nothing competes with this scene."* Eight things
+> were competing with it.** The ledger hunt was cut and the vacuum refilled with
+> hooks — the same failure the de-iteration was meant to fix, arriving from the
+> other direction.
+>
+> **The audit unit is payloads per session, not names per act.** Names are
+> countable, which is why the first pass counted them and missed this. **More than
+> five payloads is a session that will be improvised.**
+>
+> **1 · ROSA'S SECOND SESSION MOVES TO EP 18.** It is grief-register and LIGHT,
+> and **it already opens with the former-caster revisit** — so you get the thesis
+> of Act II in one room: **the one who chose, and the one who lost, in the same
+> afternoon.** It also lands the landing doc's missing fourth step — *somebody has
+> to say plainly that they wanted there to be someone too* — in the session that
+> document is actually about, next to Vivian's death, instead of six sessions
+> early at a monastery. **The Ep 6 restatement debt travels with her.**
+>
+> **2 · {{pc:3}}'s drought fix moves with Rosa**, and is better served there: Ep 18
+> sits mid-drought rather than at its start, and is closer to her Ep 22 material.
+>
+> **3 · EP 12 KEEPS FOUR:** B4 · B1's retirement · the San Bernardino phone call ·
+> T14's crows. **B1 does not need Rosa in the room** — it retires on the Bancroft
+> evidence floor, and the party has held photographs of every page since Ep 6.
+> A monastery with crows is free, and T14 is a misdirection seed, not a
+> Rosa-shaped one.
+>
+> **4 · B4 IS MET, AND HAS NO PROPER NOUN.** *(Ruled 2026-09-06 against the
+> faceless-ambient proposal.)* **Invariant 7 is not "the former caster exists" — it
+> is "the former caster is not fixable", and an invariant of refusal requires a
+> temptation to refuse. You cannot decline to fix someone you never meet.**
+>
+> She is **a lay volunteer — not ordained, not a monk.** A kitchen volunteer or a
+> groundskeeper who came somewhere quiet for her own reasons. **She is the woman
+> washing dishes.** One conversation. She used to do this. She stopped being able
+> to. **She is not unhappy, she does not want it back, and she cannot really
+> remember what it was like** — which is worse than grief and is the whole point.
+>
+> > **This costs nothing against the cast budget. Present people are free; names
+> > are what cost, and she has none.** She was priced as a name when the expensive
+> > thing was never the name.
+> >
+> > **And she must NOT be Rosa.** Rosa *chose to stop*; this woman *lost it*. If
+> > Rosa carries both, the campaign's answer to *what does this cost* becomes
+> > **"you can put it down safely"** — the consoling version, and it is false.
+>
+> **5 · Cost, stated honestly:** U7's deep read slips to Ep 18, and T14's
+> confirmation-in-presence becomes a crow at Ep 12 rather than a person. **Both
+> acceptable. Neither is a decision the party is waiting on.**
+
 > **OWED FROM EP 6 (2026-09-06):** **restate Rosa's step-back plainly, once.** The declaration fired in Ep 6 but arrived in pieces across a long day — *stopped for another person · more than ten years ago · you are on the journey I went through*. **Confirm the fact; do not replay the moment.** See facts-ledger §46.
 
 - **LOAD:** MEDIUM
@@ -962,6 +1015,22 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **Risk if slips:** If Companion contacts all 5 PCs simultaneously, X7 metagame collapse fires immediately.
 
 ### Ep 18 ★ — The Recognition Interval
+
+> [!IMPORTANT]
+> **GAINS ROSA'S SECOND SESSION, moved from Ep 12 on 2026-09-06.** This session
+> already opens with the former-caster revisit and is already grief-register, so
+> putting Rosa in it gives Act II its thesis in one room: **the one who chose and
+> the one who lost, in the same afternoon.**
+>
+> **It also carries the Ep 6 debt: restate her step-back plainly, once.** It fired
+> in Ep 6 but arrived in pieces across a long day — *stopped for another person ·
+> more than ten years ago · you are on the journey I went through.* **Confirm the
+> fact; do not replay the moment.**
+>
+> **Also arriving:** {{pc:3}}'s drought fix and U7's deep read, both moved with
+> Rosa. **And Elena does not appear** — her last contact is the text message about
+> Vivian, and the someone-clears-the-house beat goes to a stranger with a
+> clipboard.
 
 - **LOAD:** LIGHT (slack — and grief)
 - **Opens with the former-caster revisit (absorbed from Ep 21).** The party brings what they have learned back to the mid-Act-II former caster, who now hears them differently. **Keep it a single encounter and let it sit unresolved** — invariant 7: the campaign refuses to fix them; they are the cost, not a puzzle. This is the scene that gives Ep 18 teeth.
