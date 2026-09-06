@@ -298,10 +298,32 @@ The clearest instance is Rosa's: she says plainly and repeatedly that **the ledg
 belongs under the microwave**, treats it without any care at all, and **cannot say
 why it must stay there.** She is obeying something she cannot articulate.
 
-> **Do not turn this into a mechanic and do not let it become a lock.** It is not
-> a rule the DM can look up either. **All anyone knows — Rosa included — is that
-> there are rules.** Whatever the party does to a ledger, neither they nor she can
-> predict what it does.
+> ### It is not a rule. It is a price.
+>
+> **This is the same reasoning as the 747 and the 1878 mining ledger.** The party
+> had to be on that plane; their names had to be in that book; **that is why
+> Vivian accepted them on sight.** Those are not coincidences and they are not
+> decisions by anything. **They are threads of reality that have to align
+> consistently**, and almost nobody will ever understand why — we cannot perceive
+> the whole four-dimensional block, or how it gets edited.
+>
+> **So if reality requires a ledger to be in a particular place, moving it is not
+> forbidden. It is expensive.** Overcoming that requirement takes tremendous
+> effort, and in this cosmology **effort is plausibility** — see the tier rubric
+> in `../../world/rules.md`. It is not impossible. It is priced like the things
+> that are almost never worth doing.
+>
+> **And the substrate has structural preferences, never intentions.** It takes the
+> cheapest self-consistent arrangement available. **Almost always, the cheapest
+> arrangement is the one in which the ledger stays put** — so that is the one that
+> tends to obtain, and it will look from the inside like luck, forgetfulness, a
+> change of plan, or nobody quite getting round to it.
+>
+> **Rosa is not enforcing anything.** She is standing next to a cost gradient she
+> cannot see and reporting, accurately, that the book belongs under the microwave.
+> **Do not have anyone explain this to the party, and do not build a mechanic on
+> it.** See [`facts-ledger.md`](facts-ledger.md) §44 and §45 for the same logic
+> applied to why these five people are in a room together.
 
 ### Disclosure — archivists declare, keepers do not. We do not know why.
 
