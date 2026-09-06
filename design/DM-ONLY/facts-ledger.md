@@ -2568,6 +2568,32 @@ through.**
 > it. RESTATE THE KEY PARTS at Rosa's second session (B21, Eps 12/14)** — plainly,
 > once, and without ceremony. **Do not replay the moment; confirm the fact.**
 
+### Player-side development debt, as the DM sees it (2026-09-06)
+
+**{{pc:5}} — solved, and by the player.** See A7 and `mars-faraone.json`
+§playerStateSept2026. He knows his domain, cannot separate it from ordinary
+charm, has independently derived the trying-too-hard tax, and half-remembers the
+Ep 4 door-cast. **His realization is now a defined beat rather than an open
+question**, and Ep 9's cabin is the right room for it because it is the one place
+he is not performing.
+
+**{{pc:1}} is the least developed PC in the party.** *(DM's own assessment.)* He
+has a father thread that is deliberately mundane and deliberately optional, an
+articulation refusal that has now been re-homed twice, and an Ep 6 whose designed
+arc collapsed when somebody tripped over a cable. **His realization (A5) fired on
+the planners and he could not explain what he saw** — which is correct for him and
+also means his best beat so far was a thing he observed rather than a thing he
+did. **He needs something that is his, that he acts on, and that is not records.**
+
+**{{pc:2}} is due plot advancement.** *(DM's own assessment.)* Ep 7 gives her A3
+on the medical emergency **and** the campaign's first moment-of-release — which is
+a lot in one session, and is also the first time her thread has moved since Ep 4.
+**Watch that Ep 7 does not spend her whole allocation in ninety seconds and then
+leave her idle again.**
+
+> **These three are a standing agenda item for the next planning cycle, not an
+> Ep 7 emergency.** Recorded so they do not fall out of recollection.
+
 ### Settled with the summary
 
 - **Isabel Vega died in 1992, aged 71.** Spoken at the table in general terms.
