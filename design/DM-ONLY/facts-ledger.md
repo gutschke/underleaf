@@ -68,6 +68,7 @@ Structure of each fact section:
 - [§33 Vivian's wind-up mantel clock](#33-vivians-wind-up-mantel-clock)
 - [§34 Vivian's Indian-visitor memory](#34-vivians-indian-visitor-memory--the-friendly-very-smart-guest-at-her-fathers-house)
 - [§35 Vega text to Morgan: "see you in Berkeley soon"](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
+- [§46 Ep 6 played — the lift, the ledger offer, Estelle](#46-ep-6-played--generated-at-the-table-2026-09-05) — **one car, Rosa shotgun**; {{pc:4}} offered a ledger in transit and Rosa deferred it to the house; the letters were never searched; Estelle
 - [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
 - [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
@@ -1959,3 +1960,94 @@ met is the connector, which invariant 4 holds permanently open.**
 **Keep the two facts adjacent and never draw the arrow between them out loud. The
 moment an NPC says *because*, §44's refusal of the selector is undone through the
 back door in a single sentence.**
+
+---
+
+## 46. Ep 6 played — generated at the table (2026-09-05)
+
+*Written live, during the session. **Everything here is canon.** The full played
+record follows in the session summary; this is only the material invented in
+transit, recorded before it could be lost.*
+
+### The lift became one car
+
+**All five PCs and Rosa in a single vehicle, somewhat illegally, with Rosa in the
+shotgun seat.** They offered the ride unprompted — the lift landed at rung 0 and
+rungs 1–2 were never needed. It is four blocks down the hill.
+
+> **Rosa overrode the seatbelt objection pleasantly and immovably:** *"It's four
+> blocks, dear. Left at the stop sign."* **That is the same shape as the refusal
+> she gives {{pc:2}} at the hall**, delivered two hours earlier at no stakes.
+> Nobody at the table pointed at the rhyme and nobody should.
+
+**The conversation continued in the car, which meant Rosa never went looking for
+her mother's letters.** This is a gain and must stay one: Isabel's box is
+uncatalogued, mixed in with garden notes and recipes, and Rosa does not know
+where it is. **Per §25 she has never assembled it and cannot say why.** A search
+scene here would have ended in *"it's here somewhere."* **The letters remain
+unfound and unsearched.**
+
+### {{pc:4}} offered Rosa a ledger in the car — and she deferred it
+
+**{{pc:4}} offered to show her one of Marsh's three ledgers while the car was
+moving.** Rosa: *"Now — that's unexpected."* **She then deferred the conversation
+to her house, after the dance.**
+
+> **This is a debt the DM owes and the party will collect.** She made the promise
+> in front of everyone. **Scene 6 was already unskippable; it is now also
+> answerable-for.**
+
+**Why the deferral is honest and not a dodge, if it is ever challenged:** she is
+79, in a moving car, on a four-block drive, with her reading glasses pushed up on
+her forehead. **She cannot assess a handwritten book under those conditions and
+she knows it.**
+
+> **CRITICAL — this does NOT pre-empt the GM-held line.** *"I've never met anyone
+> else who does it"* survives intact, because **she registered an object, not a
+> practice.** She saw an old bound book in a bag for a few seconds. She has no
+> reason to think it is the same kind of thing, and **her claim is about people,
+> not books** — she has never *met anyone who does what she does*. A book
+> somebody is carrying is not a person doing it. **She is not lying and not being
+> cagey; she has genuinely not connected it.** One sentence if challenged, then
+> move on — do not over-explain.
+
+**Consequence for Scene 6: fold the comparison into the existing ledger read
+rather than adding a beat.** Her ledger on the table, Marsh's next to it, and
+*that* is when she says she used to do this and chose to stop. **Two ledgers side
+by side, and the older woman is the one who says she stopped.**
+
+### Estelle — new NPC, from the folk-dance hall
+
+**Early eighties and the best mover on that floor.** Broomstick skirt, silver
+bracelets you hear before you see her. **She drafted {{pc:1}} on sight because of
+his jacket** — he was the visible newcomer — and she **adopts the worst dancer in
+the room on principle**, returning every round or two to check on him, including
+while he is under the stage with the PA.
+
+> *"That's a lovely jacket. It's going to be very warm in about four minutes."*
+
+**She is older than Rosa, and she is the standing refutation of {{pc:2}}'s
+worry** — right about the anatomy, wrong about the danger. She has been coming
+close to the beginning, which puts her at about fifty when the dance started, so
+**she is a second mouth for *Rosa has always been here*.**
+
+**Lane discipline:** Estelle belongs to {{pc:1}}. Hector is {{pc:2}}'s, Winnie is
+{{pc:4}}'s. **Do not let her drift into the triage bit.**
+
+> **Prime callback candidate.** A dancer who turns up three sessions later and
+> remembers all five PCs by name is what converts a morning with nothing to
+> obtain into the morning they made a friend.
+
+### Open — to be settled with the session summary
+
+- **The tin.** Never explained in the written material; its only job was to change
+  hands. **Proposed at the table: polvorones, her mother's recipe, brought every
+  time for thirty-one years** — which also puts the recipe in the same box as
+  Loewe's letters. **Not yet confirmed as spoken.**
+- **When Isabel died.** No date has ever been fixed. The fence is: born ~1920s ·
+  Loewe's correspondent ~1949–61 · died before Alaia's generation (Alaia is late
+  20s, so born ~1998) · Julián predeceased her in the 1980s. **Proposed: 1992,
+  aged 71** — which leaves Isabel outliving the man she was hiding the letters
+  from by a decade **and still never assembling them.** **Do not put her death in
+  1979**; that is the year Rosa took the ledger out of the Bancroft backlog, and
+  colliding them turns the ledger into a grief-object.

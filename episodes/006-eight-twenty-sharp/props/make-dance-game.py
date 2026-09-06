@@ -22,7 +22,7 @@ private; it is deliberately not in this repository.
 
 Requires a Chrome or Chromium on PATH for the HTML-to-PDF step.
 """
-import argparse, json, pathlib, shutil, subprocess, sys, tempfile
+import argparse, base64, io, json, pathlib, re, shutil, subprocess, sys, tempfile
 
 HERE = pathlib.Path(__file__).resolve().parent
 
@@ -31,6 +31,8 @@ ap.add_argument("--map", type=pathlib.Path, default=None,
                 help="JSON slot->PC-name map; without it the cards keep {{pc:N}} tokens")
 ap.add_argument("--out", type=pathlib.Path, default=HERE / "dance-game.pdf",
                 help="output PDF (default: dance-game.pdf beside this script)")
+ap.add_argument("--do-this-only", action="store_true",
+                help="emit only the seven green DO THIS cards, one page, for a reprint")
 ap.add_argument("--keep-html", action="store_true",
                 help="leave the intermediate HTML next to the PDF instead of a temp file")
 args = ap.parse_args()
@@ -307,8 +309,10 @@ HTML = f"""<meta charset="utf-8"><title>The Duck Has You</title>
  .call    .kind {{ background:#1f5fa8; }}
  .answer  .kind {{ background:#5b2d90; }}
  .aside   .kind {{ background:#0e6f74; }}
- .plot    .kind {{ background:#2f7d32; }}
  .round   .kind {{ background:#6b6250; }}
+ /* Must out-specify .round: a DO THIS card carries BOTH classes, and at equal
+    specificity the later rule wins. This printed brown once. */
+ .round.plot .kind {{ background:#2f7d32; }}
  .alaia   .kind, .winnie .kind {{ background:#b3261e; }}
  .adopted .kind {{ background:#7a4a1f; }}
  .duck    .kind {{ background:#8a6d00; }}
@@ -441,6 +445,19 @@ middle of the table with a pen.</b> The other three are spares &mdash; this page
 the only one you will ever need to reprint. <b>Single-sided.</b></p>
 <div class="slipgrid"><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div><div class="slip"><div class="lbl">Something true about Rosa</div><div class="rule"></div><div class="hint">In your own words. Then push it to the middle.</div></div></div>
 """
+if args.do_this_only:
+    # Reuse the sheet's own stylesheet so the cards are identical to the real ones.
+    style = re.search(r"<style>.*?</style>", HTML, re.S).group(0)
+    plot = [c for c in cards if 'class="card round plot"' in c]
+    HTML = (f'<meta charset="utf-8"><title>DO THIS cards</title>{style}\n'
+            f'<h1 style="margin-bottom:4px">The DO THIS cards</h1>\n'
+            f'<p class="sub" style="margin-bottom:10px"><b>Reprint sheet &mdash; the '
+            f'{len(plot)} green cards, and nothing else.</b> One of these gets played out '
+            f'properly each round, about forty seconds, and the player who got it writes it '
+            f'on a slip. <b>Cut them out and swap them into the ROUND stacks</b>, in place of '
+            f'the same-numbered brown-banded ones. Everything else stays as it is.</p>\n'
+            f'<div class="grid">{"".join(plot)}</div>\n')
+
 out_pdf = args.out.resolve()
 if args.keep_html:
     out_html = out_pdf.with_suffix(".html")
@@ -455,4 +472,5 @@ subprocess.run([chrome,"--headless","--disable-gpu","--no-sandbox",
                 "--no-pdf-header-footer",f"--print-to-pdf={out_pdf}",f"file://{out_html}"],
                check=True, capture_output=True)
 n = len(cards)
-print(f"Wrote {out_pdf} ({out_pdf.stat().st_size//1024} KB) — {n} cards")
+print(f"Wrote {out_pdf} ({out_pdf.stat().st_size//1024} KB) — "
+      f"{len(plot) if args.do_this_only else n} cards")

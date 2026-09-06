@@ -291,6 +291,7 @@ At about eight forty-five she stands up.
 | **HECTOR** | Seventy-eight. Does something with his left knee that a nurse would write up, and out-dances men half his age. Entirely at peace about it. | **{{pc:2}}** — the triage |
 | **JOYCE** | Has been meaning to file the sign-in binder since 1998. Talks continuously and is a delight. Knows everybody's business and shares it. | **{{pc:3}}** — the records |
 | **WINNIE** | Seventy-five. Drafted the party at the door. Names people on sight. **Equally delighted by everybody, which is the whole point.** | **{{pc:4}}** — the adoption |
+| **ESTELLE** | *(added in play, Ep 6.)* Early eighties and the best mover on the floor. Broomstick skirt, silver bracelets you hear coming. **Adopts the worst dancer in the room on principle.** Older than Rosa, and the standing refutation of the fall-risk worry. | **{{pc:1}}** — the jacket |
 | **BERNARD** | An extremely good waistcoat. Wants to talk about the hall's lease and who is trying to cut the Saturday slot. | **{{pc:5}}** — the organiser |
 
 > **If one of them lands at the table, write their name in the session log and keep them.** One of these five turning up three sessions later, remembering all five PCs by name and asking whether {{pc:5}} ever came back, **is what turns a morning with nothing to obtain into the morning they made a friend.**
