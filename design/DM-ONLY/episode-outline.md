@@ -517,6 +517,55 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 
 ### Ep 7 — The Fourth Birthday
 
+> [!CAUTION]
+> ### RE-POINTED 2026-09-06, after the post-Ep-6 audit. Read before authoring.
+>
+> **1 · A3 FIRES HERE, ON THE MEDICAL EMERGENCY, AND BEFORE THE MoR.** This is
+> the one thing that is currently unplayable. {{pc:2}}'s moment-of-release reads
+> *"she was not trying, and she notices afterward that she wasn't trying"* — **which
+> requires her to already know there is such a thing as trying.** A3 was supposed
+> to supply that in Ep 6 and did not (low roll; she came away doubting she saw
+> anything). **The emergency is a better vehicle than the hall stumble ever was:**
+> a 98-year-old's strong pulse, a 79-year-old's stopped tremor, **and now a child
+> who stops choking** — three data points, and the third is undeniable to a nurse.
+> **Fire A3 on the emergency; land the MoR in the quiet afterwards.** Minutes
+> apart, not sessions apart.
+>
+> **2 · U9 IS ALREADY SPENT.** The Vivian envelope fired in Ep 6 as written.
+> **Do not carry it.** *(B15's Marsh clipping therefore has room here after all —
+> but only one unrequested envelope per week; if Ep 7 is tight, it goes to Ep 8's
+> coda per its own fallback.)*
+>
+> **3 · CUT ONE PER-PC BEAT — the recommendation is A7 ({{pc:5}}'s realization),
+> moved to Ep 9's cabin.** Ep 7 otherwise carries three private beats plus an
+> articulation refusal, at an outdoor children's party, which is the hardest venue
+> in the plan for one-on-ones. {{pc:3}}'s A4 cannot move (already pulled in from
+> Ep 8 for load); {{pc:2}}'s is now pinned by A3. Ep 9 is the natural room —
+> confession register, walk-and-talk pairs already scheduled — and still leaves two
+> sessions before {{pc:5}}'s Ep 11 hard limit. **This is his SECOND deferral. Log
+> it: a third triggers a design conversation.** *(DM sign-off wanted before this is
+> treated as settled.)*
+>
+> **4 · ASSIGN AN S1 FLATTENING INSTANCE — Ep 7 has none.** The numbering runs #2
+> (Ep 6) → #3 (Ep 8), so the Eps 9–14 drought has quietly extended backwards. A
+> birthday party makes it easy: a parent agrees warmly with a wrong allergy on a
+> form, or a delivery app confirms a cake nobody ordered.
+>
+> **5 · {{pc:1}}'s articulation refusal does NOT come here.** It goes to Ep 9's
+> Ortiz voicemail. His Ep 6 was the broom closet and the planners.
+>
+> **6 · B27 CAN FIRE IN ANY SESSION, INCLUDING THIS ONE.** The party is
+> considering robbing Rosa. One line in the run-guide so the DM is not caught cold
+> at a birthday party; the handling is in `anchors-cards-ledgers.md`.
+>
+> **7 · A4's cheapest vehicle is already on {{pc:3}}'s sheet and unused:** her
+> first stress box. **A second headache after a second push is a pattern she can
+> find herself**, which is the shape a realization wants. The photograph table
+> gives her the reading; the headache gives her the recognition.
+>
+> **8 · {{pc:5}}'s advancement is still outstanding. Author on neutral
+> assumptions** — nothing may depend on which option he takes.
+
 - **LOAD:** **MEDIUM.** Compress **T1 + T2 + A8 into one combined beat** — Reggie is at the party, which covers all three.
 - **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
 - **Arc-node:** **MoR({{pc:2}}) — A9 FIRES. The campaign's first moment-of-release.** A kid goes down hard, or chokes; {{pc:2}} is there before she decides to be; it resolves; **she was not trying**, and she notices afterward that she wasn't trying. Her sheet's own release condition: *the 17 moment without the crowd.*
@@ -542,6 +591,20 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 - **Risk if slips:** this is the campaign's first recovery beat and the gate-opener for every subsequent MoR. **Do not add to this session.**
 
 ### Ep 8 — Lunch in Twos  ·  ★★ SEASON 1 FINALE ★★
+
+> [!IMPORTANT]
+> **RE-POINTED 2026-09-06 — §1 is no longer a first telling.** In Ep 6 Rosa told
+> them, to their faces, that **she has met other people who can do what they are
+> learning to do**, and that **she stopped for another person's benefit.** The
+> finale contract said *"told, in plain words — not implied. Said."* **It has now
+> been implied, by a person, out loud.**
+>
+> **This is a gain, not a loss** — `the-landing.md` asks for Nia to *confirm an
+> experience rather than introduce a claim*, and Ep 6 supplied the experience.
+> **But author §1 as blunt confirmation of what an old woman half-said in a
+> doorway, not as a revelation.** If it is written as news, the table has already
+> heard it and it lands flat. **Rosa never named a network — A1 survives and Nia's
+> line is intact.**
 
 - **LOAD:** HEAVY — the Act I→II hinge **and the season finale.** See *"The Season 1 finale contract"* below for the must-achieve list.
 - **PRIMARY SHAPE: negotiation**, ending on an event rather than a debrief.
