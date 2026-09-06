@@ -48,6 +48,13 @@ the `-i`.
 
     UNDERLEAF_PARTY_MAP=~/path/party-mapping.json tools/check-no-player-names.sh .
 
+**It also refuses any gist URL or bare 32-hex id.** The secret gists holding
+per-table material are secret only because they are undiscoverable; **a committed
+id is a permanently public one, and the only revocation is deleting the gist for
+everyone who has the link.** This was caught on 2026-09-06 when a private state
+file got written inside the repo by mistake and was one `git add -A` from being
+published.
+
 `check-player-firewall.sh <file.pdf>…` — player-facing PDFs must not carry DM
 vocabulary (cast, caster, magic, substrate, The Quiet, realization, dmNotes…).
 No PC has `knowsTheyCanCast` set; the sheets say *focus* and *anchor*.

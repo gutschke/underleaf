@@ -27,4 +27,19 @@ if [ -n "$HITS" ]; then
   echo "$HITS"
   exit 1
 fi
-echo "clean — no player names in $REPO"
+
+# Secret-gist URLs and ids must never reach a public repo. Their whole value is
+# that they are undiscoverable; a committed id is a permanently public one, and
+# the only revocation is deleting the gist for everybody. Caught once, on
+# 2026-09-06, when a private state file was written inside the repo by mistake
+# and was one `git add -A` away from being published.
+GIST=$(grep -rInE "gist\.github\.com|\b[0-9a-f]{32}\b" \
+        --include='*.md' --include='*.json' --include='*.html' \
+        --include='*.py' --include='*.sh' "$REPO" 2>/dev/null)
+if [ -n "$GIST" ]; then
+  echo "LEAK — a gist URL or 32-hex id is in the public repo:"
+  echo "$GIST"
+  exit 1
+fi
+
+echo "clean — no player names or gist ids in $REPO"

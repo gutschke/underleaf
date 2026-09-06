@@ -546,13 +546,62 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > it: a third triggers a design conversation.** *(DM sign-off wanted before this is
 > treated as settled.)*
 >
+> **4a · {{pc:1}}'S BEAT — fuse the S1 instance with the owed father seconds. Net cost zero.**
+> *(Arc consultant, 2026-09-06. He is the least developed PC and the cause is that
+> every beat he has ever had is* notice *rather than* do. *This changes the verb
+> and adds no time.)*
+>
+> **An allergy card is taped to the folding table by the cake** — a parent's
+> handwriting, **the wrong child's name against the wrong allergen.** Another
+> parent reads it aloud and agrees with it warmly. *"Oh, that's right, that's
+> Mei's cousin — no nuts."* It isn't. Two more adults agree comfortably.
+> **{{pc:1}} is standing right there holding a paper plate.**
+>
+> **He picks up the pen lying next to it, crosses out the wrong line, writes the
+> right one, and puts the pen back.** He does not announce it. He does not ask
+> whose card it is. **He does not raise it with anybody first.**
+>
+> **The mother whose card it is thanks him warmly and genuinely — and four minutes
+> later tells the next parent the wrong allergy anyway.** She is not lying and not
+> obstructing. She already knows the answer.
+>
+> Then she asks whether he has family here, **and he has to answer in front of
+> people.** *(The father thread breathing. No information, no lead. Absolute
+> months only — never "seven years.")*
+>
+> > **IF YOU GET ONE THING RIGHT IN THIS BEAT, GET THIS: she must be pleasantly,
+> > immovably wrong** — the exact shape of Rosa's *"It's four blocks, dear"*.
+> > **If she takes the correction gracefully he has won, nothing develops, and Ep
+> > 9's release is unearned.**
+> >
+> > **Keep it mundane.** Nobody is concealing anything, nobody is harmed, no child
+> > goes near a nut. **If the table reads it as sinister, S1 has misfired — cool S1
+> > for two sessions per the hook's own rule.**
+> >
+> > **He says nothing and hands the pen back.** That is what keeps it off
+> > `alignmentDriftWatch` — this is not the hacker enjoying being right.
+>
+> **Why it lands:** it is his want executed **as an act**, against exactly the
+> refusal-shape it was forged against — the room's soft *don't bother* — **and he
+> does it anyway. The correction changes nothing, which is the truer and better
+> version of his want.** It also gives the table a precedent, so Ep 9's release
+> reads as the same man rather than a new one. **It de-risks Ep 9 instead of
+> loading it.**
+
 > **4 · ASSIGN AN S1 FLATTENING INSTANCE — Ep 7 has none.** The numbering runs #2
 > (Ep 6) → #3 (Ep 8), so the Eps 9–14 drought has quietly extended backwards. A
 > birthday party makes it easy: a parent agrees warmly with a wrong allergy on a
 > form, or a delivery app confirms a cake nobody ordered.
 >
-> **5 · {{pc:1}}'s articulation refusal does NOT come here.** It goes to Ep 9's
-> Ortiz voicemail. His Ep 6 was the broom closet and the planners.
+> **5 · {{pc:1}}'s articulation refusal is CUT, not re-homed.** *(Arc consultant,
+> 2026-09-06.)* Ep 9's Ortiz voicemail would be **the fourth attempt at the same
+> failed shape** — a refusal delivered by an institution that is not in the room,
+> to a PC who can only receive it. **B18 keeps its real job (S3's institutional
+> redirect) either way.** That leaves Ep 9 carrying his moment-of-release **alone,
+> in the {{pc:3}} pair-walk, with air around it**, which is what that beat needs.
+> **This is a subtraction and it is most of the fix.** If you want the refusal at
+> full pressure later, **put it in Trina's mouth in Act II — a person in a room,
+> not a voicemail.**
 >
 > **6 · B27 CAN FIRE IN ANY SESSION, INCLUDING THIS ONE.** The party is
 > considering robbing Rosa. One line in the run-guide so the DM is not caught cold
