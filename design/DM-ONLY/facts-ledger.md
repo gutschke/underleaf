@@ -2439,6 +2439,27 @@ keeps.** Three things were then agreed, comfortably, by the room:
 > what was left · both true because nothing has forced a reconciliation · or
 > entirely mundane.** **Never explain it.**
 
+### The amplifier — {{pc:1}}'s designed arc did not happen, and what replaced it is better company
+
+**Written:** the caller's microphone fails, {{pc:1}} is the only person who can fix
+it, he spends the morning under the stage, Del uses it afterwards without thanking
+him, and **he has avoided dancing by becoming load-bearing.**
+
+**Played:** the amplifier had come unplugged. **Winnie had tripped over the power
+cable.** He had it back in seconds, and she stood there with an embarrassed grin
+while he did it.
+
+> **The beat is spent and did not deliver what it was for.** He never became
+> indispensable, so *avoiding the floor by being useful* was never established —
+> which matters, because that was the shape of his whole morning and it is the
+> shape his want takes in company. **Do not re-run it.**
+>
+> **What was gained instead:** a genuine cross-lane moment. **Winnie is
+> {{pc:4}}'s paired dancer**, and she now has a small private embarrassment with
+> {{pc:1}} that nobody else in the room noticed. **She is exactly as delighted by
+> him afterwards as before**, which is her whole function, and this time
+> {{pc:1}} has first-hand evidence of it.
+
 ### T7 retires by exhaustion, not by scene *(ruled 2026-09-06)*
 
 {{pc:4}}'s brown-edged photograph was scheduled to retire at Rosa's kitchen and

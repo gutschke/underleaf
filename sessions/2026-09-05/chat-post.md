@@ -47,8 +47,11 @@ anyone had taken them seriously.
 
 **{{pc:1}} was drafted on sight by Estelle** — early eighties, broomstick skirt,
 the best mover in the room — **on the strength of his jacket.** She adopted him
-for the morning and kept coming back to check on him, including while he was
-under the stage fixing the PA.
+for the morning and kept coming back to check on him.
+
+**The amplifier died and {{pc:1}} had it back in about nine seconds**, because
+Winnie had tripped over the power cable. She stood there with an embarrassed grin
+while he plugged it back in. Nobody else noticed either of these things.
 
 **{{pc:5}} found the man in the waistcoat.** Bernard clocked the pistol within
 about a minute of it being mentioned, patted him down so discreetly it was almost
