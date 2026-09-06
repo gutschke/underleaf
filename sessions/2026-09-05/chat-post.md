@@ -85,6 +85,10 @@ records clerk could read. It emerged later that the filing was probably Rosa's
 own work. **She says they are properly organised now.** She was not embarrassed
 about it and did not elaborate.
 
+Winnie kept coming back from the storage room with more boxes, and was frankly
+delighted that {{pc:3}} could make anything of them at all — especially when she
+turned up the receipt for the coffee urn.
+
 Somebody got the bookings out. **A youth club has a standing Wednesday night at
 the hall — every Wednesday, back through every record they keep.** Nobody in that
 room has ever met them. Everyone was quite certain about that, and equally certain

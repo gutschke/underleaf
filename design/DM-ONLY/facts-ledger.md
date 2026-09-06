@@ -2264,6 +2264,15 @@ boxes — *"They were not the wrong boxes. They were better boxes."*
 > disorder may be Rosa's ordering system**, still in place decades later. It may
 > also just be forty years of nobody filing anything.
 >
+**WINNIE KEPT FETCHING MORE.** She hauled box after box out of the storage room
+for {{pc:3}}, **and was genuinely impressed that {{pc:3}} could make sense of
+them** — and that she found the receipt for the coffee urn.
+
+> **So all three statements are true at once, which is the good bit.** A records
+> clerk found them wildly out of order · **Rosa insists they are properly
+> organised** · and **{{pc:3}} read them anyway.** Nobody at the table put those
+> side by side. **Do not put them side by side for them.**
+
 **CONFIRMED AT THE TABLE:** the boxes were **wildly** out of order, the party
 later learned this was probably Rosa's doing — **and Rosa insists they are
 properly organised now.** She is not embarrassed and does not walk it back.
@@ -2457,6 +2466,24 @@ keeps.** Three things were then agreed, comfortably, by the room:
 > **Four readings stay live: flattening · an edited-out group whose booking is
 > what was left · both true because nothing has forced a reconciliation · or
 > entirely mundane.** **Never explain it.**
+
+### Winnie went everywhere, and that is what she is now
+
+**She was written as {{pc:4}}'s paired dancer** — the one who names him on sight
+and is equally delighted by everybody. **In play she became the room's connective
+tissue instead**, and crossed every lane without anyone noticing:
+
+- She **drafted the party at the door.**
+- She **tripped over the amplifier cable**, which collapsed {{pc:1}}'s whole
+  designed arc into a nine-second gag and gave the two of them a private
+  embarrassment.
+- She **hauled box after box out of the storage room for {{pc:3}}** and was
+  visibly impressed by what {{pc:3}} could do with them.
+
+> **Stop treating her as one PC's partner.** She is the room's hospitality made
+> into a person, she goes wherever the interesting thing is, **and her being
+> equally delighted by all of them is exactly why that works.** Lane discipline
+> applies to Estelle, Hector, Joyce and Bernard. **It does not apply to Winnie.**
 
 ### The amplifier — {{pc:1}}'s designed arc did not happen, and what replaced it is better company
 
