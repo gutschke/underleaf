@@ -57,7 +57,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 0,
+  "marks": 1,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -79,7 +79,7 @@
   "markBullets": {
     "hardMoment": false,
     "learned": false,
-    "risk": false,
+    "risk": true,
     "against": false,
     "complication": false
   },
@@ -121,6 +121,13 @@
       "bullet": "against",
       "criterion": "Acted against your own short-term interest because the story demanded it",
       "note": "Volunteered everything to Ortiz, unprompted and at length, in front of a party who resent his withholding — giving away the only leverage he had, and she wrote him off for it. **He then did the analysis nobody expected from him** — the gap between the two dates, and why it would attract attention — and got the room back on the work rather than the performance. *(The notebook handover was DM-forced and is not what this mark is for.)*"
+    },
+    {
+      "episode": "006",
+      "date": "2026-09-05",
+      "bullet": "risk",
+      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
+      "note": "Ep 6, Eight Twenty Sharp."
     }
   ],
   "inventory": {

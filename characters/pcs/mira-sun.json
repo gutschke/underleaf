@@ -54,7 +54,7 @@
   "harm": 0,
   "stress": 1,
   "advancements": 1,
-  "marks": 0,
+  "marks": 1,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -73,7 +73,7 @@
   },
   "markBullets": {
     "hardMoment": false,
-    "learned": false,
+    "learned": true,
     "risk": false,
     "against": false,
     "complication": false
@@ -116,6 +116,13 @@
       "bullet": "risk",
       "criterion": "Took a meaningful risk for someone else",
       "note": "Worked the lock on a missing woman's front door in a residential street, then went inside, for Bea's sake and not her own."
+    },
+    {
+      "episode": "006",
+      "date": "2026-09-05",
+      "bullet": "learned",
+      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
+      "note": "Ep 6, Eight Twenty Sharp."
     }
   ],
   "inventory": {

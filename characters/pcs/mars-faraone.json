@@ -53,7 +53,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 0,
-  "marks": 5,
+  "marks": 6,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -114,6 +114,13 @@
       "bullet": "complication",
       "criterion": "Took on a complication or scar that will matter later",
       "note": "A concealed-carry permit holder logged at Park Station that morning and standing inside an unlawfully entered house that evening."
+    },
+    {
+      "episode": "006",
+      "date": "2026-09-05",
+      "bullet": "against",
+      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
+      "note": "Ep 6, Eight Twenty Sharp."
     }
   ],
   "inventory": {

@@ -46,7 +46,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 0,
+  "marks": 1,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -63,7 +63,7 @@
     "substrateSensitivity": "Body-level substrate-sensitivity in her care/body domain. Graded severity: sub-threshold 'low hum' for nearby Cheap-tier casts, migraine (throbbing pressure behind eyes) for nearby Costly+ casts or substrate-sensitive people in body-crisis, debilitating for Hard-tier / anchor-site permeability firing loudly. Fires ~1-2 per act at most. Never voice the mechanism at the table until her Phase-2 realization beat lands."
   },
   "markBullets": {
-    "hardMoment": false,
+    "hardMoment": true,
     "learned": false,
     "risk": false,
     "against": false,
@@ -107,6 +107,13 @@
       "bullet": "complication",
       "criterion": "Took on a complication or scar that will matter later",
       "note": "A licensed ICU nurse, complicit in unlawful entry hours after being logged as a visitor at a police station. Her licence is the thing she has built her life on."
+    },
+    {
+      "episode": "006",
+      "date": "2026-09-05",
+      "bullet": "hardMoment",
+      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
+      "note": "Ep 6, Eight Twenty Sharp."
     }
   ],
   "inventory": {

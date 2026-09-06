@@ -1,0 +1,84 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Session 6 — Eight Twenty Sharp",
+  "date": "2026-09-05",
+  "inGameDate": "Saturday 20 February 2027",
+  "episode": "006",
+  "presentPcs": [
+    "Morgan Reyes",
+    "Priya Iyer",
+    "Mira Sun",
+    "Dakota Whitmore",
+    "Marcus Faraone"
+  ],
+  "scenes": [
+    {
+      "name": "Rosa's house, Berkeley Hills — 8:20am",
+      "summary": "TO CONFIRM — the DM's own recall needed for the opening interview. What is certain: the party arrived on time, Rosa answered plainly and volunteered nothing, and she was dressed to go out with a canvas bag by the door. She had double-booked them against the folk dance she has not missed in thirty-one years. The party worked hard throughout the morning never to mention Alaia, having been told in Ep 5 not to."
+    },
+    {
+      "name": "The lift — one car, four blocks",
+      "summary": "The party offered the ride unprompted; the escalation ladder was never needed. All five PCs and Rosa squeezed into a single vehicle, somewhat illegally, with Rosa in the shotgun seat. Priya's seatbelt objection was overridden pleasantly and immovably — 'It's four blocks, dear. Left at the stop sign' — the same shape as the refusal Rosa gives her later at the hall, delivered two hours earlier at no stakes and unremarked by anyone. Because the conversation continued in the car, Rosa never went looking for her mother's correspondence with Loewe; that box remains unfound and unsearched. Dakota offered to show her one of Marsh's ledgers while the car was moving. Rosa: 'Now — that's unexpected.' She deferred it to her house, after the dance, on the grounds that she could not read a handwritten book in a moving car with her glasses on her forehead — which converted Scene 6 from a scheduled beat into a promise made in front of witnesses."
+    },
+    {
+      "name": "Live Oak Park Social Hall — the dance",
+      "summary": "Forty people who have known each other for decades, nobody needing anything from five strangers, and Rosa repeatedly swung away down the line. The table reenacted the dance physically — standing up, turning each other, doing the figures — which was unplanned and was the best thing in the session. Morgan was drafted on sight by Estelle, a spry woman in her early eighties in a broomstick skirt, on the strength of his jacket; she adopted him for the morning and kept returning to check on him, including while he was under the stage with the PA. Mira found disordered boxes of receipts nobody has ever filed. The Alaia trade never fired at all — the party avoided the name so thoroughly that the mechanic had no route to firing. One Winnie story was interjected by the DM instead: the year Rosa catalogued the hall's records and put them all back in what she called better boxes. The questions were shouted and effectively all of them got asked; the answers arrived out of order and incomplete, and the players reconstructed a coherent picture afterwards from their own notes. The birds never came up, to the DM's regret."
+    },
+    {
+      "name": "Priya's moment",
+      "summary": "Priya rolled very low. The stumble had to be inserted rather than played from the deck, and it landed weakly by design of the dice: Rosa did not fall, Priya barely registered anything, and afterwards doubted whether she had seen something at all or imagined it. The held GM line — 'I've never met anyone else who does it' — never fired here. Its equivalent arrived at the door hours later, in narrower and better form."
+    },
+    {
+      "name": "Back at the house — the long scene",
+      "summary": "Morgan, disoriented from two hours of spinning and several low rolls, walked into the broom closet by the lobby instead of following the party to the kitchen, and stayed some minutes admiring a mechanical dust pan with an integrated roller and a carpet beater. He came out on a high roll and immediately spotted the row of daily planners Rosa has kept since her senior year of college — tidy at first, steadily more idiosyncratic, with a marked jump in disorder the year she found the ledger. He could not explain it. The party had him search the planners against every significant date they hold, including the day Bea went missing and the day of the 747; neither shows anything, on good rolls. Rosa, when he finally came in: 'I knew there was one more of you. Let's move you to the living room — I only have four kitchen chairs.' Mars pressed her about the ledger repeatedly and she artfully did not hear him. Asked in person, she has never heard of Bea Ferro, Argonaut, or Farallon. Dakota showed her his ledger; she was duly impressed, recognised techniques similar to her own without saying what she recognised, and became convinced her mother probably had kept one after all — something she had never been certain of. She has no wish to acquire his and turned down a copy-for-copy trade without interest. She let Mira photograph every page of hers, thought it a great deal of work, did not understand the significance, and saw no harm. She will not part with the original: it lives under the microwave, and that is the end of the discussion. Mira noted, as low background, that the ledger contains not one erased entry, where every other historic document she has handled in recent weeks had omissions; she does not know what it means. The last page is unfinished and covers more than ten years. The party scanned for their own surnames and found nothing. Rosa volunteered the Alaia material herself when openings came — the Junior Ranger letter, with the framed Park Service reply that hangs outside Alaia's old room, and the summer of the tent and the skunk. Asked what happens to her belongings when she dies, she hopes Alaia has the sense to call an estate clean-up company: eBay or landfill, and she is fine with it, with one exception — a small, intricately decorated porcelain bowl she would like Alaia to keep, sentimental value, unexplained and unasked. Mars cheekily declined the offered lemonade and asked for a rhubarb drink; she had frozen rhubarb on hand for a strawberry-rhubarb pie, thawed it in a 1980s microwave, blended it in a 1970s Osterizer, offered club soda (declined), and topped it from a manual ice-cube tray."
+    },
+    {
+      "name": "Goodbye",
+      "summary": "At the door she wished them luck in finding out what is happening, and said the thing the session was built around, in a narrower and better form than it was written: she has never met another keeper of a ledger, but on rare occasions she has met other people with abilities like theirs — and she never said what those abilities are."
+    }
+  ],
+  "summary": "Saturday morning in the Berkeley Hills. Rosa Vega had double-booked the party against a folk dance she has not missed in thirty-one years, so all six of them squeezed into one car and went. The morning was a room of forty people who needed nothing from them, and the facts arrived from everybody except Rosa — who kept being swung away down the line. Back at the kitchen table she let them read a ledger she will not let them take, allowed every page of it to be photographed, was genuinely impressed by the one Dakota put next to it, and said at the door that she has never met another keeper — though she has, rarely, met others who can do what the party is learning to do.",
+  "drift": [
+    "AMENDMENT TO CANON: Rosa's claim is narrower than it was written. She has never met another KEEPER; she has met other casters, rarely, and never said what they can do. This supersedes 'she believes she is the only person in the world who does this' and fits her existing 'you'll meet others' line, which now reads as experience rather than prophecy.",
+    "Seeing Dakota's ledger convinced Rosa her mother probably kept one. Facts-ledger section 25 says Isabel kept none. A ruling is owed before Rosa next appears; the default lean is to hold 25 and let Rosa be wrong, since she already assumes it went to a landfill.",
+    "The party holds a complete photographic copy of Rosa's ledger, with her permission. It is the first ledger they can study at leisure and the one that names no other keeper across forty-eight years.",
+    "Mira noticed the ledger has no erased entries. She does not know that this is what makes it an anchor. She did not check Dakota's three, which are originals from the Sacramento locker and would show the same thing. That comparison is unspent and is in their hands.",
+    "The party believes they need all eight ledgers. Nothing has told them this. They are also counting Isabel's purported ledger, which may not exist. Both errors stand uncorrected by design.",
+    "The party is openly wondering whether to rob Rosa. No decision made. They already have every page photographed, so it would gain them the object and not the information.",
+    "The Alaia trade never fired because the Ep 5 recap told the players not to mention her. Our design fault, not a table failure. Rosa volunteered the material herself instead; the second half — Winnie retaliating on her behalf — is owed forward, with two returns unspent.",
+    "Estelle is new and canon: early eighties, the best mover on the floor, older than Rosa, adopted Morgan over his jacket. Prime callback candidate for Eps 9-12.",
+    "The framed Park Service reply hangs outside Alaia's old room and has for decades.",
+    "The porcelain bowl is held between two readings — a character summary that has already paid off, or a genuine Chekov item. Spending it as the second spends the first.",
+    "Rosa's planners jump in disorder the year she found the ledger. Whatever 1979 was, it reorganised more than her filing.",
+    "Dakota's player reasoned out, unprompted, that the un-performed register works best with elderly people, and held it all session. Matches personaDropCanon exactly and arrived independently. The motive is still instrumental. A6 is substantially advanced and not closed.",
+    "The party shared one car without argument, which they might not have done under an abrasive register. Nobody at the table named it."
+  ],
+  "marks": [
+    {
+      "pc": "Morgan Reyes",
+      "bullet": "complication",
+      "note": "PROPOSED — confirm the criterion. Lost several minutes to genuine disorientation in a stranger's broom closet, then did the patient unglamorous work: read a shelf of another person's daily planners against every date the party holds, and reported honestly that nothing was there."
+    },
+    {
+      "pc": "Priya Iyer",
+      "bullet": "hardMoment",
+      "note": "PROPOSED — confirm the criterion. Moved before she decided to, for a woman who turned out not to need it, and then sat with not knowing whether she had seen anything at all. She raised the seatbelt and was overruled, and let it go."
+    },
+    {
+      "pc": "Mira Sun",
+      "bullet": "learned",
+      "note": "PROPOSED — confirm the criterion. Photographed every page of a ledger nobody had ever let out of a kitchen, and noticed on her own that it contains no erasures where every other document she has handled does."
+    },
+    {
+      "pc": "Dakota Whitmore",
+      "bullet": "risk",
+      "note": "PROPOSED — confirm the criterion. Put his own ledger on the table in front of a woman he had known for four hours, unprompted, having offered it first in a moving car — and played the whole day without the persona."
+    },
+    {
+      "pc": "Marcus Faraone",
+      "bullet": "against",
+      "note": "PROPOSED — confirm the criterion. Kept pressing Rosa about the ledger long past the point where it was winning him anything, because somebody had to ask and the rest of the party had stopped."
+    }
+  ],
+  "dmReflections": "The physical reenactment of the dance was unplanned and carried the hour; whatever the next version of the minigame is, it must leave room for people to stand up. The mechanic itself underperformed: the per-PC progressive arcs did not survive contact, DO THIS cards fired out of position and later cards contradicted encounters that had already fully played out, and the ADOPTED deck never came up at all — its second failure in two runs. The run-guide did not carry the DM through it either. Both need another editing pass and more simulated runs. What did work was the shape rather than the system: the hall under-delivered, the players reconstructed the picture from their own notes, and the long scene at Rosa's table closed the gaps properly. Budget for that scene rather than treating it as overflow. Two dice outcomes shaped the session more than any design did — a very low roll made Priya doubt she had seen anything, and a very low then very high roll put Morgan in a broom closet and then in front of the planners."
+}

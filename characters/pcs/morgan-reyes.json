@@ -51,7 +51,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 0,
+  "marks": 1,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -74,7 +74,7 @@
     "learned": false,
     "risk": false,
     "against": false,
-    "complication": false
+    "complication": true
   },
   "markLog": [
     {
@@ -114,6 +114,13 @@
       "bullet": "risk",
       "criterion": "Took a meaningful risk for someone else",
       "note": "Hammered on that front door in full view of the neighbours while Mira worked the lock — the noise, and the attention, were his."
+    },
+    {
+      "episode": "006",
+      "date": "2026-09-05",
+      "bullet": "complication",
+      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
+      "note": "Ep 6, Eight Twenty Sharp."
     }
   ],
   "inventory": {
