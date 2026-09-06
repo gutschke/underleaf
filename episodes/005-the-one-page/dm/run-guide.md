@@ -994,7 +994,7 @@ That is the whole scene, and it is the session's closing image. **Do not let it 
 
 **Why they go there at all** — supply a reason, because Ep 4's Bea-callback line never landed and the party has no standing reason to detour. Any one of these works; pick before the session:
 
-- **{{pc:3}} wants to compare hands.** {{pc:4}} has Marsh's three ledgers *(they were on his dining table in Ep 4 and they are still his)*, and she has just spent a car ride reading an excised page. Bea is the nearest person with comparable handwriting to hand — Rosa Vega has forty years of ledger entries too, but the party does not know that yet.
+- **{{pc:3}} wants to compare hands.** {{pc:4}} has Marsh's three ledgers *(they were on his dining table in Ep 4 and they are still his)*, and she has just spent a car ride reading an excised page. Bea is the nearest person with comparable handwriting to hand — Rosa Vega has forty-eight years of ledger entries too, but the party does not know that yet.
 - **{{pc:1}} wants the Argonaut name run past someone who keeps records for a living** — especially now that Ortiz has taken the page back.
 - **{{pc:4}} owes her a visit** and knows it. He went to her once and didn't say so.
 

@@ -784,7 +784,7 @@ Mars's cast is not rolled — it fires on {{pc:5}}'s player's description (stanc
 
 ### Dakota-stance matrix ({{pc:4}}'s player picks; DM cannot guarantee)
 
-See `ep4-beck-support.md` for full stance-appropriate dialogue and Q&A. Summary:
+See `ep4-pc4-support.md` (the DM-only per-player support doc, kept locally) for full stance-appropriate dialogue and Q&A. Summary:
 
 | Stance | Scene 1 texture | Scene 3 at Vivian's |
 |---|---|---|
@@ -834,7 +834,7 @@ See `ep4-beck-support.md` for full stance-appropriate dialogue and Q&A. Summary:
 - Note Morgan's mantel-clock noticing on his cast log (second cast, factual-intuition domain)
 - Note {{pc:4}}'s player's chosen stance and the party's response
 - Note which Ending fired (A/B/C)
-- Update `project_underleaf_play_state.md`
+- Update the played record in `sessions/<date>/notes.md`
 - Add per-PC marks earned (max 1 per PC per session)
 - Prepare Ep 5 planning with load-check (Sunday-Vivian + Ortiz + Rosa + Loewe deep-read + Mars-follow-up + Priya-Phase-2 candidate)
 

@@ -7,7 +7,7 @@ This folder accumulates post-session logs as the campaign is played. Each sessio
   `quire lint .` at the campaign root to check it.
 - `events.jsonl` — append-only event log captured during play (by the runtime).
 - `snapshot.json` — pointer to the state at session start.
-- `summary.md` — DM's narrative summary, written after the session.
+- `chat-post.md` (player-facing recap) + `notes.md` (DM played record) — DM's narrative summary, written after the session.
 
 `session.json` is the durable record; the schema is intentionally permissive
 (`additionalProperties: true`), so extra fields such as `scenesNotReached`,
@@ -18,7 +18,7 @@ Session summaries are *public* — players read them between sessions to remembe
 
 ## Backlog
 
-Eps 1 and 2 have no session log yet — their real-world play dates were not
+Eps 1 and 2 have session dirs; their played records are still thin — their real-world play dates were not
 recorded anywhere in the repo. Add `sessions/<date>/session.json` for each once
 the dates are confirmed.
 

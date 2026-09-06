@@ -898,6 +898,15 @@ Rosa Vega (b. ~1947, currently ~79) is:
 
 ---
 
+### Ep 6 played update (2026-09-05)
+
+**The Berkeley visit is played.** She let them read the ledger and **let {{pc:3}}
+photograph every page**; she would not part with the original. **It lives under
+the microwave in her kitchen** — not at Bancroft, and that is the end of the
+discussion. **The former-caster reveal is spent**, though not in the written
+words: see §46 for what she actually said and how, and for the amended claim
+about being alone. **Her fire-by of Ep 5–6 is closed.**
+
 ## 25. Isabel Vega — Rosa's mother, Loewe correspondent
 
 **First established:** Ep 4 (named via Vivian's Rosa introduction)
@@ -917,6 +926,36 @@ Isabel's letters MAY be part of Loewe's surviving letter file (§22) OR may have
 **Risk if unresolved:** low. Isabel is a hinge NPC, not a foreground character.
 
 ---
+
+### Ep 6 played update (2026-09-05) — READ THIS BEFORE THE TEXT ABOVE
+
+**Isabel died in 1992, aged 71.** She outlived Julián by roughly a decade, was
+free to assemble Loewe's letters with nobody left to hide them from, **and never
+did.** Rosa now has the same box and the same inability to say why.
+
+**Her husband Julián Vega sold industrial kitchen equipment to restaurants,
+wholesale, on the road across California.** *(He was briefly written as a Cal
+mathematics professor; retconned 2026-09-05 because it made him confusable with
+Rosa's husband, who was also written as a Cal man.)*
+
+> **THE RULING THIS SECTION IS CITED FOR — stated here so it stops being an
+> inference:** **Isabel was not a caster, not a keeper and not an archivist. She
+> kept no ledger and wrote no anchors. Her letters were letters and her notebooks
+> were notebooks.** She is **retired as an NPC** — do not stage her, do not deepen
+> her, do not add material.
+
+> **OPEN — hook B26.** Seeing {{pc:4}}'s ledger in Ep 6 convinced Rosa her mother
+> probably had kept one; she had never been certain. **That belief is false under
+> the ruling above, and the default is to leave it false** — she already assumes
+> it went to a landfill, so it never has to be corrected on screen. **Decide
+> before Rosa next appears.**
+
+> **SUPERSEDED ABOVE:** the paragraphs offering Isabel's letters as a possible
+> part of Loewe's surviving file, and as a hand-off surface at the Berkeley visit,
+> **are spent.** Ep 6 settled it: **Loewe's letters to Isabel survive uncatalogued
+> in a box at Rosa's house**, mixed with garden notes and recipes, **and Rosa did
+> not go looking for them** — the party kept her talking in the car. Do not
+> re-open the letter-file route.
 
 ## 26. Warren McCulloch — the safe historical namedrop
 
@@ -2291,8 +2330,37 @@ of any wish to.
 great deal of work, did not understand the significance, and **saw no harm.**
 *(The party now holds a complete photographic copy — see hook ledger.)*
 
-**She will not part with the original. It lives under the microwave in her
-kitchen. That is the whole of the discussion**, and she does not argue about it.
+**She will not part with the original.** She says, very clearly and more than
+once, that **the ledger belongs under the microwave** — and she never explains why.
+
+> ### The microwave rule — the best single tell in the episode
+>
+> **Two things are true at once and she is untroubled by both.** The ledger is not
+> precious: it lives in a dirty, rough, entirely ordinary spot under a kitchen
+> appliance, and she is not careful with it. **And it must stay exactly there.
+> That is a rule.**
+>
+> **She does not know why. She knows that it is important.** She will not argue
+> about it and she will not justify it, in the same way she does not justify the
+> planners or the boxes at the hall.
+>
+> **Not sentiment and not carelessness — a third thing**, and the closest the
+> party has come to seeing a keeper's compulsion from the outside. *(Compare the
+> two kinds of ledger entry in `anchors-cards-ledgers.md`: the deliberate
+> anchoring, and the entry the keeper could not not write.)*
+>
+> **What this is NOT: a claim that the ledger cannot be moved.** Anchors plainly
+> can be. **{{pc:4}} has three of them**, carried out of a Sacramento locker, and
+> the campaign is comfortable with ledgers fading or being destroyed — Rosa is at
+> peace about hers, and Isabel's is assumed to be in a landfill. **Nothing here
+> makes a ledger immovable or unstealable.**
+>
+> **What it IS:** evidence that **ledgers have rules about their existence, and
+> the rules are not legible to an observer.** Rosa is following one she cannot
+> articulate. That is all anyone knows, including her.
+>
+> **HELD OPEN, do not resolve:** whether the rule is about the object, the place,
+> or only about her. **She says the same sentence under all three.**
 
 **{{pc:5}} pressed her about the ledger repeatedly and she artfully did not
 hear him.** Or she was genuinely distracted. **We may never know**, and she
@@ -2318,7 +2386,7 @@ entirely stopped being a keeper. **She has become extremely selective.**
 
 **The party scanned for their own surnames and found nothing.**
 
-### RULING NEEDED — did Isabel keep a ledger?
+### RULING NEEDED — did Isabel keep a ledger?  *(hook B26)*
 
 **Seeing {{pc:4}}'s ledger convinced Rosa that her mother probably did keep one.
 She had never been certain before.**

@@ -1,75 +1,155 @@
 **Session 6 — Eight Twenty Sharp**
 
-Rosa Vega said 8:20 sharp and hung up without giving an address. You turned up
-anyway, on time, and discovered she had double-booked you against a folk dance
-she has not missed in thirty-one years.
+You arrived at 8:12 and then spent eight minutes arguing about who should knock.
+{{pc:4}} settled it at 8:20 exactly. He had prepared a triple knock. He got one
+contact with the door before it opened, and Rosa Vega was already saying come in.
 
-**So all six of you went in one car.** Rosa took the shotgun seat. {{pc:2}}
-raised the seatbelt situation and was told, pleasantly and without any room in it
-at all, *"It's four blocks, dear. Left at the stop sign."*
+**She sat you in the living room and kept looking at her watch.**
 
-**{{pc:4}} offered to show her a ledger while the car was moving.** *"Now —
-that's unexpected."* Not in a moving car, she said, and not with these eyes.
-Bring it to the house after.
+You asked about her father. You asked quite a lot about her father. And because
+Julián Vega sold industrial kitchen equipment to restaurants and spent his life
+driving to every town in California, Rosa could answer every single question
+honestly — *yes, he might well have been to Bodie; he went everywhere* — until
+one of you worked out that **the person in that house who had corresponded with
+Erik Loewe for twelve years was her mother.**
 
----
+**Isabel.** Sharp, kind, dead since 1992.
 
-**Nobody invited you into that hall. The room just took you.** Forty people who
-have known each other for decades, a coffee urn, a sprung floor, and a caller who
-does not thank anybody. **{{pc:1}} was drafted on sight by Estelle** — early
-eighties, broomstick skirt, the best mover in the building — **on the strength of
-his jacket.** She adopted him for the morning and kept coming back to check on
-him, including while he was under the stage fixing the PA.
+Two things landed on Rosa in about ninety seconds. The first was that the old
+woman in Sacramento who sent you — **Vivian, her closest friend since they were
+small** — is the daughter of the man her mother wrote to. Sixty-five years of
+phone calls and neither of them had ever put it together.
 
-**And Rosa kept getting swung away down the line.** You shouted questions across
-the set at whoever reached her. You got most of the answers, in the wrong order,
-usually not to the question that had been asked.
+**The second was {{pc:4}} taking out a ledger.** She did not get a close look.
+There was no time. But she had a very long moment of not being able to believe
+that there was another book in the world put together the same way hers is.
 
-**But the answers were never really the point.** They came from everybody else —
-her name in every sign-in book since 1996, a photo from 1997 with a book under her
-arm, forty people who have no idea what a second notebook-keeper would even be.
-**You built that picture yourselves, out of your own notes.**
+Then she said she had to go, and where she was going was **square dancing**, and
+you were all far too excited to let that happen without you.
 
 ---
 
-**Then back at the kitchen table, where it got good.**
+**Six people. One car. Four blocks.** Rosa took the shotgun seat. {{pc:2}} raised
+the seatbelt situation and got *"It's four blocks, dear. Left at the stop sign."*
+Rosa handed her tin to {{pc:3}}, who correctly identified it as a promise of
+cookies.
 
-{{pc:1}} walked into the broom closet instead of the kitchen and spent some
-minutes with a mechanical dust pan and a carpet beater before his head cleared.
-Which is how he found **the row of daily planners Rosa has kept since her senior
-year of college** — neat at the start, and getting steadily stranger, with one
-sharp jump into chaos in a single year.
+**Nobody invited you into that hall. You were adopted at the door.**
 
-You had him check them against every date you're carrying. **Nothing.**
+Forty people who have known each other for decades, and every one of them
+delighted to have young blood in the building. The flirting was outrageous and
+entirely unserious — several women well past eighty took turns at {{pc:5}} with a
+commitment that bordered on athletic, and would have been genuinely shocked if
+anyone had taken them seriously.
 
-Rosa, when he finally came in: *"I knew there was one more of you. Let's move you
-to the living room — I only have four kitchen chairs."*
+**{{pc:1}} was drafted on sight by Estelle** — early eighties, broomstick skirt,
+the best mover in the room — **on the strength of his jacket.** She adopted him
+for the morning and kept coming back to check on him, including while he was
+under the stage fixing the PA.
 
-**{{pc:5}} asked for a rhubarb drink instead of the lemonade.** She had frozen
-rhubarb in the freezer, on the off chance she wanted to make a pie. Microwave from
-the eighties. Blender from the seventies. Ice out of a tray you crack by hand.
+**{{pc:5}} found the man in the waistcoat.** Bernard clocked the pistol within
+about a minute of it being mentioned, patted him down so discreetly it was almost
+polite, and gave him a wink and *"your secret's safe with me"* — visibly
+impressed. Then he said nothing important had ever happened to him, and proceeded
+to tell you that he was born in Visalia, won the lottery at sixteen, was flown to
+San Francisco to be photographed with an enormous cheque, and met a girl at the
+hotel check-in. **Pia.** They found each other again after his deployment and
+were married most of a lifetime. She died eight years ago.
 
-**{{pc:4}} put his ledger on her table and she was impressed.** She recognised
-something in how it was written and did not say what. She does not want it. He
-offered to trade copies and she was not remotely interested.
+*"You want to know why she's called Pia? I never knew. Some exotic Middle Eastern
+name or something. Dunno. Fourth-generation San Franciscan, her family's been here
+longer than most of them. Never told me."*
 
-**She let {{pc:3}} photograph every single page of hers.** She thought it was a
-ridiculous amount of work and could not see what anyone would want it for, and
-saw no reason to say no.
+Vietnam, he said, was all bullshit; they had him in a warehouse doing logistics.
+He then patiently failed to recognise the name of every single character from
+*Forrest Gump* that you could think of, and was lovely about it.
 
-**She will not let the book leave.** It lives under the microwave. That is the
-whole of the conversation.
+---
+
+**Rosa, meanwhile, kept being swung away down the line.**
+
+You shouted questions across the set at whoever reached her. You got answers in
+the wrong order, usually to a question nobody had asked. And the actual facts
+came from **everybody else in the room** — her name in every sign-in book since
+1996, a photograph from 1997 with a book under her arm, forty people who have no
+idea what a second notebook-keeper would even be.
+
+Somebody asked what Rosa had written down about the hall that impressed everyone
+so much. **It is apparently the oldest building any of them can think of** — put
+up in the early 1860s, one of the first in the East Bay, and one of the very few
+things standing after 1906. Rosa wrote it down. The hall has believed it ever
+since.
+
+**{{pc:2}} thought she saw Rosa go down**, halfway through a dance, for about half
+a second. By the time she had moved, Rosa was steady and the room was still
+going, and afterwards she was not certain she had seen anything at all.
+
+---
+
+**Then back at the house.**
+
+{{pc:1}} — after two hours of being turned in circles — walked into the broom
+closet instead of the kitchen and stayed there a while, genuinely admiring a
+mechanical dust pan with an integrated roller. When his head cleared he walked
+out and immediately found **the row of daily planners Rosa has kept since her
+senior year of college.** Neat at first. Steadily stranger. **One sharp jump into
+chaos in a single year.**
+
+You had him check them against every date you're carrying. **Nothing.** They are
+daily planners with personal notes in them, and they record her life.
+
+Rosa, when he finally appeared: *"I knew there was one more of you. Let's move
+you to the living room — I only have four kitchen chairs."*
+
+**{{pc:5}} asked for a rhubarb drink instead of the lemonade**, and she had one.
+Frozen rhubarb kept on hand in case she wanted to make a pie. A microwave from the
+eighties, a blender from the seventies, ice out of a tray you crack by hand.
+
+**{{pc:4}} put his ledger on the table.** She was impressed — properly, this time,
+with her glasses on. She recognised something in **how** it was written and did
+not say what she recognised. She does not want it; he offered to trade copies and
+she was not remotely interested. What it did do was convince her that her mother
+probably *had* kept one after all — something she has never been sure of.
+
+**She let {{pc:3}} photograph every page of hers.** Forty-eight years, page by
+page. She thought it was a ridiculous amount of work and could not imagine what
+anyone would want it for, and saw no reason to say no. Most of it reads like
+this:
+
+> *Pia, Peter and John met at the milk bar today.*
+
+**She will not let the book leave.** She said it more than once, always the same
+way: **the ledger belongs under the microwave.** Not *I keep it there* — *it
+belongs there.* She did not explain, and she was not going to.
+
+{{pc:3}} did notice one thing and has not worked out what it means: **in
+forty-eight years there is not one erased entry.** Every other document she has
+handled in the last month has had something taken out of it. This one has nothing
+taken out of it at all.
+
+---
+
+**She talked about Alaia without being asked** — the letter her daughter wrote to
+the Park Service at nine demanding a job, and the framed form-letter reply that
+has hung outside her old room ever since. And the summer she camped in the garden
+and would not come in, which ended with a skunk.
+
+Asked what happens to all of it when she's gone, she said she hopes Alaia has the
+sense to call an estate clean-up company. **eBay or landfill. She's fine with
+it.** One exception: a small, very intricately decorated porcelain bowl she would
+like Alaia to keep. She said it had sentimental value and did not explain, and
+nobody asked her to.
 
 ---
 
 **And at the door, on the way out**, she wished you luck finding out what is
-happening — and said that she has never met another keeper of a ledger.
+happening — and told you she has **never met another keeper of a ledger.**
 
-**But that she has, once or twice, met other people who can do what you are
-learning to do.**
+But that she has, once or twice, met other people who can do what you are
+learning to do.
 
-She didn't say what that was.
+She did not say what that was.
 
 ---
 
-*One mark each. And {{pc:5}} — your advancement pick is still outstanding.*
+*One mark each. {{pc:5}} — your advancement pick is still outstanding.*

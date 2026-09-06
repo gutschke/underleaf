@@ -1,0 +1,15 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Winnie",
+  "pronouns": "she/her",
+  "role": "folk dancer, Live Oak Park Social Hall; drafted the party at the door",
+  "disposition": "delighted by absolutely everybody, at exactly the same volume",
+  "alignment": "neutral-good",
+  "description": "Seventy-five. Names people on sight and the name sticks. She looked {{pc:4}} up and down on arrival and announced to the room that he was 'a mouthy one', which became what he was called for the rest of the morning.",
+  "voice": "Announces rather than says. Warm, loud, and completely without calculation.",
+  "signature": [
+    "'Ooh, a mouthy one.'",
+    "The needle she does not know is a needle: 'Rosa. Tell them about the year you catalogued the whole hall's records and put them all back in the wrong boxes.'"
+  ],
+  "dmNotes": "**She is equally delighted by everybody, and that is the entire point.** She is {{pc:4}}'s paired dancer: **the room's warmth never varies with his performance.** Show it once by being just as warm to somebody else in his hearing, and never say it aloud.\n\n**TWO RETURNS UNSPENT — hook T22.** The Alaia trade never fired in Ep 6, so Winnie's retaliation on Rosa's behalf mostly did not happen. Still good, still hers:\n- *\"She danced with a man for four years before she found out his name. Four years! She just never asked.\"* Rosa: *\"It never came up.\"*\n- **\"She has never once brought anybody here. Not once. I have asked.\"** Rosa, evenly: *\"You have asked a great deal, Winnie.\"*\n\n> **The second is a direct isolation beat and is worth more than a laugh. Hold it for Rosa's second session (B21, Eps 12/14)** rather than spending it casually.\n\n**One return DID land in Ep 6**, interjected by the DM: the year Rosa catalogued the hall's records into what she insisted were *better boxes*. That may be why {{pc:3}} found the receipts in the state she found them — held open, see T21."
+}

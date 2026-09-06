@@ -58,9 +58,9 @@ ledger still names no other keeper across forty-eight years.
 
 ## Standing items to check next planning cycle
 
-- **B24 — did Isabel keep a ledger?** {{pc:4}}'s ledger convinced Rosa she
+- **B26 — did Isabel keep a ledger?** {{pc:4}}'s ledger convinced Rosa she
   probably did. §25 says she did not. **Ruling owed before Rosa next appears.**
-- **B25 — the robbery.** The party believes they need all eight and is openly
+- **B27 — the robbery.** The party believes they need all eight and is openly
   considering taking Rosa's. Undecided by them. **Do not block, do not warn, do
   not confirm the premise.**
 - **U11 — the no-erasure comparison** is unspent and in their hands.

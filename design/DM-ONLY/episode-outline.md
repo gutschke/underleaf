@@ -102,13 +102,15 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **A6 — Dakota's MOMENT OF RELEASE is nominated here.** *(Mislabelled as his 'realization' until 2026-08-29; those are different gates and his realization gate is undefined — see `dakota-phase-gates.md`.)* It was scheduled nowhere in Eps 5-25 (fire-by Ep 5-7), which is the S2 failure arriving from the opposite direction: the outline was so careful to stop Dakota eating other PCs' arcs that it stopped giving him one. His sheet requires him to **drop the persona in a scene where the persona would have gotten him what he wanted** — and Scene 1's *"tell me what you know"*, in front of a cop, with Morgan needing her cooperation, is exactly that room. Do not force it; if {{pc:4}}'s player reaches for politician-speech and then stops himself, that is A6 and you log it.
 - **Risk if slips:** the pre-designated cut is in the run-guide. A1 is the one thing that cannot slip again — if the party skips Bea's, the card is mailed.
 
-### Ep 6 — Eight Twenty Sharp
+### Ep 6 — Eight Twenty Sharp  *(PLAYED 2026-09-05 — see `../../sessions/2026-09-05/notes.md` and facts-ledger §46)*
 
 - **LOAD:** **HEAVY** *(re-rated 2026-08-30 after a table review counted it at ~3h05-3h35 against a 2.5h target. **Bancroft is CUT**, but the hall is not cheap.)* **Pre-cuts and a hard T+0:40 door gate are in `tmp/authoring/working-draft.md`.**
 - **PRIMARY SHAPE: a social event where the party has no standing.** **NOT an interview, NOT a records hunt, NOT a bureaucratic obstacle.** Eps 5 and 6 were back-to-back counter-and-clerk sessions; this breaks that.
 
 > [!IMPORTANT]
-> **THE ONE SENTENCE FOR THIS SESSION:** *Rosa believes she is the only person in the world who does this. She has forty-eight years of evidence. She is wrong, and her being wrong is the proof.*
+> **THE ONE SENTENCE — AMENDED BY PLAY (2026-09-05). Hold the amended version.** *Rosa has never met another **keeper** of a ledger. She has, on rare occasions, met other people who can do what the party is learning to do — and she has never said what that is.*
+>
+> *(Superseded: "she believes she is the only person in the world who does this." What she actually said at the door is narrower and better — the isolation is a **keeper's** isolation, not a caster's. The ledger still names no other keeper across forty-eight years, so the shape of the session is unchanged.)*
 >
 > **The session's SHAPE is the refutation, and it needs no dialogue.** She thinks she is alone → so she treats five strangers as an errand → so she leaves for the thing that is actually her life → **and five casters follow her into it.** Do not have anyone say this. Let the room be it.
 

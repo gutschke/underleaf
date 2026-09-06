@@ -112,8 +112,8 @@
       "episode": "006",
       "date": "2026-09-05",
       "bullet": "hardMoment",
-      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
-      "note": "Ep 6, Eight Twenty Sharp."
+      "criterion": "Resolved a hard moment by acting in line with alignment.",
+      "note": "Moved before she decided to, for a woman who turned out not to need it, and then sat with not knowing whether she had seen anything at all. She raised the seatbelt and was overruled, and let it go."
     }
   ],
   "inventory": {
@@ -122,5 +122,14 @@
       "The bag (focus) — canvas satchel, restored whole at Bodie",
       "hospice-grade first-aid kit, over-provisioned"
     ]
-  }
+  },
+  "advancementLog": [
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "taken": "relationship",
+      "detail": "Alaia Vega. She bought the round because she was struck by what Priya does for a living; they ordered together and both take a plain Americano.",
+      "disclosure": "Offered alongside Medic mastery. Per the standing ruling she does not betray her; her worst case is declining a specific ask."
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Bernard",
+  "pronouns": "he/him",
+  "role": "folk dancer, Live Oak Park Social Hall; the one in the extremely good waistcoat",
+  "disposition": "generous, unhurried, entirely unbothered; tells you his whole life as though none of it were interesting",
+  "alignment": "neutral-good",
+  "description": "An extremely good waistcoat. Wants to talk about the hall's lease and who is trying to cut the Saturday session. Discreetly patted {{pc:5}} down the moment he mentioned the pistol, then gave him a knowing wink and told him his secret was safe — impressed rather than alarmed.",
+  "voice": "Understates everything. Introduces the largest facts of his life as though clearing his throat. Answers a question you did not ask and it turns out to be the better answer.",
+  "signature": [
+    "The opener that is not true: 'Nothing important ever happened in my life.'",
+    "On Vietnam: 'It was all bullshit. They had me in a warehouse doing logistics.' — which is why he and {{pc:5}} got on.",
+    "On his wife's name: 'Pia. I never knew why. Some exotic Middle Eastern name or something. Dunno. She never told me.'"
+  ],
+  "background": {
+    "life": "Born in Visalia. Won the lottery at sixteen and was brought to San Francisco for a photograph with the oversized cheque. Met a girl at the hotel check-in — Pia. They stayed in touch; after his military deployment he found her again in San Francisco. Married many years. She died eight years ago.",
+    "vietnam": "Logistics and warehouse work. He is dismissive of the whole thing and does not perform any feeling about it."
+  },
+  "dmNotes": "**CREATED IN PLAY, Ep 6 (2026-09-05), improvised.** Paired with {{pc:5}} for the organiser conversation; the rest of him arrived unplanned and is the most valuable thing the session produced.\n\n**HIS JOB IS DONE.** Do not write him a return. Estelle is already the booked dance-hall callback for Eps 9-12, and two returning dancers is one too many. **If the party goes back to him he knows nothing more, has one photograph, and is glad somebody asked** — three minutes, warm, terminal.\n\n> **PIA — see hook T26 and `facts-ledger.md` §46.** He never knew why his wife was called Pia. He assumed it was foreign. **She was a fourth-generation San Franciscan whose family had been in the city longer than most, and she never explained it to him across a whole marriage.** In this campaign a name that does not fit its own family, never accounted for, is the shape of an edited person.\n>\n> **He does not know that and must never suspect it.** He is not troubled by the name and never was — it is a fond shrug, not a mystery. **Play the fondness. The party supplies the alarm.**\n\n**The Forrest Gump bit.** The party asked him about every character from the film they could think of; none of the names meant anything to him and he humoured all of it. That is the register of the whole hall: warm, unhurried, happy to be asked."
+}

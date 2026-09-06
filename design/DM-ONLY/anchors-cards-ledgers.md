@@ -244,7 +244,7 @@ Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*)
 | # | Ledger | Holder | Notes |
 |---|---|---|---|
 | L1 | Archivist-line current | Bea Ferro (Outer Sunset) | Bea's own ongoing ledger; current-generation |
-| L2, L3, L4 | **Eleanor Marsh's three** (Sacramento locker) | **Dakota** (Ep 3 acquired) | The three the party physically saw on Dakota's dining table in Ep 4. Marsh's own annotated ledgers, pulled into the Sacramento locker before she died in 1987 |
+| L2, L3, L4 | **Eleanor Marsh's three** (Sacramento locker) | **Dakota** (Ep 3 acquired) | The three the party physically saw on Dakota's dining table in Ep 4. Three keepers' ledgers, rescued and annotated by Marsh — two hands in each book. Pulled into the Sacramento locker before she died in 1987 |
 | L5 | Palo Alto | executor (unnamed) — **unfound** | Estate of a Wiener-adjacent Cold-War-era researcher; the executor does not know what she has |
 | L6 | Bancroft | Rosa Vega (Berkeley) — **read Ep 6, NOT acquired; Rosa keeps it** | Rosa was the 1979 Bancroft cataloguer; she kept custody informally after her official service ended |
 | L7 | San Bernardino | hoarder-collector (unnamed) — **GONE, and droppable entirely** | The unit was re-auctioned; the trail dies helpfully. Carries the deliberately-unfindable slack function. **Stage its death by Ep 12**; do not run a San Bernardino episode |
@@ -275,6 +275,23 @@ confused is not a problem. Losing track internally is.**
 > motivated. **But never confirm it either.** The moment an NPC says *yes, you
 > need all eight*, it becomes a fetch quest with a known length.
 
+### Ledgers have rules, and the rules are not legible
+
+**Anchors can be moved.** {{pc:4}} carried three out of a Sacramento locker and
+the party can inspect them at will. **Anchors can fade or be destroyed**, and the
+campaign is comfortable with that — Rosa is at peace about hers not surviving,
+and Isabel's is assumed to have gone to a landfill years ago.
+
+**But there are rules about their existence, and an observer cannot read them.**
+The clearest instance is Rosa's: she says plainly and repeatedly that **the ledger
+belongs under the microwave**, treats it without any care at all, and **cannot say
+why it must stay there.** She is obeying something she cannot articulate.
+
+> **Do not turn this into a mechanic and do not let it become a lock.** It is not
+> a rule the DM can look up either. **All anyone knows — Rosa included — is that
+> there are rules.** Whatever the party does to a ledger, neither they nor she can
+> predict what it does.
+
 ### Disclosure — archivists declare, keepers do not. We do not know why.
 
 **This is an asymmetry the party can actually observe, and it is worth keeping
@@ -295,18 +312,16 @@ with Loewe from Julián all the same.** *(She must never appear in a list of
 keepers. She is here because concealment reaches past the role.)*
 
 > **We have no explanation, and the sample is small: one archivist, one keeper,
-> and one inference.** It may not be important. **Do not have anyone explain it,
-> and do not build a mechanic on it** — an asymmetry the players can notice and
-> argue about is worth more than a rule.
+> and one inference.** It may not be important. **Nobody explains it and nothing
+> is built on it** — an asymmetry the players can notice and argue about is worth
+> more than a rule they can look up.
 
 Rosa found it entirely plausible that her mother kept a ledger *precisely because*
 a keeper would not have said so — **which is Rosa reasoning correctly from a real
 pattern to a wrong conclusion.**
 
 > **There is no cosmological justification for this yet, and we may never write
-> one. For now it simply seems to be that way.** Do not let an NPC explain it and
-> do not build a mechanic on it. **It is a regularity the party can observe and
-> reason about, which is more useful than a rule.**
+> one. For now it simply seems to be that way.**
 
 ### How many keepers there are — the author's lean, deliberately unfixed
 

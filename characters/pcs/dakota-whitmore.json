@@ -126,8 +126,8 @@
       "episode": "006",
       "date": "2026-09-05",
       "bullet": "risk",
-      "criterion": "PROPOSED — confirm or correct; see sessions/2026-09-05/session.json",
-      "note": "Ep 6, Eight Twenty Sharp."
+      "criterion": "Took a meaningful risk for someone else.",
+      "note": "Put his own ledger on the table in front of a woman he had known for four hours, unprompted, having offered it first in a moving car — and played the whole day without the persona."
     }
   ],
   "inventory": {
@@ -136,5 +136,14 @@
       "Mahogany pipe engraved with his name (focus)",
       "Marsh's three ledgers, and the loose Argonaut paperwork from the locker, in a bag"
     ]
-  }
+  },
+  "advancementLog": [
+    {
+      "episode": "005",
+      "date": "2026-08-29",
+      "taken": "relationship",
+      "detail": "Det. Camila Ortiz. She wrote him off in the interview and then revised in public when he beat everyone to the date gap.",
+      "disclosure": "Offered alongside Mateo. Per the standing ruling she does not betray him; her worst case is declining a specific ask."
+    }
+  ]
 }
