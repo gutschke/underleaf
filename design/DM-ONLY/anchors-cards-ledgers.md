@@ -266,7 +266,7 @@ confused is not a problem. Losing track internally is.**
 
 | | |
 |---|---|
-| **True (DM)** | The eight in the table above. **Isabel Vega kept no ledger** — pending the B24 ruling, default is to hold that. |
+| **True (DM)** | The eight in the table above. **Isabel Vega kept no ledger** — pending the B26 ruling, default is to hold that. |
 | **The party's count** | They are counting **Rosa's** *and* **Isabel's purported one.** Rosa told them she now believes her mother probably kept one, so they have folded a book that may not exist into their arithmetic. |
 | **The party's inference** | **They believe they need all eight.** *(Nothing has told them this.* The voicemail gave them a count, not a requirement. **It is a player inference and it is currently driving their planning.**) |
 
