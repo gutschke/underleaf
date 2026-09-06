@@ -2232,6 +2232,114 @@ boxes — *"They were not the wrong boxes. They were better boxes."*
 > same question as her peace about the ledger not surviving *(competence, or
 > resignation)*. **Do not answer it in either place.** Answering one answers both.
 
+### The house — the long scene that finished the session
+
+**{{pc:1}} walked into the broom closet.** Two hours of spinning and several very
+low rolls; instead of following the party into the kitchen he went into the
+closet by the lobby and stayed there for some minutes, **admiring an old-school
+mechanical dust pan with an integrated roller, and a carpet beater.** He came out
+on a high roll.
+
+**And immediately spotted the planners.** A neat row, **kept since her senior year
+of college.** The early ones are tidy and organised. **They become steadily more
+idiosyncratic — with a noticeable jump in chaos the year she found the ledger.**
+{{pc:1}} could not explain any of it. **He does not have to; he observed it, and
+that is the beat.**
+
+> **This is the third and best statement of the same contrast** — immaculate with
+> the ledger, chaotic with the planner — and it now has a *date*. **Whatever
+> happened in 1979 reorganised her life and not just her filing.** Do not explain
+> it.
+
+**Rosa's entrance line, when he finally came in:** *"I knew there was one more of
+you. Let's move you to the living room — I only have four kitchen chairs."*
+**She had counted.**
+
+### The date searches — nothing, and two reasons why
+
+The party had {{pc:1}} check the planners against every significant date they
+have collected, **including the day Bea went missing and the day they were on the
+747.** *(They were testing whether Rosa and Bea might be the same person.
+Seemingly not.)*
+
+**Neither date shows anything.** He rolled well, more than once.
+
+> **HELD OPEN, and the table was happy with it.** Either {{pc:1}} does not
+> understand her organisational system, **or these are daily planners with
+> personal notes and nobody records events that did not happen to them.** The
+> second is completely mundane and completely sufficient. **The only entries he
+> found were things from Rosa's own life** — which is what a daily planner
+> contains.
+
+**Rosa, asked directly, has never heard of Bea Ferro, Argonaut, or Farallon.**
+Canon. She is not lying.
+
+### The ledger, examined
+
+**{{pc:4}} showed her one of Marsh's ledgers.** She was **duly impressed** — not
+guarded, not territorial.
+
+**She recognised the techniques as similar to her own, and never said what she
+recognised.** To the PCs the entries in both books look benign: *"Pia, Peter and
+John met at the milk bar today"* with a date.
+
+**She has no interest in acquiring it.** {{pc:4}} offered a copy in exchange for
+hers; **she was entirely uninterested.** Not a refusal to negotiate — an absence
+of any wish to.
+
+**She let {{pc:3}} photograph every page of her own ledger.** She thought it was a
+great deal of work, did not understand the significance, and **saw no harm.**
+*(The party now holds a complete photographic copy — see hook ledger.)*
+
+**She will not part with the original. It lives under the microwave in her
+kitchen. That is the whole of the discussion**, and she does not argue about it.
+
+**{{pc:5}} pressed her about the ledger repeatedly and she artfully did not
+hear him.** Or she was genuinely distracted. **We may never know**, and she
+would look the same either way.
+
+> ### {{pc:3}}'s observation — the tell nobody understood
+>
+> Low background, noted and not pursued: **the ledger does not contain a single
+> erased entry.** Every other historic artefact or document she has examined in
+> the past few weeks has had omissions. **This one has none, and the absence of
+> absence is what struck her.**
+>
+> **The DM's answer, which nobody at the table has: ledgers by definition have no
+> omissions. That is what makes them anchors.** An entry that could be erased
+> would not hold anything.
+>
+> **She did not check {{pc:4}}'s ledgers. She would have found the same thing.**
+> That comparison is available and unspent. **Rosa does not know either** — she is
+> unaware of what {{pc:3}} can do.
+
+**The last page is not finished, and covers more than ten years.** She has not
+entirely stopped being a keeper. **She has become extremely selective.**
+
+**The party scanned for their own surnames and found nothing.**
+
+### RULING NEEDED — did Isabel keep a ledger?
+
+**Seeing {{pc:4}}'s ledger convinced Rosa that her mother probably did keep one.
+She had never been certain before.**
+
+> **This collides with §25, which states plainly that Isabel kept no ledger and
+> wrote no anchors — her letters were letters and her notebooks were notebooks.**
+>
+> **Two ways forward and the DM must pick one before Rosa appears again:**
+>
+> - **HOLD §25.** Isabel kept notebooks, not a ledger. **Rosa is now more
+>   convinced of something untrue**, and the dramatic irony deepens: a woman who
+>   spent a life not asking her mother why has just talked herself into an answer.
+>   **Cheap, consistent, and sad in the right way.**
+> - **REVISE §25.** Isabel kept a ledger, it is gone, and Rosa's instinct was
+>   right. **This is more expensive than it looks** — it makes Rosa's mother a
+>   keeper, puts a fourth keeper in the arithmetic, and would need checking
+>   against the L1–L8 assignments.
+>
+> **Default lean: HOLD §25.** Rosa already assumes it went to a landfill, so the
+> untrue belief costs nothing and never has to be corrected on screen.
+
 ### Settled with the summary
 
 - **Isabel Vega died in 1992, aged 71.** Spoken at the table in general terms.
