@@ -2467,6 +2467,41 @@ keeps.** Three things were then agreed, comfortably, by the room:
 > what was left · both true because nothing has forced a reconciliation · or
 > entirely mundane.** **Never explain it.**
 
+### "Nothing is ever lost!" — and nobody is sure who said it
+
+**Said out loud at the hall, over the boxes. It was either Winnie or Rosa, and the
+DM does not remember which. Leave it that way — it is canon that the party heard
+it and does not know whose line it was.**
+
+> **It means two completely different things depending on the mouth.**
+>
+> - **From Winnie** it is hospitality — the thing you say in a storage room when
+>   somebody turns up a receipt from 1996. *We keep everything and it all comes
+>   back eventually.*
+> - **From Rosa** it is a statement about how reality works, made by the only
+>   person in the room qualified to make one. **A keeper saying nothing is ever
+>   lost is not being cheerful.**
+>
+> **Do not resolve the attribution and do not let anyone recall it later.**
+
+**Where it bites now.** She is untroubled that her own ledger will not survive
+(T19), and assumes her mother's went to a landfill. **If nothing is ever lost,
+that peace is informed rather than resigned** — which is one of the two readings
+already held open. **The line puts a thumb on it without settling it.**
+
+> ### And this one is for the landing
+>
+> **The campaign ends on a reveal of an absence.** Somebody said *nothing is ever
+> lost*, in a room full of records, and nobody wrote down who.
+>
+> **Kai is lost.** §42 is explicit: edited out, the reasons went with him, it will
+> never be answered. **So the line is either the truest thing anyone has said in
+> six sessions, or it is hospitably and completely wrong** — and the party cannot
+> tell which, because they do not know whose line it was.
+>
+> **Hold it for the ending. It is the cheapest callback available and it costs
+> nothing to keep.**
+
 ### Winnie went everywhere, and that is what she is now
 
 **She was written as {{pc:4}}'s paired dancer** — the one who names him on sight

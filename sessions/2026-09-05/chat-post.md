@@ -89,6 +89,10 @@ Winnie kept coming back from the storage room with more boxes, and was frankly
 delighted that {{pc:3}} could make anything of them at all — especially when she
 turned up the receipt for the coffee urn.
 
+*"Nothing is ever lost!"*
+
+You are not entirely sure which of them said that.
+
 Somebody got the bookings out. **A youth club has a standing Wednesday night at
 the hall — every Wednesday, back through every record they keep.** Nobody in that
 room has ever met them. Everyone was quite certain about that, and equally certain
