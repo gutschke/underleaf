@@ -259,6 +259,47 @@ Per Dakota's Ep 3 voicemail (*"Bea has one. I have three. There are four more"*)
 >
 > **Table-canon wins. Fix the design docs to match what was said at the table, never the reverse** — per the no-wavering discipline. `rosa-vega.json` and `alaia-vega.json` already call Bancroft "Ledger 6"; this table now agrees with them.
 
+### What the party believes, versus what is true — track this separately
+
+**As of Ep 6 the two counts have come apart, and that is fine. Keeping the party
+confused is not a problem. Losing track internally is.**
+
+| | |
+|---|---|
+| **True (DM)** | The eight in the table above. **Isabel Vega kept no ledger** — pending the B24 ruling, default is to hold that. |
+| **The party's count** | They are counting **Rosa's** *and* **Isabel's purported one.** Rosa told them she now believes her mother probably kept one, so they have folded a book that may not exist into their arithmetic. |
+| **The party's inference** | **They believe they need all eight.** *(Nothing has told them this.* The voicemail gave them a count, not a requirement. **It is a player inference and it is currently driving their planning.**) |
+
+> **Do not correct either error.** The miscount costs nothing, and the
+> need-all-eight belief is doing useful work — it is the reason they are
+> motivated. **But never confirm it either.** The moment an NPC says *yes, you
+> need all eight*, it becomes a fetch quest with a known length.
+
+### Why keepers are secretive — observed, not explained
+
+**Keepers conceal, from each other and from their own families.** Rosa hid her
+practice from Alaia. Isabel hid her correspondence from Julián. Bea tells nobody.
+Rosa found it entirely plausible that her mother kept a ledger *precisely because*
+a keeper would not have said so.
+
+> **There is no cosmological justification for this yet, and we may never write
+> one. For now it simply seems to be that way.** Do not let an NPC explain it and
+> do not build a mechanic on it. **It is a regularity the party can observe and
+> reason about, which is more useful than a rule.**
+
+### How many keepers there are — DM-side extrapolation, and possibly wrong
+
+**Guess, not canon:** there are probably other keepers elsewhere in the world, and
+probably many across the years — centuries, possibly longer.
+
+> **This is extrapolation from a very small sample and it could be wildly wrong.
+> Nothing in the campaign asserts it.** Its only current use is to stop the DM
+> writing anything that *forecloses* it.
+>
+> **The consequence that matters: the eight may be a local or regional set, not a
+> world total.** The party has assumed a closed system. **Nothing has told them
+> it is closed, and the DM has not decided that it is.**
+
 - Numbering is DM-facing. Do not present as "L1/L2/..." at the table; the party will refer to them by location or holder name.
 - **Stop numbering them in prose anywhere except this table.** Three files have already drifted apart on the numbering, and the party will never say "L6" — they will say "the Berkeley one" or "Rosa's".
 - **Not every ledger gets acquired, and that is the point.** `anchors-cards-ledgers.md` §Ledgers rule 2 and big-arc invariant 5 both hold that the tradition is diffuse by cosmological necessity — keepers do not communicate, and assemblies of unfamiliar casters structurally fail. **A completionist ledger hunt is the party trying to assemble the network by proxy; it must fail by design, or the artifact contradicts the cosmology it exists to teach.** A ledger may legitimately end as *confirmed to exist and safe but never seen*, or as *lost — the unit was re-auctioned*. Retirement to texture is a valid ending.
