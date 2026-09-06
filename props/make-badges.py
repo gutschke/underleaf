@@ -22,12 +22,16 @@ import badge_photo
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--out", type=pathlib.Path, default=HERE / "badges.pdf")
+ap.add_argument("--set", default="all", choices=["all", "vega", "iyer"],
+                help="which badges: vega = the original four (slots 1 and 3); "
+                     "iyer = slot 2's nursing set. Use a set so an existing "
+                     "print run is never invalidated.")
 ap.add_argument("--keep-html", action="store_true")
 args = ap.parse_args()
 
 PCS = HERE.parent / "characters" / "pcs"
 name = lambda slug: json.loads((PCS / f"{slug}.json").read_text())["name"]
-MIRA, MORGAN = name("mira-sun"), name("morgan-reyes")
+MIRA, MORGAN, PRIYA = name("mira-sun"), name("morgan-reyes"), name("priya-iyer")
 
 
 def photo(seed, palette, severity):
@@ -67,7 +71,65 @@ BADGES = [
          backline="Licensed under CA BSIS. Not a peace officer credential."),
 ]
 
-CSS = """
+CARD_CSS = """
+/* must out-specify .badge, which is defined later in the sheet */
+.badge.wide { width:3.375in; height:2.125in; }
+.crd { position:relative; overflow:hidden; border:0.5pt solid #b9b2a2; border-radius:0.09in;
+       background:#fcfbf8; }
+.crd .top { padding:0.11in 0.13in 0.06in; color:#fff; }
+.crd .issuer { font-size:7.6pt; font-weight:700; letter-spacing:.04em; line-height:1.15; }
+.crd .kindline { font-size:5.4pt; letter-spacing:.11em; text-transform:uppercase; opacity:.86;
+                 margin-top:2px; }
+.crd .rows { padding:0.09in 0.13in 0; font-size:6.2pt; color:#2f2b22; line-height:1.5; }
+.crd .rows b { letter-spacing:.02em; }
+.crd .lab { font-size:4.9pt; letter-spacing:.12em; text-transform:uppercase; color:#8a8272; }
+.crd .big { font-size:9.2pt; font-weight:700; margin-top:1px; }
+.crd .foot { position:absolute; left:0.13in; right:0.13in; bottom:0.10in; font-size:5pt;
+             color:#6b6250; display:flex; justify-content:space-between; }
+.crd .sigline { position:absolute; left:0.13in; right:0.13in; bottom:0.28in;
+                border-top:0.5pt solid #a8a08c; padding-top:2px; font-size:4.6pt;
+                letter-spacing:.11em; text-transform:uppercase; color:#8a8272; }
+.crd .strip { position:absolute; left:0; right:0; bottom:0.52in; height:0.13in;
+              background:repeating-linear-gradient(115deg,
+                rgba(120,105,80,.13) 0 3pt, transparent 3pt 8pt); }
+"""
+
+IYER = [
+    dict(kind="id", accent="#0a5c73", org="UCSF Health",
+         sub="Medical Center &middot; Parnassus",
+         holder=PRIYA, title="Registered Nurse &mdash; Intensive Care",
+         no="UCSF&nbsp;RN-40188", issued="ISSUED 06/2025", expires="EXP 06/2028",
+         band="NIGHT SHIFT", state="", photo=photo("iyer", "b", 0.62),
+         foot="505 Parnassus Avenue",
+         backline="Property of UCSF Health. Report loss to Security immediately."),
+    dict(kind="card", wide=True, accent="#1f3f66",
+         org="California Board of Registered Nursing",
+         sub="Registered Nurse &middot; Licence",
+         holder=PRIYA, nameLabel="Licensee",
+         rows=[("Licence", "RN&nbsp;1188402"), ("Status", "ACTIVE"),
+               ("Expires", "31 OCT 2027")],
+         no="RN&nbsp;1188402", state="",
+         foot="Verify at the Board's licence lookup",
+         backline="Licence status is public record. Report loss or change of address within 30 days."),
+    dict(kind="card", wide=True, accent="#8a2b1e",
+         org="American Heart Association",
+         sub="ACLS Provider &middot; Advanced Cardiovascular Life Support",
+         holder=PRIYA, nameLabel="Provider",
+         rows=[("Completed", "14 MAR 2025"), ("Recommended renewal", "MAR 2027"),
+               ("Training centre", "UCSF")],
+         no="ACLS&nbsp;25-30714", state="",
+         foot="This card does not confer licensure",
+         backline="Renew before the recommended date to remain current."),
+    dict(kind="id", accent="#5a4a7a", org="Samuel Merritt University",
+         sub="Student &middot; Clinical Placement",
+         holder=PRIYA, title="BSN Candidate &mdash; Clinical Rotation",
+         no="SMU&nbsp;21-0663", issued="ISSUED 08/2021", expires="EXP 05/2023",
+         band="STUDENT NURSE", state="EXPIRED", photo=photo("iyer-smu", "b", 0.88),
+         foot="Oakland &middot; escort required on unit",
+         backline="Return to Student Affairs on completion of placement."),
+]
+
+CSS = CARD_CSS + """
 @page { size: letter; margin: 0.55in; }
 * { box-sizing: border-box; }
 body { margin:0; font-family:"Helvetica Neue",Arial,sans-serif; color:#1d1b17;
@@ -78,8 +140,8 @@ h1 { font-size:10pt; letter-spacing:.16em; text-transform:uppercase;
 /* Fixed-height header on BOTH sheets: the two grids must start at the
    identical y or the duplex registration is off before the cut begins. */
 .head { height:0.86in; overflow:hidden; }
-.grid { display:grid; grid-template-columns:2.125in 2.125in; gap:0.60in 1.00in;
-        justify-content:center; }
+.grid { display:grid; grid-template-columns:auto auto; gap:0.55in 0.75in;
+        justify-content:center; justify-items:center; align-items:start; }
 .slot { position:relative; }
 .badge { width:2.125in; height:3.375in; position:relative; overflow:hidden;
          border:0.5pt solid #b9b2a2; border-radius:0.09in; background:#fbfaf7; }
@@ -160,8 +222,28 @@ def front(b):
 </div></div>"""
 
 
+def credential(b):
+    rows = "".join(
+        f'<div><span class="lab">{k}</span><br><b>{v}</b></div>' for k, v in b["rows"])
+    stamp = f'<div class="stamp">{b["state"]}</div>' if b.get("state") else ""
+    return f"""<div class="slot">{CROPS}<div class="badge crd wide">
+  <div class="top" style="background:{b['accent']}">
+    <div class="issuer">{b['org']}</div><div class="kindline">{b['sub']}</div>
+  </div>
+  <div class="rows"><div class="lab">{b['nameLabel']}</div>
+    <div class="big">{b['holder']}</div>
+    <div style="display:flex;gap:0.22in;margin-top:0.05in">{rows}</div>
+  </div>
+  <div class="strip"></div>
+  <div class="sigline">Signature of holder</div>
+  <div class="foot"><span>{b['foot']}</span><span>{b['no']}</span></div>
+  {stamp}<div class="wear"></div>
+</div></div>"""
+
+
 def back(b):
-    return f"""<div class="slot">{CROPS}<div class="badge back">
+    wide = " wide" if b.get("wide") else ""
+    return f"""<div class="slot">{CROPS}<div class="badge back{wide}">
   <div class="safe">
     <div class="mag"></div>
     <div class="bk-org">{b['org']}</div>
@@ -174,7 +256,17 @@ def back(b):
 </div></div>"""
 
 
-rows = [BADGES[0:2], BADGES[2:4]]
+IYER = [b for b in IYER if b.get("kind") == "id"] + [b for b in IYER if b.get("kind") == "card"]
+SETS = {"vega": BADGES, "iyer": IYER, "all": BADGES + IYER}
+SHEET = SETS[args.set]
+for b in SHEET:
+    b.setdefault("kind", "id")
+
+def render_front(b):
+    return credential(b) if b["kind"] == "card" else front(b)
+
+# Back sheet mirrors each ROW left-to-right so a long-edge duplex pairs correctly.
+rows = [SHEET[i:i + 2] for i in range(0, len(SHEET), 2)]
 back_order = [b for r in rows for b in reversed(r)]
 
 HTML = f"""<meta charset="utf-8"><title>Badges</title><style>{CSS}</style>
@@ -184,7 +276,7 @@ HTML = f"""<meta charset="utf-8"><title>Badges</title><style>{CSS}</style>
 Cut on the badge outline; the corner marks are guides and get cut away.
 <b>Every mark on the back sits 0.30in inside the edge</b>, so a cut that wanders
 costs you nothing.</p></div>
-<div class="grid">{''.join(front(b) for b in BADGES)}</div>
+<div class="grid">{''.join(render_front(b) for b in SHEET)}</div>
 <div style="page-break-before:always"></div>
 <div class="head"><h1>Badges &mdash; backs</h1>
 <p class="note">Mirrored left-to-right to match the fronts on a long-edge flip.
@@ -204,4 +296,4 @@ if chrome is None:
 subprocess.run([chrome, "--headless", "--disable-gpu", "--no-sandbox",
                 "--no-pdf-header-footer", f"--print-to-pdf={out_pdf}",
                 f"file://{out_html}"], check=True, capture_output=True)
-print(f"Wrote {out_pdf} ({out_pdf.stat().st_size//1024} KB) — {len(BADGES)} badges")
+print(f"Wrote {out_pdf} ({out_pdf.stat().st_size//1024} KB) — {len(SHEET)} badges [{args.set}]")
