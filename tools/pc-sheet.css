@@ -1,0 +1,247 @@
+/* ============ RESET & THEME ============ */
+  *, *::before, *::after { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    color: #1a1a1a;
+    background: #f6f4ef;
+    margin: 0;
+    padding: 0;
+    line-height: 1.42;
+    font-size: 10.5pt;
+  }
+  h1, h2, h3, .display {
+    font-family: "Optima", "Trebuchet MS", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  /* ============ SCREEN LAYOUT ============ */
+  main { max-width: 8.5in; margin: 0 auto; padding: 24px; }
+  .sheet {
+    background: #ffffff;
+    border: 1px solid #d8d1bf;
+    border-radius: 6px;
+    padding: 0.5in;
+    margin: 24px 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+
+  /* ============ HEADER ============ */
+  .header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 8px 16px;
+    align-items: end;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .pc-name { font-size: 22pt; line-height: 1.05; margin: 0; }
+  .player-line { font-size: 10pt; color: #444; margin-top: 4px; }
+  .player-line strong { color: #1a1a1a; }
+  .quick-facts {
+    text-align: right;
+    font-size: 9.5pt;
+    color: #333;
+    line-height: 1.35;
+  }
+  .quick-facts .label { color: #666; }
+
+  /* ============ STAT BLOCK ============ */
+  .stat-row {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 4px;
+    margin: 12px 0;
+  }
+  .stat {
+    text-align: center;
+    border: 1px solid #a89e83;
+    border-radius: 4px;
+    padding: 6px 2px;
+    background: #faf7ee;
+  }
+  .stat .label { font-size: 8.5pt; letter-spacing: 0.08em; color: #666; }
+  .stat .value { font-size: 16pt; font-weight: 700; margin-top: 2px; font-family: "Optima", sans-serif; }
+  .stat.emphasis { background: #efe6cc; border-color: #7a6f52; }
+
+  /* ============ TRACKS ============ */
+  .tracks {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin: 8px 0 14px;
+    font-size: 10pt;
+  }
+  .track { display: flex; align-items: center; gap: 8px; }
+  .track .label { font-weight: 600; min-width: 3.5em; }
+  .boxes { display: flex; gap: 3px; }
+  .box {
+    display: inline-block;
+    width: 12px; height: 12px;
+    border: 1.4px solid #333;
+    border-radius: 2px;
+  }
+
+  /* ============ SECTIONS ============ */
+  section { margin: 12px 0; }
+  h2 {
+    font-size: 10.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #5a4a1e;
+    margin: 0 0 4px;
+    border-bottom: 1px solid #d8d1bf;
+    padding-bottom: 2px;
+  }
+  ul { margin: 4px 0; padding-left: 20px; }
+  li { margin: 2px 0; }
+  p { margin: 4px 0; }
+
+  /* ============ SKILLS / TAGS DUAL ============ */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  .chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+  .chip {
+    display: inline-block;
+    padding: 2px 8px;
+    border: 1px solid #a89e83;
+    border-radius: 12px;
+    background: #faf7ee;
+    font-size: 9.5pt;
+  }
+
+  /* ============ FOCUS ============ */
+  .focus-box {
+    background: #f3ecd6;
+    border-left: 3px solid #7a6f52;
+    padding: 8px 10px;
+    margin-top: 4px;
+    font-size: 10pt;
+  }
+  .focus-name { font-weight: 700; font-family: "Optima", sans-serif; }
+  .focus-domain { color: #5a4a1e; font-style: italic; font-size: 9.5pt; }
+
+  /* ============ INTENTION UNDER PRESSURE ============ */
+  /* The formative-moment field — player's own voice, kept visually
+     distinct from prose backstory so it reads as a load-bearing
+     anchor rather than an epigraph.  Tight print sizing so the
+     sheet still fits one PC per page. */
+  .intention {
+    border-left: 3px solid var(--accent, #7a6f52);
+    background: var(--accent-soft, #f8f4e6);
+    padding: 5px 9px;
+    margin-top: 2px;
+    font-style: italic;
+    font-size: 9.5pt;
+    line-height: 1.35;
+  }
+  .intention p { margin: 3px 0; text-align: justify; hyphens: auto; }
+
+  /* ============ BACKSTORY ============ */
+  .backstory p { margin: 6px 0; text-align: justify; hyphens: auto; }
+
+  /* ============ FOOTER ============ */
+  footer {
+    margin-top: 14px;
+    padding-top: 6px;
+    border-top: 1px solid #d8d1bf;
+    font-size: 8.5pt;
+    color: #666;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* ============ PRINT ============ */
+  @page { size: letter; margin: 0.5in; }
+  @media print {
+    body { background: white; zoom: 0.78; }
+    main { max-width: none; padding: 0; }
+    .sheet {
+      border: none;
+      box-shadow: none;
+      padding: 0;
+      margin: 0;
+    }
+    .sheet:not(:last-of-type) { page-break-after: always; }
+    .sheet:last-of-type { page-break-after: auto; break-after: avoid-page; margin-bottom: 0; padding-bottom: 0; }
+    .sheet:last-of-type footer { margin-bottom: 0; padding-bottom: 0; }
+    main { margin-bottom: 0; padding-bottom: 0; }
+    html, body { margin-bottom: 0; padding-bottom: 0; }
+    .stat-row, .focus-box, .tracks, .intention { page-break-inside: avoid; }
+    section { page-break-inside: avoid; }
+    .backstory { page-break-inside: auto; }
+    .no-print { display: none; }
+  }
+
+  /* ============ DARK MODE (SCREEN ONLY) ============ */
+  @media (prefers-color-scheme: dark) {
+    body { background: #14120e; color: #e8e2d0; }
+    .sheet { background: #1e1a13; border-color: #3a3323; }
+    h2 { color: #d6b871; border-bottom-color: #3a3323; }
+    .stat { background: #24201a; border-color: #4a4230; }
+    .stat.emphasis { background: #3a3021; border-color: #856f3d; }
+    .focus-box { background: #2a2418; border-color: #d6b871; }
+    .intention { background: #221d14; border-color: #d6b871; color: #e8e2d0; }
+    .chip { background: #24201a; border-color: #4a4230; color: #e8e2d0; }
+    footer { color: #999; border-color: #3a3323; }
+    .header { border-color: #e8e2d0; }
+    .box { border-color: #d6b871; }
+  }
+  :root[data-theme="light"] body { background: #f6f4ef; color: #1a1a1a; }
+  :root[data-theme="light"] .sheet { background: #fff; border-color: #d8d1bf; }
+  :root[data-theme="dark"] body { background: #14120e; color: #e8e2d0; }
+  :root[data-theme="dark"] .sheet { background: #1e1a13; border-color: #3a3323; }
+
+  .print-hint {
+    max-width: 8.5in;
+    margin: 12px auto;
+    padding: 12px 16px;
+    background: #fff4d0;
+    border: 1px solid #c9b356;
+    border-radius: 6px;
+    font-size: 10pt;
+  }
+  @media print { .print-hint { display: none; } }
+
+  /* ============ PER-PC ACCENT COLORS ============ */
+  /* Each PC gets a distinct accent color that colors the header underline,
+     section H2s, focus-box left border, emphasis-stat border, and motif.
+     Print-safe colors chosen to remain legible on both cream and white. */
+  #morgan { --accent: #2c4b6b; --accent-soft: #e2ecf3; }   /* deep slate blue — signals/tech */
+  #priya  { --accent: #a5502e; --accent-soft: #f3e4dc; }   /* warm terracotta — grounded care */
+  #mira   { --accent: #4a6b4a; --accent-soft: #e2ebe0; }   /* sage green — quiet observer */
+  #dakota { --accent: #6b3a2b; --accent-soft: #ecdfd8; }   /* mahogany — the pipe */
+  #marcus { --accent: #4a5a68; --accent-soft: #e3e7eb; }   /* steel gray — pragmatic operator */
+
+  .sheet .header { border-bottom-color: var(--accent, #1a1a1a); }
+  .sheet h2 { color: var(--accent, #5a4a1e); }
+  .sheet .focus-box { border-left-color: var(--accent, #7a6f52); background: var(--accent-soft, #f3ecd6); }
+  .sheet .focus-domain { color: var(--accent, #5a4a1e); }
+  .sheet .stat.emphasis { border-color: var(--accent, #7a6f52); background: var(--accent-soft, #efe6cc); }
+
+  /* ============ MOTIF (per-PC line-art in header top-right) ============ */
+  .motif {
+    width: 44px; height: 44px;
+    color: var(--accent, #a89e83);
+    opacity: 0.85;
+    flex-shrink: 0;
+  }
+  .motif svg { width: 100%; height: 100%; display: block; }
+  .header { display: grid; grid-template-columns: 1fr auto auto; gap: 12px 16px; align-items: end; }
+
+  /* ============ FOOTER WORDMARK ============ */
+  footer::after {
+    content: "underleaf";
+    font-family: "Optima", sans-serif;
+    font-style: italic;
+    color: var(--accent, #a89e83);
+    opacity: 0.5;
+    letter-spacing: 0.15em;
+    font-size: 8pt;
+    margin-left: 12px;
+  }

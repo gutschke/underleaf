@@ -50,9 +50,9 @@
     {
       "name": "Mira Sun",
       "type": "PC",
-      "description": "'Always listens to what I tell them and takes it as gospel. Always a pleasure when people are my unquestioning followers.' — DM note: Dakota is wrong about this. Mira is watching. Keep the irony load-bearing."
+      "description": "'Always listens to what I tell them and takes it as gospel. Always a pleasure when people are my unquestioning followers.'"
     },
-    "**Relationship — Det. Camila Ortiz.** Taken after Ep 5. She wrote him off in that interview and then revised in public when he beat everyone to the date gap. **Her stance is durable scepticism, not warmth** — she keeps taking his calls to find out which kind of day it is. She does not betray him; told something an SFPD officer could not be caught helping with, she says some version of *let's pretend I didn't hear that* and declines that ask. **The cost is the favour, never the relationship.**"
+    "**Relationship — Det. Camila Ortiz.** Taken after Ep 5. She wrote you off in that interview and then revised it out loud, in front of people, when you got to the date gap before anyone else. **She takes your calls now** — sceptically, to find out which kind of day it is."
   ],
   "harm": 0,
   "stress": 0,
@@ -74,7 +74,9 @@
     "focusNotes": "The pipe was engraved by his uncle, who worked wood professionally and was the one relative he respected. If the pipe breaks, an argument follows.",
     "mayoralCampaign": "**CANON, from the player, 2026-08-30 — {{pc:4}} KNOWS it isn't campaign season.** He is not oblivious and never was. **He is profile-building.** In the player's words: *he always likes getting recognition, building up his profile — whether that's actually for political gain or just for personal glory or ego reasons, I'm not entirely sure.* **That last uncertainty is deliberate and should stay unresolved**; the player does not know either, and it is more interesting than a settled answer.\n\n**Where the money goes:** *more BS, and paying for {{pc:5}}'s gas.* **Take this seriously — it is the best detail in the whole bit.** It ties the running gag to the pranking friendship and makes {{pc:4}} quietly generous in a way that complicates the persona.\n\n> **This makes the Ren beat funnier rather than meaner.** A man building a profile who asks a teenager for a contribution is absurd; a man who then spends it on his friend's petrol is a specific kind of ridiculous rather than predatory. **Play it that way.**\n\n**The durable trait remains serial enthusiasm.** The mayoralty may or may not survive to the next session and either is correct. **Never call back an abandoned scheme** — except the teenagers, who would absolutely keep score about the donations.",
     "personaNote": "**{{pc:4}}'s persona work, the DM's read on the player, and his phase gates are held in the private authoring workspace, not here.** They are working state rather than a deliverable, and they contain candid assessment of a specific person. **What is canon and public:** he runs several deliberate registers; per `personaDropCanon` he already drops the persona entirely with elders; and per `castDomain` neither he nor his player connects any of it to casting. **His Phase-2 realization gate is undefined and open** — do not treat the persona-drop condition in `intentionUnderPressureNote` as that gate; it is a moment-of-release condition.",
-    "registers": "**{{pc:4}}'s player has supplied his list of personas (2026-08-30). It is held privately as his own authorship.** **What is canon and useful here:** he runs one register that is genuinely un-performed — his own description is *acts similarly to how I would* — and he reaches for it with **people he cannot manipulate, or someone he respects.** **That is the same rule `personaDropCanon` recorded from the outside in Ep 3** (Vivian, Bea), arrived at independently. Every other register is a different tactic for the same intent: get something out of someone.\n\n> **Play consequence: NPC annoyance is a REWARD, not a cost.** He enjoys irritating people and says so. **What costs him is an NPC who is unmoved** — unbothered, gives him nothing, turns back to someone else without heat. Boredom, not exasperation. Ortiz declining to engage was right; Ortiz telling him he was full of himself was a gift.\n\n> **The un-performed register is the one to give rooms to, and it unblocks his realization gate** — see the private authoring notes.\n\n> **And the mechanism is contrast, not cost.** Nothing teaches him by hurting, because he enjoys friction. What teaches him is **the same person giving him nothing for the performance and something for the plain version**, close enough together that the difference is visible. Ortiz did both inside one interview in Ep 5."
+    "registers": "**{{pc:4}}'s player has supplied his list of personas (2026-08-30). It is held privately as his own authorship.** **What is canon and useful here:** he runs one register that is genuinely un-performed — his own description is *acts similarly to how I would* — and he reaches for it with **people he cannot manipulate, or someone he respects.** **That is the same rule `personaDropCanon` recorded from the outside in Ep 3** (Vivian, Bea), arrived at independently. Every other register is a different tactic for the same intent: get something out of someone.\n\n> **Play consequence: NPC annoyance is a REWARD, not a cost.** He enjoys irritating people and says so. **What costs him is an NPC who is unmoved** — unbothered, gives him nothing, turns back to someone else without heat. Boredom, not exasperation. Ortiz declining to engage was right; Ortiz telling him he was full of himself was a gift.\n\n> **The un-performed register is the one to give rooms to, and it unblocks his realization gate** — see the private authoring notes.\n\n> **And the mechanism is contrast, not cost.** Nothing teaches him by hurting, because he enjoys friction. What teaches him is **the same person giving him nothing for the performance and something for the plain version**, close enough together that the difference is visible. Ortiz did both inside one interview in Ep 5.",
+    "advancementNpcRuling": "**Advancement-NPC standing ruling.** Per `world/rules.md`, an NPC bought as a relationship **does not betray the PC**; the worst case is declining a specific ask — *let's pretend I didn't hear that* — never turning on them. **No NPC bought this way solves the arc either.** *(This was on the player sheet until 2026-09-06; it is DM guidance, not the player's bond text.)*",
+    "mirraBondIrony": "**On his Mira bond, which the player sheet must NOT say:** Dakota is wrong about this. Mira is watching. Keep the irony load-bearing. *(Moved out of the player-facing bond 2026-09-06 — it was printing on his sheet.)*"
   },
   "markBullets": {
     "hardMoment": false,
@@ -145,5 +147,30 @@
       "detail": "Det. Camila Ortiz. She wrote him off in the interview and then revised in public when he beat everyone to the date gap.",
       "disclosure": "Offered alongside Mateo. Per the standing ruling she does not betray him; her worst case is declining a specific ask."
     }
-  ]
+  ],
+  "sheetMotif": "<svg viewBox=\"0 0 44 44\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 22 L26 22 C33 22, 33 33, 26 33 L23 33\"/><path d=\"M8 22 C4 22, 4 24, 8 24 L8 22\"/><ellipse cx=\"17\" cy=\"22\" rx=\"9\" ry=\"2.5\" fill=\"currentColor\" fill-opacity=\"0.15\" stroke=\"none\"/></svg>",
+  "sheetWriteIn": {
+    "title": "Registers",
+    "intro": "You switch <b>NAME</b> between distinct modes. <strong>Write them here</strong> &mdash; as many as are real, in whatever words you would actually use. The last column is the one only you can answer.",
+    "columns": [
+      [
+        "Name",
+        "22%"
+      ],
+      [
+        "Who it&rsquo;s for",
+        "24%"
+      ],
+      [
+        "What he wants",
+        "24%"
+      ],
+      [
+        "What people notice",
+        ""
+      ]
+    ],
+    "rows": 6,
+    "footnote": "There are no wrong answers and it doesn&rsquo;t have to be six. If two of them collapse into one when you write them down, that&rsquo;s worth knowing too."
+  }
 }

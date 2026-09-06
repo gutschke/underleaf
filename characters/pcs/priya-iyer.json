@@ -41,7 +41,7 @@
   "backstory": "Priya's family emigrated from Chennai to Fremont when she was 9. She learned first aid in middle school after watching her grandmother go from independent to institutionalized in the span of one badly-handled fall.\n\nAt 17 she was driving south on the 17 when the car in front of her rolled. She got out and reached a man whose leg was crushed under the passenger door before the CHP arrived. Onlookers yelled she was making it worse; she stabilized him anyway. He survived. She has never known what to do with that memory except let it decide her career.\n\nShe finished nursing school eighteen months ago and got the UCSF ICU spot on her second application. Night shift because that was the opening; she's stayed on it because she likes the quieter hallways. Walks to Ocean Beach in the morning to watch it before sleeping. On the Taipei flight (Ep 1) because a childhood friend from Chennai went home for a wedding and had a stroke there — she went to help the family and be present. She'd never been to Taiwan before and had never made a decision that big that fast. The wedding did not happen. She is back now, quietly a little proud of herself for having gone.\n\nShe met the others on the plane. Dakota tried too hard to charm her over the drinks cart; she was unimpressed and clocked him as harmless within thirty seconds.",
   "bonds": [
     "**Alaia Vega** — the Bodie ranger. She was struck by Priya's commitment to ICU nursing, bought drinks for the whole party, and the two of them ordered together. They both take a plain Americano. The first person outside the party to see Priya as a professional rather than as the group's medical instrument.",
-    "**Relationship — Alaia Vega.** Taken after Ep 5. She bought the round because she was struck by what {{pc:2}} does for a living; they ordered together and both take a plain Americano. **Alaia now turns up when {{pc:2}} calls for her**, not when the plot needs her. Per the standing ruling, she does not betray {{pc:2}}; her worst case is declining a specific ask."
+    "**Relationship — Alaia Vega.** Taken after Ep 5. She bought the round because she was struck by what you do for a living; you ordered together and you both take a plain Americano. **She turns up when you call her**, not when the plot needs her — she works emergencies at the other end of the state and she will come."
   ],
   "harm": 0,
   "stress": 0,
@@ -60,7 +60,8 @@
     "alignmentDriftWatch": "The 'chaotic-neutral competent-care-giver' pull can drift toward Neutral Good the more time she spends with the party. That's healthy drift.",
     "focusNotes": "If the bag is separated from her, everyone at the table feels it.",
     "personalStakesLever": "A full migraine can knock her out for a scene without threatening her life — use if the DM needs personal pressure on Priya without harm-boxing her. Triggers: dehydration, sleep loss, long stretches of adrenaline. Do not overuse; once per arc.",
-    "substrateSensitivity": "Body-level substrate-sensitivity in her care/body domain. Graded severity: sub-threshold 'low hum' for nearby Cheap-tier casts, migraine (throbbing pressure behind eyes) for nearby Costly+ casts or substrate-sensitive people in body-crisis, debilitating for Hard-tier / anchor-site permeability firing loudly. Fires ~1-2 per act at most. Never voice the mechanism at the table until her Phase-2 realization beat lands."
+    "substrateSensitivity": "Body-level substrate-sensitivity in her care/body domain. Graded severity: sub-threshold 'low hum' for nearby Cheap-tier casts, migraine (throbbing pressure behind eyes) for nearby Costly+ casts or substrate-sensitive people in body-crisis, debilitating for Hard-tier / anchor-site permeability firing loudly. Fires ~1-2 per act at most. Never voice the mechanism at the table until her Phase-2 realization beat lands.",
+    "advancementNpcRuling": "**Advancement-NPC standing ruling.** Per `world/rules.md`, an NPC bought as a relationship **does not betray the PC**; the worst case is declining a specific ask — *let's pretend I didn't hear that* — never turning on them. **No NPC bought this way solves the arc either.** *(This was on the player sheet until 2026-09-06; it is DM guidance, not the player's bond text.)*"
   },
   "markBullets": {
     "hardMoment": true,
@@ -131,5 +132,6 @@
       "detail": "Alaia Vega. She bought the round because she was struck by what Priya does for a living; they ordered together and both take a plain Americano.",
       "disclosure": "Offered alongside Medic mastery. Per the standing ruling she does not betray her; her worst case is declining a specific ask."
     }
-  ]
+  ],
+  "sheetMotif": "<svg viewBox=\"0 0 44 44\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 22 L14 22 L17 15 L21 30 L25 12 L29 22 L40 22\"/></svg>"
 }

@@ -46,7 +46,7 @@
       "type": "PC",
       "description": "Met on War Thunder eight months ago; became close friends over long late-night calls. Going to Taipei together — the bond is stronger than either of them says."
     },
-    "**Resource — Trina Vo.** Taken after Ep 5. Corporate investigations in Oakland; ran the same federal red-team contract he did, and did not back him when he raised it. **A billed LexisNexis seat, TLO, IRB, PACER and county portals — plus sources she will not name until he asks out loud.** She turns up when {{pc:1}} calls, not when the plot needs her. Per the standing ruling she does not betray him; her worst case is a priced refusal."
+    "**Resource — Trina Vo.** Taken after Ep 5. Corporate investigations, Oakland. She ran the same federal contract you did and stayed when you walked. **A billed LexisNexis seat, TLO, IRB, PACER and the county portals** — and other sources she will not name until you ask for them out loud. **She turns up when you call.** She prices a favour before she does it."
   ],
   "harm": 0,
   "stress": 0,
@@ -67,7 +67,8 @@
     "openThreads": [
       "Retcon door: Morgan's father is *presumed* dead, not confirmed. Recur available as a plot lever — vanished-father parallels Mira's vanished-brother (world-edited-around fingerprint) and is candidate material for Bea Ferro's index or a later pioneer/archivist revelation.",
       "SFPD Missing Persons Det. Camila Ortiz is the assigned officer on his father's case."
-    ]
+    ],
+    "advancementNpcRuling": "**Advancement-NPC standing ruling.** Per `world/rules.md`, an NPC bought as a relationship **does not betray the PC**; the worst case is declining a specific ask — *let's pretend I didn't hear that* — never turning on them. **No NPC bought this way solves the arc either.** *(This was on the player sheet until 2026-09-06; it is DM guidance, not the player's bond text.)*"
   },
   "markBullets": {
     "hardMoment": false,
@@ -139,5 +140,6 @@
       "detail": "Trina Vo — database access, legitimate (LexisNexis, TLO, IRB, PACER, county portals) and otherwise.",
       "disclosure": "He was told in Ep 5, in as many words, that he needed one."
     }
-  ]
+  ],
+  "sheetMotif": "<svg viewBox=\"0 0 44 44\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\"><path d=\"M2 22 Q9 8, 16 22 T30 22 T42 22\"/><circle cx=\"22\" cy=\"22\" r=\"2.6\" fill=\"currentColor\"/></svg>"
 }
