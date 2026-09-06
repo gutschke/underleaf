@@ -2408,6 +2408,64 @@ She had never been certain before.**
 > **Default lean: HOLD §25.** Rosa already assumes it went to a landfill, so the
 > untrue belief costs nothing and never has to be corrected on screen.
 
+### The youth club — S1 #2, and it fired better than it was written  *(hook T27)*
+
+**The designed flattening beat never found a moment.** What happened instead was
+this, and it is better.
+
+A discussion of the hall's bookings turned up **a youth club with a standing
+Wednesday-night booking, running back through every record the dance group
+keeps.** Three things were then agreed, comfortably, by the room:
+
+1. **Nobody has ever met this group.** Everyone was certain of it.
+2. **The standing booking is correct, and it means nobody else can book that
+   slot.**
+3. **Alcoholics Anonymous uses the hall every Wednesday night at that time.**
+
+**Nobody saw a problem with any of it.**
+
+> **The party noticed.** They floated seniors being too agreeable, an old-people
+> thing, square-dance culture, or something else entirely — **and settled on
+> none of them.** That is precisely the intended effect and it should stay that
+> way.
+
+> **Why this is worth more than texture.** `anchors-cards-ledgers.md` holds that
+> **a record is only a constraint when it is consulted.** This one *is* consulted
+> — it is the reason nobody else can book — **and it has never once been checked
+> against the room it governs.** The campaign's own mechanic, running on a
+> booking calendar, in front of the players, with no cosmology attached to it.
+>
+> **Four readings stay live: flattening · an edited-out group whose booking is
+> what was left · both true because nothing has forced a reconciliation · or
+> entirely mundane.** **Never explain it.**
+
+### T7 retires by exhaustion, not by scene *(ruled 2026-09-06)*
+
+{{pc:4}}'s brown-edged photograph was scheduled to retire at Rosa's kitchen and
+did not come up. **It is retired anyway, and this is a better ending than the
+scene would have been.** Its only job was to dead-end helpfully; Ep 6 dead-ended
+it more thoroughly than a beat could — **Rosa has never heard of Argonaut or
+Farallon, and a hall holding forty people who love local history produced nothing
+about it.** **The sources are exhausted. Schedule nothing.**
+
+### Rosa's step-back declaration — RULED FIRED, with a restatement owed
+
+**The written line never landed** — *"I remember how to remember; I no longer do
+the reaching"* was never said. **The substance did:** she told them she **stopped
+her activities for the benefit of another person**, refused to say who or why
+because it was personal, hinted it was **more than ten years ago**, and at the
+door told them she knows they are on **the same journey of discovery she went
+through.**
+
+> **RULED FIRED. The party knows Rosa was a caster and chose to stop.** That
+> matters downstream — she is the campaign's mouth for the grief beat, the one
+> person who had this and put it down, and that role is unfunded if the players
+> do not know it.
+>
+> **But it arrived in pieces, across a long day, in a room with a lot of names in
+> it. RESTATE THE KEY PARTS at Rosa's second session (B21, Eps 12/14)** — plainly,
+> once, and without ceremony. **Do not replay the moment; confirm the fact.**
+
 ### Settled with the summary
 
 - **Isabel Vega died in 1992, aged 71.** Spoken at the table in general terms.

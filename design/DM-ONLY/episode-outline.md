@@ -745,6 +745,8 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 ### Ep 12 — The City of Ten Thousand Buddhas
 
+> **OWED FROM EP 6 (2026-09-06):** **restate Rosa's step-back plainly, once.** The declaration fired in Ep 6 but arrived in pieces across a long day — *stopped for another person · more than ten years ago · you are on the journey I went through*. **Confirm the fact; do not replay the moment.** See facts-ledger §46.
+
 - **LOAD:** MEDIUM
 - **PRIMARY SHAPE: grief / stillness.** **The City of Ten Thousand Buddhas, Ukiah** — a Buddhist monastic community occupying the grounds of a former state hospital in Mendocino County. Walking paths, a vegetarian dining hall, enormous quiet, and institutional buildings visibly repurposed into something gentler. **The ledger is cut precisely so that nothing competes with this scene.**
 - **Why Ukiah and not somewhere closer.** Two hours up 101 through Sonoma and into Mendocino — **it is genuinely awkward to reach from the city on a casual outing**, and that is the point. It is a whole day. Nobody drops in. So the party commits real effort to a ledger they will not be allowed to see, which is exactly the lesson the session exists to teach, and the drive up gives the episode its road-trip register for free.

@@ -1,5 +1,8 @@
 **Session 6 — Eight Twenty Sharp**
 
+> **{{pc:5}} — your advancement pick is still outstanding.** Everyone else has
+> taken theirs. One line back whenever you've decided.
+
 You arrived at 8:12 and then spent eight minutes arguing about who should knock.
 {{pc:4}} settled it at 8:20 exactly. He had prepared a triple knock. He got one
 contact with the door before it opened, and Rosa Vega was already saying come in.
@@ -53,7 +56,7 @@ polite, and gave him a wink and *"your secret's safe with me"* — visibly
 impressed. Then he said nothing important had ever happened to him, and proceeded
 to tell you that he was born in Visalia, won the lottery at sixteen, was flown to
 San Francisco to be photographed with an enormous cheque, and met a girl at the
-hotel check-in. **Pia.** They found each other again after his deployment and
+hotel check-in. Pia. They found each other again after his deployment and
 were married most of a lifetime. She died eight years ago.
 
 *"You want to know why she's called Pia? I never knew. Some exotic Middle Eastern
@@ -73,6 +76,16 @@ the wrong order, usually to a question nobody had asked. And the actual facts
 came from **everybody else in the room** — her name in every sign-in book since
 1996, a photograph from 1997 with a book under her arm, forty people who have no
 idea what a second notebook-keeper would even be.
+
+Somebody got the bookings out. **A youth club has a standing Wednesday night at
+the hall — every Wednesday, back through every record they keep.** Nobody in that
+room has ever met them. Everyone was quite certain about that, and equally certain
+that the booking is correct, and that it means **nobody else can have that slot.**
+
+They also agreed that Alcoholics Anonymous meets there every Wednesday night at
+that time.
+
+**Nobody saw a problem with any of it.**
 
 Somebody asked what Rosa had written down about the hall that impressed everyone
 so much. **It is apparently the oldest building any of them can think of** — put
@@ -152,4 +165,4 @@ She did not say what that was.
 
 ---
 
-*One mark each. {{pc:5}} — your advancement pick is still outstanding.*
+*One mark each.*
