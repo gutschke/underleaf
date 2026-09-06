@@ -275,30 +275,40 @@ confused is not a problem. Losing track internally is.**
 > motivated. **But never confirm it either.** The moment an NPC says *yes, you
 > need all eight*, it becomes a fetch quest with a known length.
 
-### Why keepers are secretive — observed, not explained
+### Why this work gets concealed — observed, not explained
 
-**Keepers conceal, from each other and from their own families.** Rosa hid her
-practice from Alaia. Isabel hid her correspondence from Julián. Bea tells nobody.
+**Concealment runs through everyone who gets near this, and it is not limited to
+keepers.** Rosa hid her practice from Alaia. Bea tells nobody. **Isabel — who was
+not a keeper, kept no ledger and wrote no anchors — hid her correspondence with
+Loewe from Julián all the same.** *(Do not let her appear in a list of keepers.
+She belongs in this one because the concealment is broader than the role.)*
+
 Rosa found it entirely plausible that her mother kept a ledger *precisely because*
-a keeper would not have said so.
+a keeper would not have said so — **which is Rosa reasoning correctly from a real
+pattern to a wrong conclusion.**
 
 > **There is no cosmological justification for this yet, and we may never write
 > one. For now it simply seems to be that way.** Do not let an NPC explain it and
 > do not build a mechanic on it. **It is a regularity the party can observe and
 > reason about, which is more useful than a rule.**
 
-### How many keepers there are — DM-side extrapolation, and possibly wrong
+### How many keepers there are — the author's lean, deliberately unfixed
 
-**Guess, not canon:** there are probably other keepers elsewhere in the world, and
-probably many across the years — centuries, possibly longer.
+> **THE AUTHOR'S POSITION, stated 2026-09-05:** *the cosmology works better if
+> California and the Presence are not special, and similar stories have played out
+> throughout history.* **Held open for as long as possible** — but it is the lean,
+> and nothing should be written that forecloses it.
 
-> **This is extrapolation from a very small sample and it could be wildly wrong.
-> Nothing in the campaign asserts it.** Its only current use is to stop the DM
-> writing anything that *forecloses* it.
->
-> **The consequence that matters: the eight may be a local or regional set, not a
-> world total.** The party has assumed a closed system. **Nothing has told them
-> it is closed, and the DM has not decided that it is.**
+So: probably other keepers elsewhere, probably many across the years — centuries,
+possibly longer. **None of this is canon and the sample is tiny.**
+
+**The consequence that matters: the eight may be a local or regional set, not a
+world total.** The party has assumed a closed system. **Nothing has told them it
+is closed, and the author has deliberately not decided that it is.**
+
+> **What this forbids, practically:** no NPC says the eight are all there are · no
+> document implies the practice began here or recently · **no scene treats the Bay
+> Area as the centre of anything.** The party may believe all three. Let them.
 
 - Numbering is DM-facing. Do not present as "L1/L2/..." at the table; the party will refer to them by location or holder name.
 - **Stop numbering them in prose anywhere except this table.** Three files have already drifted apart on the numbering, and the party will never say "L6" — they will say "the Berkeley one" or "Rosa's".
