@@ -2122,9 +2122,21 @@ valuable ends up on eBay, the rest in a landfill, and **she is fine with that.**
 decorated porcelain bowl.** She said it has sentimental value. **She did not
 explain it and was not asked to.**
 
-> **CHEKOV — the bowl.** Unexplained on purpose. It is now the only object in the
-> world Rosa has said she wants kept, which makes it worth more than the ledger to
-> anyone who is paying attention. **Do not explain it until it is worth spending.**
+> ### The bowl — held between two readings, and the first one is not lesser
+>
+> **Reading A — it is a character summary, and that is all of it.** Everyone has
+> one thing they want preserved. **In Rosa's case it is a single object**, and the
+> fact that the number is *one* is the whole statement: what she thinks is worth
+> keeping of a long life, and what that says about how she values herself. **Under
+> this reading the bowl never pays off, because it already has.**
+>
+> **Reading B — it is a genuine Chekov item**, and the unexplained sentimental
+> value is load-bearing.
+>
+> **Do not decide yet.** She said it has sentimental value, did not explain, and
+> was not asked to — which is exactly the state both readings need. **If it is
+> ever spent, A is spent with it**, so the bar for firing it is high. *(Corrected
+> 2026-09-05: an earlier note filed this as a Chekov entry outright. It is not.)*
 
 > ### HELD OPEN — why she is at peace about the ledger not surviving
 >
@@ -2168,6 +2180,57 @@ has produced.**
 **They may well not have, had he been running an abrasive register.** He got a
 social good he did not perform for — which is precisely the condition the
 realization gate is written around, and nobody at the table named it.
+
+### The Alaia trade never fired — and the reason is a design fault, not a table fault
+
+**The party was so frightened of mentioning Alaia that they worked hard never to
+say her name.** The trade — say the daughter's name to Rosa, lose this round's
+answer, get a story — **had no route to firing.**
+
+> **This was our error and it is worth keeping.** The Ep 5 chat-post ended with
+> ***"And do not mention Alaia to her mother."*** We told them not to, and then
+> built a mechanic that required them to. **A trade the players have been warned
+> off is not a trade; it is a trap they correctly declined.**
+>
+> **The rule going forward: never gate an optional-fun mechanic on a player doing
+> the specific thing the campaign told them not to do.** Either the warning goes,
+> or the mechanic is triggered by somebody other than the party.
+
+**What was salvaged, and how.** Rosa volunteered the Alaia material herself, back
+at the house, when an opening came:
+
+- **THE JUNIOR RANGER.** She told the story of the letter Alaia wrote to the Park
+  Service at nine, and **showed them the framed form-letter reply, hanging outside
+  Alaia's old room.** *(New canon: the frame is on the wall and it has been there
+  for decades.)*
+- **THE SUMMER OF THE TENT**, and the skunk.
+
+**What was lost, and is still owed.** The trade's second half — **Winnie
+retaliating on Rosa's behalf with something about young Rosa** — mostly did not
+happen, because the Winnie interactions largely did not happen. **Two returns
+remain unspent and both are still good:**
+
+- *"She danced with a man for four years before she found out his name."*
+- **"She has never once brought anybody here. Not once. I have asked."** — this
+  one is a direct isolation beat and **should be held for Rosa's second session
+  (B21, Eps 12/14)** rather than spent casually.
+
+### The receipts — Rosa's filing, and a third data point
+
+**One Winnie story did land**, interjected by the DM when the opening came: the
+year Rosa catalogued the hall's whole records and put them all back in the wrong
+boxes — *"They were not the wrong boxes. They were better boxes."*
+
+> **HELD OPEN.** {{pc:3}} found disordered boxes of receipts at the hall. **That
+> disorder may be Rosa's ordering system**, still in place decades later. It may
+> also just be forty years of nobody filing anything.
+>
+> **Why this is worth holding: it is the third instance of the same question.**
+> She is immaculate with the ledger, chaotic with the planner, and her filing at
+> the hall reads as disorder to a professional records clerk. **Either she has a
+> system nobody else can read, or she does not have one at all** — which is the
+> same question as her peace about the ledger not surviving *(competence, or
+> resignation)*. **Do not answer it in either place.** Answering one answers both.
 
 ### Settled with the summary
 

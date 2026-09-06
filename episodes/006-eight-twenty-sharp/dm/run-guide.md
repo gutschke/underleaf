@@ -381,6 +381,9 @@ At about eight forty-five she stands up.
 
 ### The Alaia trade — plant it, then let them choose it
 
+> **PLAYED 2026-09-05: it never fired, and the fault was ours.** The Ep 5 chat-post ended with *"do not mention Alaia to her mother."* **We warned them off, then built a mechanic that required them to do it anyway** — so they worked hard never to say her name, which was correct of them. **Never gate an optional-fun mechanic on the specific thing the campaign told the players not to do.** The salvage: Rosa volunteered the Junior Ranger and the skunk herself, back at the house, and showed them the framed Park Service reply outside Alaia's old room.
+
+
 **Somewhere in the first two rounds the room mentions Rosa's daughter.** A bonus card does it, or Winnie does:
 
 > **WINNIE:** *"She used to bring her girl to this. Hated every minute of it."*
