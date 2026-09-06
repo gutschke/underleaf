@@ -277,6 +277,17 @@ confused is not a problem. Losing track internally is.**
 
 ### Ledgers have rules, and the rules are not legible
 
+> **A ledger is not a book. It is a functional aspect of reality**, and what that
+> means may be **beyond any one person's full comprehension** — including the
+> person keeping it. That is consistent with the rest of the cosmology: the layers
+> of this world are mutually incomprehensible by construction, and a keeper is
+> standing at the boundary of one.
+>
+> **Everything below follows from that.** A keeper is not a librarian being
+> careful with a valuable object. **They are handling a piece of how things hold
+> together, with no manual and no vocabulary** — so their behaviour around it will
+> look inconsistent, because it was never about the object.
+
 **Anchors can be moved.** {{pc:4}} carried three out of a Sacramento locker and
 the party can inspect them at will. **Anchors can fade or be destroyed**, and the
 campaign is comfortable with that — Rosa is at peace about hers not surviving,
