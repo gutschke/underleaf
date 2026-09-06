@@ -275,13 +275,29 @@ confused is not a problem. Losing track internally is.**
 > motivated. **But never confirm it either.** The moment an NPC says *yes, you
 > need all eight*, it becomes a fetch quest with a known length.
 
-### Why this work gets concealed — observed, not explained
+### Disclosure — archivists declare, keepers do not. We do not know why.
 
-**Concealment runs through everyone who gets near this, and it is not limited to
-keepers.** Rosa hid her practice from Alaia. Bea tells nobody. **Isabel — who was
-not a keeper, kept no ledger and wrote no anchors — hid her correspondence with
-Loewe from Julián all the same.** *(Do not let her appear in a list of keepers.
-She belongs in this one because the concealment is broader than the role.)*
+**This is an asymmetry the party can actually observe, and it is worth keeping
+clean.**
+
+**Bea told them what she was at their first meeting.** Plainly, unprompted, on the
+way in. **She is confusing, mysterious and not always forthcoming** — cagey about
+particulars, evasive about her own file, hard to pin down — **but she never hid
+the role itself.**
+
+**Rosa did not.** She let the morning happen, answered what was asked, and said
+what she used to be **only once the party had earned it** — and even then in her
+own words, at her own moment, on her way to saying goodbye. **She has also never
+heard of Bea.** The two roles do not appear to know each other.
+
+**Isabel — not a keeper, kept no ledger, wrote no anchors — hid her correspondence
+with Loewe from Julián all the same.** *(She must never appear in a list of
+keepers. She is here because concealment reaches past the role.)*
+
+> **We have no explanation, and the sample is small: one archivist, one keeper,
+> and one inference.** It may not be important. **Do not have anyone explain it,
+> and do not build a mechanic on it** — an asymmetry the players can notice and
+> argue about is worth more than a rule.
 
 Rosa found it entirely plausible that her mother kept a ledger *precisely because*
 a keeper would not have said so — **which is Rosa reasoning correctly from a real
