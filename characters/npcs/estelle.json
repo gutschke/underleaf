@@ -1,0 +1,16 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Estelle",
+  "pronouns": "she/her",
+  "role": "folk dancer, Live Oak Park Social Hall, North Berkeley; created at the table in Ep 6",
+  "disposition": "warm, direct, entirely unbothered; adopts the worst dancer in the room on principle",
+  "alignment": "neutral-good",
+  "description": "Early eighties and the best mover on that floor. Broomstick skirt, silver bracelets you hear before you see her. She has been coming close to the beginning of the dance, which puts her at about fifty when it started. She drafted {{pc:1}} on sight — he was the visible newcomer and he was wearing a very good jacket — and she came back every round or two to check on him, including while he was under the stage with the sound system.",
+  "voice": "Says the true thing pleasantly and does not soften it. Does not ask twice. Treats being busy as a temporary condition she is happy to wait out.",
+  "signature": [
+    "The drafting line, on sight: \"That's a lovely jacket. It's going to be very warm in about four minutes.\"",
+    "The refusal she does not accept: \"You're busy. I'll come back.\"",
+    "Everyone was new once — said as a fact about the room, not as encouragement."
+  ],
+  "dmNotes": "**CREATED IN PLAY, Ep 6 (2026-09-05).** The party met her; she is canon. See `facts-ledger.md` §46.\n\n**She is older than Rosa, and she is the standing refutation of {{pc:2}}'s worry.** {{pc:2}} spent the morning cataloguing fall risks in a room of people who have managed their own bodies for twenty years. **Estelle is the punchline with a name: right about the anatomy, wrong about the danger.**\n\n**A second mouth for *Rosa has always been here*.** Estelle predates most of the room and can say it without it coming from Rosa or from Joyce's binder.\n\n**LANE DISCIPLINE. Estelle belongs to {{pc:1}}.** Hector is {{pc:2}}'s, Joyce is {{pc:3}}'s, Winnie is {{pc:4}}'s, Bernard is {{pc:5}}'s. **Do not let her drift into the triage bit** — two dancers doing the same job costs both of them.\n\n**PRIME CALLBACK.** She is the strongest candidate from that room to return three sessions later, remember all five PCs by name, and ask whether one of them ever came back. **That is what converts a morning with nothing to obtain into the morning they made a friend.** Cheap to run, and the only thing it needs is that she was written down."
+}

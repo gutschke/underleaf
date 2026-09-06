@@ -2038,16 +2038,142 @@ close to the beginning, which puts her at about fifty when the dance started, so
 > remembers all five PCs by name is what converts a morning with nothing to
 > obtain into the morning they made a friend.
 
-### Open — to be settled with the session summary
+### The food — Rosa bakes, and the hall shows off
 
-- **The tin.** Never explained in the written material; its only job was to change
-  hands. **Proposed at the table: polvorones, her mother's recipe, brought every
-  time for thirty-one years** — which also puts the recipe in the same box as
-  Loewe's letters. **Not yet confirmed as spoken.**
-- **When Isabel died.** No date has ever been fixed. The fence is: born ~1920s ·
-  Loewe's correspondent ~1949–61 · died before Alaia's generation (Alaia is late
-  20s, so born ~1998) · Julián predeceased her in the 1980s. **Proposed: 1992,
-  aged 71** — which leaves Isabel outliving the man she was hiding the letters
-  from by a decade **and still never assembling them.** **Do not put her death in
-  1979**; that is the year Rosa took the ledger out of the Bancroft backlog, and
-  colliding them turns the ledger into a grief-object.
+**Not a potluck. A show-off.** Forty people who have known each other for decades
+each bring something and want it noticed. **Rosa's tin held polvorones**, and the
+tables between them carried profiteroles, thumbprint cookies, braided cookies and
+more. **Whatever a PC asked for had already been brought** — by Rosa or by one of
+the other dancers.
+
+**Rosa has a baking hobby.** Confirmed later at the house: {{pc:5}} cheekily
+declined the lemonade everyone else was happy with and asked for a rhubarb drink.
+**She had it.** She went to the kitchen, found **frozen rhubarb she keeps on hand
+in case she wants to make a strawberry-rhubarb pie**, thawed it in an **ancient
+1980s microwave**, blended it in a **1970s Osterizer**, asked whether he wanted
+club soda *(he declined)*, and topped it with ice out of a **manual ice-cube
+tray.**
+
+> **Play her kitchen as forty years of tools that still work and were never
+> replaced.** It is the same discipline as the ledger, applied to appliances, and
+> nobody should say so.
+
+> ### HELD OPEN — the hosting always fits
+>
+> **Every offer matched what the person wanted, including on seconds.** The party
+> may notice. **Do not resolve this, in either direction.** The readings stay
+> live together, per the campaign's standing held-open discipline:
+>
+> - **Nothing happened.** Forty people who have hosted each other for thirty-one
+>   years are simply very good at it, and Rosa keeps rhubarb in the freezer
+>   because she likes pie.
+> - **Somebody else is casting**, casually and without noticing, the way a room
+>   full of long practice might.
+> - **Not for the party's sake at all** — the room is arranged for the room, and
+>   the PCs are standing inside somebody else's ordinary morning.
+> - **Retrocausal.** The freezer had rhubarb in it because he was going to ask.
+>
+> **Revealing one collapses the others.** Rosa's own answer, if pressed, is a
+> shrug and a plate. **She would give the same shrug under every reading**, which
+> is exactly why it holds.
+
+### AMENDMENT — what Rosa actually claims about being alone
+
+**The written GM card was never played.** *"I've never met anyone else who does
+it"* did not fire in the hush; the equivalent arrived at the door, as she said
+goodbye and wished them luck in finding out what is happening. **What she
+actually said is narrower, and it is now canon:**
+
+> **She has never met another keeper of a ledger.** But **on rare occasions she
+> has met other people with abilities like the party's** — and she never said
+> what those abilities are.
+
+**This supersedes "she believes she is the only person in the world who does
+this." Hold the new version.** It is a better fit for her existing peer-network
+line — *"You'll meet others. Not many at once — that isn't how it works"* — which
+was always in her signature set and now reads as experience rather than prophecy.
+
+**What survives intact:** the ledger still names no other keeper across
+forty-eight years, and the slips the party built still make a case she cannot
+account for. **The isolation is now specifically a keeper's isolation**, which is
+sharper than a caster's and costs the arc nothing.
+
+**She was genuinely impressed by {{pc:4}}'s ledger.** Not guarded, not
+territorial — impressed.
+
+### Isabel's notebooks — Rosa's hindsight, and what is true
+
+**Rosa now suspects, only in hindsight, that her mother might have kept one** —
+and immediately talks herself down: *maybe it was just a diary after all.* She
+assumes it went to a landfill years ago.
+
+> **The DM's answer, unchanged from §25: Isabel kept no ledger and wrote no
+> anchors. Her letters were letters, and her notebooks were notebooks.** Rosa's
+> second thought is the correct one. **Never confirm it to her and never let an
+> NPC settle it** — she has spent a life not asking her mother why, and the not
+> asking is the character.
+
+### The estate conversation — {{pc:4}} asked what happens when she dies
+
+**She hopes Alaia has the good sense to call an estate clean-up company.** Anything
+valuable ends up on eBay, the rest in a landfill, and **she is fine with that.**
+
+**One exception.** It would please her if Alaia kept **a small, intricately
+decorated porcelain bowl.** She said it has sentimental value. **She did not
+explain it and was not asked to.**
+
+> **CHEKOV — the bowl.** Unexplained on purpose. It is now the only object in the
+> world Rosa has said she wants kept, which makes it worth more than the ledger to
+> anyone who is paying attention. **Do not explain it until it is worth spending.**
+
+> ### HELD OPEN — why she is at peace about the ledger not surviving
+>
+> She is untroubled that the ledger will not last. **Two readings, and the
+> session deliberately settled neither:**
+>
+> - **She has worked out the temporal shape** — a single timeline that adjusts
+>   under self-consistency means **an anchor does its work whether or not the
+>   paper survives into the future.** Being at peace is then the correct and
+>   informed response.
+> - **She devalues her own work as a keeper**, and the peace is resignation
+>   wearing calm.
+>
+> **She gives the same answer under either reading**, so the question cannot be
+> resolved by asking her. **We may never know, and that is the intended state.**
+
+### A6 — {{pc:4}} played the un-performed register all day, by choice
+
+**The thing the guide said to watch for and never prompt happened, and the player
+articulated the reasoning himself**, unprompted: with elderly people the
+no-persona character works best — **there is nobody to impress, everybody likes
+him anyway, and there is nothing to get by manipulating them.** He then played it
+that way for the entire session.
+
+**This matches `personaDropCanon` exactly** — established Ep 3 scene 03, that he
+drops the public persona with older or vulnerable NPCs — **and it was arrived at
+independently, from the player's side, which is the strongest evidence the arc
+has produced.**
+
+> **The wrinkle, recorded honestly rather than smoothed over.** His stated reason
+> is *instrumental*: he chose the un-performed register **because it works
+> better.** The gate wants a register in which nothing he gets can be credited to
+> working the room. **The behaviour qualifies — he genuinely did not work the
+> room. The motive is still optimisation.**
+>
+> **Do not rule on this yet and do not raise it with the player.** Ep 8 gives him
+> a peer who is unmoved by performance; whether that changes the motive is the
+> thing to watch. **A6 is substantially advanced and not closed.**
+
+**A real second-order consequence:** the party shared one car without argument.
+**They may well not have, had he been running an abrasive register.** He got a
+social good he did not perform for — which is precisely the condition the
+realization gate is written around, and nobody at the table named it.
+
+### Settled with the summary
+
+- **Isabel Vega died in 1992, aged 71.** Spoken at the table in general terms.
+  She outlived Julián by roughly a decade — free to assemble Loewe's letters, with
+  nobody left to hide them from — **and never did.** Rosa now has the same box and
+  the same inability to say why. **Not 1979**: that is the year Rosa took the
+  ledger out of the Bancroft backlog, and colliding them would make the ledger a
+  grief-object.
