@@ -33,3 +33,39 @@ Two fields exist purely for the sheet and are safe to edit: `sheetMotif` (the
 inline SVG in the header) and `sheetWriteIn` (a blank table the player fills in —
 rendered last, so if the sheet overflows the spill page is a clean worksheet
 rather than a stub).
+
+## Guards — run these before every commit and before handing anything over
+
+**These live here, in version control, deliberately.** They spent weeks in an
+untracked scratch directory, which meant the things protecting the repo were the
+things most likely to be lost — and one of them was quietly broken the whole time.
+
+`check-no-player-names.sh` — the repo carries CHARACTER names freely and must
+never carry PLAYER names. **It is case-insensitive, and that is load-bearing:**
+until 2026-09-06 it was case-sensitive and passed a lowercase player name sitting
+inside a filename reference, for weeks, while reporting "clean". Do not remove
+the `-i`.
+
+    UNDERLEAF_PARTY_MAP=~/path/party-mapping.json tools/check-no-player-names.sh .
+
+`check-player-firewall.sh <file.pdf>…` — player-facing PDFs must not carry DM
+vocabulary (cast, caster, magic, substrate, The Quiet, realization, dmNotes…).
+No PC has `knowsTheyCanCast` set; the sheets say *focus* and *anchor*.
+
+`check-episode-consistency.py <episode-dir>` — duplicate headings, dangling scene
+cross-references, placeholders, conflicting numeric claims, deck-size
+disagreements, references to cut components. **Partial edits are the commonest
+defect in this repo**; a single find-and-replace that hits the first of two
+identical headings has cost real work more than once. Skips generated
+`continuity-through-*.md` snapshots, where repeated headings are the structure.
+
+`resolve-pc-tokens.py IN.md OUT.md` — substitutes real names for `{{pc:N}}` for
+the DM's own copy. **The map is private and never committed**; point at it with
+`UNDERLEAF_PARTY_MAP`. `tokenize-pc-names.py` goes the other way, for sanitizing
+a document before it is committed.
+
+`build-dm-sheets.py` — extends the generated player sheets with `dmNotes`. Paths
+come from the environment (`UNDERLEAF_BASE_SHEETS`, `UNDERLEAF_DM_HTML`,
+`UNDERLEAF_DM_PDF`, `UNDERLEAF_PARTY_MAP`). **DM sections render in a single
+column on purpose** — Chrome silently clips multicol content across a page break,
+and the DM loses notes with nothing on the page to show it.
