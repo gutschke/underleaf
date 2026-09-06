@@ -80,6 +80,11 @@ came from **everybody else in the room** — her name in every sign-in book sinc
 1996, a photograph from 1997 with a book under her arm, forty people who have no
 idea what a second notebook-keeper would even be.
 
+{{pc:3}} found the receipts. Boxes of them, wildly out of order — no scheme any
+records clerk could read. It emerged later that the filing was probably Rosa's
+own work. **She says they are properly organised now.** She was not embarrassed
+about it and did not elaborate.
+
 Somebody got the bookings out. **A youth club has a standing Wednesday night at
 the hall — every Wednesday, back through every record they keep.** Nobody in that
 room has ever met them. Everyone was quite certain about that, and equally certain

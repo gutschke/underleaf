@@ -2264,6 +2264,25 @@ boxes — *"They were not the wrong boxes. They were better boxes."*
 > disorder may be Rosa's ordering system**, still in place decades later. It may
 > also just be forty years of nobody filing anything.
 >
+**CONFIRMED AT THE TABLE:** the boxes were **wildly** out of order, the party
+later learned this was probably Rosa's doing — **and Rosa insists they are
+properly organised now.** She is not embarrassed and does not walk it back.
+
+> ### The pattern this completes, and it is the best handle on playing her
+>
+> **Rosa asserts correctness she cannot justify, without embarrassment, and will
+> not argue about it.** Three instances now, and they are the same behaviour:
+>
+> - **The ledger belongs under the microwave.** She cannot say why. It is a rule.
+> - **The boxes are properly organised.** They are wildly out of order to a
+>   records clerk, and she insists.
+> - **The planners.** Immaculate discipline in one book, escalating disorder in
+>   the other, and no account offered for either.
+>
+> **This is not stubbornness and not decline.** It is a woman standing next to a
+> shape she can feel and cannot see, reporting it accurately, in a vocabulary
+> nobody has ever given her. **Play the calm, never the defensiveness.**
+
 > **Why this is worth holding: it is the third instance of the same question.**
 > She is immaculate with the ledger, chaotic with the planner, and her filing at
 > the hall reads as disorder to a professional records clerk. **Either she has a
