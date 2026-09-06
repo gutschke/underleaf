@@ -1268,7 +1268,7 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 **Cross-reference:** two distinct Marshes in canon — do NOT conflate:
 - **Eleanor Marsh** (§2, §3) — Bea's non-immediate predecessor archivist; died 1987. She was NOT Bea's teacher. She and Bea overlap only in geography and role.
-- **Dr. Reuben Marsh** — fringe physicist with the galaxies-are-sentient hypothesis (Ep 2 `dm/the-archivist.md` §Marsh seed, big-arc misdirection seed bank). A completely different person. Named Marsh purely by ambient-canon coincidence.
+- **a fringe physicist (unnamed — see authoring-rules.md §1b)** — fringe physicist with the galaxies-are-sentient hypothesis (Ep 2 `dm/the-archivist.md` §Marsh seed, big-arc misdirection seed bank). A completely different person. Named Marsh purely by ambient-canon coincidence.
 
 **Related hooks that must respect this invariant:**
 - Any Bea-revisit scene: she cannot say *"Marsh trained me"* or *"as my predecessor taught me"* or equivalent. Her honest posture is *"she left this behind and I recognize her hand."* She can *feel* the predecessor's practice without having received it.

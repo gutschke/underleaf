@@ -151,7 +151,7 @@ The Engineer's vocal misgivings about Companion's emergent behavior are technica
 - **Dr. Mei Bao** (AI luminary, lecturer; Hinton/Bengio composite). Public-facing. Approachable but careful.
 - **Dr. Anika Patel** (consciousness studies). Surface-and-middle-layer accessible. Cybernetic-feedback framing reachable through her in Act III, as a parallel to the deep-layer dream-channel route.
 - **Prof. Oren Vasiliev** (recently-deceased ~2024). PCs find his papers ambiently — through the Archivist, through Patel's citations, through a science newsfeed. They wish they could ask follow-up questions. Plants the dead-scientist-contact possibility for Act III.
-- **Dr. Reuben Marsh** (fringe physicist with the galaxies-are-sentient hypothesis). Disliked by mainstream colleagues. Vindicated to no effect.
+- **a fringe physicist (unnamed — see authoring-rules.md §1b)** (fringe physicist with the galaxies-are-sentient hypothesis). Disliked by mainstream colleagues. Vindicated to no effect.
 - **The Founder, Engineer, UX Designer** (the institutional trinity).
 - **The Former Caster** (single encounter, lasting impact).
 
@@ -258,7 +258,7 @@ Recurring texture-builder: NPC asserts something wild → table dismisses → 1-
 
 | Wild claim | When confirmed | Why inert |
 |---|---|---|
-| Galaxies are sentient (Dr. Reuben Marsh) | Mid-late Act II | We're too different in timescale and distance for communication. We are to them what atoms are to us. |
+| Galaxies are sentient (a fringe physicist (unnamed — see authoring-rules.md §1b)) | Mid-late Act II | We're too different in timescale and distance for communication. We are to them what atoms are to us. |
 | Animals can sense magic | Mid Act II | Cats and crows can. They can't communicate it usefully; relationship is mostly aesthetic. |
 | Casters in other countries / cultures | Late Act II | Cultural-conceptual gaps prevent contact. Network is local for cosmological reasons. |
 | Plants communicate chemically as a network | Late Act II | Too slow, too diffuse. Mycorrhizal hints are real; relevance to the campaign is zero. |
@@ -328,7 +328,7 @@ The campaign rewards three layers (per [`principles.md`](principles.md)):
 | Dr. Mei Bao | AI luminary, lecturer | Act II |
 | Dr. Anika Patel | Consciousness-studies ally; surface path to cybernetics | Act II-III |
 | Prof. Oren Vasiliev | Recently-deceased; papers found ambiently | Act II |
-| Dr. Reuben Marsh | Galaxies-sentient hypothesis carrier | Act II |
+| a fringe physicist (unnamed — see authoring-rules.md §1b) | Galaxies-sentient hypothesis carrier | Act II |
 | The Founder | Companion's CEO; sincere, data-driven | Act II-III |
 | The Engineer | Vocal-misgivings ally; **misdirection** | Act II-III |
 | The UX Designer | Quiet user-research ally; **actual ally** | Act II-III |

@@ -13,7 +13,9 @@
     "Will go out of her way for a passenger she perceives as genuinely ill or grieving."
   ],
   "dmNotes": "Holds {{pc:1}}'s bag at the SFO gate in Episode 1's Scene 7 retrocausal play-out — the thing that should never happen.  In Episode 2's gate-agent investigation she is the second NPC the PCs interview; she has no memory of holding the bag.  Her memory is genuinely missing; she did not lie.  She is the parallel-denial confirmation that one PC's gate-edit recollection is not just an isolated bad memory.\n\nIf the PCs treat her with respect during the Episode 2 interview, she may become an ongoing texture NPC — Yui or her wife Inez surface in later episodes as a reminder of the cost paid by NPCs who never know they paid it.  She does not become a caster or a network member; she remains a civilian whose life was edited around her.",
-  "knownTo": ["pc1 (briefly, at SFO gate)"],
+  "knownTo": [
+    "pc1 (briefly, at SFO gate)"
+  ],
   "tags": [
     "civilian",
     "memory-edited",
@@ -26,5 +28,7 @@
     "hobbies": "Bakes sourdough on her days off. Trying to learn the koto, badly.",
     "career": "Started with the airline at 27 after a brief stint in restaurant management. Liked the discipline of cabin crew work. Has been quietly applying for purser positions for two years.",
     "currentStress": "Mei was up most of last night with a cold. Yui has been awake since 0400. Her mother is watching Mei tonight; Yui will call from Taipei tomorrow morning."
-  }
+  },
+  "provenance": "authored",
+  "tier": "recognise"
 }

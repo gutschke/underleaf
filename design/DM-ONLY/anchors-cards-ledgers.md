@@ -361,6 +361,26 @@ why it must stay there.** She is obeying something she cannot articulate.
 > it.** See [`facts-ledger.md`](facts-ledger.md) §44 and §45 for the same logic
 > applied to why these five people are in a room together.
 
+### Ghost-roster house style — say the role, keep the name on the record
+
+**Demoted 2026-09-06.** All four were spoken at the table, so **the names stay in
+the record and are never retconned** — we simply stop using them in our own prose.
+The table keeps whatever it heard; our vocabulary wins by attrition.
+
+| Say | Instead of | Note |
+|---|---|---|
+| **the archivist before Bea** | Eleanor Marsh | `daniel-reyes.json` already writes her this way. Make it the house style. **It also removes the Marsh collision by removing one of the Marshes from prose.** |
+| **Vivian's father** | Erik Loewe | Every route to him runs through her. Say the name only where the party reads it printed. |
+| **her father** | Julián Vega | Said this session and printed in the Ep 6 recap. **He has no exit sentence, which is the test — he is a role.** |
+| **her husband** | *(never had a name)* | **The model, and it always was.** He is present in every Rosa scene by implication and has never once needed one. |
+
+> **The other Marsh is gone.** *(Dr Reuben Marsh, the galaxies-are-sentient
+> physicist, deleted 2026-09-06.)* His seed failed to plant twice — the Ep 2
+> clipping never surfaced, and its committed re-seed window of Eps 6–8 passed
+> unused. **He was never said at the table, so he could be deleted outright rather
+> than demoted.** Two of the required two-to-three seeds are already in play with
+> no cast cost at all: **the crows** and **AI dreams.**
+
 ### Disclosure — archivists declare, keepers do not. We do not know why.
 
 **This is an asymmetry the party can actually observe, and it is worth keeping

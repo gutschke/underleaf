@@ -78,7 +78,7 @@ Same fingerprint as the gate: **an impossible save, an erased record.** Let it s
 
 ## The Marsh seed (optional, ~1 minute)
 
-A yellowed clipping in her files: **Dr. Reuben Marsh**, the fringe physicist with the galaxies-are-sentient hypothesis (see [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) misdirection seed bank). A Lore Reader catches it; nobody else needs to. Pays off much later.
+A yellowed clipping in her files: **a fringe physicist (unnamed — see authoring-rules.md §1b)**, the fringe physicist with the galaxies-are-sentient hypothesis (see [`../../../design/DM-ONLY/big-arc.md`](../../../design/DM-ONLY/big-arc.md) misdirection seed bank). A Lore Reader catches it; nobody else needs to. Pays off much later.
 
 ## Per-PC / table handling
 

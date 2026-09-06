@@ -49,7 +49,7 @@ Among her example cards, she reads a few **decoy "lucky number" coincidences** �
 
 ## Optional seed (1 minute)
 
-A clipping in her files about **Dr. Reuben Marsh** and his galaxies-are-sentient hypothesis — a misdirection seed-bank plant that pays off much later. The Lore Reader catches it; nobody else needs to.
+A clipping in her files about **a fringe physicist (unnamed — see authoring-rules.md §1b)** and his galaxies-are-sentient hypothesis — a misdirection seed-bank plant that pays off much later. The Lore Reader catches it; nobody else needs to.
 
 ## Priority if time is short
 
