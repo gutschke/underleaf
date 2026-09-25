@@ -70,12 +70,20 @@ def resolve(text: str, style: str = "both") -> str:
 
 
 def main() -> int:
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    style = "pc" if "--style=pc" in sys.argv or "pc" in sys.argv[3:4] else "both"
-    if len(args) < 2:
+    # argparse, because the hand-rolled version checked the wrong position:
+    # "--style pc" as documented silently fell back to "both", and a
+    # player-facing recap printed player names (2026-09-24).
+    import argparse
+    ap = argparse.ArgumentParser(add_help=False)
+    ap.add_argument("src"); ap.add_argument("dst")
+    ap.add_argument("--style", choices=("both", "pc"), default="both")
+    try:
+        ns = ap.parse_args()
+    except SystemExit:
         print(__doc__)
         return 2
-    src, dst = pathlib.Path(args[0]), pathlib.Path(args[1])
+    style = ns.style
+    src, dst = pathlib.Path(ns.src), pathlib.Path(ns.dst)
     body = resolve(src.read_text(), style)
     banner = (
         "<!-- RESOLVED COPY — contains player identities. Keep in tmp/, never "

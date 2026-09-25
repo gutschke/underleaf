@@ -132,7 +132,9 @@ def write_in(w, pc_name):
 
 def sheet(d, slot, session):
     lv = d.get("skillLevels", {})
-    skills = [f'{s} {"<strong>+2</strong>" if lv.get(s, 1) >= 2 else "+1"}' for s in d.get("skills", [])]
+    # Markdown, not HTML: chips() escapes its input and then renders **bold**.
+    # Raw <strong> here printed literally on the sheets through Eps 6-7 prep.
+    skills = [f'{s} {"**+2**" if lv.get(s, 1) >= 2 else "+1"}' for s in d.get("skills", [])]
     handle = (f' <span style="font-size:12pt;color:#666;font-weight:400;">'
               f'(&ldquo;{E(d["handle"])}&rdquo;)</span>') if d.get("handle") else ""
     player = E(SLOTS[str(slot)]["player"]) if SLOTS else f"{{{{pc:{slot}}}}}&rsquo;s player"

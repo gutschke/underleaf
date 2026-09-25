@@ -45,8 +45,11 @@ def resolve_pcs(text):
     if not isinstance(text, str) or not _SLOTS:
         return text
     return _PC_RE.sub(lambda m: _SLOTS[m.group(1)]["pc"], text)
-OUT_HTML = Path(os.environ.get("UNDERLEAF_DM_HTML", "dm-master-sheets.html"))
-OUT_PDF = Path(os.environ.get("UNDERLEAF_DM_PDF", "dm-master-character-sheets.pdf"))
+# .resolve(): Chrome needs an absolute file:// URL. Given a relative one it
+# renders its own "This site can't be reached" page, and that page became the
+# DM sheets once (2026-09-24) while this script reported success.
+OUT_HTML = Path(os.environ.get("UNDERLEAF_DM_HTML", "dm-master-sheets.html")).resolve()
+OUT_PDF = Path(os.environ.get("UNDERLEAF_DM_PDF", "dm-master-character-sheets.pdf")).resolve()
 
 # Article ids come from tools/build-pc-sheets.py, which numbers them by slot.
 PC_ORDER = [
@@ -327,6 +330,12 @@ def main():
         check=True,
         capture_output=True,
     )
+    # Refuse a Chrome error page masquerading as output.
+    text = subprocess.run(["pdftotext", str(OUT_PDF), "-"],
+                          capture_output=True, text=True).stdout
+    if re.search(r"ERR_[A-Z_]+|This site can.t be reached", text):
+        raise SystemExit(f"{OUT_PDF}: Chrome rendered an error page, not the "
+                         "sheets. Check the HTML path.")
     size_kb = OUT_PDF.stat().st_size // 1024
     print(f"Wrote {OUT_PDF} ({size_kb} KB)")
 
