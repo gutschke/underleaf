@@ -2252,7 +2252,7 @@ remain unspent and both are still good:**
 - *"She danced with a man for four years before she found out his name."*
 - **"She has never once brought anybody here. Not once. I have asked."** — this
   one is a direct isolation beat and **should be held for Rosa's second session
-  (B21, Eps 12/14)** rather than spent casually.
+  (B21, Ep 18)** rather than spent casually.
 
 ### The receipts — Rosa's filing, and a third data point
 
@@ -2565,7 +2565,7 @@ through.**
 > do not know it.
 >
 > **But it arrived in pieces, across a long day, in a room with a lot of names in
-> it. RESTATE THE KEY PARTS at Rosa's second session (B21, Eps 12/14)** — plainly,
+> it. RESTATE THE KEY PARTS at Rosa's second session (B21, Ep 18)** — plainly,
 > once, and without ceremony. **Do not replay the moment; confirm the fact.**
 
 ### Player-side development debt, as the DM sees it (2026-09-06)

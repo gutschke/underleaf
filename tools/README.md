@@ -76,3 +76,14 @@ come from the environment (`UNDERLEAF_BASE_SHEETS`, `UNDERLEAF_DM_HTML`,
 `UNDERLEAF_DM_PDF`, `UNDERLEAF_PARTY_MAP`). **DM sections render in a single
 column on purpose** — Chrome silently clips multicol content across a page break,
 and the DM loses notes with nothing on the page to show it.
+
+**Schema lint lives in the engine repo, not here.** Run it through the bin
+entry point:
+
+    node ../quire/cli/bin/quire.js lint .
+
+**Not `quire/cli/src/main.js`.** That file only *exports* `main()`; invoked
+directly it does nothing and exits 0 — including on a corrupt `campaign.json`.
+A private checklist carried that command for weeks and every commit "passed" a
+lint that never ran. **Before trusting the lint, point it at a copy with a
+broken JSON file and watch it exit 1.**
