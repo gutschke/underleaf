@@ -2625,6 +2625,10 @@ played better that way.")*
 > including the Ep 1 module (slots 1 and 4 swapped in `the-gate.md`) and the Ep 2
 > phone-log gap, which belongs to the bag's owner.** Hold it from here.
 
+### {{pc:4}}'s car
+
+**The Prius is his.** A roommate disappears with it for unannounced stretches; {{pc:4}} has complained, repeatedly, and gets nowhere. **Inconsiderate or socially oblivious is held open.** Detail in `dakota-whitmore.json` (`carResolved`).
+
 ### The party and Reggie can reach each other
 
 **Contact details were exchanged at the Daly City In-N-Out in Ep 2.** It was never
