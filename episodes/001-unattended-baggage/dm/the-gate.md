@@ -18,7 +18,7 @@ By the end of the scene:
 3. The camera has **recorded the moment** — anchored, observed.
 4. {{pc:4}}'s bag, in the cabin present-tense, contains a new ARINC 600 connector.
 
-The DM never explains *how* the connector got into the bag. The events at the gate make a window in which a Quiet edit *could have* placed it; the actual placement is off-screen.
+The DM never explains *how* the connector got into the bag. The events at the gate make a window in which the connector *could have* entered the bag; the moment itself is off-screen.
 
 ## What the DM must hold
 
@@ -27,7 +27,7 @@ The whole scene is built around an ambiguity. Two readings of what just happened
 - (a) These events *happened* three hours ago and the table is only now playing them out — what looks like retrocausal play is actually delayed memory.
 - (b) These events *did not exist* until the table played them out — what looks like delayed memory is actually creation, and afterwards the world has *always* been this way.
 
-From The Quiet's perspective the distinction is a category error. From the players' linear-time perspective it cannot be settled by evidence. **The DM never resolves this question.** If a player asks, the DM smiles and says *yes*.
+In a single timeline that adjusts to stay self-consistent, the distinction is a category error. From the players' linear-time perspective it cannot be settled by evidence. **The DM never resolves this question.** If a player asks, the DM smiles and says *yes*.
 
 This is new for both DM and players. The scaffolding below is the DM's discipline aid.
 
@@ -47,8 +47,8 @@ Place each PC at the gate. Brief — thirty to ninety seconds per PC:
 
 - **{{pc:4}}** (bag owner): in the boarding line, near the front. Feeling slightly off — bad sleep, last night's dinner, just pre-flight tension. Holding their bag, a coat, a water bottle.
 - **{{pc:2}}**: at the gate counter, asking about a seat assignment or upgrade.
-- **{{pc:3}}**: at the kiosk twenty feet away, buying water.
-- **{{pc:1}}**: on the phone, quietly, off to one side — could be a call about whatever's making this Taipei trip urgent.
+- **{{pc:1}}**: at the kiosk twenty feet away, buying water.
+- **{{pc:3}}**: on the phone, quietly, off to one side — could be a call about whatever's making this Taipei trip urgent.
 - **{{pc:5}}**: reading the departure board, or just standing.
 
 Ask each in turn: *"What's your character thinking? What's around them?"* Let the airport breathe. Don't push toward the climax. Three minutes here, no more.
@@ -58,9 +58,9 @@ Ask each in turn: *"What's your character thinking? What's around them?"* Let th
 Seed five low-stakes prompts, one per PC:
 
 - **{{pc:4}}**: *"You feel a small wave of nausea. Bathroom is twenty feet behind you. Boarding line is moving. You're holding your bag and a coat and a water bottle. What do you do?"*
-- **{{pc:2}}**: *"The gate agent's tone changes — they're confused about something. They glance away to check a screen, and the boarding line halts for a beat. What are you doing?"*
-- **{{pc:3}}**: *"From the kiosk you can see the whole gate area. Including the boarding line. Anything catch your eye?"*
-- **{{pc:1}}**: *"Whoever's on the phone wants to talk about [their stakes detail]. You can hear yourself getting loud. Do you walk further away, or just lower your voice?"*
+- **{{pc:2}}**: *"The gate agent — Reggie, his badge says — changes tone; he's confused about something. They glance away to check a screen, and the boarding line halts for a beat. What are you doing?"*
+- **{{pc:1}}**: *"From the kiosk you can see the whole gate area. Including the boarding line. Anything catch your eye?"*
+- **{{pc:3}}**: *"Whoever's on the phone wants to talk about [their stakes detail]. You can hear yourself getting loud. Do you walk further away, or just lower your voice?"*
 - **{{pc:5}}**: *"The departure board flickers. Just a half-second pixel hiccup. You notice or you don't?"*
 
 None of these prompts forces an outcome. Each is a door you can open in Round 3 if needed.
@@ -91,7 +91,7 @@ This shouldn't happen. It happens anyway. The bag is at the counter; whatever ha
 
 ## The critical beats (two, in whichever branch runs)
 
-1. **The flight attendant accepts (or takes) the bag.** Narrate plainly: *"She glances around, doesn't see her supervisor, and takes the strap from your hand. Just for a moment."* This is the thing that should never happen.
+1. **The flight attendant accepts (or takes) the bag, and the gate agent lets it go.** Narrate plainly: *"She glances around, doesn't see her supervisor, and takes the strap from your hand. Just for a moment. At the counter, the gate agent sees it and waves it through."* This is the thing that should never happen. *(Her name is Yui and his is Reggie; Episode 2 is about both of them. Neither will remember this.)*
 2. **The camera sees it.** Embed in passing: *"Behind her, the wall-mounted camera at the corner of the gate area watches the bag come off your shoulder. It's a small detail — you don't notice it now."*
 
 Both beats are *anchored, instrumented, recorded* in the moment of play. Whether they had always been that way or only became that way through play is exactly the question the DM leaves unanswered.
@@ -161,7 +161,7 @@ The DM is most likely to slip at:
 
 2. **When a player's choice "happens to" fit the desired chain.** Do NOT say "great, that works" or "exactly what I needed." Praise signals a target. DO say *"okay, and then?"* or *"and now?"* — neutral acknowledgment.
 
-3. **When transitioning between players.** Do NOT say *"meanwhile, retrocausally"* or *"in the same not-quite-real moment."* DO say *"{{pc:3}}, what about you?"* — same as any other table moment.
+3. **When transitioning between players.** Do NOT say *"meanwhile, retrocausally"* or *"in the same not-quite-real moment."* DO say *"{{pc:1}}, what about you?"* — same as any other table moment.
 
 ## Transition back
 
@@ -207,7 +207,7 @@ Players will theorize between sessions. The DM should:
 
 - **Not confirm or deny** theories, in or out of session.
 - **Listen with genuine curiosity.** *"What do you think happened?"* is a real question — let them tell you.
-- **Save the answer** for sessions four or five (the magic-realization beat in the discovery arc). Until then, the ambiguity does its work.
+- **Never supply an answer; there isn't one to save.** The cause stays open for the whole campaign. Around sessions 3–5 the PCs start discovering their own abilities, which reframes this scene without explaining it.
 
 If a player presses *out-of-character* in front of the table: *"That's part of the campaign — let's see how it plays."* Drop one word more and the eeriness starts to bleed off.
 

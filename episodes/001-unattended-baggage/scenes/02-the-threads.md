@@ -49,18 +49,18 @@ The combination of mid-conversation coincidences plus visibly-recent travel deci
 
 If the table is engaged and the conversation is flowing, the DM can drop one passing detail with no follow-up:
 
-> *"While you're talking, one of the cabin crew passes through with the meal-service tray. {{pc:1}}, she meets your eye for a half-second longer than is comfortable, then looks past you."*
+> *"While you're talking, one of the cabin crew passes through with the meal-service tray. {{pc:4}}, she meets your eye for a half-second longer than is comfortable, then looks past you."*
 
 Do not return to this beat. Do not call attention to it. Players who notice will remember; players who don't will not. Either is fine.
 
 ## What this scene is doing
 
-Setting up the *coincidence pattern* the campaign rides for fifty sessions. The PCs are starting to feel watched — but by something benevolent and bumbling, not malicious. They have no framework yet.
+Setting up the *coincidence pattern* the whole campaign rides. The PCs may start to feel watched. **There is no watcher**, and the DM never implies one, kind or otherwise. They have no framework yet.
 
 The DM keeps the conversational rhythm light. The eerie part is the players' own reactions; the DM does not need to add tension.
 
 ## Transitions
 
-This scene ends when the conversation naturally cools, the cabin lights stay dim, and the PCs settle back into their own seats. Scene 3 begins when {{pc:3}} (the SDR / radio-hobbyist PC) starts paying attention to their laptop with new alertness.
+This scene ends when the conversation naturally cools, the cabin lights stay dim, and the PCs settle back into their own seats. Scene 3 begins when {{pc:1}} (the SDR / radio-hobbyist PC) starts paying attention to their laptop with new alertness.
 
 If you want a transition beat: the cabin's PA system produces a single small click — not an announcement, just the sound of the channel opening and closing. Move into Scene 3.

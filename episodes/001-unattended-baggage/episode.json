@@ -5,7 +5,7 @@
   "prerequisites": [],
   "hooks": [
     "Each PC is on Flight 887 from San Francisco to Taipei for their own reason — at least one of those reasons should have crystallized in the last few days.",
-    "The PCs do not know each other at the curtain rise. Some feel vague familiarity. None can explain it yet.",
+    "Most of the PCs do not know each other at the curtain rise (the published party has one pre-flight pair, {{pc:1}} and {{pc:5}}). Some feel vague familiarity. None can explain it yet.",
     "In-medias-res convention applies: the curtain rises mid-flight, in business class, with the PCs already seated and aware of each other."
   ],
   "scenes": [
@@ -31,10 +31,15 @@
   ],
   "arcBeats": [
     "coincidence-pattern-first-glimpse",
-    "first-accidental-cast",
+    "first-unattributed-event",
     "first-retrocausal-event",
     "magic-mistaken-for-conspiracy"
   ],
   "inGameDate": "A Tuesday in late summer 2026. Flight 887, SFO → TPE, departs early evening Pacific time; the cold open is hour six of a fourteen-hour crossing.",
-  "tags": ["opener", "in-medias-res", "retrocausal", "magic-phase-1-accidental"]
+  "tags": [
+    "opener",
+    "in-medias-res",
+    "retrocausal",
+    "magic-phase-1-accidental"
+  ]
 }

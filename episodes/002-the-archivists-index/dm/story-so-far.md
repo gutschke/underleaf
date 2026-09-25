@@ -22,7 +22,7 @@ A short checklist. If you logged your last session (see Ep1's `08-lights-out.md`
 The shared state, as the PCs understand it (not the truth):
 
 - They were strangers on Flight 887, SFO→Taipei, who felt eerily half-familiar with each other and discovered a cluster of coincidences linking their lives.
-- The plane had a fault; they traced it to a missing avionics connector and hit a dead end — then an identical connector turned up, **sealed and new, inside one PC's bag**, and none of them can explain how. The plane recovered; they made Taipei.
+- The plane had a fault; they traced it to a cracked avionics connector they had no way to replace, and hit a dead end — then an identical connector turned up, **sealed and new, inside one PC's bag**, and none of them can explain how. The plane recovered; they made Taipei.
 - They re-played the gate at SFO (the rewind) and cannot tell whether they *remembered* it or *made* it happen. You never resolved this; don't now.
 - They left with the **empty anti-static bag** and a feeling that "the air had changed."
 - **What they suspect:** something strange — and, increasingly, that *someone is covering something up*, maybe with AI/tech. **This is the right wrong answer.** Feed it; never confirm it.

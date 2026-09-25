@@ -16,7 +16,7 @@ rolls:
 
 ## The installation
 
-The PCs return to the bay one more time. Cover stories are easier the second time. {{pc:3}}'s laptop confirms that the maintenance ACARS messages have not changed; the captain is still planning the Tokyo stop.
+The PCs return to the bay one more time. Cover stories are easier the second time. {{pc:1}}'s laptop confirms that the maintenance ACARS messages have not changed; the captain is still planning the Tokyo stop.
 
 The tech-comfortable PC swaps the cracked connector for the new one. The locking ring turns smoothly and clicks into place. The amber LED on the bus coupler goes green. They watch it for sixty seconds. The plane shudders through turbulence and the LED stays green.
 
@@ -36,13 +36,13 @@ The cabin lets out a small collective exhale. A few passengers clap. The PCs exc
 >
 > *In the arrivals hall, before customs, the five of you exchange contact information. You hardly say why. {{pc:4}}, you keep the empty anti-static bag the connector came in — you fold it twice and put it in the small pocket of your jacket. The others see you do this and do not comment.*
 >
-> *You go your separate ways. The cousin to her cousin. The wedding to its wedding. The hospice to its parent. The visa to its appointment. The forty-hour-awake to a hotel and a long sleep.*
+> *You go your separate ways.* [One short clause per PC, from the stakes you set in Scene 4. For example: *"The hospice to its parent. The visa to its appointment. The forty-hour-awake to a hotel and a long sleep."*]
 >
 > *It's a Wednesday morning. The air outside is wet and warm. The sun is just up. You'd think it would be a relief to be on the ground. Instead, it's like the air has changed.*
 
 ## End of episode
 
-End the session here. Do not narrate the next morning. Do not narrate the trip home. Episode 2 will open with the gate-agent investigation, weeks or months later. Let the disembarkation moment hang.
+End the session here. Do not narrate the next morning. Do not narrate the trip home. Episode 2 will open with the gate-agent investigation, several weeks later. Let the disembarkation moment hang.
 
 ## What this scene is doing
 
@@ -59,4 +59,4 @@ For session-end housekeeping:
 
 ## Looking ahead
 
-The next session, sometime later (in-game weeks or months), opens with one PC trying to follow up on what happened at the gate. Episode 2 lands the gate-agent denial and the security-footage erasure — and from there, the campaign begins.
+The next session, several in-game weeks later, opens with one PC trying to follow up on what happened at the gate. Episode 2 lands the gate staff's denial and footage that shows the bag-hold but hides the one moment that matters — and from there, the campaign begins.

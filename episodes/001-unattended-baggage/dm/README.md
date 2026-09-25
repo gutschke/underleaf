@@ -12,7 +12,7 @@ This episode is the entire campaign's foundation moment. The DM should read ever
 ## Read in this order
 
 1. **[the-gate.md](the-gate.md)** — The retrocausality scene. This is the most fragile and most load-bearing piece of the episode. Read it twice. Rehearse the cues and the poker-face answers out loud before play.
-2. **[the-cable.md](the-cable.md)** — What actually happened. Who paid for it. How the DM should hold that knowledge during play.
+2. **[the-cable.md](the-cable.md)** — What actually happened, why nobody paid for it, and how the DM should hold that knowledge during play.
 3. **[pacing.md](pacing.md)** — How the 90-120 minute budget breaks down across the eight scenes, where to compress, where to expand.
 4. **[avionics-realism.md](avionics-realism.md)** — The 747 E&E bay details. What's real, what's artistic liberty, why the cable matters.
 5. **[coincidences.md](coincidences.md)** — Menu of coincidence prompts for Scene 2. Pick 3-4 that fit your PCs.
@@ -24,6 +24,6 @@ This episode is the entire campaign's foundation moment. The DM should read ever
 
 Surface plot: plane has a fault, PCs investigate, dead end, miracle appears, plane recovers, lands on time.
 
-Real plot (DM-only): The Quiet edited reality to deliver these five PCs to Taipei together. Whoever caused the edit paid a serious plausibility cost. The cable is the visible artifact of an enormous invisible cast. The gate-attendant memory and the security footage are anchored, observed events that should never have been changed; both were changed anyway. Both will later be un-recorded — but the PCs remember.
+Real plot (DM-only): the world's current shape delivers these five PCs to Taipei together. It is very improbable, nobody cast it, and the campaign never attributes it. The cable is the visible artifact. **The gate footage and the gate staff's memories disagree:** the camera records the bag-hold, and neither the flight attendant nor the gate agent remembers it. That record-versus-memory mismatch is the phenomenon Episode 2 investigates, and the PCs are the only people who remember the evening's earlier shape.
 
 What the PCs *believe* by the end of the episode: they encountered a conspiracy with possible AI involvement. They are wrong. The misdirection is the work — see [the-cable.md](the-cable.md).

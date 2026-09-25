@@ -34,7 +34,7 @@ They'll conscript someone. When they do, ask the natural question:
 
 > *"What's the combination? They'll need it for the bag."*
 
-The player says a number **out loud**. Write it down — flag it `LOCK-COMBO = ____`. The errand itself *fails* (there is no lower-deck luggage access; see [`avionics-realism.md`](avionics-realism.md)) — which is perfect. The number has now been spoken and served no purpose: loose, purposeless causality, exactly what the Quiet routes through.
+The player says a number **out loud**. Write it down — flag it `LOCK-COMBO = ____`. The errand itself *fails* (there is no lower-deck luggage access; see [`avionics-realism.md`](avionics-realism.md)) — which is perfect. The number has now been spoken and served no purpose: loose, purposeless causality, exactly the kind of path the world's cheapest accommodations run through.
 
 **Plant 2 — a mundane code (backup, if no one asks for a luggage combo).**
 Get a number spoken aloud some other ordinary way during the snoop: a PC sets a temporary TSA-lock code while repacking ("what'd you set it to?"); a crew supply drawer has a code on a label a PC reads aloud; the hacker PC reads a service-panel code off a bulkhead.

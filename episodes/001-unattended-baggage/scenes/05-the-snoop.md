@@ -40,7 +40,7 @@ The PCs need to invent a reason to be in the forward galley for the two-to-three
 Typical successful patterns:
 - One PC distracts the attendant (asks for something complicated — herbal tea, the specific brand of cookie, allergy questions).
 - A second PC creates a brief plausible reason to be in the galley (lost something — earplugs, a contact lens — and needs to look on the floor).
-- A third PC, the tech-comfortable one (not {{pc:3}}, who is busy with their laptop monitoring), opens the panel and descends.
+- A third PC, the tech-comfortable one (not {{pc:1}}, who is busy with their laptop monitoring), opens the panel and descends. *(If your table has only one technical PC, as the published party does, send whoever volunteers, with {{pc:1}} talking them through it from the top of the stairs. The fix is a twist-and-click part; steady hands are enough.)*
 - A fourth PC stays at the top of the stairway to spot for crew movement.
 - The fifth PC handles whatever the table makes up.
 

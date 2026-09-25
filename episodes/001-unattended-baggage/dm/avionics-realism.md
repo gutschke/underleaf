@@ -46,7 +46,7 @@ Aircraft maintenance organizations stock spare ARINC 600 connectors in their han
 
 **ACARS** (Aircraft Communications Addressing and Reporting System) is real. It carries short messages between the aircraft and ground stations — telemetry, weather requests, position reports, maintenance flags. Many of these messages are transmitted in the clear and can be received by a software-defined radio with the right decoder. The hobbyist community is small but real; ACARS decoding has been a hobbyist activity for at least twenty years.
 
-What {{pc:3}} is doing in Scene 3 is **passive reception**, which is legal. No transmissions; no spoofing; no interference. The closest thing to a legal concern would be if {{pc:3}} broadcasted what they overheard — but they don't.
+What {{pc:1}} is doing in Scene 3 is **passive reception**, which is legal. No transmissions; no spoofing; no interference. The closest thing to a legal concern would be if {{pc:1}} broadcasted what they overheard — but they don't.
 
 ## What's artistic liberty
 

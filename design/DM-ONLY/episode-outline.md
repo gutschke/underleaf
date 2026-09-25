@@ -41,7 +41,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 
 ### Ep 1 — Unattended Baggage
 
-- **Status:** Played (in-game ~early autumn 2026)
+- **Status:** Played (in-game: a Tuesday in late summer 2026, per `episode.json`)
 - **LOAD:** MEDIUM
 - **Setting/register:** SFO Terminal G (public transit-institutional) + gate + In-N-Out
 - **Arc-node:** the campaign's inciting event — ARINC 600 connector materializes in {{pc:4}}'s carry-on; PCs are the only people whose memories track the pre-edit shape. Two emergent spell-like events (connector-in-bag; combination-lock 1-3-2-4 opening the engineering bay).

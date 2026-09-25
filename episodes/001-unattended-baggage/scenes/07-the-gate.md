@@ -38,7 +38,7 @@ See [`dm/the-gate.md`](../dm/the-gate.md) for:
 - The full opening cue and transition-back wording.
 - Vocabulary rules — words to avoid (because they collapse the ambiguity in either direction) and words to use.
 - Four convergence branches plus a safety valve.
-- Eight preloaded responses for difficult player behaviour.
+- Nine preloaded responses for difficult player behaviour.
 - Three slip-risk moments and how to recover.
 - Pre-session rehearsal checklist.
 - Post-scene and post-session conduct.
@@ -47,6 +47,4 @@ This is the most fragile scene in the campaign. The DM should rehearse before pl
 
 ## What this scene is doing
 
-Establishing that the world is not what the PCs (and players) thought. Planting the first concrete piece of magic — though no one at the table is allowed to call it that yet. Setting up the gate-agent investigation that opens Episode 2.
-
-Players will leave the session thinking they encountered a conspiracy with AI involvement. They are wrong. They are *supposed* to be wrong. The misdirection is the work.
+Establishing that the world is not what the PCs (and players) thought, and setting up the gate-agent investigation that opens Episode 2. *(What is actually going on is in [`dm/the-cable.md`](../dm/the-cable.md).)*
