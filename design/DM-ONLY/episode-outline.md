@@ -517,6 +517,41 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 
 ### Ep 7 — The Fourth Birthday
 
+> [!IMPORTANT]
+> ### RE-POINTED 2026-09-24: fewer new names, and the bought characters get practised
+>
+> **The players are tired of every episode adding people.** Weariness is about
+> **names**, not bodies: unnamed guests cost nothing, and every named adult with a
+> line asks them to remember someone.
+>
+> - **Two named faces: Yui and Mei.** The players went looking for Yui in Ep 2
+>   and never found her, so meeting her pays off their own effort. **Mei is the one
+>   deliberate introduction.** She was written as three in Ep 2 and has never been
+>   spoken at the table, so her name can still change. **Everyone else stays in the
+>   background:** Inez (holding Mei, no lines), Reggie (at the grill, one silent
+>   face-change, no lines), guests, grandparents, other children.
+> - **Proposed exit, DM to confirm:** the Tanakas retire after Ep 7, and A8 closes with them.
+> - **Reggie no longer needs to be on screen**, because A2 is retired as a scheduled beat (hook ledger).
+> - **Yui carries every line the family has:** the bag question closed on arrival
+>   (*"I don't remember, and I've stopped trying"*), {{pc:2}}'s quiet afterwards, and
+>   {{pc:3}}'s refusal. **She cut a friend out of a photo on the board herself**, a
+>   friend she fell out with, and says so plainly (*"I cut her out. With scissors."*).
+>   The human agency is explicit so the table cannot read it as an edit.
+> - **{{pc:3}}'s second headache fires on the reading itself**, by private slip. It
+>   no longer waits on the player choosing a second push.
+> - **{{pc:2}}'s moment-of-release has no "aimed" rung.** She does not know she can
+>   aim until Ep 8. A slip carries it: *"The pain stepped down. You weren't doing
+>   anything. You were listening to Yui."*
+> - **The session opens with a recap and one practised call: {{pc:4}} calls Ortiz,
+>   prompted outright** (`authoring-rules.md` §7). Two weekly sessions were missed,
+>   so expect the advancements, and Nia's pending date, to have been forgotten.
+>
+> **CONTINUITY CONFLICT — resolve before the invitation text goes out: whose bag did
+> Yui hold?** `yui-tanaka.json` and Ep 2's footage scene say {{pc:1}}'s. Ep 2's played
+> pacing calls {{pc:4}} "bag-holder", and Ep 1's cable file puts the connector in
+> {{pc:4}}'s bag. **Until the DM rules, the text names the gate and the footage, not
+> the bag's owner.**
+
 > [!CAUTION]
 > ### RE-POINTED 2026-09-06, after the post-Ep-6 audit. Read before authoring.
 >
@@ -710,6 +745,8 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 **Then, in the aftermath: three PCs try a small unimportant thing, aiming it, using the rule they were handed an hour ago — and each says a different sentence. It works.**
 
+> **LADDER, added 2026-09-24. This is a finale-contract item that waits on players aiming a power they learned an hour earlier, so it must be DM-drivable.** **(1)** Leave room; see whether anyone tries. **(2)** Out of character: *"The handout says you can aim. Try something small, right now. Each of you write what you want on a card first."* Secret cards make different sentences almost certain. **(3)** Name three players and hand them the cards. **The no-commentary rule still holds afterwards.**
+
 > **It has to be AIMED.** An unplanned cast is unaimed, is never bumped anyway, and demonstrates nothing. **They must be deliberately using the new rule.** *(An earlier draft said "unplanned," which contradicted the mechanic it was staged to demonstrate.)*
 
 > **Watch the confound.** Arm 1 has two casters and arm 2 has three, so the obvious induction is *"you need three people"* — which is merely the printed rule. **The fix is the stated wants:** two people who agreed failed; three who wanted different things did not. **If a player concludes it is about numbers, do not correct them.** Ep 10 is where the other reading arrives.
@@ -739,7 +776,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give Stress 1–2 to anyone who was actually reaching for something** — the two network casters certainly, and **any PC who backed or attempted a cast. A PC who only watched takes nothing.** *(The trigger is `rules.md`'s "holding intent against intense social pressure"; a bystander is not holding intent, so do not charge them.)* Narrate it as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9 then clears it diegetically.**
 - **A4 — R({{pc:3}}) completes — MOVED TO EP 7** *(2026-08-30, for load)*. R({{pc:3}}) already *begins* in Ep 7 and her articulation refusal is there too, so the whole thread now sits in one session and Ep 8 sheds a private scene that would have idled four players during the finale.
 - **MoR({{pc:1}}) is EP 9, not here** *(decided 2026-08-30 for load)*. Ep 9 is the designated MoR session and already carries the pairing work; Ep 8 cannot hold a third private beat.
-- **PRE-CUT (2026-08-30): A2 — Reggie named as substrate-sensitive — is CUT from this session and RELOCATED to Ep 9.** Cosmology with no decision attached; it lands better among Ep 9's cabin confessions. **Cutting it is what protects §4 above.**
+- **PRE-CUT (2026-08-30): A2 — Reggie named as substrate-sensitive — is CUT from this session and RELOCATED to Ep 9.** Cosmology with no decision attached; it lands better among Ep 9's cabin confessions. **Cutting it is what protects §4 above.** *(Then retired as a scheduled beat on 2026-09-24; reactive only. See hook-ledger A2.)*
 - **The Bea coda remains in EP 9's OPENING.**
 - **Fires:** A1 · **S1 #3** · B3 seeded — *the vehicle is Nia embodying the Selective stance; she never names a faction (that is Alaia's, Ep 14). If no scene carries it, drop the entry rather than gesturing at it.*
 
@@ -778,7 +815,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 1. **The comedown.** Zero documents. Fog, coast, a rented cabin at Point Reyes or Bolinas.
 2. **Ep 8's Stress clears on screen** — a full night's sleep or a meaningful conversation, per `rules.md`. **This is the joint the whole minor-battle beat was designed around.**
 3. **MoR({{pc:3}}) + MoR({{pc:1}})** in walk-and-talk pairs. **Pair {{pc:3}} with {{pc:4}}.**
-4. **A2 lands here** (relocated from Ep 8) — Reggie named as substrate-sensitive, among the cabin confessions where it belongs.
+4. ~~A2 lands here~~ — **A2 retired as a scheduled beat 2026-09-24; reactive only** (hook-ledger A2). Ep 9 gets the room back.
 5. **The Bea coda opens it** — four minutes at Ocean Beach with a coffee; T10 lands; she confirms nothing; then she's gone.
 6. **It opens S2's question — *"What can we do, and what does it cost?"*** — and it does that by having them **try things**, not by discussing what Nia said.
 
@@ -795,12 +832,13 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 ### Ep 9 — Aftermath / The Party as Weather  ·  ★★ SEASON 2 PREMIERE ★★
 
-*(★ slack marker removed 2026-08-30 — it now carries MoR({{pc:1}}), MoR({{pc:3}}), A2 and the Bea coda. It is no longer slack.)*
+*(★ slack marker removed 2026-08-30 — it now carries MoR({{pc:1}}), MoR({{pc:3}}) and the Bea coda. It is no longer slack. A2 left on 2026-09-24.)*
 
 - **LOAD:** LIGHT (slack) — **also load-bearing; see Ep 7.**
 - **PRIMARY SHAPE: retreat / confession.** Zero documents.
 - **Arc-node:** MoR({{pc:3}}) + MoR({{pc:1}}) both land in walk-and-talk pairs.
-- **A2 lands here — relocated from Ep 8 on 2026-08-30.** Reggie named as substrate-sensitive non-caster. It is cosmology with no decision attached, so it belongs among the cabin confessions rather than in the hinge; cutting it from Ep 8 is what protects the two-arm contrast there.
+- **A2 no longer lands here.** It was relocated from Ep 8 on 2026-08-30, then **retired as a scheduled beat on 2026-09-24** (reactive only; hook-ledger A2).
+- **LADDERS OWED BEFORE AUTHORING:** both moment-of-release walks ({{pc:3}}, {{pc:1}}) wait on a player saying something. Each needs a subtle, blatant and later-fallback rung before this session is written.
 - **Its S2-premiere job: open *"what can we do, and what does it cost?"* by having them TRY things** — not by discussing what Nia said. **Do not re-explain Ep 8.** A premiere that recaps its finale wastes the only session in the plan with no documents in it.
 - **Pair {{pc:3}} with {{pc:4}}** for one of them. Her sheet: *"if she ever contradicts him openly, that's an act break for {{pc:4}}'s arc"* — she already did, publicly, in Ep 4, and nothing has come of it. The scene already exists; only the pairing changes, and it closes the second half of {{pc:4}}'s drought. Mira names Kai out loud for the first time; Morgan quietly names *the wrong thing about the world*.
 > [!WARNING]
@@ -809,7 +847,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
 - **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
 - **S1 #4:** at the cabin, a rental-app check-in message thanks them for a stay that hasn't happened yet, and the host's follow-up agrees it was lovely. Nobody corrects it.
-- **Fires:** A9 (second/third MoR) · **MoR({{pc:1}}) lands HERE** (moved from Ep 8, 2026-08-30) · **A2** (moved from Ep 8) · T4 · **S1 #4** · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
+- **Fires:** A9 (second/third MoR) · **MoR({{pc:1}}) lands HERE** (moved from Ep 8, 2026-08-30) · T4 · **S1 #4** · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
 - **NPCs:** Ren + Maya via text/photo only; Ortiz by voicemail.
 
 **Act I closes at Ep 9. Season 2 opened at Ep 9 as well** — the act close and the season open are the same session, by design. Big-arc's 6-9 session budget accommodates.

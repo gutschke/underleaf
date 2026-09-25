@@ -371,9 +371,9 @@ Reggie is an **unregistered high-substrate-sensitivity non-caster** — a person
 
 When Nia Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
 
-**Fire-by:** Act I → II network hinge; Mira's naming moment.
+**Fire-by:** ~~Act I → II network hinge~~ **retired as a scheduled beat 2026-09-24; reactive only** (hook-ledger A2). *("Mira" in this section's older text was Nia Chen's name before the rename.)*
 
-**Never voice at the table** before Mira names it: that Reggie is substrate-sensitive. Keep his agitation reading as human (fondness for Yui, worry over her career) until the network arc explains the somatic sense.
+**Never voice at the table** unless a player asks a network caster about him: that Reggie is substrate-sensitive. Keep his agitation reading as human (fondness for Yui, worry over her career) until the network arc explains the somatic sense.
 
 **Risk if unresolved:** small but real — a striking recap beat that goes nowhere reads as bad seeding.
 
@@ -526,7 +526,7 @@ This section is the workflow's step (C) for Ep 3 — what actually happened at t
 | 6 | SFPD Missing Persons call | **SEEDED, unheard** | Morgan saw the voicemail but didn't listen (session-close pacing). Carry into Ep 4 opening. |
 | 7 | Dakota's brown-edged photograph | **NOT FIRED** | Party didn't discuss. Retains function as ambient texture; Bancroft trail (§7 answer) still available. |
 | 8 | Ocean Beach teenagers | **N/A this session** | Between-sessions texture. Ep 4 could use one background text. |
-| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation still fires via Nia Chen in Act I→II. |
+| 9 | Reggie's face-changed-twice | **CONFIRMED as pattern** | Ep 3's blizzard trap + accidental-cast pattern reinforces the reading. Reggie's substrate-sensitivity confirmation is reactive only since 2026-09-24 (hook-ledger A2): it fires only if a player asks. |
 | 10 | 1950s Yale padlock | **FIRED (Mira picked it in 36s)** | Personal best. Cosmology unchanged. |
 | 11 | Bodie ambient uncanniness | **NOT DEPLOYED; superseded by cast** | The DM never needed the lantern-relights-itself beat — Priya's fire cast did the same substrate-teaching work more powerfully. §11's answer (anchor-site permeability) still holds and is now the DM's frame for why the fire cast felt "easy" at Bodie. |
 | 12 | Dakota's visit to Bea | **NOT DIRECTLY FIRED** | Party inferred Dakota went to Bea (via his sticky note referencing her). Direct confirmation via Bea revisit still available Ep 4-5. |

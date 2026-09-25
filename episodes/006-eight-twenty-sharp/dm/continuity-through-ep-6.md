@@ -385,9 +385,9 @@ Reggie is an **unregistered high-substrate-sensitivity non-caster** — a person
 
 When Nia Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
 
-**Fire-by:** Act I → II network hinge; Mira's naming moment.
+**Fire-by:** ~~Act I → II network hinge~~ **retired as a scheduled beat 2026-09-24; reactive only** (hook-ledger A2). *("Mira" in this section's older text was Nia Chen's name before the rename.)*
 
-**Never voice at the table** before Mira names it: that Reggie is substrate-sensitive. Keep his agitation reading as human (fondness for Yui, worry over her career) until the network arc explains the somatic sense.
+**Never voice at the table** unless a player asks a network caster about him: that Reggie is substrate-sensitive. Keep his agitation reading as human (fondness for Yui, worry over her career) until the network arc explains the somatic sense.
 
 **Risk if unresolved:** small but real — a striking recap beat that goes nowhere reads as bad seeding.
 

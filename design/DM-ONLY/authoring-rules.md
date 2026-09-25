@@ -210,3 +210,62 @@ FAILURE TELL: three consecutive design cycles checked with no rung taken.
 **Rung 3 is the whole point, and it is why none of this requires breaking a
 rule.** We already knew how to close a thread without answering it. We had just
 never written that down as the general escape hatch.
+
+---
+
+## 7. Bought characters come when called, and the table has to be taught that
+
+*(Added 2026-09-24.)* Three NPCs were bought with Ep 5 advancements: **{{pc:2}} →
+Alaia**, **{{pc:4}} → Ortiz**, **{{pc:1}} → Trina**. The offer text said they *"turn
+up when **you** call for them, instead of when the plot needs them."* **Nobody has
+called one yet.** This table has never been shown how, and a missed fortnight of
+sessions makes the advancement easy to forget. **A promise nobody knows how to
+collect is not kept.**
+
+```
+RULE — A bought character appears when its owner calls. The DM does not schedule it.
+PROTECTS:   the advancement being worth what the player paid for it.
+SCOPE:      Alaia ({{pc:2}}), Ortiz ({{pc:4}}), Trina ({{pc:1}}); {{pc:5}}'s pick
+            when it lands (one of his two suggested options was Alaia).
+TRIGGER:    every episode design pass; every DM-scheduled appearance of a bought NPC.
+RELEASE:    none for the rule itself; it is the advancement's own terms (PROTECTS).
+            The EXCEPTION below and the practice prompts are what expire.
+RETIRES BY: n/a (permanent while the advancement stands)
+FAILURE TELL: a bought NPC delivering something the owner could have asked for.
+```
+
+**"Exceptionally" means one thing:** the NPC appears unasked only while **doing
+their own job on somebody else's business**, and never to hand over something
+the owner could have asked for. Ortiz's Ep 9 voicemail to {{pc:1}} about his
+father's case passes: that is her caseload, not {{pc:4}}'s asset. Alaia's
+scheduled Ep 8 text failed the test and was removed on 2026-09-24.
+
+```
+RULE — The DM prompts owners to call, heavily at first.
+PROTECTS:   the table learning a mechanic it has never used.
+SCOPE:      the three owners above, plus {{pc:5}} if he buys a person.
+TRIGGER:    session openings and between-session messages, Eps 7–9.
+RELEASE:    per player, after one unprompted call. For everyone, at the end
+            of Ep 9. After that, cards on the table only.
+RETIRES BY: exhaustion | expiry
+FAILURE TELL: in Ep 9 somebody still calls only when prompted -> design
+            conversation, not more prompting.
+```
+
+**The practice order is set by what each character can safely say, not by
+spotlight:**
+
+- **Ep 7 opening: {{pc:4}} calls Ortiz, prompted outright.** She is not a caster,
+  so she cannot confirm anything. Her one sensitive topic has a clean refusal that
+  also teaches the limits: *"That's {{pc:1}}'s case. He can call me."* It rehearses
+  the phone call {{pc:4}} has to make in Ep 8. **Do not stage a plain-versus-
+  performed test with her; that is Nia's job in Ep 8.**
+- **Between Eps 8 and 9, by text: {{pc:2}} and Alaia.** Only after Nia has spoken,
+  because Alaia must not confirm the network first.
+- **Ep 9: {{pc:1}} and Trina.** She prices the job and her answer arrives later as
+  B23: a confirmed pattern, nobody named. **Never prompt Trina toward the father
+  thread**; it must not get a lead.
+
+**Heavy-handed is correct here.** Every owner gets a printed card at the table:
+the name, what they are good for, one line of their voice, and *"Say 'I call ___'
+any time. They pick up."* The same card goes to the group chat before the session.
