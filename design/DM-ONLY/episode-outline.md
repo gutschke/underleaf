@@ -524,13 +524,22 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > **names**, not bodies: unnamed guests cost nothing, and every named adult with a
 > line asks them to remember someone.
 >
+> - **WHERE: the Bay Picnic Area at Coyote Point** (reservable for groups up to 150,
+>   four charcoal grills, so Reggie has his grill). **Magic Mountain playground is next
+>   door**, which is where the scraped knee in the quiet afterwards comes from (its
+>   slides). CuriOdyssey is across the park; mention it, never go. Planes are colour
+>   only. **The rubber snake:** in the party-jobs scene, a shriek from the playground,
+>   *"SNAKE!"*, sends every adult running; it's Magic Mountain's rubber snake, the kids'
+>   favourite, and everyone laughs. **Keep it: the loud alarm is nothing, and the real
+>   emergency later makes no sound.** {{pc:2}} probably gets there first; that is the point.
 > - **Two named faces: Yui and Mei.** The players went looking for Yui in Ep 2
 >   and never found her, so meeting her pays off their own effort. **Mei is the one
 >   deliberate introduction.** She was written as three in Ep 2 and has never been
 >   spoken at the table, so her name can still change. **Everyone else stays in the
 >   background:** Inez (holding Mei, no lines), Reggie (at the grill, one silent
 >   face-change, no lines), guests, grandparents, other children.
-> - **Proposed exit, DM to confirm:** the Tanakas retire after Ep 7, and A8 closes with them. **Watch, don't pursue:** the table may adopt Mei-Mei and want her back. If they ask
+> - **RULED 2026-09-24: the Tanakas retire after Ep 7**, and A8 and T2 close with them.
+>   **One exception: Mei-Mei's running joke with {{pc:5}}** (hook-ledger T28). **Watch, don't pursue:** the table may adopt Mei-Mei and want her back. If they ask
 >   after her, the cheapest answer is a photo text from Yui. Never a scene, never a hook.
 >   *(DM, 2026-09-24: "We'll find out soon enough.")*
 > - **MEI-MEI — three layers, one per moment, never during the emergency.** Her legal
@@ -561,7 +570,8 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   over and lean on his legs. He has not said a word to them. **Private slip:**
 >   *"You haven't said a word to them. You're just holding a rope. They keep coming
 >   back anyway."* **No ladder is needed:** the slip is the beat, and whatever he makes
->   of it is his. **Do not let it pull {{pc:4}}'s toddlers away from him**; that would
+>   of it is his. **Mei-Mei is one of the littlest ones at his legs** (it seeds T28).
+>   **Do not let it pull {{pc:4}}'s toddlers away from him**; that would
 >   spend the refusal Ep 8 reserves for Nia. *(If {{pc:5}} kept the pistol on him,
 >   keep the kids at his hands and shoulders.)* His moment-of-release stays Ep 11.
 > - **{{pc:3}}'s second headache fires on the reading itself**, by private slip. It
@@ -612,7 +622,12 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > it: a third triggers a design conversation.** *(DM sign-off wanted before this is
 > treated as settled.)*
 >
-> **4a · {{pc:1}}'S BEAT — fuse the S1 instance with the owed father seconds. Net cost zero.**
+> **4a · SUPERSEDED 2026-09-24 (DM: "the cake is much better"). The allergy card is
+> replaced by the "Happy 3rd" cake** (see the 2026-09-24 block): same verb and same
+> S1, but not a record, and not a hazard the table would read as sinister. *The
+> original follows.*
+>
+> ~~**4a · {{pc:1}}'S BEAT — fuse the S1 instance with the owed father seconds. Net cost zero.**~~
 > *(Arc consultant, 2026-09-06. He is the least developed PC and the cause is that
 > every beat he has ever had is* notice *rather than* do. *This changes the verb
 > and adds no time.)*
