@@ -70,6 +70,7 @@ Structure of each fact section:
 - [§35 Vega text to Morgan: "see you in Berkeley soon"](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
 - [§46 Ep 6 played — the lift, the ledger offer, Estelle](#46-ep-6-played--generated-at-the-table-2026-09-05) — **one car, Rosa shotgun**; {{pc:4}} offered a ledger in transit and Rosa deferred it to the house; the letters were never searched; Estelle
 - [§47 Rulings of 2026-09-24](#47-rulings-of-2026-09-24) — **Yui held {{pc:4}}'s bag** (connector in it; he kept the anti-static bag); **the party and Reggie can reach each other** (numbers swapped at the In-N-Out)
+- [§48 Ep 7 prep canon](#48-ep-7--canon-set-in-prep-before-play-2026-09-24) — Coyote Point; Yui and Mei-Mei; the cropped photo; **Nia names Sat 27 March, noon**; the cake; Mira's headache is a body cost
 - [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
 - [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
@@ -2629,4 +2630,37 @@ played better that way.")*
 **Contact details were exchanged at the Daly City In-N-Out in Ep 2.** It was never
 spelled out, but it was implied. **They have not kept in touch; they could
 have.** So Reggie can text {{pc:4}}, and any PC can text Reggie.
+
+## 48. Ep 7 — canon set in prep, before play (2026-09-24)
+
+*Prep canon, not played canon. Fold what actually happens at the table in after
+the session; where play differs, play wins.*
+
+- **Where:** Coyote Point, San Mateo — the **Bay Picnic Area** (reservable, four
+  charcoal grills), beside **Magic Mountain** playground; **CuriOdyssey** across the
+  park keeps a **rubber boa**, a real snake the kids handle. Saturday 13 March
+  2027, 1pm.
+- **Yui Tanaka:** half-Japanese (father), half-Chinese-Filipino (mother); born Daly
+  City, grew up Cupertino, lives Millbrae; chose Mandarin for herself;
+  language-qualified on the Taipei route. Full detail in `yui-tanaka.json`.
+- **Mei ("Mei-Mei"):** legally Mei (芽衣), turns four on 13 March 2027. The doubling
+  is Yui's mother's Filipino habit; the Taipei crews heard 妹妹 and took it up.
+  **Never explained at the table.**
+- **The cropped photograph:** on Yui's board, a baby-shower photo from which Yui
+  cut her closest friend with scissors; they fell out before Mei was born. **Human,
+  deliberate and mundane.** It is {{pc:3}}'s articulation refusal.
+- **Ortiz's advice** (only if {{pc:4}} calls): in California an employee can ask for
+  her personnel file in writing and the employer has thirty days (Labor Code
+  §1198.5). That is all Ortiz has. It closes inside the episode.
+- **Nia names the next session's day:** **Saturday 27 March 2027, lunch, noon-ish,
+  place to follow that morning.** Ep 8 must honour the day and time; the venue is
+  free. Optional second message: a friend she meant to bring "hasn't really wanted
+  to see anybody lately".
+- **The cake:** "HAPPY 3rd BIRTHDAY MEI", from a delivery app that reused last
+  year's order. An S1 flattening instance, **unnumbered** so the #2–#8 sequence
+  elsewhere stays intact.
+- **{{pc:3}}'s headache is a body cost, not a stress box** (see `mira-sun.json`).
+- **{{pc:5}}'s realization lands at the piñata** (hook-ledger A7); Mei-Mei is among
+  the littlest ones at his legs, which seeds hook-ledger T28.
+- **The Tanakas retire after Ep 7**, except T28.
 

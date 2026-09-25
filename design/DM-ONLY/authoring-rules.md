@@ -255,7 +255,7 @@ FAILURE TELL: in Ep 9 somebody still calls only when prompted -> design
 **The practice order is set by what each character can safely say, not by
 spotlight:**
 
-- **Ep 7 opening: {{pc:4}} calls Ortiz, prompted outright.** She is not a caster,
+- **Ep 7 opening: {{pc:4}} calls Ortiz.** The need arrives in the fiction (Reggie's text about Yui's write-up) and the card is on the table; the prompts escalate from an open question to *"Just say 'I call Ortiz'"* only if nobody calls, and the chat post names the call afterwards so they know they used it. She is not a caster,
   so she cannot confirm anything. Her one sensitive topic has a clean refusal that
   also teaches the limits: *"That's {{pc:1}}'s case. He can call me."* It rehearses
   the phone call {{pc:4}} has to make in Ep 8. **Do not stage a plain-versus-

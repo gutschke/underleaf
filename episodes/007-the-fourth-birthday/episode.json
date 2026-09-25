@@ -1,0 +1,37 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "The Fourth Birthday",
+  "summary": "A four-year-old's birthday party at Coyote Point, and nothing to investigate. Yui Tanaka, the flight attendant who held {{pc:4}}'s bag at the gate and nearly lost her job over a moment she cannot remember, wants to meet the passengers who never blamed her. There is too much food, a real snake at the museum across the park, a cake with the wrong number on it, and a piñata. Four of the five get something small and their own. Then, for ninety seconds, a child stops breathing and makes no sound, and {{pc:2}} is there before she has decided to be.",
+  "prerequisites": [
+    "001-unattended-baggage",
+    "002-the-archivists-index",
+    "003-bodie-convergence",
+    "004-the-sacramento-visit",
+    "005-the-one-page",
+    "006-eight-twenty-sharp"
+  ],
+  "hooks": [
+    "Reggie, the gate agent from the night of the flight, texts {{pc:4}} an invitation on Yui's behalf.",
+    "Yui is still fighting the write-up, and nobody will show her what it says.",
+    "Nia Chen said yes to lunch weeks ago and has not named a day."
+  ],
+  "scenes": [],
+  "dmDocs": [
+    "dm/run-guide.md",
+    "dm/pacing.md"
+  ],
+  "inGameDate": "Saturday 13 March 2027, 1pm — three weeks after the morning at Rosa's",
+  "arcBeats": [
+    "{{pc:2}} acts before she has decided to, and afterwards, in the quiet, something small happens that she was not trying to do.",
+    "{{pc:3}} reads an absence in someone else's ordinary life, pays for it with a headache, and meets a person who would rather it stayed cut.",
+    "{{pc:5}} finds a room where charm cannot explain what happens: the smallest guests keep choosing him.",
+    "{{pc:1}} fixes something a room has decided not to see.",
+    "Nia names the day of the next session."
+  ],
+  "tags": [
+    "celebration",
+    "no-object-to-obtain",
+    "emergency",
+    "the-five-together"
+  ]
+}
