@@ -106,7 +106,7 @@ Every *"never explain this"* needs its paired *"say this instead."* A prohibitio
 
 ### 10. Print-shape it
 
-One-page documents must actually fit one page — a two-page quick-reference is not a quick reference; cut content rather than let it wrap. Break at scene boundaries. Character sheets print single-sided so they can be spread out.
+One-page documents must actually fit one page — a two-page quick-reference is not a quick reference; cut content rather than let it wrap. Break at scene boundaries. Character sheets print **duplex**: each PC is exactly two pages (table-use front, story and notes on the back), so every player holds one sheet of their own.
 
 ---
 

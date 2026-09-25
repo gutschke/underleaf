@@ -212,11 +212,11 @@
   /* Each PC gets a distinct accent color that colors the header underline,
      section H2s, focus-box left border, emphasis-stat border, and motif.
      Print-safe colors chosen to remain legible on both cream and white. */
-  #morgan { --accent: #2c4b6b; --accent-soft: #e2ecf3; }   /* deep slate blue — signals/tech */
-  #priya  { --accent: #a5502e; --accent-soft: #f3e4dc; }   /* warm terracotta — grounded care */
-  #mira   { --accent: #4a6b4a; --accent-soft: #e2ebe0; }   /* sage green — quiet observer */
-  #dakota { --accent: #6b3a2b; --accent-soft: #ecdfd8; }   /* mahogany — the pipe */
-  #marcus { --accent: #4a5a68; --accent-soft: #e3e7eb; }   /* steel gray — pragmatic operator */
+  .pc-morgan { --accent: #2c4b6b; --accent-soft: #e2ecf3; }   /* deep slate blue — signals/tech */
+  .pc-priya  { --accent: #a5502e; --accent-soft: #f3e4dc; }   /* warm terracotta — grounded care */
+  .pc-mira   { --accent: #4a6b4a; --accent-soft: #e2ebe0; }   /* sage green — quiet observer */
+  .pc-dakota { --accent: #6b3a2b; --accent-soft: #ecdfd8; }   /* mahogany — the pipe */
+  .pc-marcus { --accent: #4a5a68; --accent-soft: #e3e7eb; }   /* steel gray — pragmatic operator */
 
   .sheet .header { border-bottom-color: var(--accent, #1a1a1a); }
   .sheet h2 { color: var(--accent, #5a4a1e); }

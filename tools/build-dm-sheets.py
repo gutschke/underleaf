@@ -64,69 +64,12 @@ PC_ORDER = [
 # Aggressive single-page compression: everything for one PC fits on one letter sheet.
 # Typography is small but legible; backstory goes 2-column; DM notes go 3-column.
 DM_CSS = """
-/* DM-only master sheet: single-page-per-PC discipline */
-@page { size: letter; margin: 0.3in; }
-@media print {
-    body { font-size: 9pt; line-height: 1.28; }
-    .sheet {
-        page-break-after: always !important;
-        break-after: page !important;
-        padding: 0 !important;
-        margin: 0 !important;
-        min-height: unset !important;
-    }
-    .sheet:last-child { page-break-after: auto !important; }
-
-    /* Header — smaller PC name, tighter quick-facts */
-    .sheet header {
-        padding-bottom: 5px !important;
-        margin-bottom: 6px !important;
-        gap: 4px 12px !important;
-    }
-    .sheet .pc-name { font-size: 17pt !important; }
-    .sheet .player-line { font-size: 8.5pt !important; margin-top: 2px !important; }
-    .sheet .quick-facts { font-size: 8pt !important; line-height: 1.22 !important; }
-    .sheet .motif { width: 34px !important; height: 34px !important; }
-
-    /* Stat block — tighter */
-    .sheet .stat-row { margin: 5px 0 !important; gap: 3px !important; }
-    .sheet .stat { padding: 3px 2px !important; }
-    .sheet .stat .label { font-size: 7.5pt !important; }
-    .sheet .stat .value { font-size: 13pt !important; margin-top: 1px !important; }
-
-    /* Tracks — inline-tight */
-    .sheet .tracks { margin: 3px 0 6px !important; font-size: 8.5pt !important; }
-    .sheet .box { width: 10px !important; height: 10px !important; }
-
-    /* Sections — pull margins down */
-    .sheet section { margin: 4px 0 !important; }
-    .sheet h2 { margin: 0 0 2px !important; font-size: 9pt !important; padding-bottom: 1px !important; }
-    .sheet .chip { font-size: 8pt !important; padding: 1px 6px !important; }
-    .sheet .two-col { gap: 10px !important; }
-
-    /* Focus + intention — keep readable, trim padding */
-    .sheet .focus-box { padding: 4px 8px !important; font-size: 8.5pt !important; line-height: 1.28 !important; }
-    .sheet .intention { padding: 4px 8px !important; font-size: 8.5pt !important; line-height: 1.28 !important; }
-    .sheet .intention p { margin: 2px 0 !important; }
-
-    /* Backstory: 2 columns, small type, tight lines */
-    .sheet .backstory { margin: 3px 0 !important; columns: 2; column-gap: 14px; column-rule: 1px dotted #d8d1bf; }
-    .sheet .backstory h2 { column-span: all; }
-    .sheet .backstory p {
-        font-size: 7.3pt !important;
-        line-height: 1.22 !important;
-        margin: 0 0 3px !important;
-        text-align: justify;
-        hyphens: auto;
-    }
-
-    /* Bonds — compact list */
-    .sheet section ul { margin: 2px 0 2px 16px !important; }
-    .sheet section li { margin: 1px 0 !important; font-size: 8.5pt !important; line-height: 1.28 !important; }
-
-    /* Footer — minimal */
-    .sheet footer { margin-top: 4px !important; padding-top: 3px !important; font-size: 7.5pt !important; }
-}
+/* DM master sheets: each PC's two player pages exactly as the player holds
+   them, then the DM notes on a fresh page (see the injection below). The old
+   one-page-per-PC compression is gone: the player pages are fixed-height now,
+   and shrinking their type would only leave blank space. */
+.dm-page { break-before: page; page-break-before: always; break-after: page; page-break-after: always; }
+.sheet:last-of-type .dm-page { break-after: auto; page-break-after: auto; }
 .dm-notes {
     margin-top: 5px;
     padding: 5px 8px;
@@ -139,8 +82,8 @@ DM_CSS = """
        DM loses notes with no visible sign that anything is missing. */
     page-break-inside: auto;
     break-inside: auto;
-    font-size: 6.9pt;
-    line-height: 1.16;
+    font-size: 8pt;
+    line-height: 1.3;
     /* SINGLE COLUMN, deliberately. Chrome's multicol fragmentation silently
        CLIPS whatever does not fit when a block spans a page break, and the DM
        loses notes with nothing on the page to show it. Multicol also scrambles
@@ -303,14 +246,17 @@ def main():
         if not dm_section:
             continue
 
-        # Find the article for this PC, insert dm_section before its footer
-        # The pattern is: <article ... id="{pc_id}">...<footer>...
-        pattern = rf'(<article[^>]*id="{pc_id}"[\s\S]*?)(<footer>)'
-        replacement = rf'\1{dm_section}\n  \2'
-        # Use non-greedy match within the article
+        # The player sheet leaves a marker after its back page. Insert the notes
+        # there, on their own page. Before the two-page sheets this matched the
+        # first <footer>, which is now the fixed-height front page, where Chrome
+        # would have clipped the notes. A missed insertion is fatal, not a WARN:
+        # a warning nobody reads is how a DM loses notes.
+        pattern = rf'(<article[^>]*id="{pc_id}"[\s\S]*?)<!--DM-NOTES-->'
+        replacement = lambda m: m.group(1) + f'<div class="dm-page">{dm_section}</div>'
         new_base = re.sub(pattern, replacement, base, count=1)
         if new_base == base:
-            print(f"WARN: no substitution for {pc_id}")
+            raise SystemExit(f"{pc_id}: no <!--DM-NOTES--> marker in {BASE_HTML}; "
+                             "rebuild the player sheets with the current build-pc-sheets.py")
         base = new_base
 
     OUT_HTML.write_text(base)

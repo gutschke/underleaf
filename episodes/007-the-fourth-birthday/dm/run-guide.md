@@ -80,7 +80,7 @@
 
 - **`ep7-props.pdf` — single-sided, cut apart.** Seven private slips, the cake card, three contact cards. Each slip says who it is for.
 - **The player recap** — one page; you read it aloud in Scene 0.
-- **Character sheets** — single-sided; one per player.
+- **Character sheets** — **duplex**: each player gets one sheet, front and back.
 - **The clock card** — next to your timer.
 
 ### Bring

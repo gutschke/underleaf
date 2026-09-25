@@ -17,7 +17,7 @@ Slot order is the order of `characters.pcs` in campaign.json, skipping the
 example character. The output is structurally compatible with the DM master-sheet
 builder, which extends this HTML with a dmNotes block.
 """
-import argparse, html, json, pathlib, re, shutil, subprocess, sys, tempfile
+import argparse, html, json, os, pathlib, re, shutil, subprocess, sys, tempfile
 
 HERE = pathlib.Path(__file__).resolve().parent
 REPO = HERE.parent
@@ -143,7 +143,8 @@ def sheet(d, slot, session):
     inv = d.get("inventory", {})
     marks, adv = d.get("marks", 0), d.get("advancements", 0)
     focus = d.get("focus", {})
-    parts = [f'<article class="sheet" id="pc{slot}">', f"""  <header class="header">
+    first = E(d['name'].split()[0].lower())
+    parts = [f'<article class="sheet pc-{first}" id="pc{slot}">', '<div class="page front">', f"""  <header class="header">
     <div>
       <h1 class="pc-name">{E(d['name'])}{handle}</h1>
       <div class="player-line">Player: <strong>{player}</strong> &middot; {E(d.get('pronouns',''))}
@@ -170,8 +171,8 @@ def sheet(d, slot, session):
     if d.get("intentionUnderPressure"):
         parts.append(f'  <section><h2>Intention under pressure</h2>\n'
                      f'    <div class="intention">{paras(E(d["intentionUnderPressure"]))}</div></section>')
-    if d.get("backstory"):
-        parts.append(f'  <section class="backstory"><h2>Backstory</h2>\n{paras(E(d["backstory"]))}</section>')
+    # Bonds (including the people they can call) and inventory are table-use, so
+    # they sit on the front with the stats.
     if inv:
         carries = " &middot; ".join(md(E(c)) for c in inv.get("carries", []))
         parts.append(f'  <section><h2>Inventory</h2>\n'
@@ -179,16 +180,28 @@ def sheet(d, slot, session):
                      f'    <p><strong>Carries:</strong> {carries}</p></section>')
     if d.get("bonds"):
         parts.append(f'  <section><h2>Bonds</h2>{bonds(d["bonds"])}</section>')
+    # FRONT ends here: everything the player uses at the table. Duplex puts the
+    # story on the back of the same sheet, so each player holds exactly one sheet.
+    parts.append(f'  <footer><span>{E(d["name"])} &middot; Slot {slot} &middot; {E(session)}</span>'
+                 f'<span>story &amp; notes overleaf &rsaquo;</span></footer>\n</div>')
+    parts.append(f'<div class="page back">\n  <header class="back-header"><span class="pc-name-sm">{E(d["name"])}</span>'
+                 f'<span class="back-label">story &middot; notes</span></header>')
+    if d.get("backstory"):
+        parts.append(f'  <section class="backstory"><h2>Backstory</h2>\n{paras(E(d["backstory"]))}</section>')
     # A write-in table goes LAST. If the sheet overflows, the spill page is then a
     # clean worksheet rather than a stub carrying two orphaned lines.
     if d.get("sheetWriteIn"):
         parts.append(write_in(d["sheetWriteIn"], d["name"]))
+    # Ruled notes fill whatever the back has left, so every back page ends level.
+    parts.append('  <section class="notes"><h2>Notes</h2><div class="ruled"></div></section>')
     dots = "●" * marks + "○" * max(0, 5 - marks)
     pending = " &mdash; <strong>advancement PENDING</strong>" if marks >= 5 else ""
     parts.append(f"""  <footer>
     <span>Marks: <strong>{marks} / 5</strong>{pending} ({adv} taken; cap 8) &middot; {dots}</span>
     <span>Slot {slot} &middot; {E(session)}</span>
   </footer>
+</div>
+<!--DM-NOTES-->
 </article>""")
     return "\n".join(parts)
 
@@ -203,12 +216,53 @@ if leaks:
              + "\n\nMove it into dmNotes. These sheets get handed to players.")
 
 body = "\n\n".join(sheet(d, i, session) for i, _, d in pcs)
+# Each character is exactly two fixed-height pages. Fixed height is what lets the
+# notes fill the back and keeps duplex aligned; its danger is that Chrome CLIPS
+# overflow silently. So the page measures itself before printing and stamps a
+# visible marker on any page that overflows, and this script refuses the PDF if
+# the marker appears. UNDERLEAF_SHEET_PAGE_HEIGHT exists to prove the refusal.
+PAGE_H = os.environ.get("UNDERLEAF_SHEET_PAGE_HEIGHT", "11.7in")   # 10in printable / zoom 0.85
+PAGE_CSS = f"""
+/* Page geometry applies in EVERY medium, not just print: the overflow probe runs
+   on load under screen styles, and it can only measure what print will do if the
+   two agree. Width = 7.5in printable / zoom 0.85. */
+body {{ zoom: 0.85; background: white; }}
+main {{ max-width: none; padding: 0; margin: 0; }}
+.sheet {{ border: none; box-shadow: none; padding: 0; margin: 0; width: 8.82in; }}
+.page {{ height: {PAGE_H}; width: 8.82in; display: flex; flex-direction: column; overflow: hidden;
+        break-after: page; page-break-after: always; }}
+@media print {{
+  body {{ zoom: 0.85 !important; }}
+  .sheet {{ page-break-after: auto !important; break-after: auto !important; }}
+  .sheet:last-of-type .page.back {{ break-after: auto; page-break-after: auto; }}
+}}
+.page.back .back-header {{ display: flex; justify-content: space-between; align-items: baseline;
+  border-bottom: 2px solid var(--accent, #1a1a1a); padding-bottom: 4px; margin-bottom: 10px; }}
+.pc-name-sm {{ font-family: "Optima", "Trebuchet MS", sans-serif; font-weight: 600; font-size: 15pt; }}
+.back-label {{ font-size: 9pt; letter-spacing: .12em; text-transform: uppercase; color: var(--accent, #666); }}
+.page .notes {{ flex: 1; display: flex; flex-direction: column; min-height: 0.9in; margin-top: 6px; }}
+.page .notes .ruled {{ flex: 1; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 26px, #d8d1bf 26px, #d8d1bf 27px); }}
+.page.front footer, .page.back footer {{ margin-top: auto; }}
+.overflow-flag {{ background: #c00; color: #fff; font: bold 14pt sans-serif; padding: 6px; }}
+"""
+PROBE = """<script>
+window.addEventListener('load', () => {
+  document.querySelectorAll('.page').forEach(p => {
+    if (p.scrollHeight > p.clientHeight + 2) {
+      const f = document.createElement('div'); f.className = 'overflow-flag';
+      f.textContent = 'SHEET OVERFLOW: ' + p.closest('.sheet').id + ' ' + (p.classList.contains('front') ? 'front' : 'back');
+      p.prepend(f);
+    }
+  });
+});
+</script>"""
 out = f"""<!doctype html><html><head><meta charset="utf-8">
 <title>Underleaf — character sheets</title>
-<style>{CSS}</style></head><body>
+<style>{CSS}{PAGE_CSS}</style></head><body>
 <main>
 {body}
 </main>
+{PROBE}
 </body></html>
 """
 args.out.write_text(out)
@@ -220,6 +274,12 @@ if args.pdf:
     if chrome is None:
         sys.exit("no Chrome/Chromium on PATH")
     subprocess.run([chrome, "--headless", "--disable-gpu", "--no-sandbox",
+                    "--virtual-time-budget=3000",
                     "--no-pdf-header-footer", f"--print-to-pdf={args.pdf.resolve()}",
                     f"file://{args.out.resolve()}"], check=True, capture_output=True)
+    text = subprocess.run(["pdftotext", str(args.pdf), "-"], capture_output=True, text=True).stdout
+    over = sorted(set(re.findall(r"SHEET OVERFLOW: \S+ \S+", text)))
+    if over:
+        sys.exit("REFUSING: content does not fit its page and Chrome would clip it:\n  "
+                 + "\n  ".join(over) + "\nShorten the field, or move a section to the back.")
     print(f"Wrote {args.pdf} ({args.pdf.stat().st_size // 1024} KB)")
