@@ -5,14 +5,14 @@
   "role": "flight attendant",
   "disposition": "friendly-distant, professional",
   "alignment": "neutral-good",
-  "description": "Mid-30s. Half-Japanese, half-Filipino, born in Daly City, lives in Millbrae. Hair in a tight bun. Tired around the eyes. Has worked the SFO–TPE rotation for six years and knows the upper-deck galley like her own kitchen.",
+  "description": "Mid-30s. Half-Japanese (her father), half-Chinese-Filipino (her mother). Born in Daly City, grew up in Cupertino, lives in Millbrae. Hair in a tight bun. Tired around the eyes. Has worked the SFO–TPE rotation for six years and knows the upper-deck galley like her own kitchen.",
   "voice": "Efficient, professional, slight clipped quality when tired.",
   "signature": [
     "Recognizes regular passengers without seeming to, by gait and posture more than face.",
     "Has a single visible tell when stressed — adjusts her cuff with her thumb.",
     "Will go out of her way for a passenger she perceives as genuinely ill or grieving."
   ],
-  "dmNotes": "Holds {{pc:4}}'s bag at the SFO gate in Episode 1's Scene 7 retrocausal play-out — the thing that should never happen.  In Episode 2's gate-agent investigation she is the second NPC the PCs interview; she has no memory of holding the bag.  Her memory is genuinely missing; she did not lie.  She is the parallel-denial confirmation that one PC's gate-edit recollection is not just an isolated bad memory.\n\nIf the PCs treat her with respect during the Episode 2 interview, she may become an ongoing texture NPC — Yui or her wife Inez surface in later episodes as a reminder of the cost paid by NPCs who never know they paid it.  She does not become a caster or a network member; she remains a civilian whose life was edited around her.",
+  "dmNotes": "Holds {{pc:4}}'s bag at the SFO gate in Episode 1's Scene 7 retrocausal play-out — the thing that should never happen.  In Episode 2's gate-agent investigation she is the second NPC the PCs interview; she has no memory of holding the bag.  Her memory is genuinely missing; she did not lie.  She is the parallel-denial confirmation that one PC's gate-edit recollection is not just an isolated bad memory.\n\n**Ep 7 (2027-03-13) is where the party finally meets her**, at Mei's fourth birthday; see the outline. The Ep 2 interview never happened in play. **Exit proposed: retire after Ep 7** (a plot scan on 2026-09-24 found no later slot that needs her). **Watch, don't pursue:** if the table takes to Mei-Mei and asks after her, answer with a photo text from Yui, never a scene or a hook.  She does not become a caster or a network member; she remains a civilian whose life was edited around her.",
   "knownTo": [
     "pc4 (briefly, at SFO gate — she held his bag)"
   ],
@@ -24,10 +24,12 @@
   ],
   "background": {
     "homeBase": "Millbrae, CA",
-    "household": "Wife Inez (graphic designer). Three-year-old daughter Mei. Lives near SFO for the commute.",
+    "household": "Wife Inez (graphic designer). Daughter Mei, turned four in March 2027 (Ep 7), legally **Mei** (芽衣, a Japanese name, from Yui's father's side). **Everyone calls her Mei-Mei.** Yui's mother started it, the Filipino way: doubling a name as an endearment. The Taipei crews then heard 妹妹 (mèimei, \"little sister\", what Taiwanese adults call any small girl) and took it up. Lives near SFO for the commute.",
     "hobbies": "Bakes sourdough on her days off. Trying to learn the koto, badly.",
     "career": "Started with the airline at 27 after a brief stint in restaurant management. Liked the discipline of cabin crew work. Has been quietly applying for purser positions for two years.",
-    "currentStress": "Mei was up most of last night with a cold. Yui has been awake since 0400. Her mother is watching Mei tonight; Yui will call from Taipei tomorrow morning."
+    "currentStress": "Mei was up most of last night with a cold. Yui has been awake since 0400. Her mother is watching Mei tonight; Yui will call from Taipei tomorrow morning.",
+    "upbringing": "The family moved from Daly City to Cupertino when she was six. Her mother is Chinese-Filipino: Hokkien at her own mother's table, Mandarin from Chinese school in Manila. In Cupertino, Yui went to Saturday Chinese school too, and Mandarin became the language she chose for herself. Her father's Japanese she has only in pieces, which is partly what the koto is about. *(Why Cupertino and not the city: the South Bay's Chinese-speaking community is largely Mandarin, where San Francisco's was historically Cantonese and Toisanese. Added 2026-09-24; none of this had been spoken at the table.)*",
+    "languages": "English; fluent working Mandarin; Tagalog and Hokkien phrases from her mother's side; fragments of Japanese. She is a language-qualified flight attendant, which is why the airline keeps her on the Taipei route."
   },
   "provenance": "authored",
   "tier": "recognise"

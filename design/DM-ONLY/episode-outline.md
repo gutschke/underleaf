@@ -530,7 +530,23 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   spoken at the table, so her name can still change. **Everyone else stays in the
 >   background:** Inez (holding Mei, no lines), Reggie (at the grill, one silent
 >   face-change, no lines), guests, grandparents, other children.
-> - **Proposed exit, DM to confirm:** the Tanakas retire after Ep 7, and A8 closes with them.
+> - **Proposed exit, DM to confirm:** the Tanakas retire after Ep 7, and A8 closes with them. **Watch, don't pursue:** the table may adopt Mei-Mei and want her back. If they ask
+>   after her, the cheapest answer is a photo text from Yui. Never a scene, never a hook.
+>   *(DM, 2026-09-24: "We'll find out soon enough.")*
+> - **MEI-MEI — three layers, one per moment, never during the emergency.** Her legal
+>   name is Mei (芽衣, Japanese, from Yui's father). "Mei-Mei" is Yui's mother's
+>   Filipino doubling. The Taipei crews heard 妹妹 (*mèimei*, "little sister") and took
+>   it up. **Several players speak Mandarin; drop it cleanly or not at all.**
+>   1. **Arrival:** *"This is Mei."* Then, to her: *"Mei-Mei, say hi."* Both names in one breath.
+>   2. **Only if asked, any time:** *"My mom started it. Filipino thing — you double everything."*
+>   3. **As the cake comes out (the "Happy 3rd" scene):** a Taipei-crew guest calls
+>      *"妹妹，來吃蛋糕！"* with the falling tone, MÈI-mei, against the family's even
+>      "MAY-may". This is the moment the Mandarin speakers catch it. **Never explain it.**
+>   - **Not** during the choke or the quiet afterwards; Yui holding her and saying
+>     "Mei-Mei" there is just a mother. If {{pc:2}}'s player answers in Mandarin, Yui
+>     switches happily; her Mandarin is her own choice (see `yui-tanaka.json`).
+>   - **Never:** a banner reading 妹妹, anyone translating it, or 美美 (a different tone
+>     and a different name).
 > - **Reggie no longer needs to be on screen**, because A2 is retired as a scheduled beat (hook ledger).
 > - **Yui carries every line the family has:** the bag question closed on arrival
 >   (*"I don't remember, and I've stopped trying"*), {{pc:2}}'s quiet afterwards, and
