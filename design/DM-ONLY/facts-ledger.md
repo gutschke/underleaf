@@ -2576,7 +2576,9 @@ through.**
 charm, has independently derived the trying-too-hard tax, and half-remembers the
 Ep 4 door-cast. **His realization is now a defined beat rather than an open
 question**, and Ep 9's cabin is the right room for it because it is the one place
-he is not performing.
+he is not performing. *(Superseded 2026-09-24: A7 lands in Ep 7 instead, with the
+toddlers at the piñata, which is also a room where he is not performing, and it
+avoids a second deferral.)*
 
 **{{pc:1}} is the least developed PC in the party.** *(DM's own assessment.)* He
 has a father thread that is deliberately mundane and deliberately optional, an

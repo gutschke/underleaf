@@ -553,6 +553,17 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   {{pc:3}}'s refusal. **She cut a friend out of a photo on the board herself**, a
 >   friend she fell out with, and says so plainly (*"I cut her out. With scissors."*).
 >   The human agency is explicit so the table cannot read it as an edit.
+> - **A7 — {{pc:5}}'s realization lands here, at the piñata (DM ruling 2026-09-24).**
+>   His test is *find the one charisma cannot explain* (`mars-faraone.json`
+>   §playerStateSept2026), and four-year-olds are that audience. **Order matters:**
+>   Simon Says comes first and the toddlers adore {{pc:4}}, who is performing. Then
+>   {{pc:5}} just holds the piñata rope, and between swings the littlest ones drift
+>   over and lean on his legs. He has not said a word to them. **Private slip:**
+>   *"You haven't said a word to them. You're just holding a rope. They keep coming
+>   back anyway."* **No ladder is needed:** the slip is the beat, and whatever he makes
+>   of it is his. **Do not let it pull {{pc:4}}'s toddlers away from him**; that would
+>   spend the refusal Ep 8 reserves for Nia. *(If {{pc:5}} kept the pistol on him,
+>   keep the kids at his hands and shoulders.)* His moment-of-release stays Ep 11.
 > - **{{pc:3}}'s second headache fires on the reading itself**, by private slip. It
 >   no longer waits on the player choosing a second push.
 > - **{{pc:2}}'s moment-of-release has no "aimed" rung.** She does not know she can
@@ -585,8 +596,14 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > but only one unrequested envelope per week; if Ep 7 is tight, it goes to Ep 8's
 > coda per its own fallback.)*
 >
-> **3 · CUT ONE PER-PC BEAT — the recommendation is A7 ({{pc:5}}'s realization),
-> moved to Ep 9's cabin.** Ep 7 otherwise carries three private beats plus an
+> **3 · SUPERSEDED 2026-09-24 (DM ruling): A7 STAYS IN EP 7.** The load that
+> justified cutting it is gone: most Ep 7 private beats now fire by slip, and the
+> session has slack. Deferring to Ep 9 would have been his second deferral, with only
+> two sessions of margin before Ep 11, into a session already full. See the
+> 2026-09-24 re-point block for the beat. *The original recommendation follows.*
+>
+> ~~**CUT ONE PER-PC BEAT — the recommendation is A7 ({{pc:5}}'s realization),
+> moved to Ep 9's cabin.**~~ Ep 7 otherwise carries three private beats plus an
 > articulation refusal, at an outdoor children's party, which is the hardest venue
 > in the plan for one-on-ones. {{pc:3}}'s A4 cannot move (already pulled in from
 > Ep 8 for load); {{pc:2}}'s is now pinned by A3. Ep 9 is the natural room —
@@ -668,7 +685,7 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 - **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
 - **Arc-node:** **MoR({{pc:2}}) — A9 FIRES. The campaign's first moment-of-release.** A kid goes down hard, or chokes; {{pc:2}} is there before she decides to be; it resolves; **she was not trying**, and she notices afterward that she wasn't trying. Her sheet's own release condition: *the 17 moment without the crowd.*
 - **Second arc-node:** **R({{pc:3}}) BEGINS AND COMPLETES HERE.** *(A4 moved in from Ep 8 on 2026-08-30 — the whole thread now sits in one session, alongside her articulation refusal, and Ep 8 sheds a private scene.)* At a folding table of family photographs she reads an absence that **is not Kai's** (someone else's: a divorce, a dead uncle) and for the first time understands it as *a thing she does* rather than a thing that happens to her. Private; do not resolve.
-- **Third:** **{{pc:5}}'s deferred A7 private beat lands here** (logged from Ep 5) — this is his **realization**. His **moment-of-release** is separate and lands Ep 11. Do not schedule both in one session.
+- **Third:** **{{pc:5}}'s deferred A7 private beat lands here** (logged from Ep 5; kept here by DM ruling 2026-09-24, via the toddlers at the piñata) — this is his **realization**. His **moment-of-release** is separate and lands Ep 11. Do not schedule both in one session.
 
 #### The articulation pass — one refusal
 
