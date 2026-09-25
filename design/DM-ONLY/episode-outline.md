@@ -526,8 +526,12 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >
 > - **WHERE: the Bay Picnic Area at Coyote Point** (reservable for groups up to 150,
 >   four charcoal grills, so Reggie has his grill). **Magic Mountain playground is next
->   door**, which is where the scraped knee in the quiet afterwards comes from (its
->   slides). CuriOdyssey is across the park; mention it, never go. Planes are colour
+>   door**, which is where the injury in the quiet afterwards comes from: **a big,
+>   deep splinter off the wooden structure** (DM's local knowledge). {{pc:2}} gets it out;
+>   the throbbing that should follow stops sooner than it should. *(Alternative: a
+>   long scrape from a nail sticking out. A nurse will ask about tetanus at once, so
+>   the parent answers "all up to date" immediately, or the quiet scene turns into
+>   medical plotting.)* CuriOdyssey is across the park; mention it, never go. Planes are colour
 >   only. **The rubber snake:** in the party-jobs scene, a shriek from the playground,
 >   *"SNAKE!"*, sends every adult running; it's Magic Mountain's rubber snake, the kids'
 >   favourite, and everyone laughs. **Keep it: the loud alarm is nothing, and the real
