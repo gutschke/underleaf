@@ -7,7 +7,7 @@
 
 ## The short version
 
-The Quiet edited reality so that all five PCs ended up on Flight 887 to Taipei, and so that the avionics bay had a fault, and so that an ARINC 600 connector ended up in {{pc:1}}'s carry-on. The edit cost a substantial plausibility price — though *who or what "paid" it* is the campaign's central, deliberately open question (see [Who did this?](#who-did-this)). The PCs are the only people whose memories still track the pre-edit shape of events — for everyone else, the world has always been this way.
+The Quiet edited reality so that all five PCs ended up on Flight 887 to Taipei, and so that the avionics bay had a fault, and so that an ARINC 600 connector ended up in {{pc:4}}'s carry-on. The edit cost a substantial plausibility price — though *who or what "paid" it* is the campaign's central, deliberately open question (see [Who did this?](#who-did-this)). The PCs are the only people whose memories still track the pre-edit shape of events — for everyone else, the world has always been this way.
 
 ## What the edit had to do
 
@@ -17,13 +17,13 @@ To make this work, The Quiet wove these threads:
 
 2. **The avionics fault.** A cracked locking ring on a specific ARINC 600 connector on a specific 747. This is the cheapest thread — locking rings genuinely do fail occasionally, the failure mode is well-documented, and a particular 747 having this fault on a particular night is the kind of thing the Quiet can arrange for **Cheap** to **Costly** tier.
 
-3. **The connector in {{pc:1}}'s bag.** This is the expensive one. The {{pc:1}}-bag-at-the-counter window is the natural-looking event that gave the Quiet a place to do the impossible thing. The actual placement of the connector cost **Hard** tier on its own: the part materializes in a sealed anti-static bag, with no manufacturing trail. The connector itself is real and standard — but its presence in *this* bag, with no continuous causal chain back to a manufacturer, is the kind of thing the Quiet pays heavy debt for.
+3. **The connector in {{pc:4}}'s bag.** This is the expensive one. The {{pc:4}}-bag-at-the-counter window is the natural-looking event that gave the Quiet a place to do the impossible thing. The actual placement of the connector cost **Hard** tier on its own: the part materializes in a sealed anti-static bag, with no manufacturing trail. The connector itself is real and standard — but its presence in *this* bag, with no continuous causal chain back to a manufacturer, is the kind of thing the Quiet pays heavy debt for.
 
 4. **The anchors — and where the cost lands.** The world's current shape (post-edit) includes the bag-hold; the gate footage records it accurately. What differs from observer to observer is *which version of events each record or memory happens to hold* — and that's decided by whichever version is cheapest for the substrate to keep the block self-consistent:
 
    - **The institutional camera records the current shape.** The footage shows the bag being held: Yui placed it on the counter, a natural-looking disturbance happened, she picked it up and put it on the plane. Cameras default to recording what's happening in the current shape — no active edit required. The connector's actual materialization is off-camera / occluded during the disturbance (Yui's torso across the frame, a passing cart, an auto-iris glare). A hacker who forensically examines the file finds it authentic and occluded — the video attests the bag-hold, but not the connector's appearance. Nothing to pin on anyone.
    - **Reggie's and Yui's memories hold whichever version is cheapest.** For them, both would hold a version of events that doesn't include the bag-hold — but this isn't a rigid rule, it's an outcome of the cost calculation (see below). **Human eyewitness memory is notoriously unreliable in real life** — misremembered details, confident false memories, gaps that fill themselves plausibly, disagreements between witnesses of the same event. The substrate has an enormous free budget to work with there. Whatever version costs less to leave in place than the alternatives — that's what their memory holds. For Reggie and Yui the cheap version happens to be "the bag-hold never happened"; for another NPC in a different scene it could be a partial memory, a wrong detail, a strong-but-mistaken conviction, a gap.
-   - **{{pc:1}}'s phone-log has a small gap** for the minutes around the bag-hold — a personal, weakly-anchored instrument whose natural state is *to* have gaps. Whether the log records the current shape, the pre-edit shape, or nothing at all is roughly a coin-flip for such an instrument, and gapping is cheaper than either.
+   - **{{pc:4}}'s phone-log has a small gap** for the minutes around the bag-hold — a personal, weakly-anchored instrument whose natural state is *to* have gaps. Whether the log records the current shape, the pre-edit shape, or nothing at all is roughly a coin-flip for such an instrument, and gapping is cheaper than either.
 
    **Why "no bag-hold" is the cheapest thing for Reggie/Yui to remember** (this is the key DM insight — hold it, don't share it):
    - If Yui's memory held "I broke policy and took a bag," it would cascade: guilt, potential self-reporting, career changes, behavior shifts around future bags, quitting or being fired. Each cascade requires more edits.
@@ -101,7 +101,7 @@ See [`antagonist.md`](../../../design/DM-ONLY/antagonist.md) for the AI-flatteni
 
 - That this is magic. Even when players guess — especially when they guess. The DM smiles and says *"could be. could not be."*
 - That The Quiet exists. The PCs will encounter the word much later.
-- That the cable was a cast. The cable is a piece of plastic, and it is sitting in {{pc:1}}'s pocket inside its anti-static bag.
+- That the cable was a cast. The cable is a piece of plastic, and it is sitting in {{pc:4}}'s pocket inside its anti-static bag.
 
 ## What the DM may hint at, lightly
 

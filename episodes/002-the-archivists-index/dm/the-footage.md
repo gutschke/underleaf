@@ -50,7 +50,7 @@ Showing the footage to Yui *before* her interview (she watches herself hold a ba
 
 ## The phone gap
 
-{{pc:1}}'s phone has a small gap in location/photo timeline for those minutes. Cheap to leave: personal device, weak anchor, gaps are its natural state (airplane mode, terminal GPS multipath, app backgrounding). It corroborates the missing-time without being suspicious in itself.
+{{pc:4}}'s phone has a small gap in location/photo timeline for those minutes. Cheap to leave: personal device, weak anchor, gaps are its natural state (airplane mode, terminal GPS multipath, app backgrounding). It corroborates the missing-time without being suspicious in itself.
 
 ## The lock branch (player-initiated; mundane corroboration)
 

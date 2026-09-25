@@ -69,6 +69,7 @@ Structure of each fact section:
 - [§34 Vivian's Indian-visitor memory](#34-vivians-indian-visitor-memory--the-friendly-very-smart-guest-at-her-fathers-house)
 - [§35 Vega text to Morgan: "see you in Berkeley soon"](#35-vega-text-to-morgan-see-you-in-berkeley-soon)
 - [§46 Ep 6 played — the lift, the ledger offer, Estelle](#46-ep-6-played--generated-at-the-table-2026-09-05) — **one car, Rosa shotgun**; {{pc:4}} offered a ledger in transit and Rosa deferred it to the house; the letters were never searched; Estelle
+- [§47 Rulings of 2026-09-24](#47-rulings-of-2026-09-24) — **Yui held {{pc:4}}'s bag** (connector in it; he kept the anti-static bag); **the party and Reggie can reach each other** (numbers swapped at the In-N-Out)
 - [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
 - [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
@@ -369,7 +370,7 @@ Four teens, ages 17-19, Sunset-District locals. Suggested names/textures (assign
 
 Reggie is an **unregistered high-substrate-sensitivity non-caster** — a person who dimly feels anomalies without knowing what they are (a common Act II network-adjacent NPC type). His memory of the actual gate-hold is un-restorable (per the record-vs-memory asymmetry). But his *somatic* recognition is real. Seeing the group's convergence hit him again — five people whose shape sits together wrong on his substrate-sense — is a body-level response, not a memory retrieval. That's why the escalation: one PC he doesn't quite recognize is uncomfortable; five is overwhelming.
 
-When Nia Chen names the network in Act I→II, she can name Reggie as an example: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
+*(Superseded 2026-09-24: A2 is reactive only and expires unfired at the end of Ep 9; see hook-ledger A2.)* If a player asks a network caster about him, the line can be: *"There are people who feel it and don't know they do — Reggie is one. He'll never cast. But he'll always know when a caster is in the room. It's a lonely position; kindness helps."*
 
 **Fire-by:** ~~Act I → II network hinge~~ **retired as a scheduled beat 2026-09-24; reactive only** (hook-ledger A2). *("Mira" in this section's older text was Nia Chen's name before the rename.)*
 
@@ -2602,3 +2603,28 @@ leave her idle again.**
   the same inability to say why. **Not 1979**: that is the year Rosa took the
   ledger out of the Bancroft backlog, and colliding them would make the ledger a
   grief-object.
+
+---
+
+## 47. Rulings of 2026-09-24
+
+### Whose bag Yui held — {{pc:4}}'s
+
+**Yui held {{pc:4}}'s bag at the SFO gate. The ARINC 600 connector appeared in
+that bag, and {{pc:4}} kept the empty anti-static bag afterwards.** *(DM: "It
+played better that way.")*
+
+> **Why this needed a ruling.** Ep 1 was authored before play with slot 1 as the
+> bag's owner, and several files copied that. The played record went the other
+> way: Ep 2's scenes, `reggie-okeke.json` and {{pc:4}}'s own marks all make him the
+> bag-holder. Ep 1's retrospective session record said the connector was in
+> {{pc:1}}'s carry-on, which was wrong. **Corrected everywhere on 2026-09-24,
+> including the Ep 1 module (slots 1 and 4 swapped in `the-gate.md`) and the Ep 2
+> phone-log gap, which belongs to the bag's owner.** Hold it from here.
+
+### The party and Reggie can reach each other
+
+**Contact details were exchanged at the Daly City In-N-Out in Ep 2.** It was never
+spelled out, but it was implied. **They have not kept in touch; they could
+have.** So Reggie can text {{pc:4}}, and any PC can text Reggie.
+

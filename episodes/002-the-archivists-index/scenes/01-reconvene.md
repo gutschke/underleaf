@@ -23,7 +23,7 @@ Several weeks have passed since Taipei. Everyone went their separate ways — an
 
 ### Bag chain-of-custody (played variant, ~5 min)
 
-At Ocean Beach the PCs pull the anti-static bag out of {{pc:1}}'s pocket and actually **read the stamps**. The bag carries a full chain-of-custody sequence: manufacturer → parts distributor → maintenance contractor → United Airlines fleet ops → SFO ground-support staff — and then the log stops. **One of the teenagers** at the bonfire, hovering because these adults are interesting, points at the last stamp and says something like *"so, like, whatever happened happened at the airport, right?"*
+At Ocean Beach the PCs pull the anti-static bag out of {{pc:4}}'s pocket and actually **read the stamps**. The bag carries a full chain-of-custody sequence: manufacturer → parts distributor → maintenance contractor → United Airlines fleet ops → SFO ground-support staff — and then the log stops. **One of the teenagers** at the bonfire, hovering because these adults are interesting, points at the last stamp and says something like *"so, like, whatever happened happened at the airport, right?"*
 
 That's the whole beat. The teenager just noticed the obvious thing the party had missed. The PCs decide to go to SFO. The teenagers get added to a second group chat (a great recurring texture — they're now on the periphery of the PCs' Bay Area life). The party takes a Waymo to SFO.
 
@@ -37,7 +37,7 @@ That's the whole beat. The teenager just noticed the obvious thing the party had
 
 ## DM read-aloud (light touch)
 
-> *It's a Saturday. The fog burned off an hour ago. You've been texting the others on and off for weeks — about nothing, really, the way you do with people you went through something with. Today you're actually in the same room again, or about to be. And the empty anti-static bag is still in {{pc:1}}'s pocket, because {{pc:1}} never quite threw it away.*
+> *It's a Saturday. The fog burned off an hour ago. You've been texting the others on and off for weeks — about nothing, really, the way you do with people you went through something with. Today you're actually in the same room again, or about to be. And the empty anti-static bag is still in {{pc:4}}'s pocket, because {{pc:4}} never quite threw it away.*
 
 ## Re-establish the five (one beat each)
 
@@ -87,9 +87,9 @@ That's the whole beat. Keep it **mundane and inert** — no eerie hesitation, no
 
 ## The decision to chase the gate
 
-Let it crystallize from a PC, not from you. The natural driver is **{{pc:1}}** (it happened to them; they kept the bag) or the most suspicious PC at your table. Bait gently if needed — a ready, quotable line:
+Let it crystallize from a PC, not from you. The natural driver is **{{pc:4}}** (it happened to them; they kept the bag) or the most suspicious PC at your table. Bait gently if needed — a ready, quotable line:
 
-> *{{pc:1}} sets the folded anti-static bag on the table. "Okay. I can't be the only one who still thinks about this. I want to know who held my bag at that gate."*
+> *{{pc:4}} sets the folded anti-static bag on the table. "Okay. I can't be the only one who still thinks about this. I want to know who held my bag at that gate."*
 
 Other nudges if that doesn't catch: someone tried to look the flight attendant up and got nowhere, and it nags; or the group chat has a thread nobody finished — *what actually happened down there?*
 

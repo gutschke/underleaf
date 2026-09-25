@@ -56,7 +56,7 @@ The exterior bulkhead door is real. The interior floor-panel-access is real on c
 
 If a player is an aviation enthusiast and wants to argue the realism, the DM can acknowledge: *"You're right, this is unlikely. Run with it."* Don't try to win the argument; just acknowledge and move on.
 
-### The connector appearing in {{pc:1}}'s bag
+### The connector appearing in {{pc:4}}'s bag
 
 Not realistic. That's the point. This is the moment of magic, dressed up as logistics. The realistic detail (the connector is a genuine part with a manufacturing trail) makes the unrealistic detail (its sudden appearance in a sealed bag with no manufacturing trail) land harder.
 

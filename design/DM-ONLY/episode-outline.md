@@ -44,7 +44,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Status:** Played (in-game ~early autumn 2026)
 - **LOAD:** MEDIUM
 - **Setting/register:** SFO Terminal G (public transit-institutional) + gate + In-N-Out
-- **Arc-node:** the campaign's inciting event — ARINC 600 connector materializes in {{pc:1}}'s carry-on; PCs are the only people whose memories track the pre-edit shape. Two emergent spell-like events (connector-in-bag; combination-lock 1-3-2-4 opening the engineering bay).
+- **Arc-node:** the campaign's inciting event — ARINC 600 connector materializes in {{pc:4}}'s carry-on; PCs are the only people whose memories track the pre-edit shape. Two emergent spell-like events (connector-in-bag; combination-lock 1-3-2-4 opening the engineering bay).
 - **Plants:** the connector-in-bag cause (T11 permanent-open — closing image callback); the lock coincidence (T12); Reggie's denial texture; Yui as edited-around civilian; the Flight-887 shape (retrocausal threading — five PCs converged on this specific flight)
 - **Fires:** first substrate events witnessed by party (unattributed at the table)
 - **NPCs first appearing:** Reggie Okeke; Yui Tanaka
@@ -546,11 +546,9 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   prompted outright** (`authoring-rules.md` §7). Two weekly sessions were missed,
 >   so expect the advancements, and Nia's pending date, to have been forgotten.
 >
-> **CONTINUITY CONFLICT — resolve before the invitation text goes out: whose bag did
-> Yui hold?** `yui-tanaka.json` and Ep 2's footage scene say {{pc:1}}'s. Ep 2's played
-> pacing calls {{pc:4}} "bag-holder", and Ep 1's cable file puts the connector in
-> {{pc:4}}'s bag. **Until the DM rules, the text names the gate and the footage, not
-> the bag's owner.**
+> **RULED 2026-09-24: Yui held {{pc:4}}'s bag.** The connector appeared in that bag,
+> and {{pc:4}} kept the empty anti-static bag. Ep 1 had been authored with slot 1 as
+> the owner; it is corrected (facts-ledger §47). **The invitation text can say so.**
 
 > [!CAUTION]
 > ### RE-POINTED 2026-09-06, after the post-Ep-6 audit. Read before authoring.
@@ -650,7 +648,7 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > **8 · {{pc:5}}'s advancement is still outstanding. Author on neutral
 > assumptions** — nothing may depend on which option he takes.
 
-- **LOAD:** **MEDIUM.** Compress **T1 + T2 + A8 into one combined beat** — Reggie is at the party, which covers all three.
+- **LOAD:** **MEDIUM.** *(Superseded 2026-09-24: Reggie is background with no lines, so T1 does not fire; A8 and T2 ride on Yui. See the re-point block above.)*
 - **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
 - **Arc-node:** **MoR({{pc:2}}) — A9 FIRES. The campaign's first moment-of-release.** A kid goes down hard, or chokes; {{pc:2}} is there before she decides to be; it resolves; **she was not trying**, and she notices afterward that she wasn't trying. Her sheet's own release condition: *the 17 moment without the crowd.*
 - **Second arc-node:** **R({{pc:3}}) BEGINS AND COMPLETES HERE.** *(A4 moved in from Ep 8 on 2026-08-30 — the whole thread now sits in one session, alongside her articulation refusal, and Ep 8 sheds a private scene.)* At a folding table of family photographs she reads an absence that **is not Kai's** (someone else's: a divorce, a dead uncle) and for the first time understands it as *a thing she does* rather than a thing that happens to her. Private; do not resolve.
@@ -669,7 +667,7 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 
 - **KEEP THE FATHER THREAD WARM — 30 seconds, and it is owed.** Eps 6 and 8 have no {{pc:1}}-father content, and it is one of the three standing-presence threads that must not go quiet. **A children's birthday party is where families come up by themselves.** Somebody — a parent, not an NPC with an agenda — asks him something ordinary about his own family, and he has to answer in front of people. **No new information, no lead, no beat.** Just the thread breathing. *(B5's working answer is committed in `hook-ledger.md`; it is DM-side and nothing here reveals it. **Absolute months only, and never the phrase "seven years."**)*
 - **Setting/register:** Mei's fourth birthday, outdoors, kids underfoot. The only records present are photographs on a folding table.
-- **Fires:** A9 · A8 (Yui check-in) · T1 (Reggie) · T2 · T4 (Ren + Maya, 3 min) · **B15 re-plant** — Bea's *unrequested* envelope arrives that week with the Marsh galaxies-sentient clipping. **U9's letter went back to Ep 6** (2026-08-30) when A4 moved in here; this envelope carries the clipping only.
+- **Fires:** A9 · A8 (Yui check-in) · ~~T1 (Reggie)~~ · T2 · T4 (Ren + Maya, 3 min) · **B15 re-plant** — Bea's *unrequested* envelope arrives that week with the Marsh galaxies-sentient clipping. **U9's letter went back to Ep 6** (2026-08-30) when A4 moved in here; this envelope carries the clipping only.
 - **Hook out:** **Nia names the date.** *(Ep 5 spends the call itself; Ep 5 does NOT give them a when.)* Nia is away — a contract out of state through most of March — and has been putting them off politely for about four weeks. **This is where she finally picks a day.** Phone only. **That six-week gap (Ep 5 to Ep 8) is deliberate and is why she does not appear until Ep 8**; if a player gets impatient in Eps 6-7, that impatience is correct and you should let it show.
   - **ONE ADDED CLAUSE, optional, ~10 seconds:** she mentions **without any weight** that the person she was going to bring *hasn't wanted to see anybody in a while.* **Plants dissolution at NPC scale, makes Ep 8's cancellation read ordinary rather than sinister, and costs one sentence.**
 - **Risk if slips:** this is the campaign's first recovery beat and the gate-opener for every subsequent MoR. **Do not add to this session.**

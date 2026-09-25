@@ -18,7 +18,7 @@ The Quiet spends down the anchoring ladder, cheapest first. The PCs can read it 
 | Record | What happened | Why |
 |---|---|---|
 | Reggie & Yui's memory | wiped wholesale | loosest, cheapest |
-| {{pc:1}}'s phone timeline | small gap | personal instrument; gaps are its natural state |
+| {{pc:4}}'s phone timeline | small gap | personal instrument; gaps are its natural state |
 | Institutional gate camera | **untouched** (pristine, occluded) | most anchored; editing it is the most expensive move, so the Quiet didn't |
 | (if it fired) the bay lock | a coincidental number-match | cheap loose causality serving a structural need |
 

@@ -33,7 +33,7 @@ Default (recommended): if Reggie became an ally in Scene 2, **he quietly supplie
 
 ## The win (real)
 
-They get the file. It is authentic, intact, full chain of custody — and it **corroborates the gate scene they played out**: there is {{pc:1}}'s bag coming off the shoulder, there is Yui near it, there is Reggie at his counter doing his job. They were not crazy. After weeks of doubt, *there they are.*
+They get the file. It is authentic, intact, full chain of custody — and it **corroborates the gate scene they played out**: there is {{pc:4}}'s bag coming off the shoulder, there is Yui near it, there is Reggie at his counter doing his job. They were not crazy. After weeks of doubt, *there they are.*
 
 ## The wall (deeper)
 
@@ -47,7 +47,7 @@ There is **no tampering to find.** A PC who examines the file forensically (the 
 
 ## The cost-gradient (leave it half-legible)
 
-By now three records exist and they *rank*: Reggie and Yui remember nothing (gone); {{pc:1}}'s phone has a gap for those minutes (cheap); the institutional camera is immaculate (untouched). Put all three facts plainly on the table.
+By now three records exist and they *rank*: Reggie and Yui remember nothing (gone); {{pc:4}}'s phone has a gap for those minutes (cheap); the institutional camera is immaculate (untouched). Put all three facts plainly on the table.
 
 **Priority — keep it a thread, not a rubric.** The scene's job is the *corroboration* + the *"backwards" unease*, NOT getting the cost-rule assembled. A table that never connects the three has lost nothing. Do **not** voice the rule yourself. If a player assembles it (*"the harder it is to fake, the less it's touched... that's backwards"*), treat it exactly like a magic guess — *"could be, could not be"* — a chill and a thread to pull in sessions 3–5, never a confirmed answer. Don't reward early assembly with confirmation.
 

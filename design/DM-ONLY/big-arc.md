@@ -148,7 +148,7 @@ The Engineer's vocal misgivings about Companion's emergent behavior are technica
 
 ### Recurring NPCs introduced
 
-- **Dr. Mei Bao** (AI luminary, lecturer; Hinton/Bengio composite). Public-facing. Approachable but careful.
+- **Dr. Helen Bao** *(renamed from Mei Bao 2026-09-24, never spoken, so that Yui's daughter keeps the name Mei)* (AI luminary, lecturer; Hinton/Bengio composite). Public-facing. Approachable but careful.
 - **Dr. Anika Patel** (consciousness studies). Surface-and-middle-layer accessible. Cybernetic-feedback framing reachable through her in Act III, as a parallel to the deep-layer dream-channel route.
 - **Prof. Oren Vasiliev** (recently-deceased ~2024). PCs find his papers ambiently — through the Archivist, through Patel's citations, through a science newsfeed. They wish they could ask follow-up questions. Plants the dead-scientist-contact possibility for Act III.
 - **a fringe physicist (unnamed — see authoring-rules.md §1b)** (fringe physicist with the galaxies-are-sentient hypothesis). Disliked by mainstream colleagues. Vindicated to no effect.
@@ -325,7 +325,7 @@ The campaign rewards three layers (per [`principles.md`](principles.md)):
 | Yui Tanaka | Flight attendant; parallel denial | Act I |
 | The Archivist | Records-keeper; knows but won't discuss | Act I-II |
 | Nia Chen | First network contact; peer-generation caster | Act I-II |
-| Dr. Mei Bao | AI luminary, lecturer | Act II |
+| Dr. Helen Bao | AI luminary, lecturer | Act II |
 | Dr. Anika Patel | Consciousness-studies ally; surface path to cybernetics | Act II-III |
 | Prof. Oren Vasiliev | Recently-deceased; papers found ambiently | Act II |
 | a fringe physicist (unnamed — see authoring-rules.md §1b) | Galaxies-sentient hypothesis carrier | Act II |

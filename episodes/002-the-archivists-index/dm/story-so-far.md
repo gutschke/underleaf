@@ -13,7 +13,7 @@ A short checklist. If you logged your last session (see Ep1's `08-lights-out.md`
 
 1. **Who is at the table** — fill the role map at the top of [`README.md`](README.md) (Investigator/Caregiver/Outsider/Control-seeker/Operator → your PCs).
 2. **Each PC's stake** — the reason each was on Flight 887. You'll reference these in the cold open and they color who pushes the investigation.
-3. **Who holds the anti-static bag** — by default {{pc:1}}. The empty bag is the campaign's first physical evidence; it's the hook of Scene 1.
+3. **Who holds the anti-static bag** — {{pc:4}} (played canon; ruled 2026-09-24). The empty bag is the campaign's first physical evidence; it's the hook of Scene 1.
 4. **Did the combination-lock coincidence fire?** (Ep1 [`dm/the-lock.md`](../../001-unattended-baggage/dm/the-lock.md)) If yes, the lock-callback beats are live; if no, skip them. You don't need the exact digits.
 5. **What luck did you grant?** Your accidental-cast log. It feeds the realization beat in sessions 3–5; keep adding to it this session.
 
