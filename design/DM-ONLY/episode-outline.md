@@ -531,11 +531,16 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   the throbbing that should follow stops sooner than it should. *(Alternative: a
 >   long scrape from a nail sticking out. A nurse will ask about tetanus at once, so
 >   the parent answers "all up to date" immediately, or the quiet scene turns into
->   medical plotting.)* CuriOdyssey is across the park; mention it, never go. Planes are colour
->   only. **The rubber snake:** in the party-jobs scene, a shriek from the playground,
->   *"SNAKE!"*, sends every adult running; it's Magic Mountain's rubber snake, the kids'
->   favourite, and everyone laughs. **Keep it: the loud alarm is nothing, and the real
->   emergency later makes no sound.** {{pc:2}} probably gets there first; that is the point.
+>   medical plotting.)* **CuriOdyssey is across the park** (science museum and small zoo
+>   of rescued, mostly native animals); mention it, never go. Planes are colour only.
+> - **The snake — a real one, and harmless.** CuriOdyssey keeps a **rubber boa**, a
+>   small, gentle native California snake that kids get to touch; most love it, some are
+>   terrified, and local kids remember it for years. In the party-jobs scene, a grandparent
+>   has taken a few older cousins across to CuriOdyssey; one comes pelting back over the
+>   lawn shrieking *"SNAKE!"*, and every adult half-rises. She touched the rubber boa,
+>   and she's half terrified and half desperate to go back. Everyone laughs. **Keep it:
+>   the loud alarm is nothing, and the real emergency later makes no sound.** {{pc:2}}
+>   is probably first on her feet; that is the point.
 > - **Two named faces: Yui and Mei.** The players went looking for Yui in Ep 2
 >   and never found her, so meeting her pays off their own effort. **Mei is the one
 >   deliberate introduction.** She was written as three in Ep 2 and has never been
