@@ -87,7 +87,6 @@
 
 - **A stuffed animal.** For the grape. It is what {{pc:2}}'s player acts on. **Never another player.**
 - **A marker** that writes on the cake card.
-- **{{pc:5}}'s advancement.** If his player has picked, put it on his sheet before the session. **Nothing tonight depends on which one.**
 
 ---
 

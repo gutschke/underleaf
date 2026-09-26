@@ -225,8 +225,8 @@ collect is not kept.**
 ```
 RULE — A bought character appears when its owner calls. The DM does not schedule it.
 PROTECTS:   the advancement being worth what the player paid for it.
-SCOPE:      Alaia ({{pc:2}}), Ortiz ({{pc:4}}), Trina ({{pc:1}}); {{pc:5}}'s pick
-            when it lands (one of his two suggested options was Alaia).
+SCOPE:      Alaia ({{pc:2}}), Ortiz ({{pc:4}}), Trina ({{pc:1}}). ({{pc:5}} took a
+            stat, +1 DEX, on 2026-09-26, so there is no fourth.)
 TRIGGER:    every episode design pass; every DM-scheduled appearance of a bought NPC.
 RELEASE:    none for the rule itself; it is the advancement's own terms (PROTECTS).
             The EXCEPTION below and the practice prompts are what expire.
@@ -243,7 +243,7 @@ scheduled Ep 8 text failed the test and was removed on 2026-09-24.
 ```
 RULE — The DM prompts owners to call, heavily at first.
 PROTECTS:   the table learning a mechanic it has never used.
-SCOPE:      the three owners above, plus {{pc:5}} if he buys a person.
+SCOPE:      the three owners above.
 TRIGGER:    session openings and between-session messages, Eps 7–9.
 RELEASE:    per player, after one unprompted call. For everyone, at the end
             of Ep 9. After that, cards on the table only.

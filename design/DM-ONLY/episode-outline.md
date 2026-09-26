@@ -702,8 +702,8 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > find herself**, which is the shape a realization wants. The photograph table
 > gives her the reading; the headache gives her the recognition.
 >
-> **8 · {{pc:5}}'s advancement is still outstanding. Author on neutral
-> assumptions** — nothing may depend on which option he takes.
+> **8 · RESOLVED 2026-09-26: {{pc:5}} took +1 DEX.** Ep 7 was authored on neutral
+> assumptions while it was outstanding; nothing in it depended on the pick.
 
 - **LOAD:** **MEDIUM.** *(Superseded 2026-09-24: Reggie is background with no lines, so T1 does not fire; A8 and T2 ride on Yui. See the re-point block above.)*
 - **PRIMARY SHAPE: vigil / communal celebration**, with a 90-second medical emergency that is viscerally real and cosmologically weightless.
