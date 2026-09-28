@@ -221,7 +221,7 @@ noticing does not eventually work; it just makes the world feel arbitrary.
 Some questions are too big to settle in one pass and too important to lose. They
 are not blockers; they are things that must not go quiet.
 
-- **{{pc:4}}'s realization gate** — `dakota-phase-gates.md`. Open, high priority.
+- ~~**{{pc:4}}'s realization gate** — `dakota-phase-gates.md`. Open, high priority.~~ **CLOSED 2026-09-27 (facts-ledger §50):** re-domained to speech / reach; his realization happens in Ep 8.
   Provisional answer is *the effect lands when he is trying to be ignored*; the
   permanent-tax fallback is acceptable but unsatisfying and **must not be arrived
   at by drift**. Blocked behind a prerequisite: giving his un-performed register

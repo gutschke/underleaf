@@ -18,7 +18,7 @@
 - **Morgan-Dakota argument** continued through the drive; Dakota delivered a masterclass in *politician-speech* (talked freely about "this is so much bigger" while conveying no new information; genuinely didn't understand why that frustrated the party). {{pc:4}}'s player's play here was excellent.
 - **Mars played Dakota's Bodie voicemail on the car speakers** as U5 fire; it didn't help the mood.
 - **Mira's outline-vision** read the wheelchair-ramp negative-space at Vivian's front walk (Scene 3 Beat 0 as designed). She kept it to herself.
-- **Elena at the door** — Mars's first cast attempt fumbled: Priya interrupted at exactly the wrong moment (in-fiction: bad roll, substrate cost = didn't hold). Mars regrouped, leaned casual on the railing, named the honest thing about needing to see for himself, and Elena admitted all five. Priya's low-hum body-signal + Mars's neck-flare fired privately as designed.
+- **Elena at the door** — Mars's first cast attempt fumbled: Priya interrupted at exactly the wrong moment (in-fiction: bad roll, substrate cost = didn't hold). Mars regrouped, leaned casual on the railing, named the honest thing about needing to see for himself, and Elena admitted all five. Priya's low-hum body-signal + Mars's neck-flare fired privately as designed. **RETCONNED 2026-09-27 (facts-ledger §50): the second attempt was a successful CHA roll, not a cast — persuasion is never magic. Priya's hum came from Vivian's mantel clock (§33); the neck flare keeps its mundane reason. Mars's first cast is Ep 2's tailing car.**
 - **Vivian assay** landed: light personal questions (how you met — "on a plane" — where you work). Mars/Mira/Dakota rolled high and recognized it as evaluation; Priya/Morgan read it as friendly banter.
 - **Vivian's father's tagline** *"listen to how the world keeps its books"* deployed.
 - **Bodie-summer reminiscing** delivered the crows-misdirection-seed (T14 fired as texture) + Little Jimmy (new §32; ambient texture — see facts-ledger). Vivian's own spiritual disposition explained ("her father believed in observing, not believing").
@@ -58,7 +58,7 @@
 - **S1 (flattening beat) starts Ep 5** — remember to plant one subtly-too-agreeable NPC beat per session going forward.
 - **S3 (Dakota-culprit-frame monitor)** — party's read has correctly softened; do not artificially reinforce or dissolve; watch for organic drift.
 - **Priya's Phase-2 realization arc** — {{pc:2}}'s player has suspicions about the migraine mechanism per her player state; her realization is on-track for Ep 5-6 per A3 canon. Silent player firewall holds: do not confirm or deny at the table.
-- **Mars's first cast is now logged** (A7 fired); his Phase-2 arc opens.
+- ~~**Mars's first cast is now logged** (A7 fired); his Phase-2 arc opens.~~ **Retconned 2026-09-27 (facts-ledger §50):** Elena's door was a CHA roll; Mars's first cast is Ep 2's tailing car; his realization is ruled at the Ep 7 piñata.
 
 ---
 
@@ -358,6 +358,9 @@ Then Vivian asks each PC one small personal question and listens. Attentive play
 
 ### Beat 1 — Elena at the door + Mars's first cast *(15 min)* [STRUCTURE]
 
+> [!WARNING]
+> **RETCONNED 2026-09-27 (facts-ledger §50). If you run this episode cold, run the door as a CHA / Influence roll, not a cast.** Persuasion is never magic. Mars's domain is now *posture / protection* (he steps between someone and something coming at them), which a door conversation is not. Keep Priya's low-hum line — it comes from Vivian's mantel clock (§33) in the same house. The stance-and-intent ladder below is the old design, kept for the record.
+
 **Elena** opens the door — late 30s / early 40s, professional, protective. Two-year-plus caregiver for Vivian; previously worked hospice. Met Dakota Thursday, liked him.
 
 **Elena's setup:** Vivian had a syncope episode about an hour ago. Elena wanted to call an ambulance; Vivian refused. Elena is holding it (adrenaline down, decision-fatigue up). She's the one who was going to call and reschedule; the party arrived unannounced before she got the chance.
@@ -432,7 +435,7 @@ Do NOT offer this to {{pc:5}}'s player.
 
 **All four beats within 30 seconds.** The DM reads them as a checklist right at the cast moment. Not later, not as an afterthought.
 
-**Log after session:** Mars's first accidental cast, Cheap tier, in-domain (posture/presence). Substrate signature = Elena's mid-sentence tonal shift. Priya's body-recognition co-fired (silent). Mars's neck-flare cost signature fired. On log for Phase-2 realization retrospection Ep 5-8.
+**Log after session** *(retconned 2026-09-27: this was a CHA roll, facts-ledger §50)*: Mars's first accidental cast, Cheap tier, in-domain (posture/presence). Substrate signature = Elena's mid-sentence tonal shift. Priya's body-recognition co-fired (silent). Mars's neck-flare cost signature fired. On log for Phase-2 realization retrospection Ep 5-8.
 
 #### Fallback if Mars's cast doesn't fire (real cost)
 

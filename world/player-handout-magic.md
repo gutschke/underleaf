@@ -112,8 +112,11 @@ A focus is an object that steadies a particular kind of intent — **it lowers t
 tier of a cast within the kind of thing it is good for, by one.** It does nothing
 outside that.
 
-**You each already have one. You have had it the whole time.** What yours is good
-for is something you will work out by using it.
+**You each already have one. You have had it the whole time.** Your sheet names
+what it is good for. How far it goes, you find out by using it.
+
+**Talking someone round is never this.** That is just you — roll for it. This is
+what happens *around* the talking: the thing charm can't explain.
 
 Foci can break, fade, or change when spent on the hardest casts.
 

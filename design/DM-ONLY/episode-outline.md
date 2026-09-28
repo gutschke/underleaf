@@ -81,7 +81,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **What did NOT land (promoted to Ep 5):** photograph (T13, Ending A didn't fire); Bea callback; Elena's dying-line; Mira's outline read of the notebook (Dakota kept it); Ortiz callback; two researcher name-drops (nobody asked; U9/§22/§26 budget untouched — McCulloch NOT deployed).
 - **New unplanned facts (see facts-ledger §32–§35):** Little Jimmy at Bodie (Vivian's memory); wind-up mantel clock (untouched since husband's death); Vivian's Indian-visitor memory (upon learning Priya's heritage); Vega's Berkeley text to Morgan.
 - **Party state at end:** Not actively angry at Dakota but markedly warier of his circumspect manner. They agree they share a common interest with him. They don't yet know whether the loud version or the quiet-with-Vivian version is the persona. Soften-not-dissolve landed correctly per S3 discipline.
-- **DM-guidance from Ep 4 tail:** S1 flattening beat begins Ep 5; S3 Dakota-culprit-frame is softening organically — do not force redirect; Priya's Phase-2 arc is on-track per A3; Mars's first-cast A7 fired.
+- **DM-guidance from Ep 4 tail:** S1 flattening beat begins Ep 5; S3 Dakota-culprit-frame is softening organically — do not force redirect; Priya's Phase-2 arc is on-track per A3; Mars's first-cast A7 fired *(retconned 2026-09-27, facts-ledger §50: that door was a CHA roll; his first cast is Ep 2's tailing car)*.
 - **Load-bearing detail:** [`../../episodes/004-the-sacramento-visit/dm/run-guide.md`](../../episodes/004-the-sacramento-visit/dm/run-guide.md) §Played record — full played diff + [`../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md`](../../episodes/004-the-sacramento-visit/dm/continuity-through-ep-4.md); player-facing recap lives in the private session-notes tree
 
 ---
@@ -99,7 +99,7 @@ This file exists because Underleaf has an ambitious ~25-session arc that must la
 - **Fires:** U2 (Ortiz in person) · S3 institutional breadcrumb · **S1 flattening #1** · U7 partial (notebook, capped at geometry) · **§35 paid — Alaia in person** · B2 partial · U3 closed (QR channel) · **A1 planted** · T4/U6.
 - **NPCs:** Ortiz (in person; since Ep 5 she is {{pc:4}}'s bought relationship, so she takes his calls and appears when he calls, not on the DM's schedule); Alaia Vega (first non-elder network contact); Bea (absent in body, present in effect); Elena (text).
 - **Deliberate deferrals, logged:** Priya's Phase-2 → Ep 6 (better room); Mars's A7 private beat → Ep 7; T13 photograph → Ep 10, in person.
-- **A6 — Dakota's MOMENT OF RELEASE is nominated here.** *(Mislabelled as his 'realization' until 2026-08-29; those are different gates and his realization gate is undefined — see `dakota-phase-gates.md`.)* It was scheduled nowhere in Eps 5-25 (fire-by Ep 5-7), which is the S2 failure arriving from the opposite direction: the outline was so careful to stop Dakota eating other PCs' arcs that it stopped giving him one. His sheet requires him to **drop the persona in a scene where the persona would have gotten him what he wanted** — and Scene 1's *"tell me what you know"*, in front of a cop, with Morgan needing her cooperation, is exactly that room. Do not force it; if {{pc:4}}'s player reaches for politician-speech and then stops himself, that is A6 and you log it.
+- **A6 — Dakota's MOMENT OF RELEASE is nominated here.** *(Mislabelled as his 'realization' until 2026-08-29; those are different gates. **His realization gate closed 2026-09-27: it happens in Ep 8** — facts-ledger §50.)* It was scheduled nowhere in Eps 5-25 (fire-by Ep 5-7), which is the S2 failure arriving from the opposite direction: the outline was so careful to stop Dakota eating other PCs' arcs that it stopped giving him one. His sheet requires him to **drop the persona in a scene where the persona would have gotten him what he wanted** — and Scene 1's *"tell me what you know"*, in front of a cop, with Morgan needing her cooperation, is exactly that room. Do not force it; if {{pc:4}}'s player reaches for politician-speech and then stops himself, that is A6 and you log it.
 - **Risk if slips:** the pre-designated cut is in the run-guide. A1 is the one thing that cannot slip again — if the party skips Bea's, the card is mailed.
 
 ### Ep 6 — Eight Twenty Sharp  *(PLAYED 2026-09-05 — see `../../sessions/2026-09-05/notes.md` and facts-ledger §46)*
@@ -775,11 +775,21 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > - **Do not give away the whole mystery.** The campaign keeps its big questions; the
 >   players get the rules of their own hands.
 > - **The arc consultant fine-tunes the details** in the Ep 8 authoring cycle, including
->   how {{pc:4}}'s realization gate works now that the group is told together.
+>   how {{pc:4}}'s realization gate works now that the group is told together. *(**Resolved 2026-09-27, facts-ledger §50:** Mars and Dakota re-domained; Dakota's realization happens in Ep 8 by being told plainly plus his first deliberate reach.)*
 >
 > *Supersedes, where they conflict: Nia's "refuses the mentor frame" below and in
 > `nia-chen.json`; the consultant note above about {{pc:4}}'s gate never being
 > group-ratified.*
+>
+> **LATER THE SAME DAY — Ep 8 is an EXPLICIT reveal, and Mars/Dakota are re-domained
+> (facts-ledger §50; read it before authoring).** *"At the beginning of season 2,
+> players should be comfortable making at-will casts… being too subtle isn't
+> helping here."* **Persuasion is never magic.** {{pc:5}} = posture / protection
+> (steps between; something coming at someone goes elsewhere). {{pc:4}} = speech /
+> reach (the person he reaches for turns out to be reachable). Each gets one clean
+> cast IN Ep 8, named as it happens; {{pc:4}}'s is a laddered reach for Bea at the
+> close. Nia never says "need". The DM's decision record is in the private Ep 8
+> planning folder.
 
 #### 1. Nia names it — A1 FIRES
 
@@ -796,8 +806,8 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   pushing fails, and that beat asks them to aim on purpose. Plan on its ladder's
 >   rungs 2–3 (the secret cards), not rung 1. Spend the handout's minutes on the
 >   *supported cast* line, which is new to them, not on the tier cost they already feel.
-> - **"All five told, plainly" may collide with {{pc:4}}'s realization gate**, which must
->   never be group-ratified (`dakota-phase-gates.md`). DM decision.
+> - ~~**"All five told, plainly" may collide with {{pc:4}}'s realization gate**, which must
+>   never be group-ratified (`dakota-phase-gates.md`). DM decision.~~ **Ruled 2026-09-27 (§50): he is told with everyone; his realization happens in Ep 8.**
 > - **Nia risks being the third adult in a row unmoved by {{pc:4}}** (Ortiz's lightness,
 >   the married mother, then Nia) — for a teenager that can read as a pile-on. Keep her
 >   ladder to rung 1, no heat, and let the plain version visibly get something real;
@@ -818,7 +828,7 @@ Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos.
 > [!CAUTION]
 > **NOT `rules.md`.** That file names Mars's and Dakota's domains outright, names Priya's signature phrase and her sensitivity, prints hook **A2** (which was pre-cut to Ep 9), describes the DM's realization technique, and **names The Quiet** — which locked invariant 1 forbids before Act III. **Handing out `rules.md` breaks four things at once.** The handout is the firewall-checked extract; it exists for exactly this beat.
 >
-> **Domains stay hidden.** They get the *system* — intent under pressure, cost tiers, aiming and its price, stress, being-noticed, and that each of them already has a focus **without being told what it is good for**. Domains surface in S2 through use, not revelation.
+> ~~**Domains stay hidden.** They get the *system* … Domains surface in S2 through use, not revelation.~~ **SUPERSEDED 2026-09-27 (facts-ledger §50): Ep 8 is an explicit reveal.** The sheets have printed every domain since Ep 3. **Each PC is told plainly what they can do** — the kind of problem it solves, the trigger, the cost, the limits — so Season 2 opens with players comfortable casting at will. **Persuasion is never magic.** Mars and Dakota each get one clean, deliberate cast in this episode, named as it happens.
 >
 > **Do not read it aloud at the table.** Cover the tier table and the supported-cast line verbally — about five minutes — and send the sheet home with them. The contract requires them to *hold* it, not to parse it live.
 
@@ -828,7 +838,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 **The articulation beat rides on it.** **Nia is unmoved by the performance** — no heat, no exasperation, just turning back to the work — **and gives him something real when he says the plain version.** Close enough together that the difference is visible. Ortiz did a version of this in Ep 5; **Nia is a *peer*, not an elder, so it is a new register test.**
 
-> **This touches his MOMENT-OF-RELEASE condition. It does NOT touch his Phase-2 realization gate, which remains undefined — see `dakota-phase-gates.md`. Keep them separate.**
+> **This touches his MOMENT-OF-RELEASE condition.** *(His realization is no longer an open gate: it happens in Ep 8, facts-ledger §50. Keep the two separate.)*
 >
 > *Ladder:* **(1)** Nia simply doesn't react to the pitch and answers the plain sentence. **(2)** She says *"you can talk to me like a person, it's fine."* — once, without heat. **(3)** She answers a plain question from another PC warmly in his hearing, immediately after not answering his.
 
@@ -902,7 +912,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 **Four things MUST land. If the session is dying, cut in this order — but these four do not get cut:**
 
 1. **All five have been told, in plain words, that they can do this.** Not implied. Not noticed. **Said.**
-2. **The players physically hold the magic section of `rules.md`.** Domains still hidden.
+2. **The players physically hold [`player-handout-magic.md`](../../world/player-handout-magic.md)** — NOT `rules.md`. *(Corrected 2026-09-27; "domains still hidden" superseded by the explicit-reveal ruling, §50.)*
 3. **They tried something together and the world declined** — and it was nobody's fault.
 4. **The two-arm contrast happened** (§3 then §4), **with no interpretation offered.**
 
@@ -956,7 +966,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **Pair {{pc:3}} with {{pc:4}}** for one of them. Her sheet: *"if she ever contradicts him openly, that's an act break for {{pc:4}}'s arc"* — she already did, publicly, in Ep 4, and nothing has come of it. The scene already exists; only the pairing changes, and it closes the second half of {{pc:4}}'s drought. Mira names Kai out loud for the first time; Morgan quietly names *the wrong thing about the world*.
 > [!WARNING]
 > **B3, the faction-choice conversation, is NOT in this session — it moved to Ep 14.** It was briefly rehoused here, which was too early: Ep 9 is Act I close, `big-arc.md` invariant 9 puts the faction choice in Act II, and the Hidden faction is not *named* until Alaia's reveal. **B2 and B3 now run back-to-back in Ep 14**, so the party chooses between two stances that were named in front of them minutes earlier rather than choosing cold.
-- **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
+- **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. ***(2026-09-27, §50:** it happens **regardless** of how {{pc:4}}'s end-of-Ep-8 reach for her rolled; she never says "you called?". She is staying with her daughter in Sacramento — DM-only.)* **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
 - **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
 - **S1 #4:** at the cabin, a rental-app check-in message thanks them for a stay that hasn't happened yet, and the host's follow-up agrees it was lovely. Nobody corrects it.
@@ -979,7 +989,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 ### Ep 10 — The Palo Alto Executor
 
 - **LOAD:** MEDIUM-HEAVY
-- **PRIMARY SHAPE: heist-of-paperwork**, with a closing-time clock. **Converted from a ledger hunt.** The ledger becomes the byproduct of a social-engineering job, not the object of a search. Time pressure without an antagonist; plays to Dakota (Influence) and Mars (presence) without a fight.
+- **PRIMARY SHAPE: heist-of-paperwork**, with a closing-time clock. **Converted from a ledger hunt.** The ledger becomes the byproduct of a social-engineering job, not the object of a search. Time pressure without an antagonist; plays to Dakota (Influence — a CHA roll) and Mars (presence — a CHA roll) without a fight. *(2026-09-27, §50: persuasion is never magic. Their domains are now speech / reach and posture / protection; S2 is due a rework anyway.)*
 - **Arc-node:** **VIVIAN IN PERSON — HARD FLOOR.** The 1946-47 photograph (T13) delivered **in her voice**, not by envelope. Second safe name spent. See the clock warning below.
 - **Setting/register:** a Cold-War-era garage-lab or an estate's conference room; then Vivian's.
 - **S1 #5:** an estate lawyer's assistant over-agrees with a specific-and-wrong routing and sends them to the wrong floor — *"that's what I'd have done too."*

@@ -55,9 +55,14 @@ everyone who has the link.** This was caught on 2026-09-06 when a private state
 file got written inside the repo by mistake and was one `git add -A` from being
 published.
 
-`check-player-firewall.sh <file.pdf>…` — player-facing PDFs must not carry DM
-vocabulary (cast, caster, magic, substrate, The Quiet, realization, dmNotes…).
-No PC has `knowsTheyCanCast` set; the sheets say *focus* and *anchor*.
+`check-player-firewall.sh [--pre-reveal] <file.pdf>…` — player-facing PDFs must
+not carry DM vocabulary. **Always banned:** substrate, The Quiet, Phase 1/2,
+realization, dmNotes, DM-only. **Banned only with `--pre-reveal`:** cast, caster,
+magic, spell. Before Ep 8 the sheets said *focus* and *anchor* and never *cast*;
+from Ep 8 on the DM reveals the players' abilities plainly (facts-ledger §50) and
+the magic handout itself says "aimed cast", so those words became player
+vocabulary. *(Tested 2026-09-27: it refuses the DM master sheets and passes the
+player sheets.)*
 
 `check-episode-consistency.py <episode-dir>` — duplicate headings, dangling scene
 cross-references, placeholders, conflicting numeric claims, deck-size

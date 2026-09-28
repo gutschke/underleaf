@@ -72,6 +72,7 @@ Structure of each fact section:
 - [§47 Rulings of 2026-09-24](#47-rulings-of-2026-09-24) — **Yui held {{pc:4}}'s bag** (connector in it; he kept the anti-static bag); **the party and Reggie can reach each other** (numbers swapped at the In-N-Out)
 - [§48 Ep 7 prep canon](#48-ep-7--canon-set-in-prep-before-play-2026-09-24) — Coyote Point; Yui and Mei-Mei; the cropped photo; **Nia names Sat 27 March, noon**; the cake; Mira's headache is a body cost
 - [§49 Ep 7 played](#49-ep-7-played--the-fourth-birthday-2026-09-26) — all five arc-nodes fired; **the table has intuited the aiming rule (read before the finale)**; Mezzanine; the phone videos; Reggie's degree; three held-open coincidences
+- [§50 Mars and Dakota re-domained — RULED 2026-09-27](#50-mars-and-dakota-re-domained--ruled-2026-09-27) — **persuasion is never magic**; Mars = posture / protection, Dakota = speech / reach; Elena's door was a CHA roll; Ep 2's tailing car was Mars's first cast; unreachable people are uniform; **Bea is in Sacramento with her daughter (DM-only)**; Ep 8 is an explicit reveal
 - [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
 - [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
@@ -1164,8 +1165,8 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 **All four sub-signals fired cleanly per plan:**
 - **(a) drive migraine** near Vacaville — planned migraine-tier signal fired as designed.
 - **(b) threshold release** at Vivian's driveway — Priya noticed the release. **{{pc:2}}'s player has active suspicions about the mechanism** — the substrate correlation the DM planted is landing in her player's mind, correctly, in ambiguous form.
-- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to {{pc:2}}'s player as designed.
-- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to {{pc:5}}'s player per protocol.
+- **(c) sub-threshold "low hum"** at Mars's door-cast — delivered privately to {{pc:2}}'s player as designed. *(**Retconned 2026-09-27, §50:** Elena's door was a CHA roll, not a cast. The hum came from **Vivian's mantel clock** (§33), a small anchor site in the same room.)*
+- **(d) Mars's neck-flare** also fired at his first cast (his cost signature). Delivered privately to {{pc:5}}'s player per protocol. *(**Retconned 2026-09-27, §50:** no cast at the door; the flare was delivered with a mundane reason — "you slept badly" — and stays that.)*
 
 {{pc:2}}'s player's dawning theory should **NOT be confirmed or denied** at the table — silent-player-firewall discipline holds (per §30 canon above). Her realization is on track for Ep 5–6 Phase-2 landing; Ep 5 (Refined-B: SFPD/Bea/notebook) does NOT engineer a Phase-2 landing since no substrate-adjacent moment fits naturally; Ep 6 or later provides the vehicle.
 
@@ -2224,6 +2225,8 @@ has produced.**
 social good he did not perform for — which is precisely the condition the
 realization gate is written around, and nobody at the table named it.
 
+*(**Closed 2026-09-27, §50:** his realization happens in Ep 8 — told plainly, plus his first deliberate reach. What Ep 6 shows stays true of his **moment-of-release** condition.)*
+
 ### The Alaia trade never fired — and the reason is a design fault, not a table fault
 
 **The party was so frightened of mentioning Alaia that they worked hard never to
@@ -2574,6 +2577,8 @@ through.**
 
 ### Player-side development debt, as the DM sees it (2026-09-06)
 
+*(**Retconned 2026-09-27, §50:** "the Ep 4 door-cast" below was a CHA roll; his domain is now posture / protection and his first cast is Ep 2's tailing car.)*
+
 **{{pc:5}} — solved, and by the player.** See A7 and `mars-faraone.json`
 §playerStateSept2026. He knows his domain, cannot separate it from ordinary
 charm, has independently derived the trying-too-hard tax, and half-remembers the
@@ -2750,3 +2755,103 @@ spend time proving it to them.**
 Each has an ordinary reading that is sufficient. **Never line them up for the
 players, and never repeat any of them as a pattern.**
 
+## 50. Mars and Dakota re-domained — RULED 2026-09-27
+
+**Why.** Mars (posture / presence) and Dakota (speech / presence) had magic that was
+indistinguishable from each other **and from a good CHA roll** — both have CHA +2 and
+Influence. Neither player could tell a cast from charm, so nobody could say whether
+either had realized. The other three PCs each produce something no skill roll
+could. **The DM ruled a re-domain before Nia's Ep 8 talk**, after an expert round
+(two experts cold to the design discussions, reading only the played record, plus
+a canon auditor). **Where this section differs from anything earlier in this file,
+this wins.**
+
+### The principle
+
+**Persuading a person is always a CHA / Influence roll, never magic. Magic is what
+charm cannot explain.** Each PC owns a *kind of problem*:
+
+| Problem | Whose |
+|---|---|
+| a body in trouble (choking, cold, injury, illness) | {{pc:2}} |
+| something erased; a record or memory that's wrong | {{pc:3}} |
+| a lock, machine, signal or system | {{pc:1}} |
+| **something coming at someone** | **{{pc:5}}** |
+| **a specific person you can't get hold of** | **{{pc:4}}** |
+
+### {{pc:5}} — posture / protection
+
+- *Whatever's coming at the people behind him goes somewhere else.* A dog swerves,
+  a drunk loses the thread, a scooter clips a crate, a tailing car loses interest.
+- **Trigger: he physically steps between.** **The focus works holstered; drawing
+  the pistol counts as aiming** (one tier worse).
+- Works on a person, animal or object with a direction; **not** on institutions.
+- Cost: bad sleep and the neck flare, unchanged.
+
+### {{pc:4}} — speech / reach
+
+- *When he reaches for someone, they turn out to be reachable* — they pick up,
+  they're there, they open the door.
+- **His reach being answered, never things arriving unasked.** Not the Ep 1
+  connector, not Ortiz's held-open "about to call" (§49), not envelopes.
+- **It ends at the door opening;** getting them to talk is a roll.
+- Trigger: alone, the person's full name aloud, tapping the pipe. Cost: his voice
+  goes hoarse for the next scene.
+- **Pricing — two outcomes.** *Reachable* (kept away only by circumstance): busy
+  Cheap · avoiding him today Costly · celebrity Hard, can part-succeed · a miss may
+  land on the nearest willing person. *Unreachable* (dead, gone, decided not to be
+  found, the world attests they never existed, story-sealed): **always quoted
+  "Hard. You can try."**, never Prohibited · **fixed 2 stress**, not reduced by
+  focus or support · **nothing on any roll** · **a failure carries no fiction**
+  (*"You say the name. Nothing comes back. It just… doesn't land."*). **Players can
+  learn someone is unreachable, never which kind.**
+- Boundaries: {{pc:1}} owns systems; {{pc:3}} owns records and the world-edited;
+  {{pc:4}} owns one named person answering. **Table norm:** don't reach for
+  someone's family unless they ask; the DM checks with the owner out of character.
+
+### Retcons to the played record
+
+- **Ep 2 — the tailing car that lost interest was {{pc:5}}'s first cast** (DM). It
+  was never recorded; nobody at the table will remember it unless reminded.
+- **Ep 4 — Elena letting all five in was a successful CHA roll, not a cast.** The
+  "low hum" privately given to {{pc:2}}'s player came from **Vivian's mantel clock**
+  (§33). The neck flare given to {{pc:5}}'s player keeps its mundane reason.
+- **Ep 7 — the piñata** stays texture. {{pc:5}}'s realization is ruled fired there;
+  Nia does not cite it as a cast.
+- **{{pc:4}} — no past cast is claimed.** His realization **happens in Ep 8**. The
+  "realization gate is undefined" question (open since 2026-08-29) is **closed**.
+- **Sheets.** The player sheets have printed every PC's domain since Ep 3. They are
+  reprinted each session and read casually; the DM rules that a retcon "within
+  reason" lands as welcome clarification.
+
+### Ep 8 is an explicit reveal (DM)
+
+*"At the beginning of season 2, players should be comfortable making at-will casts…
+being too subtle isn't helping here… Episode 8 needs to be the reveal of a lot of
+what they could have found out themselves, if only they knew which questions to
+ask."* The finale contract's "domains stay hidden until S2" is **superseded**. Each
+of the two men gets **one clean, deliberate cast IN Ep 8**, named as it happens:
+{{pc:4}}'s reach for Bea; {{pc:5}} stepping between {{pc:2}} and something coming
+at her during the failed meeting. **Nia never says "need"** — "the person you're
+after".
+
+### Bea — where she is (DM-only)
+
+**Bea is in Sacramento, staying with her daughter.** Never volunteered; only if a
+player presses, and even then Bea confirms nothing. At the end of Ep 8 {{pc:4}}'s
+first reach is laddered toward her (priced Hard, 2 stress). **Nothing happens that
+night, whatever the roll. Ep 9's Ocean Beach coda happens regardless** — on her
+terms, with the envelope she was bringing anyway, and **she never says "you
+called?"**. The table may believe he summoned her; the DM never confirms it.
+
+### Kai and {{pc:1}}'s father
+
+Both are unreachable and get the uniform result. **Kai's interest comes only
+through {{pc:3}}'s own thread** — nothing may corroborate him (§31, §42). {{pc:3}} has
+not told the party about Kai in character; the DM asks her player before any reach
+for him. **The father being alive is still never voiced before Act II** (§6).
+
+### Not changed
+
+The sealed wants (`wants-sealed.md`, private) quote sheet text written DM-side, not
+by the players — flagged to the DM 2026-09-27, **not yet ruled**.

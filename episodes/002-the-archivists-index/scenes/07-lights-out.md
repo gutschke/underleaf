@@ -27,6 +27,8 @@ One PC, under authentic high-pressure intent, gets a Cheap effect — and this t
 
 > *You want it gone — really want it, the way you wanted things on the plane — and the car drifts right, signals, takes the off-ramp. Just like that. Somebody in the back seat says "huh." Nobody says anything else for a block.*
 
+> **PLAYED, and it was Mars (DM ruling 2026-09-27, facts-ledger §50).** This is his **first cast**, in his domain as re-ruled: *posture / protection* — something coming at the people with him went somewhere else. It was never logged at the time; nobody at the table will remember it unless reminded, and Ep 8's Nia may remind them.
+
 Played as relief in the moment. Granted silently; **logged privately** (Phase-I accidental casting). Do not name it. If a player says "that was weird," agree and let it sit.
 
 **Handle the likely "wait — did *we* do that?"** A whole session of collectively-observed too-clean events makes this the natural table reaction. Use the *shrug* register, not the heavier "could be, could not be": *"Long day. Long week."* Do **not** let the group ratify a shared "we have powers" conclusion in-session — the realization is per-PC and earned, in sessions 3–5, not a group decision in session 2. Deflect warmly and move to the held image.

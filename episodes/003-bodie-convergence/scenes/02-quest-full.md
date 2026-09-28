@@ -105,7 +105,7 @@ Where this episode sits in the campaign shape:
 1. **{{pc:2}}** — highest thematic fit (body/care domain, wants to keep the group warm and alive; her instinct will be to solve the cold). If she describes wanting to warm the room, warm one of the PCs, or "just get us through this," grant a Free-tier cast: the stove is suddenly lit (dry wood inside, matches on the mantel — none of which were there when they came in), OR the wind outside quiets for the next hour, OR someone's shivering just stops.
 2. **{{pc:3}}** — her domain is memory/identity. Less direct fit for cold, but a good candidate for "she remembers where the wood used to be kept" — reality accommodates by making that memory *true.*
 3. **{{pc:1}}** — his domain is systems/information. A stretch for cold but if he tries to fix the electrical or start the (long-decommissioned) stove somehow, allow it.
-4. **{{pc:5}}** — his domain is posture/presence. Least fit; he'd need to be doing something more social than practical for a cast to land in his lane.
+4. **{{pc:5}}** — his domain is posture/presence *(re-domained 2026-09-27 to **posture / protection**, facts-ledger §50)*. Least fit; he'd need to be doing something more social than practical for a cast to land in his lane.
 
 **Whoever casts:** it's Free-tier, no roll, no stress. But **the other three watch it happen.** The stove flames up on its own. A pile of dry wood is on the floor near it that they *did not see there* thirty seconds ago. Or the wind outside stops mid-howl. Something concrete. Something that would be uncanny even to a person who wasn't there for Ep 1.
 

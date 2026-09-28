@@ -1,3 +1,6 @@
+> [!WARNING]
+> **RETCON 2026-09-27 — read the master facts-ledger §50 before trusting anything here about Mars's or Dakota's magic.** Mars is now *posture / protection*, Dakota *speech / reach*; persuasion is never magic; **Ep 4's door at Vivian's was a CHA roll, not a cast**; Mars's first cast was Ep 2's tailing car; Dakota's realization happens in Ep 8. This snapshot is otherwise left as the historical record.
+
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >

@@ -77,7 +77,7 @@ The PCs will land on *"someone is covering something up, maybe with AI/tech."* T
 1. **{{pc:2}}** — body/care domain; keep-us-warm instinct
 2. **{{pc:3}}** — memory/identity; "she remembers where wood was kept"
 3. **{{pc:1}}** — systems/information; long shot for cold
-4. **{{pc:5}}** — posture/presence; needs a social frame
+4. **{{pc:5}}** — posture/presence; needs a social frame *(re-domained 2026-09-27 to **posture / protection** — something coming at someone; facts-ledger §50)*
 
 **Grant it Free-tier** — no roll, no stress. Something concrete happens.
 

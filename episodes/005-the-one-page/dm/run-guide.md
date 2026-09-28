@@ -1157,7 +1157,7 @@ Somebody usually dials it from the porch inside ninety seconds. **If nobody does
 | **{{pc:2}}** | **Support, with two real actions** | The woman with the folder *asks her for something*; **the counter conversation with Alaia** (written out in Scene 3 staging); Elena's message. **See the note on her Ep 6 realization, below.** |
 
 > [!WARNING]
-> **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first accidental cast is on the record. The standing rule is a **per-PC private scene the session after** the party rationalises a cast away. Ep 5 **is** the next session.
+> **{{pc:5}}'s Phase-2 arc opened in Ep 4** — his first accidental cast is on the record. *(Retconned 2026-09-27, facts-ledger §50: the Ep 4 door was a CHA roll; his first cast is Ep 2's tailing car.)* The standing rule is a **per-PC private scene the session after** the party rationalises a cast away. Ep 5 **is** the next session.
 >
 > This guide does not build him one, because nothing in tonight's session touches the substrate and manufacturing one would be worse. {{pc:5}}'s private beat must land in **Ep 7** (Yui's party, where {{pc:2}}'s moment-of-release also lands) or **Ep 8** at the outside. Record it in the hook-ledger against A7.
 >

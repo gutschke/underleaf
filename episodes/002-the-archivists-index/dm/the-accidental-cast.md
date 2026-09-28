@@ -8,7 +8,7 @@ This is Phase I of the magic-discovery arc (see [`../../../world/rules.md`](../.
 ## Two places it fires this session
 
 1. **Salted luck (Scene 1).** Two small too-lucky beats across different PCs — parking spot, cancelled dread-appointment, waived fee, the last item on the shelf. Throwaway texture. Never portents.
-2. **The closing cast (Scene 7).** One PC, under *authentic high-pressure intent*, gets a Cheap effect the group half-sees: the following car loses interest, too cleanly. **Default to the aggrieved/operator PC** (wants out — it's his relief beat and his moment; the hacker already got the footage-forensics spotlight). The hacker is the fallback only if the operator isn't present/engaged.
+2. **The closing cast (Scene 7).** One PC, under *authentic high-pressure intent*, gets a Cheap effect the group half-sees: the following car loses interest, too cleanly. **Default to the aggrieved/operator PC** (wants out — it's his relief beat and his moment; the hacker already got the footage-forensics spotlight). The hacker is the fallback only if the operator isn't present/engaged. **Played: it was Mars (DM ruling 2026-09-27, facts-ledger §50) — his first cast, in posture / protection.**
 
 ## How to grant it (the discipline)
 
