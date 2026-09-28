@@ -2631,6 +2631,10 @@ played better that way.")*
 > {{pc:1}}'s carry-on, which was wrong. **Corrected everywhere on 2026-09-24,
 > including the Ep 1 module (slots 1 and 4 swapped in `the-gate.md`) and the Ep 2
 > phone-log gap, which belongs to the bag's owner.** Hold it from here.
+>
+> **Straggler fixed 2026-09-27 (DM re-affirmed):** {{pc:1}}'s Ep 1 mark note still
+> said the connector "materialised in HIS carry-on". Rewritten to his played Ep 1
+> moment (the ACARS feed, scene 03). Found by two cold experts reading the record.
 
 ### {{pc:4}}'s car
 
