@@ -51,7 +51,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 1,
+  "marks": 2,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -73,7 +73,7 @@
     "developmentDebt2026_09_06": "**HE IS GENUINELY UNDER-DEVELOPED — verdict 2026-09-06, and it is not a register illusion.** Run his six marks as verbs: *carried* · *walked up to a counter* · *set up a radio* · *sat with a paperwork echo* · *hammered on a door while {{pc:3}} worked the lock* · *got lost, then read planners*. **Five of six are perception.** Compare {{pc:3}} in the same session: she photographed every page and noticed the erasures — perception **plus an act**. He got the perception half only, twice running.\n\n**ROOT CAUSE: everything about him routes to the same verb, *read*.** Tech + Insight; a records/signals focus; cast domain *systems / information*; a want shaped as a petition; a father thread delivered as a paperwork echo. **The one action-shaped capability on his sheet — red-team craft, small electronics, service doors, the Presidio tags — has been spent essentially zero times in six sessions.**\n\n> **REJECTED: that the mundane father thread is the cause.** {{pc:3}}'s thread is the MOST explicitly non-payoff one in the campaign — §42 closes Kai permanently and forbids any mention becoming a lead — **and she is not under-developed, because she acts on it.** {{pc:5}}'s arc was solved by his own player off a thread that is charm, not cosmology. **Cosmological connection is not what develops a PC at this table. Acting is.** Do not make the father cosmological; §6 holds precisely because it needs no cosmology.\n\n**HE ALREADY HAS AN UNSPENT ASSET HE PAID FOR: Trina Vo.** Bought after Ep 5 and **never once called.** Per her own notes she is *that refusal with a face on it, and she likes him.* **His want's antagonist is already in the party's contact list and has never been dialled.** Free move, zero session cost: have him call her between sessions, one line of narration in the group chat."
   },
   "markBullets": {
-    "hardMoment": false,
+    "hardMoment": true,
     "learned": false,
     "risk": false,
     "against": false,
@@ -124,6 +124,13 @@
       "bullet": "complication",
       "criterion": "Took on a complication or scar that will matter later.",
       "note": "Lost several minutes to genuine disorientation in a stranger's broom closet, then did the patient unglamorous work: read a shelf of another person's daily planners against every date the party holds, and reported honestly that nothing was there."
+    },
+    {
+      "episode": "007",
+      "date": "2026-09-26",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment.",
+      "note": "Sided with a four-year-old against a room of adults and fixed the cake with a food-safe marker."
     }
   ],
   "inventory": {

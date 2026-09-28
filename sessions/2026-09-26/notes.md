@@ -189,7 +189,7 @@ adventure playground to contribute, until Yui led them away.
 - **The Ortiz practice took one light prompt**; the chat post names the call.
 - **The kids' name for {{pc:5}} is "Mezzanine"**, and Mei-Mei heard it: it is her greeting in every cameo.
 
-## Marks — PROPOSED, DM to confirm
+## Marks — confirmed by the DM (2026-09-27)
 
 | PC | Mark | Why |
 |---|---|---|
@@ -199,8 +199,8 @@ adventure playground to contribute, until Yui led them away.
 | {{pc:4}} | Resolved a hard moment by acting in line with alignment | Called Ortiz, then apologised and handed Yui her rights, by his own code. |
 | {{pc:5}} | Took on a complication or scar that will matter later | He is on several strangers' phones shouting about Valentine's Day. |
 
-## To confirm
+## Settled after the session
 
-- **The marks above.**
+
 *(Settled 2026-09-27: **Nia's second message arrived**, and the wrong phone was hand-waved as shared numbers or a group chat · **"the pain stepped down" fired** · **Mei-Mei heard the chant: "Mezzanine" is her name for him** · **{{pc:5}} handled the piñata** · **the $4 fee**, if anyone ever asks, was a city-council decision at the end of 2026; nobody asked.)*
 

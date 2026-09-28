@@ -57,7 +57,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 1,
+  "marks": 2,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -80,7 +80,7 @@
     "carResolved": "**THE CAR — RESOLVED 2026-09-24 (DM).** The Prius is {{pc:4}}'s. One roommate disappears with it for unannounced stretches; {{pc:4}} has complained and gets nowhere. **Whether the roommate is inconsiderate or just socially oblivious is held open — play it so either reading fits, and never settle it.** Ep 3's *\"his roommates say he took his car and a duffel bag\"* was them describing his own car, correctly. Use it as friction, never as plot: the car is sometimes simply gone."
   },
   "markBullets": {
-    "hardMoment": false,
+    "hardMoment": true,
     "learned": false,
     "risk": true,
     "against": false,
@@ -131,6 +131,13 @@
       "bullet": "risk",
       "criterion": "Took a meaningful risk for someone else.",
       "note": "Put his own ledger on the table in front of a woman he had known for four hours, unprompted, having offered it first in a moving car — and played the whole day without the persona."
+    },
+    {
+      "episode": "007",
+      "date": "2026-09-26",
+      "bullet": "hardMoment",
+      "criterion": "Resolved a hard moment by acting in line with alignment.",
+      "note": "Called Ortiz, then apologised to Yui and handed her the right to her own file, by his own code."
     }
   ],
   "inventory": {

@@ -53,7 +53,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 1,
+  "marks": 2,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -71,9 +71,9 @@
     "playerStateSept2026": "**WHAT THE PLAYER HAS WORKED OUT, told to the DM directly (2026-09-06). This is the most useful thing anyone has handed us about {{pc:5}} and it changes how A7 should be run.**\n\n- **He knows his domain is charisma / presence.** That part is settled for him.\n- **He does not know how to make it fire**, because so much of it is ordinary charisma and he cannot tell the two apart.\n- **He believes that if he pushes too hard it will not work.**\n- **He vaguely recalls it working at least once**, in a way that went beyond normal charisma.\n\n> **HE IS RIGHT ABOUT THE RULE, AND HE DERIVED IT HIMSELF.** *Push too hard and it fails* is the **trying-too-hard tax** — an actual mechanic in `world/rules.md` that nobody has told him. **This is the second time a player has reverse-engineered a system rule from play** (the first was {{pc:4}}'s player arriving at `personaDropCanon` independently). **Do not confirm it and do not correct it. Let him keep being right.**\n\n> **THE ONE HE HALF-REMEMBERS IS REAL AND IT IS ON THE RECORD: the presence-domain door-cast at Vivian's, Ep 4.** A7 is already logged as FIRED there. **He is not misremembering; he is under-crediting himself.**\n\n> **SO A7's REALIZATION IS NOT *did I cast* — IT IS *find the one charisma cannot explain*.** That reframes the beat entirely and makes it cheap: **he needs a case where charm was ruled out** — a room where he was not performing, or a result no amount of presence could have produced. **The problem he described to the DM IS the beat.** Do not solve it for him; build the room and let him rule charisma out.\n\n> **THE ROOM IS EP 7 (ruled 2026-09-24):** at Mei's birthday he holds the piñata rope and says nothing, and the littlest ones keep coming back to lean on him. Four-year-olds are the audience charm cannot explain. Delivered by private slip; see the Ep 7 outline."
   },
   "markBullets": {
-    "hardMoment": true,
-    "learned": true,
-    "risk": true,
+    "hardMoment": false,
+    "learned": false,
+    "risk": false,
     "against": true,
     "complication": true
   },
@@ -122,6 +122,13 @@
       "bullet": "against",
       "criterion": "Acted against your own short-term interest because the story demanded it.",
       "note": "Kept pressing Rosa about the ledger long past the point where it was winning him anything, because somebody had to ask and the rest of the party had stopped."
+    },
+    {
+      "episode": "007",
+      "date": "2026-09-26",
+      "bullet": "complication",
+      "criterion": "Took on a complication or scar that will matter later.",
+      "note": "Several strangers now have video of him shouting about Valentine's Day at a children's party."
     }
   ],
   "inventory": {

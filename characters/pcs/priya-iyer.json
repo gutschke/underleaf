@@ -46,7 +46,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 1,
+  "marks": 2,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -66,7 +66,7 @@
   "markBullets": {
     "hardMoment": true,
     "learned": false,
-    "risk": false,
+    "risk": true,
     "against": false,
     "complication": false
   },
@@ -115,6 +115,13 @@
       "bullet": "hardMoment",
       "criterion": "Resolved a hard moment by acting in line with alignment.",
       "note": "Moved before she decided to, for a woman who turned out not to need it, and then sat with not knowing whether she had seen anything at all. She raised the seatbelt and was overruled, and let it go."
+    },
+    {
+      "episode": "007",
+      "date": "2026-09-26",
+      "bullet": "risk",
+      "criterion": "Took a meaningful risk for someone else.",
+      "note": "The grape: moved before anyone else had noticed, unprompted."
     }
   ],
   "inventory": {

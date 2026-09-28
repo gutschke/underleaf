@@ -54,7 +54,7 @@
   "harm": 0,
   "stress": 0,
   "advancements": 1,
-  "marks": 1,
+  "marks": 2,
   "knowsTheyCanCast": false,
   "tryingTooHardSessionsRemaining": 0,
   "dmNotes": {
@@ -75,7 +75,7 @@
     "hardMoment": false,
     "learned": true,
     "risk": false,
-    "against": false,
+    "against": true,
     "complication": false
   },
   "markLog": [
@@ -123,6 +123,13 @@
       "bullet": "learned",
       "criterion": "Learned something true about The Quiet, the world, or another character.",
       "note": "Photographed every page of a ledger nobody had ever let out of a kitchen, and noticed on her own that it contains no erasures where every other document she has handled does."
+    },
+    {
+      "episode": "007",
+      "date": "2026-09-26",
+      "bullet": "against",
+      "criterion": "Acted against your own short-term interest because the story demanded it.",
+      "note": "Let the cut photograph stay cut, and did not push a second reading."
     }
   ],
   "inventory": {
