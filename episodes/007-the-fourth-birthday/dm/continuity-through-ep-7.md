@@ -2681,8 +2681,7 @@ wins.***
   little; she did not push again. **She probably connected headache and trying and
   did not say so.** The scene with Yui happened; she let the cut photo stay cut.
 - **{{pc:5}}: realization at the piñata** (the slip was delivered). The kids
-  milled round him instead of hitting it. *(Who "didn't understand it, and enjoyed
-  it" is pending the DM — the account names {{pc:4}}.)* **Caveat for later:** he had
+  milled round him instead of hitting it. *({{pc:5}} handled it — confirmed.)* **Caveat for later:** he had
   just performed for those same kids (Mezzanine), so ordinary celebrity is a
   sufficient reading — which keeps it held open, and is fine.
 - **{{pc:1}}: the cake**, fixed with a food-safe Sharpie, because he noticed a
@@ -2727,12 +2726,18 @@ spend time proving it to them.**
 - **{{pc:4}}'s campaign website** exists; QR codes for it are planned "all over
   the place"; he still has not named the city.
 - **Nia's message reached {{pc:3}}'s phone** (Saturday 27 March, noon-ish, place to
-  follow). The table was surprised and explained it away.
+  follow) — hand-waved at the table as shared numbers or a group chat. **Her second
+  message arrived too**: the friend she meant to bring "hasn't really wanted to see
+  anybody lately". The finale's cancellation is planted.
+- **"Immolate" means person**, according to one child, after {{pc:4}}'s *"follow that
+  individual"* and {{pc:3}}'s patient explanation. The mispronunciation stuck.
+- **{{pc:2}}'s "the pain stepped down" fired** (DM, 2026-09-27).
 
 ### Held open — never explain
 
 - **Ortiz "had just been about to call" {{pc:4}}**, and didn't know why.
-- **The parking fee was exactly $4**, minutes after the four $1 bills.
+- **The parking fee was exactly $4**, minutes after the four $1 bills. *(If anyone ever
+  asks: a city-council decision at the end of 2026. Nobody asked; the real fee is $6.)*
 - **Why Reggie's life improved "shortly after" meeting them.**
 
 Each has an ordinary reading that is sufficient. **Never line them up for the

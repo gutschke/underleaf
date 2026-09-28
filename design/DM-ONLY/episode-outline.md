@@ -749,7 +749,40 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 - **PRIMARY SHAPE: negotiation**, ending on an event rather than a debrief.
 - **THE SEASON JOB: lift the natural-discovery restriction.** *(Per `ARC-REWRITE.md`.)* **Nia names it bluntly, to all five at once. The restriction has done all the work it can do.**
 
+> [!IMPORTANT]
+> ### DM RULING 2026-09-27 — the finale gives them "the talk". Read before authoring Ep 8.
+>
+> **The players deserve some clarity, and they are not getting it on their own.**
+> They are very curious about how the magic works and also believe that anything
+> not serving the DM's purpose will be shot down. {{pc:1}} and {{pc:4}} have gone as far
+> as they can alone: they have done what they needed to do and cannot connect the
+> dots — a typical tabletop problem, and further hints would feel repetitive to a
+> player who does not know what to look for. **So an NPC tells them, directly.**
+>
+> - **Nia sits down with all five and has "the talk".** She is more knowledgeable than
+>   planned and **willing to teach the next generation** — as a peer, not a guru. Her
+>   reason, in her own mouth: *"I'm not your teacher. But nobody told me any of this, and
+>   I'm not doing that to you."*
+> - **She knows one aspect of the bigger picture, and only one.** The craft — what it
+>   feels like, what it costs, that pushing makes it refuse, that aiming costs more,
+>   that casting together with people you know works — **not the cause of the flight,
+>   not the ledgers' purpose, not the Quiet, not what the fading means.** Load-bearing
+>   rule 5 holds: no single mentor holds the answer about the gate edit.
+> - **She tells each of them where they are.** Everybody, **including {{pc:4}}** (DM:
+>   *"everybody needs to know"*). {{pc:1}} and {{pc:4}} especially get told plainly what
+>   they have already been doing.
+> - **The deliberate-aiming contrast needs a heavier hand:** she walks them into it.
+> - **Do not give away the whole mystery.** The campaign keeps its big questions; the
+>   players get the rules of their own hands.
+> - **The arc consultant fine-tunes the details** in the Ep 8 authoring cycle, including
+>   how {{pc:4}}'s realization gate works now that the group is told together.
+>
+> *Supersedes, where they conflict: Nia's "refuses the mentor frame" below and in
+> `nia-chen.json`; the consultant note above about {{pc:4}}'s gate never being
+> group-ratified.*
+
 #### 1. Nia names it — A1 FIRES
+
 
 > **AFTER EP 7 (2026-09-27): the table already feels the aiming rule.** Per the DM, the
 > players have concluded that *if they push, the world won't — it happens when it
@@ -776,7 +809,7 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >   world's shape, not a record.
 
 
-Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos."* Plus the authorless-cause line. **She refuses the mentor frame explicitly.**
+Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos."* Plus the authorless-cause line. ~~**She refuses the mentor frame explicitly.**~~ *(Superseded 2026-09-27: she teaches the craft, as a peer — see the DM ruling at the top of this section.)*
 
 **Then she says the blunt thing: all five of them can do this.** No hedging, no *"you may have noticed."* This table rationalises everything it is given room to rationalise, and five sessions of that is enough.
 
@@ -833,7 +866,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 **Two people wanting the same thing failed. Three wanting different things worked. Ten minutes apart, same room.**
 
-**Nobody comments.** Nia notices and does not explain — she already refuses the mentor frame. If a player says *wait, did we just—*, **say nothing and move on.** This table ran a controlled magic experiment in Ep 3 unprompted; hand them a two-arm trial and no interpretation.
+**Nobody comments.** Nia notices and does not explain — she teaches the craft, **not why this group works**, which the finale contract keeps unsaid. If a player says *wait, did we just—*, **say nothing and move on.** This table ran a controlled magic experiment in Ep 3 unprompted; hand them a two-arm trial and no interpretation.
 
 > [!CAUTION]
 > **The ONE guard.** If someone at the table says *so we all want the same thing really* — that is the **only** moment an NPC speaks, and the line is six words:

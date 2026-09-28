@@ -49,8 +49,7 @@ his name happens to be Simon, and asking hers; she informed him she was married
 and left. The toddlers didn't understand the rules, one had a diaper situation, and
 the mother gave him a big thumbs-up from across the lawn at his lowest moment.
 **Then he worked out that they'll do anything after "Simon says"**, and used it to
-have the toddlers take {{pc:5}} down in a dog pile. It was a great success. He switched to
-silly instructions after that.
+have the toddlers take {{pc:5}} down in a dog pile. It was a great success. He switched to silly instructions after that — including *"follow that individual"*, which {{pc:3}} explained means "person", which is how at least one small child now knows that **"immolate" means person.** {{pc:3}} tried. It stuck.
 
 **{{pc:5}} is now "Mezzanine."** A kid ran off with his keychain; he yelled for his
 magazine; they misheard. He got it back with his shoulder, off his heel, and **into

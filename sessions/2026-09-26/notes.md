@@ -95,7 +95,7 @@ incident; the mother gave him a cheerful thumbs-up from across the lawn **at the
 exact moment he was most frustrated.** Then he noticed the toddlers do whatever
 follows the key phrase — **and used his new power to have them trip {{pc:5}}**,
 *because Simon said so.* They dog-piled him and had a blast. {{pc:4}} realised his
-mistake and went to toddler rules: every instruction starts "Simon says", every
+mistake and went to toddler rules. *(Along the way he had them "follow that individual"; {{pc:3}} explained that "individual" just means "person", and one child cheerfully spent the rest of the afternoon telling everyone that **"immolate" means person.** {{pc:3}} tried everything and gave up; the mispronunciation stuck.)* The rules: every instruction starts "Simon says", every
 instruction is silly. They loved it, until they got bored and ran off.
 
 **{{pc:5}} and "Mezzanine".** Showing off to some four- to six-year-olds, he took
@@ -185,10 +185,9 @@ adventure playground to contribute, until Yui led them away.
 - **{{pc:2}}'s moment of release landed** in the small talk with Yui.
 - **{{pc:3}}'s realization landed privately**: a mild headache after a reading she
   did not push, and a connection she probably drew and did not voice.
-- **{{pc:5}}'s realization landed at the piñata** (slip delivered; who reacted is still to confirm, below).
+- **{{pc:5}}'s realization landed at the piñata** (slip delivered; {{pc:5}} handled the piñata — confirmed).
 - **The Ortiz practice took one light prompt**; the chat post names the call.
-- **The kids' name for {{pc:5}} is "Mezzanine."** Proposed as the greeting for
-  Mei-Mei's running joke, pending confirmation that she was among them.
+- **The kids' name for {{pc:5}} is "Mezzanine"**, and Mei-Mei heard it: it is her greeting in every cameo.
 
 ## Marks — PROPOSED, DM to confirm
 
@@ -203,8 +202,5 @@ adventure playground to contribute, until Yui led them away.
 ## To confirm
 
 - **The marks above.**
-- **How the table explained Nia's message arriving on {{pc:3}}'s phone, and whether Nia's optional second message** (*a friend she meant to bring "hasn't really wanted to see anybody lately"*) **was sent.** The finale's cancelled second caster leans on it.
-- **Did "the pain stepped down" reach {{pc:2}}**, given that the boy still winced now and then?
-- **Was Mei-Mei among the kids who named {{pc:5}} "Mezzanine"?** The account has the four-to-six-year-olds do it.
-- **The $4 parking fee:** the real Coyote Point fee is $6, and this table checks real-world details. Keep $4 as a deliberate oddity?
-- **At the piñata, the account says "dakota doesn't understand, but also enjoys having the kids around him".** Recorded here as {{pc:5}}, who was holding the rope. Correct if it really was {{pc:4}}.
+*(Settled 2026-09-27: **Nia's second message arrived**, and the wrong phone was hand-waved as shared numbers or a group chat · **"the pain stepped down" fired** · **Mei-Mei heard the chant: "Mezzanine" is her name for him** · **{{pc:5}} handled the piñata** · **the $4 fee**, if anyone ever asks, was a city-council decision at the end of 2026; nobody asked.)*
+
