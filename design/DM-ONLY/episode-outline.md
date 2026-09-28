@@ -906,7 +906,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 3. **They tried something together and the world declined** — and it was nobody's fault.
 4. **The two-arm contrast happened** (§3 then §4), **with no interpretation offered.**
 
-**What must NOT be true at the end of Ep 8:**
+**What must NOT be true at the end of Ep 8:** *(Read as intent, not hard rules — DM, 2026-09-27. The sentiment is right; the implementation can go wrong as things are revealed or the players deduce something and need it confirmed to progress. For each case, ask a suitable expert which side to fall on, and record the call.)*
 
 - **No one has explained why the party works.** Not Nia, not anyone.
 - **No one has said the word *needed*.**
