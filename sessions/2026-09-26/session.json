@@ -1,0 +1,62 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "2026-09-26 — The Fourth Birthday",
+  "date": "2026-09-26",
+  "inGameDate": "Saturday 13 March 2027",
+  "episode": "007-the-fourth-birthday",
+  "scenes": [
+    "Recap read aloud; the drive; Dakota calls Ortiz (one light prompt)",
+    "Gifts; the $4 parking fee",
+    "The gun back to the car; the headbutt; the playground hecklers; Valentine's Day; the phones come out",
+    "Yui arrives with lumpia; small talk; Reggie at the grill",
+    "The snake scare",
+    "Simon Says; Mezzanine; the piñata",
+    "The cake and the high four; the family question",
+    "The photo board",
+    "The grape; the quiet with Yui; the splinter",
+    "The parking lot; Nia's message; the campaign website"
+  ],
+  "presentPcs": [
+    "Morgan Reyes",
+    "Priya Iyer",
+    "Mira Sun",
+    "Dakota Whitmore",
+    "Marcus \"Mars\" Faraone"
+  ],
+  "summary": "A four-year-old's birthday at Coyote Point with nothing to investigate. Dakota called Ortiz on the drive and brought Yui her rights to her own file, with a bouquet and an apology he could not explain. Mars headbutted Dakota on the way back to the car, lost an argument about Santa to a toddler, was filmed by outraged parents, and became 'Mezzanine' to every child on the lawn. Dakota discovered that 'Simon says' is a superpower and used it on Mars. Morgan fixed a cake a room of adults had decided was fine and got a high four. Mira read a photograph somebody had cut with scissors, got a headache, and let it be. Mei choked on a grape and Priya had it out before anyone else noticed, then could not eat, and sat with Yui. Nia finally named the day: Saturday the 27th.",
+  "drift": [
+    {
+      "pc": "Dakota Whitmore",
+      "toward": "none",
+      "note": "PROPOSED, DM to confirm: performed all day (the Simon line, the campaign, soliciting toddlers) but brought Yui something real and apologised plainly. No drift proposed."
+    }
+  ],
+  "marks": [
+    {
+      "pc": "Morgan Reyes",
+      "category": "Resolved a hard moment by acting in line with alignment",
+      "note": "PROPOSED — sided with Mei against the room and fixed the cake."
+    },
+    {
+      "pc": "Priya Iyer",
+      "category": "Took a meaningful risk for someone else",
+      "note": "PROPOSED — the grape, unprompted."
+    },
+    {
+      "pc": "Mira Sun",
+      "category": "Acted against your own short-term interest because the story demanded it",
+      "note": "PROPOSED — let the cut photo stay cut."
+    },
+    {
+      "pc": "Dakota Whitmore",
+      "category": "Resolved a hard moment by acting in line with alignment",
+      "note": "PROPOSED — Ortiz, the apology, the file."
+    },
+    {
+      "pc": "Marcus \"Mars\" Faraone",
+      "category": "Took on a complication or scar that will matter later",
+      "note": "PROPOSED — the phone videos."
+    }
+  ],
+  "dmReflections": "See notes.md in this directory for the full played record, the rulings, and what is still to confirm."
+}

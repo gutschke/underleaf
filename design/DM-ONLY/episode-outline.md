@@ -751,6 +751,31 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 
 #### 1. Nia names it — A1 FIRES
 
+> **AFTER EP 7 (2026-09-27): the table already feels the aiming rule.** Per the DM, the
+> players have concluded that *if they push, the world won't — it happens when it
+> happens.* The handout's "aiming costs a tier" therefore confirms an experience
+> they already have. **Do not stage a demonstration of it; name it and move on.**
+> Also: {{pc:2}}, {{pc:3}} and {{pc:5}} have all had their realizations now, and
+> {{pc:2}} has had her first release. See facts-ledger §49 before authoring.
+>
+> **Arc consultant's notes after Ep 7 — recommendations, NOT yet ruled:**
+> - **The aiming half of the two-arm contrast is newly at risk:** the table now believes
+>   pushing fails, and that beat asks them to aim on purpose. Plan on its ladder's
+>   rungs 2–3 (the secret cards), not rung 1. Spend the handout's minutes on the
+>   *supported cast* line, which is new to them, not on the tier cost they already feel.
+> - **"All five told, plainly" may collide with {{pc:4}}'s realization gate**, which must
+>   never be group-ratified (`dakota-phase-gates.md`). DM decision.
+> - **Nia risks being the third adult in a row unmoved by {{pc:4}}** (Ortiz's lightness,
+>   the married mother, then Nia) — for a teenager that can read as a pile-on. Keep her
+>   ladder to rung 1, no heat, and let the plain version visibly get something real;
+>   consider dropping rung 2 (*"talk to me like a person"*), which echoes the mother.
+> - **Ep 9's Ortiz voicemail follows "I was just about to call you"** one episode later:
+>   address it to {{pc:1}}, dated, with its mundane reason in its first sentence.
+> - **{{pc:1}}'s Ep 9 release may be partly spent**: he corrected the room (the cake) and
+>   told a stranger a true thing unprompted (his father). Make Ep 9's beat about the
+>   world's shape, not a record.
+
+
 Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos."* Plus the authorless-cause line. **She refuses the mentor frame explicitly.**
 
 **Then she says the blunt thing: all five of them can do this.** No hedging, no *"you may have noticed."* This table rationalises everything it is given room to rationalise, and five sessions of that is enough.

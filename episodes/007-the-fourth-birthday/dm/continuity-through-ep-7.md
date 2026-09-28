@@ -1,17 +1,11 @@
 > [!CAUTION]
 > **DM-ONLY — CAMPAIGN + FUTURE-EPISODE SPOILERS**
 >
-> This file is the **cross-campaign facts ledger** — the living continuity reference the DM consults during prep (before writing Ep N) and during play (when a PC surfaces an obscure earlier thread). Every fact is tagged with the episode where it was first established.
+> **Snapshot of the cross-campaign facts ledger as of Ep 7 PLAYED (2026-09-26).** The canonical version lives at [`../../../design/DM-ONLY/facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md); this snapshot exists for the DM's binder and print bundle. **Do not edit this copy — edit the master and re-snapshot.**
 >
-> **When to read:** before designing any episode; during play if a PC brings up something you might have forgotten.
+> **What is new since the Ep 6 snapshot:** §47 (rulings of 2026-09-24: Yui held {{pc:4}}'s bag; the party and Reggie can reach each other; {{pc:4}}'s car), §48 (Ep 7 prep canon), and **§49 — everything Ep 7 established at the table**, including that the table has intuited the aiming rule, "Mezzanine", the phone videos, Reggie's played background, and three held-open coincidences.
 >
-> **How to grow it:** as part of each episode's post-design pass, add new load-bearing facts here tagged `**First established:** Ep N`. Snapshot to `episodes/00N-.../dm/continuity-through-ep-N.md` at prep time and render for the print bundle.
->
-> **Related docs:**
-> - [`hook-ledger.md`](hook-ledger.md) — sibling: tracks *did the seed fire yet?* (per-hook status). Facts-ledger tracks *what is true in the world.*
-> - [`world-truths.md`](world-truths.md) — arc-level cosmology (The Quiet, magic, retro-causality)
-> - [`big-arc.md`](big-arc.md) — arc-level frame
-> - [`anchors-cards-ledgers.md`](anchors-cards-ledgers.md) — substrate-mechanics vocabulary
+> **Source uses `{{pc:N}}` template variables** per public-repo hygiene. The print step substitutes real character names — see the dm-prep README for the recipe.
 
 # Facts ledger — cross-campaign
 

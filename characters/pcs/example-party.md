@@ -14,7 +14,7 @@ Full sheets in this directory as one JSON per PC. Summary here:
 | S2 | **Priya Iyer** | — | Caregiver | The bag (canvas messenger) | body / care | Chaotic Neutral |
 | S3 | **Mira Sun** | — | Outsider (memory-loss backstory) | The note (brother's letter in a locket) | memory / identity | Chaotic Good |
 | S4 | **Dakota Whitmore** | — | Control-seeker (political-history undergrad) | Mahogany pipe | speech / presence | Lawful Evil (personal-code framing) |
-| S5 | **Marcus "Mars" Faraone** | "Mars" | Operator (aggrieved) | 9mm SIG P365 (concealed-carry) + keychain holster clip fallback | posture / presence | Chaotic Neutral |
+| S5 | **Marcus "Mars" Faraone** | "Mars" | Operator (aggrieved) | 9mm SIG P365 (concealed-carry) + magazine-shaped keychain fallback | posture / presence | Chaotic Neutral |
 
 Files:
 - [morgan-reyes.json](morgan-reyes.json)
