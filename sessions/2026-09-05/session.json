@@ -12,6 +12,44 @@
     "Marcus Faraone"
   ],
   "scenes": [
+    "Rosa's house, Berkeley Hills — 8:20am",
+    "The lift — one car, four blocks",
+    "Live Oak Park Social Hall — the dance",
+    "Priya's moment",
+    "Back at the house — the long scene",
+    "Goodbye",
+    "Coda — the envelope"
+  ],
+  "summary": "Saturday morning in the Berkeley Hills. Rosa Vega had double-booked the party against a folk dance she has not missed in thirty-one years, so all six of them squeezed into one car and went. The morning was a room of forty people who needed nothing from them, and the facts arrived from everybody except Rosa — who kept being swung away down the line. Back at the kitchen table she let them read a ledger she will not let them take, allowed every page of it to be photographed, was genuinely impressed by the one Dakota put next to it, and said at the door that she has never met another keeper — though she has, rarely, met others who can do what the party is learning to do.",
+  "marks": [
+    {
+      "pc": "Morgan Reyes",
+      "bullet": "complication",
+      "note": "Lost several minutes to genuine disorientation in a stranger's broom closet, then did the patient unglamorous work: read a shelf of another person's daily planners against every date the party holds, and reported honestly that nothing was there."
+    },
+    {
+      "pc": "Priya Iyer",
+      "bullet": "hardMoment",
+      "note": "Moved before she decided to, for a woman who turned out not to need it, and then sat with not knowing whether she had seen anything at all. She raised the seatbelt and was overruled, and let it go."
+    },
+    {
+      "pc": "Mira Sun",
+      "bullet": "learned",
+      "note": "Photographed every page of a ledger nobody had ever let out of a kitchen, and noticed on her own that it contains no erasures where every other document she has handled does."
+    },
+    {
+      "pc": "Dakota Whitmore",
+      "bullet": "risk",
+      "note": "Put his own ledger on the table in front of a woman he had known for four hours, unprompted, having offered it first in a moving car — and played the whole day without the persona."
+    },
+    {
+      "pc": "Marcus Faraone",
+      "bullet": "against",
+      "note": "Kept pressing Rosa about the ledger long past the point where it was winning him anything, because somebody had to ask and the rest of the party had stopped."
+    }
+  ],
+  "dmReflections": "The physical reenactment of the dance was unplanned and carried the hour; whatever the next version of the minigame is, it must leave room for people to stand up. The mechanic itself underperformed: the per-PC progressive arcs did not survive contact, DO THIS cards fired out of position and later cards contradicted encounters that had already fully played out, and the ADOPTED deck never came up at all — its second failure in two runs. The run-guide did not carry the DM through it either. Both need another editing pass and more simulated runs. What did work was the shape rather than the system: the hall under-delivered, the players reconstructed the picture from their own notes, and the long scene at Rosa's table closed the gaps properly. Budget for that scene rather than treating it as overflow. Two dice outcomes shaped the session more than any design did — a very low roll made Priya doubt she had seen anything, and a very low then very high roll put Morgan in a broom closet and then in front of the planners.",
+  "sceneDetail": [
     {
       "name": "Rosa's house, Berkeley Hills — 8:20am",
       "summary": "The party arrived at 8:12 in two cars and spent eight minutes arguing about who should knock. Dakota settled it at 8:20 exactly, prepared for a triple knock, and got one contact with the door before Rosa opened it and cheerfully waved them in. She sat them in the living room and kept checking her watch. The players spent a good while asking about Rosa's FATHER when the person who mattered was her mother — Julián Vega sold industrial kitchen equipment to restaurants and drove all over California, so Rosa could answer every question truthfully and unhelpfully (asked whether he might have been to Bodie: yes, possibly, he went everywhere). The DM let the confusion run a minute longer and the players caught it themselves; it was funnier than anything that could have been scripted. Two things then landed on Rosa in quick succession. First, that Vivian — her closest friend since childhood — is the daughter of the man her mother corresponded with for twelve years; sixty-five years of phone calls and neither had connected it. Second, Dakota produced one of Marsh's ledgers. She got no close look because the clock was running, but she could not believe there was another book in the world assembled the same way hers is. Some basic background was answered; most was deferred by the clock. She said she had to leave, said where, and the party was far too excited to let that happen without them."
@@ -41,8 +79,7 @@
       "summary": "It arrived at Dakota's address, as written, because Vivian is most comfortable with him and nobody explained why. Inside, a letter in Vivian's hand naming a colleague of her father's — McCulloch. On the outside, in a different hand, Elena's note: she had asked them to say she'd had a good week. U9 fires; one safe name spent."
     }
   ],
-  "summary": "Saturday morning in the Berkeley Hills. Rosa Vega had double-booked the party against a folk dance she has not missed in thirty-one years, so all six of them squeezed into one car and went. The morning was a room of forty people who needed nothing from them, and the facts arrived from everybody except Rosa — who kept being swung away down the line. Back at the kitchen table she let them read a ledger she will not let them take, allowed every page of it to be photographed, was genuinely impressed by the one Dakota put next to it, and said at the door that she has never met another keeper — though she has, rarely, met others who can do what the party is learning to do.",
-  "drift": [
+  "continuityDrift": [
     "\"Nothing is ever lost!\" was said over the receipt boxes and nobody remembers whether it was Winnie or Rosa. Keep the attribution unresolved: hospitality from one mouth, a statement about how reality works from the other. Held for the landing — the campaign ends on a reveal of an absence and Kai is lost for good.",
     "S1 #2 FIRED as the youth-club booking contradiction (hook T27) — three incompatible certainties held comfortably by a whole room, noticed and rationalised by the party. Better than the designed beat. Four readings held open; never explain it.",
     "THE MICROWAVE RULE: Rosa states clearly and repeatedly that the ledger BELONGS under the microwave, and never explains. It is simultaneously not precious — a dirty rough ordinary spot, handled without care — and immovable. She does not know why; she knows it matters. Held open: whether an anchor has a place, or whether the rule is only hers. It also gives the robbery thread a third outcome besides success and DM veto — the world may simply decline.",
@@ -67,33 +104,5 @@
     "Rosa's step-back declaration RULED FIRED — the written line never landed but the substance did (stopped for another person; more than ten years ago; you are on the journey I went through). It arrived in pieces across a long day, so a plain restatement is owed at her second session.",
     "B26 ruled DM-side: Isabel kept no ledger. The hook stays open as an OPPORTUNITY to clarify to the players — the clarification that works is 'Rosa never actually knew', not 'she didn't'. Take a natural opening; never force one.",
     "Winnie crossed every lane — drafted the party, tripped over the amplifier cable, fetched Mira's boxes. She was written as slot 4's paired dancer and is in practice the room's connective tissue. Lane discipline no longer applies to her."
-  ],
-  "marks": [
-    {
-      "pc": "Morgan Reyes",
-      "bullet": "complication",
-      "note": "Lost several minutes to genuine disorientation in a stranger's broom closet, then did the patient unglamorous work: read a shelf of another person's daily planners against every date the party holds, and reported honestly that nothing was there."
-    },
-    {
-      "pc": "Priya Iyer",
-      "bullet": "hardMoment",
-      "note": "Moved before she decided to, for a woman who turned out not to need it, and then sat with not knowing whether she had seen anything at all. She raised the seatbelt and was overruled, and let it go."
-    },
-    {
-      "pc": "Mira Sun",
-      "bullet": "learned",
-      "note": "Photographed every page of a ledger nobody had ever let out of a kitchen, and noticed on her own that it contains no erasures where every other document she has handled does."
-    },
-    {
-      "pc": "Dakota Whitmore",
-      "bullet": "risk",
-      "note": "Put his own ledger on the table in front of a woman he had known for four hours, unprompted, having offered it first in a moving car — and played the whole day without the persona."
-    },
-    {
-      "pc": "Marcus Faraone",
-      "bullet": "against",
-      "note": "Kept pressing Rosa about the ledger long past the point where it was winning him anything, because somebody had to ask and the rest of the party had stopped."
-    }
-  ],
-  "dmReflections": "The physical reenactment of the dance was unplanned and carried the hour; whatever the next version of the minigame is, it must leave room for people to stand up. The mechanic itself underperformed: the per-PC progressive arcs did not survive contact, DO THIS cards fired out of position and later cards contradicted encounters that had already fully played out, and the ADOPTED deck never came up at all — its second failure in two runs. The run-guide did not carry the DM through it either. Both need another editing pass and more simulated runs. What did work was the shape rather than the system: the hall under-delivered, the players reconstructed the picture from their own notes, and the long scene at Rosa's table closed the gaps properly. Budget for that scene rather than treating it as overflow. Two dice outcomes shaped the session more than any design did — a very low roll made Priya doubt she had seen anything, and a very low then very high roll put Morgan in a broom closet and then in front of the planners."
+  ]
 }

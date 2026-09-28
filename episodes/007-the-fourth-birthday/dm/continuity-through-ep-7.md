@@ -1491,8 +1491,9 @@ It works because it is deniable: **Chinatown to Fisherman's Wharf is about a mil
 **One chain runs through Ep 1, Ep 3 and Ep 4, and the DM should hold it as settled
 even though the table never will.**
 
-**Reality wanted continuity with a trusted group while Vivian Loewe was at the end
-of her life.** So:
+**The world's current shape keeps a trusted group in contact while Vivian Loewe is
+at the end of her life.** *(Worded without intent, 2026-09-27: the substrate has
+structural preferences, never wants. An earlier phrasing said "reality wanted".)* So:
 
 - **Ep 1** — the five were delivered to the same aircraft. *(Already canon: the
   cable, `episodes/001-unattended-baggage/dm/the-cable.md`.)*
