@@ -309,8 +309,9 @@ mid-scene, need to land on this?**
 - A line where **getting it wrong is expensive** — firewall lines, deflections,
   the ones that must not be improvised.
 
-*Length is irrelevant here.* **Nia's six-word correction — *"No. That's what
-didn't work."* — is the most important sentence in Ep 8 and must be a box.**
+*Length is irrelevant here.* **Nia's six words at the Ep 8 printer — *"Three
+reasons, not three voices."* — are the season's most important sentence and must be
+a box.**
 
 **LEAVE IT INLINE — even if it is quoted speech:**
 

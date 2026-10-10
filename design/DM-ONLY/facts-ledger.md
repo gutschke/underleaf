@@ -74,6 +74,7 @@ Structure of each fact section:
 - [§49 Ep 7 played](#49-ep-7-played--the-fourth-birthday-2026-09-26) — all five arc-nodes fired; **the table has intuited the aiming rule (read before the finale)**; Mezzanine; the phone videos; Reggie's degree; three held-open coincidences
 - [§50 Mars and Dakota re-domained — RULED 2026-09-27](#50-mars-and-dakota-re-domained--ruled-2026-09-27) — **persuasion is never magic**; Mars = posture / protection, Dakota = speech / reach; Elena's door was a CHA roll; Ep 2's tailing car was Mars's first cast; unreachable people are uniform; **Bea is in Sacramento with her daughter (DM-only)**; Ep 8 is an explicit reveal; **amended 2026-10-09**: Dakota reaches Nia by default, Bea reach optional and Cheap, Priya's sensing in her domain
 - [§51 Why Ep 8 was cheap — DM head canon](#51-why-ep-8-was-cheap--dm-head-canon-never-voiced-not-even-by-nia-dm-2026-10-09) — block universe, no before/after an edit; never name a fixed point the party is the answer to; never voiced
+- [§52 Ep 8 — canon set in prep](#52-ep-8--canon-set-in-prep-2026-10-09) — Spreckels Lake + Quickly; the printer (five pages, page six chewed, never the friend's); the friend unnamed; Dakota's uncle alive; hoarse on every reach; **invented Ep 1–2 details (DM-only)**; revised authorless-cause line
 - [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
 - [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
@@ -1443,10 +1444,12 @@ Quick-lookup for during-play fact-checks. Bold entry = the load-bearing section;
 - **Ocean Beach teenagers** — [§8](#8-the-ocean-beach-teenagers--recurring-texture-npcs)
 - **Priya's fire cast (Union Hall)** — [§18](#18-priyas-accidental-cast--i-just-want-everyone-to-survive)
 - **Priya's migraines** — [§14](#14-priyas-migraines); **[§30 mechanics extension](#30-priyas-migraine-mechanics-ep-4-extension-of-14)**
+- **Quickly (Irving St)** — [§52](#52-ep-8--canon-set-in-prep-2026-10-09)
 - **QR codes (Bodie)** — [§5](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile)
 - **Reggie's face-changed-twice** — [§9](#9-reggies-face-changed-twice--the-escalation-on-seeing-the-rest-of-you)
 - **Rosa Vega** — [§24](#24-rosa-vega--berkeley-ledger-holder-former-caster); *[§2 Bancroft entry](#2-the-eight-ledgers--dakotas-voicemail)*; *[§5 Alaia's mother](#5-ranger-alaia-vega--the-qr-codes-and-the-wood-pile)*
 - **Sacramento convergence** — [§3](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find); *[§6 Morgan's father lead](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)*; *[§27 LLC](#27-argonaut-records-holdings-llc--the-discretionary-trust)*
+- **Spreckels Lake** — [§52](#52-ep-8--canon-set-in-prep-2026-10-09)
 - **SFPD Missing Persons** — [§6](#6-sfpd-missing-persons--pc1s-father-the-ring-close-phone-call)
 - **Two tourists Vega drove out** — [§15](#15-the-two-other-tourists-vega-drove-out--declared-inert)
 - **Vivian Loewe** — [§19](#19-vivian-loewe--the-living-witness); *[§3 seeded](#3-how-does-dakota-know--the-sacramento-thread--the-person-he-drove-to-find)*; *[§20 daughter of Erik](#20-dr-erik-loewe--the-annex-lead)*
@@ -2925,3 +2928,83 @@ nobody was watching."*
 
 **The test:** this paragraph must never become a design premise. If a beat has no
 fallback because "the world will see to it", the beat is wrong.
+
+## 52. Ep 8 — canon set in prep (2026-10-09)
+
+**First established:** Ep 8 prep. *The run-guide is `episodes/008-lunch-in-twos/dm/run-guide.md`;
+its companion `past-moments.md` holds every verdict for the "that was you" game. **A
+verdict, once said at the table, is canon.** Where this section and §48 to §51 differ,
+this wins.*
+
+### Where and when
+
+- **Saturday 27 March 2027, noon, Spreckels Lake, Golden Gate Park** (36th Ave & Fulton;
+  the SF Model Yacht Club races on Saturday afternoons). Warm and clear. **No security
+  cameras: Nia checked**, and it's why she picked it. Her morning text to {{pc:3}}:
+  *"nobody films out there, I checked."*
+- **Snacks from Quickly, Irving St at 22nd Ave** (the players' favourite).
+- **Ep 9 is Saturday 3 April 2027** (the cabin weekend), the next session, with no
+  calendar break.
+
+### People
+
+- **The yacht-club man:** sixties, windbreaker, unnamed. He says *"nothing came out"* at
+  the printer, then finds the five pages and remembers the new shape (*"Got five out
+  before it choked"*) without noticing he has contradicted himself.
+- **Nia's friend:** **never named.** *"Not mine to give. Give her a week."* She stays
+  available as Ep 12's nameless former caster. She doesn't come, whatever anyone rolls.
+- **{{pc:4}}'s uncle, who engraved the pipe, is alive** (DM, 2026-10-09).
+- **The Ocean Beach teenagers held the bonfire** that Ep 7's text mentioned, and nobody
+  went. Ren's midweek text asks whether {{pc:4}} is still running for mayor. No beach
+  plan comes of it.
+
+### The printer
+
+- **Nia's own battery printer** (an HP OfficeJet 250 Mobile), carried in her canvas tote.
+  It sits on the bench and prints into its own tray, **never into the tote** (that would
+  echo the Ep 1 connector).
+- She sends six copies. It eats page one; her phone says *"0 of 6 printed"*. {{pc:1}}:
+  *"It printed five before it jammed."* **Natural tier Costly** (it overwrites a
+  stranger's spoken testimony and six people's memory of a minute; no record changes).
+  Focus brings it to Cheap, aiming to Costly, and three reasons to **Cheap**.
+- **After the cast:** five clean pages lie under the chewed sheet, and the phone says
+  *"5 of 6 printed. Paper jam on page 6."* That is the printer's own status report, so
+  it is {{pc:1}}'s domain, not a record edit.
+- **The chewed page is page six. Nobody, ever, says it was the friend's copy.**
+- **The five pages are `world/player-handout-magic.md`.**
+
+### Rulings for play
+
+- **{{pc:4}} is hoarse after every reach, even one that gets nothing**; otherwise the
+  hoarseness would tell the players which kind of reach they hit.
+- **If {{pc:4}} reaches anyone but Nia**, the tote and printer stay with the party
+  (*"keep it, I'll grab it next time"*). **Owed:** returned in one line, in Ep 9 or 10.
+- **Thread debt in Ep 8:** record who cast and who backed whom. **No step is taken
+  tonight** (§51). The exception: a cast after the race horn in Scene 6, with phones up
+  along the bank, advances the caster and the backers one step. First texture in Ep 9–10
+  (hook-ledger T31).
+- **The flattening drip, S1 #3:** at Quickly, the cashier says tiger milk tea has
+  *"always been the house special"*, under a board reading NEW THIS MONTH. It's a record
+  nobody checks, not a machine, so it doesn't rhyme with the printer. It's optional and
+  the first thing cut. **If it's cut, S1 #3 is still owed.**
+- **Nia's authorless-cause line, revised** (the old one said "the world just doesn't
+  permit…", giving the world a will, and "nothing did", which the-cable rules out):
+  *"People ask me who saved them. I used to think it was someone like us, reaching out
+  without knowing. Now I don't think anybody did. It happened, and it held. I can't tell
+  you why. Neither can anyone."* `nia-chen.json` carries the same.
+- **The guard *"No. That's what didn't work."* is retired.** Its scene no longer exists.
+
+### Invented details for gaps in the early record — DM-ONLY, use only if asked
+
+*(DM, 2026-10-09: "nobody remembers those exact details… you can fill in details as
+needed and mark that in the notes." If a player remembers it differently, **their
+version wins**.)*
+
+- **Ep 2, the tailing car:** one vehicle, leaving Bea's at dusk. **{{pc:5}} was in the
+  back seat by the rear window, and had turned round and squared up to the
+  headlights**, between the tail and everyone else. That is his trigger, stepping
+  between.
+- **Ep 1, the 1-3-2-4 lock:** it was **{{pc:2}}'s checked-bag combination** (her eye mask,
+  after a night shift), and **{{pc:3}} ran the errand.** **Never {{pc:4}}'s bag**: the
+  connector in his carry-on is enough Ep 1 mystery around him. The verdict stays
+  *nobody knows*.

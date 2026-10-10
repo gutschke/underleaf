@@ -57,9 +57,11 @@ on a schedule anybody controls.
 > *they* get out of it. Three reasons, not three voices. "Me too" isn't a
 > reason.**
 
-Backing a cast means being there, and saying in your own words what *you* get
-out of it. If you just repeat the caster, the DM will ask what you get out of it.
-Your reasons can overlap; they just have to be yours.
+At least two of the others have to be there with you, each saying in their own
+words what *they* get out of it. "Yeah, make it work" is an echo. "So I've got
+something to read on the bus" is a reason. If you only echo, the DM will ask you
+once what you get out of it, and take whatever you say. Your reasons can overlap;
+they just have to be yours.
 
 Backing something means meaning it. You can decline.
 

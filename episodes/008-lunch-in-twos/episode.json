@@ -1,0 +1,41 @@
+{
+  "$schemaVersion": "0.1.0",
+  "name": "Lunch in Twos",
+  "summary": "The Season 1 finale. A picnic at Spreckels Lake in Golden Gate Park, where Nia Chen finally tells the five, plainly, that all of them can do this. A printer jams and {{pc:1}} says one sentence; five pages turn out to have printed, and they are the rules. Over snacks from Quickly, Nia gives every strange thing since the plane one of three answers, and by the end each of them knows what their magic is, what sets it off, what it costs and where it stops. Her friend doesn't come. Then she leaves, {{pc:4}} reaches her, and the five help a stranger on their own. It works.",
+  "prerequisites": [
+    "001-unattended-baggage",
+    "002-the-archivists-index",
+    "003-bodie-convergence",
+    "004-the-sacramento-visit",
+    "005-the-one-page",
+    "006-eight-twenty-sharp",
+    "007-the-fourth-birthday"
+  ],
+  "hooks": [
+    "Nia Chen named the day at last: Saturday 27 March, lunch, noon-ish, place to follow that morning.",
+    "She was going to bring a friend who hasn't really wanted to see anybody lately.",
+    "The Ocean Beach teenagers held a bonfire, and nobody went."
+  ],
+  "scenes": [],
+  "dmDocs": [
+    "dm/run-guide.md",
+    "dm/pacing.md",
+    "dm/past-moments.md",
+    "dm/continuity-through-ep-8.md"
+  ],
+  "inGameDate": "Saturday 27 March 2027, noon — two weeks after Mei-Mei's birthday",
+  "arcBeats": [
+    "All five are told, in plain words, that they can do this, and each is told what their own magic is.",
+    "The players hold the handout, and it arrived by the rule it teaches: three reasons, not three voices.",
+    "Something doesn't come off, and it is nobody's fault: Nia's friend doesn't come.",
+    "{{pc:5}} steps between {{pc:2}} and a gull, and it goes elsewhere, named as it happens.",
+    "{{pc:4}} reaches for someone on purpose for the first time, and they pick up.",
+    "The five help a stranger together, unprompted, and it works. The season ends on them asking what the next thing would cost."
+  ],
+  "tags": [
+    "season-finale",
+    "the-talk",
+    "the-five-together",
+    "nobody-fails"
+  ]
+}

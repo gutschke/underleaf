@@ -92,3 +92,14 @@ directly it does nothing and exits 0 — including on a corrupt `campaign.json`.
 A private checklist carried that command for weeks and every commit "passed" a
 lint that never ran. **Before trusting the lint, point it at a copy with a
 broken JSON file and watch it exit 1.**
+
+## `snapshot-facts-ledger.py` — the per-episode continuity snapshot
+
+    python3 tools/snapshot-facts-ledger.py episodes/00N-<slug> N "<what is new>"
+
+This copies `design/DM-ONLY/facts-ledger.md` to `<episode>/dm/continuity-through-ep-N.md`,
+rewrites every relative link to point at the same file from the new folder, and
+replaces the banner. **It replaces a hand-typed sed list** that knew only five file
+names: any other link broke silently. **It refuses to write** if any file the master
+links to is no longer reachable from the snapshot. That refusal has been seen working:
+a copy with the backtick-link rewrite disabled was stopped, and it named the lost file.
