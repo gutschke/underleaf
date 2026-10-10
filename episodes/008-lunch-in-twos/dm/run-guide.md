@@ -82,7 +82,7 @@
 ### Print
 
 - **`player-handout-magic.md`, five copies.** **These are the five pages found in the printer** in Scene 2. Keep them face-down by your notes until that moment.
-- **Five "What Nia told you" slips** (`props/`) — one per player, handed out **after** the game in Scene 3 — **plus two "Later. Just us." slips**, for Kai or {{pc:1}}'s father. Single-sided, cut apart.
+- **The props sheet** (`props/`, single-sided, cut apart): **five "What Nia told you" slips** — one per player, handed out **after** the game in Scene 3 — **plus two "Later. Just us." slips**, for Kai or {{pc:1}}'s father. Single-sided, cut apart.
 - **The player recap** — one page; you read it aloud in Scene 0.
 - **Character sheets** — duplex: each player gets one sheet, front and back.
 - **The clock card** (`pacing.md`) and **the companion sheet** (`past-moments.md`).
@@ -90,7 +90,7 @@
 ### Bring
 
 - **One crumpled, ink-smeared sheet of paper.** It is the page the printer chews. It goes on the table in Scene 2 and **stays there to the end of the session.**
-- **An index card reading "Paper jam. 0 of 6 printed"** on one side and **"5 of 6 printed. Paper jam on page 6"** on the other. It is Nia's phone screen.
+- **The two phone-screen cards** from the props sheet: *"Paper jam. 0 of 6 printed"* and *"5 of 6 printed. Paper jam on page 6"*. They are Nia's phone.
 
 ---
 
@@ -232,7 +232,7 @@
 
 She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls in a sheet, crunches, and stops. **An amber light blinks.** One page sticks half out of its mouth, chewed and inked.
 
-**Put the crumpled sheet on the table.** **Show the "0 of 6 printed" side of the card, and read it:**
+**Put the crumpled sheet on the table.** **Show the first phone card, and read it:**
 
 > *"Nia's phone says: Paper jam. 0 of 6 printed."*
 
@@ -305,7 +305,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **He has just contradicted himself, and he does not notice.** He goes back to his boat.
 
-**Turn the card over, and read it:**
+**Swap to the second phone card, and read it:**
 
 > *"Nia's phone now says: 5 of 6 printed. Paper jam on page 6."*
 

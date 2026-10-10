@@ -1,8 +1,5 @@
 # What Nia told you — five slips
 
-*Player-facing. Print single-sided, cut apart, and hand all five over together after the
-game in Scene 3. Each player gets only their own.*
-
 ---
 
 ## {{pc:1}}
@@ -75,8 +72,6 @@ game in Scene 3. Each player gets only their own.*
 
 ---
 
-## "Later. Just us." — print two; hand one over only if Kai or {{pc:1}}'s father comes up
+## Later. Just us.
 
-*Nia, quietly, while the others are talking:*
-
-**Later. Just us.**
+*Nia, quietly, while the others are talking.*
