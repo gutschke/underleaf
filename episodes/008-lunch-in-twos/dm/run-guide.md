@@ -89,7 +89,7 @@
 
 ### Bring
 
-- **One crumpled, ink-smeared sheet of paper.** It is the page the printer chews. It goes on the table in Scene 2 and **stays there to the end of the session.**
+- **The chewed page** — `props/make-chewed-page.py` prints page 1 of the handout as an inkjet leaves it after a jam; you pleat, crumple, tear and flatten it by hand (the steps are in the print folder's README). It goes on the table in Scene 2 and **stays there to the end of the session.**
 - **The two phone-screen cards** from the props sheet: *"Paper jam. 0 of 6 printed"* and *"5 of 6 printed. Paper jam on page 6"*. They are Nia's phone.
 
 ---
