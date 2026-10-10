@@ -3,7 +3,7 @@
 >
 > **Snapshot of the cross-campaign facts ledger as of Ep 8 prep.** The canonical version lives at [`../../../design/DM-ONLY/facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md); this snapshot exists for the DM's binder and print bundle. **Do not edit this copy — edit the master and re-snapshot.**
 >
-> **What is new since the last snapshot:** §50 amended and §51 (2026-10-09 rulings: the support rule, Priya's sensing, Bea, the block universe), and §52, the canon Ep 8 sets in prep (Spreckels Lake, the printer, the unnamed friend, the invented Ep 1–2 details).
+> **What is new since the last snapshot:** Ep 8 prep, revised 2026-10-10: magic pricing rulings; mango delight as the house special; Nia's answers carry the word magic; how Nia knows about the party (Bea).
 >
 > **Source uses `{{pc:N}}` template variables** per public-repo hygiene.
 
@@ -2717,7 +2717,7 @@ wins.***
 - **{{pc:5}}: realization at the piñata** (the slip was delivered). The kids
   milled round him instead of hitting it. *({{pc:5}} handled it — confirmed.)* **Caveat for later:** he had
   just performed for those same kids (Mezzanine), so ordinary celebrity is a
-  sufficient reading — which keeps it held open, and is fine. *(**Superseded by §50:** the piñata stays texture; in Ep 8 it is "that was just you".)*
+  sufficient reading — which keeps it held open, and is fine. *(**Superseded by §50:** the piñata stays texture; in Ep 8 it is "no magic — that was just you".)*
 - **{{pc:1}}: the cake**, fixed with a food-safe Sharpie, because he noticed a
   four-year-old's distress that the adults had waved away. **Mei gave him a "high
   four".** The father thread breathed — he volunteered that his father is missing,
@@ -2941,7 +2941,7 @@ fallback because "the world will see to it", the beat is wrong.
 ## 52. Ep 8 — canon set in prep (2026-10-09)
 
 **First established:** Ep 8 prep. *The run-guide is `episodes/008-lunch-in-twos/dm/run-guide.md`;
-its companion `past-moments.md` holds every verdict for the "that was you" game. **A
+its companion `past-moments.md` holds every verdict for the "magic, or just you?" game (answers reworded 2026-10-10 so both carry the word *magic*: "that was your magic" / "no magic — that was just you"). **A
 verdict, once said at the table, is canon.** Where this section and §48 to §51 differ,
 this wins.*
 
@@ -2992,8 +2992,10 @@ this wins.*
   tonight** (§51). The exception: a cast after the race horn in Scene 6, with phones up
   along the bank, advances the caster and the backers one step. First texture in Ep 9–10
   (hook-ledger T31).
-- **The flattening drip, S1 #3:** at Quickly, the cashier says tiger milk tea has
-  *"always been the house special"*, under a board reading NEW THIS MONTH. It's a record
+- **The flattening drip, S1 #3:** at Quickly, the cashier says **mango delight with
+  pudding** has *"always been the house special"*, under a sticker reading BACK BY
+  POPULAR DEMAND *(DM, 2026-10-10: the players love it, and real-world Quickly dropped it
+  a while ago; tiger milk tea under NEW THIS MONTH is the fallback)*. It's a record
   nobody checks, not a machine, so it doesn't rhyme with the printer. It's optional and
   the first thing cut. **If it's cut, S1 #3 is still owed.**
 - **Nia's authorless-cause line, revised** (the old one said "the world just doesn't
@@ -3017,3 +3019,11 @@ version wins**.)*
   after a night shift), and **{{pc:3}} ran the errand.** **Never {{pc:4}}'s bag**: the
   connector in his carry-on is enough Ep 1 mystery around him. The verdict stays
   *nobody knows*.
+- **Ep 8, how Nia knows so much about them** *(DM asked for an answer, 2026-10-10)*:
+  **Bea.** Bea has had an index card on each of them since the Starbucks (Ep 2); she
+  phoned Nia about them **before she went quiet** — "five of them; expect a call" —
+  which is also why Nia's card was at Bea's door. Everything after Bea went quiet, the
+  party tells Nia themselves during the game, and Nia can tell what kind a thing is
+  from how it's told. **Nia doesn't know where Bea is and never says Bea is safe**
+  (Bea's location stays DM-only, §50). **Not Rosa:** she has never met anyone else who
+  keeps a book like hers (Ep 6).

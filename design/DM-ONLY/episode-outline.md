@@ -770,9 +770,9 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >    phone now says *"5 of 6"*. **The pages are the handouts.** The chewed sheet stays
 >    on the table to the end. Never say the eaten page "was the friend's".
 > 3. **The talk, as an unannounced game.** *"Tell me the weirdest thing that's happened
->    to any of you since that plane."* Nia answers each with *that was you* / *that was
+>    to any of you since that plane."* Nia answers each with *that was your magic* / *no magic —
 >    just you* / *nobody knows* (or *not yours*), and names each PC's ability (problem,
->    trigger, cost, limit) the first time it is *you*. **{{pc:5}}'s hazard fires live
+>    trigger, cost, limit) the first time it is *your magic*. **{{pc:5}}'s hazard fires live
 >    during his turn.** The DM can run it for 5, 15 or 30 minutes, or cut it; every
 >    version names all five. Verdicts are pre-ruled (in the run-guide).
 > 4. **Nia leaves**, callable about the craft, *"two at a time, though."* She forgets her
@@ -896,7 +896,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 > **This resolves an apparent conflict in an earlier draft**, which said the sequence is *"no longer a demonstration about the network."* Both are true, because there are **two arms**: the **meeting failing IS about the network** (invariant 5, and she called it), and **the party's own small success is about the party** (and nobody calls that at all). The first is explained; the second is not. **That asymmetry is the point.**
 
-**She does NOT close the question about these five.** Per facts-ledger §45 her line about the party is a shrug she does not defend: *"You five seem to be fine. I don't know why. Time, maybe."*
+**She does NOT close the question about these five.** Per facts-ledger §45 her line about the party is a shrug she does not defend: *"You five seem to be fine. I don't know why. Maybe because you knew each other before you knew about any of this. The rest of us only ever meet because of it."*
 
 #### 3. THE MEETING CANNOT HAPPEN — re-pointed *(⚠ SUPERSEDED 2026-10-09: only the friend's cancellation survives; no softening, no failed cast)*
 

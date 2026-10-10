@@ -1,4 +1,4 @@
-# Ep 8: past moments for "That was you"
+# Ep 8: past moments for "Magic, or just you?"
 
 *The DM's reference block for the lunch game at Spreckels Lake. Each entry tells you
 what actually happened at the table (from the played record, not the plans), the
@@ -10,19 +10,20 @@ ruled verdict, and Nia's line. Numbers are for "I'm on 7".*
 ## How to use this
 
 - **Four answers, nothing else.**
-  - **"That was you."** The first time a player hears it, Nia also names their magic (the
+  - **"That was your magic."** The first time a player hears it, Nia also names their magic (the
     naming block at the top of each PC's section, about 90 seconds).
-  - **"That was just you."** Said as a compliment.
+  - **"No magic — that was just you."** Skill, nerve, charm or luck. Said as a compliment, and meant as the better answer.
+  - **Always say the word "magic" in both.** Without it, "that was you" and "that was just you" sound the same.
   - **"Nobody knows."** Only for the moments on the list below.
   - **Not yours:** one ordinary line. Separately, when Nia simply doesn't know the
     answer but you do, she says **"I don't know"**, never "nobody knows".
-- **Unlisted moments:** if a PC did it, "that was just you". If it happened to them,
-  "not yours", in one line. Never a new "that was you", never a new "nobody knows".
+- **Unlisted moments:** if a PC did it, "no magic — just you". If it happened to them,
+  "not yours", in one line. Never a new "your magic", never a new "nobody knows".
 - **Big mysteries** (#27 and #31 to #33): at most one per game, answered with *"That's the
   big one. Nobody knows."* Then move to the next player.
 - **Never let Nia say:** *need / needed / had to*, *meant*, *so that*, *chosen*,
   *erased*, *never existed*, *timeline*. And never *"you remember it both ways, so it
-  was you"*.
+  was your magic"*.
 - **Nia's voice:** casual, quick to laugh, interrupts herself, uses
   the first name on the second beat. She sounds like an older cousin, not a teacher.
 - **★ marks a breadcrumb** (see the end): a moment you raise yourself if nobody
@@ -34,7 +35,7 @@ ruled verdict, and Nia's line. Numbers are for "I'm on 7".*
 
 ### {{pc:1}}'s naming: done at the printer
 
-His first "that was you" is the printer, ten minutes earlier, so his naming happens
+His first "your magic" is the printer, ten minutes earlier, so his naming happens
 there (see the printer scene). The facts, for reference: **his kind of problem** is a
 lock, machine, signal or system. **Trigger:** the Flipper in his hand
 or pocket, never pointed at anything, plus one sentence in the past tense about the
@@ -43,14 +44,14 @@ message (that's {{pc:3}}'s), never people.
 
 
 **1. The printer (today).** It's in the printer scene. {{pc:1}} offers it first, and
-Nia's verdict is free: *"You said it, and it did. That was you."*
+Nia's verdict is free: *"You said it, and it did. That was your magic."*
 
 **2. Setting up the ranger's radio (third session, Bodie, Thursday 11 February 2027).**
 Snowed in at Bodie, Ranger Alaia Vega handed the party a two-way radio none of them
 knew. {{pc:1}} got it working perfectly on a high Tech/Insight roll. That was a plain
 skill roll: he's a former red-teamer with high INT.
-**Verdict: just you.**
-> **NIA:** *"Radios? That's just you. Honestly, {{pc:1}}, that's the better kind. Nobody can take it off you."*
+**Verdict: no magic — just you.**
+> **NIA:** *"Radios? No magic. That's just you. Honestly, {{pc:1}}, that's the better kind. Nobody can take it off you."*
 
 
 **3. Knowing {{pc:4}}'s shoe size (third session, Bodie, Building 7).** *Not prompted.* Inside
@@ -61,7 +62,7 @@ visited Building 7 alone, found the ledger and left a sticky note on it.
 **Verdict: a borderline cast, only if a player raises it.** The DM's gloss: knowing
 the "technical specs" of a physical object like a shoe is just inside understanding
 machines deeply.
-> **NIA:** *"Huh. A shoe size. …Okay, that was you. Barely. A shoe's a made thing; you knew its spec. Don't build a career on it."*
+> **NIA:** *"Huh. A shoe size. …Okay, that was your magic. Barely. A shoe's a made thing; you knew its spec. Don't build a career on it."*
 
 
 **4. The cake (seventh session, Coyote Point, Saturday 13 March 2027).** The birthday cake from
@@ -70,8 +71,8 @@ plainly upset, and the adults kept waving it away. {{pc:1}} noticed that she was
 and they were wrong, and fixed the 3 into a 4 with a food-safe Sharpie. Mei gave him
 a "high four". A parent praised him, and he volunteered that his father is missing,
 nothing more.
-**Verdict: just you.** *(The wrong number itself is #39.)*
-> **NIA:** *"The Sharpie? That's just you. You listened to a four-year-old when nobody else did. That's rarer than anything I can do."*
+**Verdict: no magic — just you.** *(The wrong number itself is #39.)*
+> **NIA:** *"The Sharpie? No magic. That's just you. You listened to a four-year-old when nobody else did. That's rarer than anything I can do."*
 
 
 **5. The broom closet and Rosa's planners (sixth session, Rosa's house, Berkeley Hills,
@@ -82,8 +83,8 @@ and at once spotted Rosa's row of daily planners, kept since college, which grow
 markedly messier in the year she found the ledger. He searched them against every
 date the party holds, including the 747 and Bea's disappearance, and honestly
 reported that there was nothing.
-**Verdict: just you.** What happened in 1979 stays Rosa's.
-> **NIA:** *"Spotting that? Just you. Eyes. What changed for her that year, I couldn't tell you. Ask her."*
+**Verdict: no magic — just you.** What happened in 1979 stays Rosa's.
+> **NIA:** *"Spotting that? No magic, just you. Eyes. What changed for her that year, I couldn't tell you. Ask her."*
 
 
 **6. The ACARS catch (first session, Flight 887, SFO to Taipei, a Tuesday night in late summer
@@ -107,7 +108,7 @@ Then the private slip. Never say anything about whether the father is alive.
 
 ## {{pc:2}}
 
-### {{pc:2}}'s naming (the first time she hears "That was you")
+### {{pc:2}}'s naming (the first time she hears "That was your magic")
 
 - **Kind of problem:** a body in trouble (cold, choking, injury, pain). **Second half,
   newly ruled:** feeling, in her own body, that something nearby was changed.
@@ -134,21 +135,21 @@ in the fireplace, a stack of wood and a box of matches that hadn't been there. T
 party remembered the room both ways and shrugged it off, blaming {{pc:4}}. The ranger
 came back later and said she'd stacked the wood herself before the storm. The wood
 lasted exactly until it was safe to leave.
-**Verdict: that was you.** This is the most likely first moment for her, so the
+**Verdict: your magic.** This is the most likely first moment for her, so the
 naming goes here.
-> **NIA:** *"Oh, that was you. Completely. And the bag too: you wanted everyone to make it, and the bag was part of you making it."*
+> **NIA:** *"Oh, that was your magic. Completely. And the bag too: you wanted everyone to make it, and the bag was part of you making it."*
 
 Then the naming. **Never voice** the ranger's story as a cover-up, and never use
-the double memory as proof. If someone raises the ranger stacking the wood: *"Then she stacked it. And it was you."*
+the double memory as proof. If someone raises the ranger stacking the wood: *"Then she stacked it. And it was still your magic."*
 
 **9. Rosa's stumble (sixth session, Live Oak Park Social Hall, Berkeley, Saturday 20 February
 2027).** *Not prompted; only if {{pc:2}}'s player asks.* At the dance, Rosa (79) went
 dizzy for half a second two people down the line, and {{pc:2}} moved before deciding to.
 {{pc:2}}'s player rolled very low, so it landed weakly: Rosa didn't fall, {{pc:2}} barely
 registered anything, and afterwards she wasn't sure she'd seen anything at all.
-**Verdict: that was you** (a free cast: in the shape that held, Rosa was never going
+**Verdict: your magic** (a free cast: in the shape that held, Rosa was never going
 down).
-> **NIA:** *"You weren't imagining it. That was you. Small one. They're allowed to be small."*
+> **NIA:** *"You weren't imagining it. That was your magic. Small one. They're allowed to be small."*
 
 
 **10. The grape (seventh session, Coyote Point, Saturday 13 March 2027).** Mei, just four, was
@@ -157,8 +158,8 @@ no prompt and no waiting for anyone, and the grape was out almost as soon as her
 were round Mei. Yui ran over in a panic, then sat down with {{pc:2}}, and the small talk
 helped them both. Afterwards {{pc:2}} completely lost her appetite, which is unlike her
 and which she noticed, and she expected to sleep badly *again*.
-**Verdict: that was you.** Her cost is visible here, so tie it in.
-> **NIA:** *"That was you. And then you couldn't eat, right? And the sleep. That's the bill."*
+**Verdict: your magic.** Her cost is visible here, so tie it in.
+> **NIA:** *"That was your magic. And then you couldn't eat, right? And the sleep. That's the bill."*
 
 **Banned aloud:** the DM-side gloss *"it had to happen, and she did it"*.
 
@@ -167,8 +168,8 @@ parent who asked *"are you the nurse?"* and left. He had a splinter the size of 
 toothpick in his hand. {{pc:2}} took it out easily with supplies from her satchel and
 disinfected it, and he cuddled up to her, still wincing now and then. The DM ruled
 that his pain stepping down was her cast.
-**Verdict: that was you.**
-> **NIA:** *"The splinter was nursing. The way it stopped hurting him? That was you."*
+**Verdict: your magic.**
+> **NIA:** *"The splinter was nursing. The way it stopped hurting him? That was your magic."*
 
 
 **12. ★ The Vacaville migraine, the driveway, the hum (fourth session, the drive to Sacramento
@@ -180,9 +181,9 @@ it eased: not gone, lighter, *"like the pressure just released."* Later, inside,
 DM privately gave her a low hum at the back of her skull. The hum came from Vivian's wind-up
 mantel clock in the same room, which {{pc:1}} asked about and Vivian hasn't touched
 since her husband died. {{pc:2}}'s player had suspicions even then.
-**Verdict: "that was you, noticing."** The hum gets "something in that room, I don't
+**Verdict: "your magic, noticing."** The hum gets "something in that room, I don't
 know what". Never say "the clock", and never "nobody knows".
-> **NIA:** *"That was you. Noticing, not doing. Your head goes when something nearby's been changed, and it lets go when you're standing right in it."*
+> **NIA:** *"That was your magic. Noticing, not doing. Your head goes when something nearby's been changed, and it lets go when you're standing right in it."*
 >
 > **NIA:** *"The hum? Something in that room. I don't know what."*
 
@@ -200,15 +201,15 @@ $1000."* Nothing happened. Her wallet still held her UCSF cafeteria card and $13
 "snake". {{pc:2}} ran over, picked up a big rock, and was ready to deal with whatever
 was in there, until the boy's father stepped out and explained it was the museum's
 rubber boa, which the kids handle.
-**Verdict: just you.**
-> **NIA:** *"With a rock? That's just you. I love that that's just you."*
+**Verdict: no magic — just you.**
+> **NIA:** *"With a rock? No magic. That's just you. I love that that's just you."*
 
 
 ---
 
 ## {{pc:3}}
 
-### {{pc:3}}'s naming (the first time she hears "That was you")
+### {{pc:3}}'s naming (the first time she hears "That was your magic")
 
 - **Kind of problem:** something erased; a record or a memory that's wrong.
 - **Trigger:** looking hard at a thing, wanting to see what's missing.
@@ -227,8 +228,8 @@ original, and when she concentrated on what was missing she began to see faint
 outlines of it. She used this all night. It led her to the framed copper print on the
 wall, then to the outline of where Annex 7 had been taken off even that print, and,
 on a high roll, to the real spot outside where that building had stood.
-**Verdict: that was you.** The likeliest first moment for her, so the naming goes here.
-> **NIA:** *"The outlines? {{pc:3}}, that was you. All of it. That's the clearest one I've heard today."*
+**Verdict: your magic.** The likeliest first moment for her, so the naming goes here.
+> **NIA:** *"The outlines? {{pc:3}}, that was your magic. All of it. That's the clearest one I've heard today."*
 
 
 **16. The wheelchair ramp (fourth session, Vivian's front walk).** *Only if {{pc:3}} raises it;
@@ -236,8 +237,8 @@ she kept it to herself and the others may not know.* Before anyone knocked at
 Vivian's, {{pc:3}} read something odd about the front walk. It was the outline of a
 wheelchair ramp that had once been built there and later taken down, for Vivian's
 late husband; the concrete pad is still there. She told no one.
-**Verdict: that was you.**
-> **NIA:** *"That was you. Something that used to be there. Same thing as the map."*
+**Verdict: your magic.**
+> **NIA:** *"That was your magic. Something that used to be there. Same thing as the map."*
 
 
 **17. The six shapes (fifth session, Caffè Strada, Berkeley, Monday 15 February 2027).** With
@@ -248,9 +249,9 @@ pages had been cut out, the biggest a run of six in the middle. Reading where th
 pages had been, she rolled 11: six schematic shapes standing in some relationship to
 each other, followed by writing. When she pressed harder it went fuzzy. Alaia wrote
 the whole thing off as new-age nonsense.
-**Verdict: the reading was her (that was you). What the sixth figure is: nobody
+**Verdict: the reading was her (your magic). What the sixth figure is: nobody
 knows.**
-> **NIA:** *"Reading the cut pages? That was you."*
+> **NIA:** *"Reading the cut pages? That was your magic."*
 >
 > **NIA (if asked about the sixth):** *"Who the sixth one is? Nobody knows. Not me. I don't think he knew either."*
 
@@ -263,7 +264,7 @@ nothing and a mild headache, and marked a stress. At seventh session she tried t
 been cut out of a baby-shower photo on Yui's board: she got only "a generic woman",
 little more than Yui had already said, and a mild headache. She didn't push again. The
 DM's read is that she connected the headache with trying and didn't say so.
-**Verdict: that was you, and that was your price.**
+**Verdict: your magic, and that was your price.**
 > **NIA:** *"Headache after? Every time you push? Yeah. That's what pushing costs you. You found that out on your own, didn't you."*
 
 (The cut photo itself was ordinary: Yui cut out a friend with scissors. If asked:
@@ -271,17 +272,17 @@ DM's read is that she connected the headache with trying and didn't say so.
 
 **19. The 36-second padlock (third session, Building 7 at Bodie).** The 1950s Yale padlock on
 Building 7. {{pc:3}} picked it in 36 seconds, a personal best.
-**Verdict: just you.**
-> **NIA:** *"Thirty-six seconds? That's just you. That's a little terrifying, and it's just you."*
+**Verdict: no magic — just you.**
+> **NIA:** *"Thirty-six seconds? No magic. That's just you. That's a little terrifying, and it's all you."*
 
 
 **20. "No erasures" (sixth session, Rosa's kitchen).** {{pc:3}} photographed every page of Rosa's
 ledger, with Rosa's permission. Almost in passing, she noticed it has not one erased
 entry, where every other old document she's handled in recent weeks had gaps. She
 doesn't know what it means. She hasn't checked {{pc:4}}'s three ledgers.
-**Verdict: just you, good eyes.** Don't explain what it means; if pressed, Nia doesn't
+**Verdict: no magic — just you, good eyes.** Don't explain what it means; if pressed, Nia doesn't
 know.
-> **NIA:** *"Just you. Good eyes. What it means, I don't know. Books like that are their own thing."*
+> **NIA:** *"No magic. Just you. Good eyes. What it means, I don't know. Books like that are their own thing."*
 
 
 **21. Kai.** *Private, never ruled aloud.* Only {{pc:3}} can bring him up; she hasn't told
@@ -297,9 +298,10 @@ Then the private slip. Nothing may back him up.
 ### {{pc:5}}'s naming: done live, at the hazard
 
 His naming comes **when the gull dives**, not from a past moment. The sequence: {{pc:5}}
-offers his moment (probably the piñata, #23), which gets "that was just you". Then the
+probably won't offer a moment himself, so the run-guide has three rungs to bring out the
+piñata (#23), which gets "no magic — just you"; if none lands, skip it. Then the
 gull dives at the egg puff waffle in {{pc:2}}'s hand. If he steps between them, Nia says "that was
-you" and names it (the run-guide has the scene).
+your magic" and names it (the run-guide has the scene).
 - **Kind of problem:** something coming at someone.
 - **Trigger:** he physically steps between. It works with the gun holstered; drawing
   it counts as aiming.
@@ -318,12 +320,12 @@ the same headlights. They felt watched. Then it simply lost interest: it drifted
 right, signalled and took the off-ramp, too cleanly, half a second too neat. Somebody
 said "huh", and nobody said anything else for a block. Ruled after the fact as {{pc:5}}'s
 first cast.
-**Verdict: that was you.**
+**Verdict: your magic.**
 > **DM:** *"{{pc:5}} — the night you left Bea's, the first time. The car that was behind you for three turns. What happened to it?"*
 >
-> **NIA (after the hazard):** *"That was you too. Your first one, I'd bet. Something coming at your people, and it went somewhere else."*
+> **NIA (after the hazard):** *"That was your magic too. Your first one, I'd bet. Something coming at your people, and it went somewhere else."*
 >
-> **NIA (if it comes up before the hazard):** *"That was you. Hold onto that. I think I know what yours is."*
+> **NIA (if it comes up before the hazard):** *"That was your magic. Hold onto that. I think I know what yours is."*
 
 > **INVENTED DETAIL (DM-only; the record doesn't say, and nobody remembers):** {{pc:5}} was
 > in the back seat by the rear window and turned round, squaring up to the headlights.
@@ -339,8 +341,8 @@ with his shoulder, bounced it off his heel and caught it in his teeth, and every
 cheered "MEZZANINE!". Later someone handed him a string and he stood there for minutes,
 unable to move, until he realised it was the piñata rope. When he pulled it up, the
 kids mostly milled round him instead of hitting the piñata.
-**Verdict: just you.** (He'd just performed for those same kids.)
-> **NIA:** *"They liked you. That's just you, {{pc:5}}. Honestly? That one's better."*
+**Verdict: no magic — just you.** (He'd just performed for those same kids.)
+> **NIA:** *"They liked you. No magic. That's just you, {{pc:5}}. Honestly? That one's better."*
 
 
 **24. Elena letting all five in (fourth session, Vivian's porch, Saturday 13 February 2027).**
@@ -350,8 +352,8 @@ exactly the wrong moment. He regrouped, leaned on the railing, said he'd rather 
 from a garden hose than intimidate her, and then quietly said the real thing: he'd
 driven hours and needed to see her for himself. Elena let all five in on a short
 leash. It was a successful CHA roll.
-**Verdict: just you.** (If he remembers his neck flaring that day: he slept badly.)
-> **NIA:** *"The railing thing? That's just you. Talking's yours. The magic's what happens around it."*
+**Verdict: no magic — just you.** (If he remembers his neck flaring that day: he slept badly.)
+> **NIA:** *"The railing thing? No magic, that's just you. Talking's yours. The magic's what happens around it."*
 
 
 ---
@@ -360,8 +362,8 @@ leash. It was a successful CHA roll.
 
 ### {{pc:4}}'s naming: he closes the game
 
-**His "that was you" list is empty**, and that is the point. Everything he offers gets
-"that was just you" or "nobody knows". Then Nia names his ability, and within minutes
+**His "your magic" list is empty**, and that is the point. Everything he offers gets
+"no magic — just you" or "nobody knows". Then Nia names his ability, and within minutes
 she leaves and forgets her tote, which sets up his reach.
 - **Kind of problem:** a specific person you can't get hold of.
 - **Trigger:** alone, saying their full name aloud, tapping the pipe.
@@ -382,9 +384,9 @@ the one who spotted the dates on the two documents and said why that gap would a
 attention. Ortiz turned
 back to him, genuinely surprised, said he wasn't as dumb as he'd made her believe and
 had actually done the arithmetic, and gave him the rest.
-**Verdict: just you.** This is the best "just you" in the game. Use it just before
+**Verdict: no magic — just you.** This is the best "no magic — just you" in the game. Use it just before
 his naming.
-> **NIA:** *"She changed her mind because you did the math. That's just you. Honestly, {{pc:4}}? That one's better than magic."*
+> **NIA:** *"She changed her mind because you did the math. No magic. That's just you. Honestly, {{pc:4}}? That one's better than magic."*
 
 
 **26. "Simon says" (seventh session, Coyote Point).** A tired mother drafted {{pc:4}} to run Simon
@@ -394,8 +396,8 @@ understand the rules, until he noticed they'd do whatever followed the key phras
 had them trip {{pc:5}} ("because Simon said so"). They dog-piled {{pc:5}} and had a blast; he
 switched to toddler rules (everything starts with "Simon says", everything is silly).
 Along the way one kid decided that "immolate" means "person".
-**Verdict: just you.**
-> **NIA:** *"Toddlers doing what Simon says is just… toddlers. That's just you, Simon."*
+**Verdict: no magic — just you.**
+> **NIA:** *"Toddlers doing what Simon says is just… toddlers. No magic. That's just you, Simon."*
 
 
 **27. The connector in his bag (first session, the SFO gate, then Flight 887).** The plane's
@@ -545,7 +547,7 @@ she has already worked it out and kept quiet. It turns her private guess into
 something said aloud. Ask it after #15.
 > **DM:** *"{{pc:3}} — at Bea's, when you tried to read the house, and again at Yui's photo board. How did you feel afterwards?"*
 
-**B3. {{pc:4}}, Ortiz changing her mind (#25).** The best "just you" in the game, and it
+**B3. {{pc:4}}, Ortiz changing her mind (#25).** The best "no magic — just you" in the game, and it
 sets up his naming: if the compliment lands first, *"yours is something you do"* is a
 promotion, not a consolation. Ask it at the start of his turn.
 > **DM:** *"{{pc:4}} — Park Station. Ortiz had written you off, and then she hadn't. What happened?"*

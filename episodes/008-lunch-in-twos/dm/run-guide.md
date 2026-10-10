@@ -13,7 +13,7 @@
 | **Scene 0** — the story so far, and snacks from Quickly | 10 min |
 | **Scene 1** — Nia, and the empty spot on the bench | 12 min |
 | **Scene 2** — the printer | 15 min · **never cut** |
-| **Scene 3** — "That was you" | 30 min · **never cut the gull or the five namings** |
+| **Scene 3** — "Magic, or just you?" | 30 min · **never cut the gull or the five namings** |
 | **Scene 3b** — *pre-cut:* a second round | 10 min · add back only before T+1:15 |
 | **Scene 4** — Nia leaves | 8 min |
 | **Scene 5** — {{pc:4}}'s reach | 10 min · **never cut** |
@@ -29,7 +29,7 @@
 
 **A picnic by a model-boat lake, where somebody finally tells them.** Nia Chen — the name on the index card that fell out of Bea's door — has been putting them off for six weeks. Today she shows up with a canvas tote, a bag of snacks and a battery printer, and **says it plainly: all five of you can do this.**
 
-**Then she shows them, and they show her.** A printer jams; {{pc:1}} says one sentence and five pages turn out to have printed. The pages are the rules. Over snacks, Nia gets them to tell her the strangest things that have happened since the plane, and gives each one of three answers: *that was you*, *that was just you*, or *nobody knows*. **By the end of the game, every one of them has been told what their magic is: what kind of problem it works on, what sets it off, what it costs, and where it stops.**
+**Then she shows them, and they show her.** A printer jams; {{pc:1}} says one sentence and five pages turn out to have printed. The pages are the rules. Over snacks, Nia gets them to tell her the strangest things that have happened since the plane, and tells them for each one whether it was *their magic*, *no magic — just them*, *somebody else*, or *nobody knows*. **By the end of the game, every one of them has been told what their magic is: what kind of problem it works on, what sets it off, what it costs, and where it stops.**
 
 **Then she leaves, and they do one on their own.** {{pc:4}} reaches her when she forgets her bag. The five pick a stranger with a small problem and help, together, and it works. **The season ends on them asking what the next thing would cost.**
 
@@ -49,7 +49,7 @@
 
 **What the players already believe.** After seven sessions they have concluded that pushing doesn't work: *"it happens when it happens."* Several of them already suspect they're doing something. Rosa, the old square dancer in Berkeley, half-told them she had met people who could do what they were learning to do. **So tonight is confirmation, not news.** Say it bluntly.
 
-**Spreckels Lake.** On the western side of Golden Gate Park, at 36th Avenue and Fulton. A rectangular lake built for model boats; the **San Francisco Model Yacht Club** keeps a clubhouse at one end and races radio-controlled sailboats on Saturday afternoons. Benches along the bank, ducks, geese, gulls that have learned what food looks like, a concrete turtle that real turtles sun themselves on, and **the bison paddock just across the road**. It's late March: **warm and clear.** **No security cameras** — Nia checked; it's why she picked it.
+**Spreckels Lake.** On the western side of Golden Gate Park, at 36th Avenue and Fulton. A rectangular lake built for model boats; the **San Francisco Model Yacht Club** keeps a clubhouse at one end and races radio-controlled sailboats on Saturday afternoons. Benches along the bank, ducks, gulls that have learned what food looks like, a concrete turtle that real turtles sun themselves on, and **the bison paddock just across the road**. It's late March: **warm and clear.** **No security cameras** — Nia checked; it's why she picked it.
 
 **Quickly.** The bubble-tea and snack shop on Irving Street (at 22nd Avenue). The players love it. On the way, they pick up snacks (Scene 0).
 
@@ -129,10 +129,26 @@
 
 ## Not tonight — what must not surface
 
-- **Why this group works.** If someone asks why the five of them can do it together when Nia says groups don't work, she shrugs: **"You five seem to be fine. I don't know why. Time, maybe."** And moves on.
+- **Why this group works.** If someone asks why the five of them can do it together when Nia says groups don't work, she shrugs: **"You five seem to be fine. I don't know why. Maybe because you knew each other before you knew about any of this. The rest of us only ever meet because of it."** And moves on.
 - **The words *needed*, *meant*, *chosen*, *so that*, about anyone.** Nia says "the person you're after", never "the person you need".
 - **Who did the flight, or why.** Nia doesn't know, and says so.
-- **Using "you remember it both ways" as proof that someone cast.** Nia may say she remembers both, as a wondering remark, *after* she has already said "that was you".
+
+### If someone asks how Nia knows so much about them
+
+**Somebody will.** She knows their names, that all five of them can do this, and what kind of thing each of them does, before they've told her. **The answer is Bea** — the woman with forty years of index cards, whose door Nia's card fell out of:
+
+> **NIA:** *"Bea. She's had a card on each of you since the Starbucks. She called me about you, back before she went quiet. Said there were five of you, and to expect a call."*
+
+**If they ask where Bea is:**
+
+> **NIA:** *"I don't know. I haven't heard from her since either."*
+
+**If they ask how she knows about things after Bea went quiet** (Mei-Mei's party, say):
+
+> **NIA:** *"You've been telling me all afternoon. And after a while you can just tell what kind of thing someone does, from how they tell it."*
+
+**For you only:** this is invented to fill a gap, not played canon; it is in the facts ledger (§52) so it stays consistent. **Nia never says more about Bea than this**, and never that Bea is safe — that's Bea's to say, if {{pc:4}} reaches her.
+- **Using "you remember it both ways" as proof that someone cast.** Nia may say she remembers both, as a wondering remark, *after* she has already said "that was your magic".
 - **Kai or {{pc:1}}'s father, aloud.** Either goes to a private slip: *"That one's yours. Tell me later, just us."* — and "later" is never tonight.
 - **That the page the printer ate was the friend's copy.** It was just page six.
 - **Any reason for the friend not coming** beyond her own: she hasn't wanted to see anybody lately.
@@ -151,11 +167,13 @@
 
 **Let them order in character, briefly.** They love this place. On the menu, among others: **spam musubi, egg puff waffles, salt-and-pepper tofu, fried baby octopus, popcorn chicken.** Drinks: **ice snow avocado, mango delight with pudding, osmanthus oolong, tiger milk tea, and an Oreo shake.** Whatever they order is what they're holding at the lake — **remember who has an egg puff waffle** (Scene 3).
 
-**The house special · 15 seconds · FINE TO SKIP.** If somebody orders tiger milk tea, the cashier says, with total confidence:
+**The house special · 15 seconds · FINE TO SKIP.** If somebody orders **mango delight with pudding**, the cashier says, with total confidence:
 
 > **CASHIER:** *"Good choice. That's always been the house special."*
 
-**Above the counter, the board says NEW THIS MONTH next to it.** Say nothing about it. If a player points it out, the cashier shrugs: *"Has it? Huh."* **Nobody at the table is involved, and it is nowhere near the printer** — that distance is what keeps it reading as "the world is like that" rather than "someone did that." It is the first thing to cut.
+**Above the counter, there's a sticker next to it on the board: BACK BY POPULAR DEMAND.** Say nothing about it. If a player points it out, the cashier shrugs: *"Has it? Huh."* **Why this drink:** the players love it, and in real life Quickly discontinued it a while ago — so in 2027 it's back, and the cashier swears it never left. **Nobody at the table is involved, and it is nowhere near the printer** — that distance is what keeps it reading as "the world is like that" rather than "someone did that." It is the first thing to cut.
+
+**If nobody orders mango delight,** the cashier can say the same about tiger milk tea, under a NEW THIS MONTH sign. It lands less: the players care less about that drink.
 
 ### The drive · 1 minute · told
 
@@ -189,7 +207,7 @@
 
 **Someone will say "but there's five of us."** Have it ready:
 
-> **NIA:** *"You five seem to be fine. I don't know why. Time, maybe."*
+> **NIA:** *"You five seem to be fine. I don't know why. Maybe because you knew each other before you knew about any of this. The rest of us only ever meet because of it."*
 
 **And move on.** Do not let her elaborate.
 
@@ -256,15 +274,25 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **If the player still freezes, ask out of character whether they want to, and if so, narrate the line for him.** The handouts come out of this scene one way or another.
 
-### The price — say it out loud, before anything happens
+### The price — Nia explains it, then you say it · **HAS TO HAPPEN**
 
-**The moment {{pc:1}} commits:**
+**Nobody has read the handout yet — it's still in the printer.** So this is the players' first look at how cost works: **Nia says it in her own words, then you say the price in the game's words.** About thirty seconds.
 
-> **DM:** *"{{pc:1}}, on your own, trying on purpose: that's Costly. A roll, and a stress."*
+**The moment {{pc:1}} commits, Nia stops him, half laughing:**
 
-**If a player asks why it's so expensive when he has the Flipper:**
+> **NIA:** *"Wait — before you do. It costs you. How much depends on how hard it'd be to believe afterwards. Nobody watching? Nearly nothing. But he"* (the yacht-club man) *"just said out loud that nothing came out. So now pages have to have come out while he watched nothing come out. That's a big one. And you're trying on purpose, on your own — trying makes it worse."*
 
-> **DM:** *"It's a big change. That man said out loud that nothing came out. And you're trying on purpose, on your own."*
+**Then you, out of character:**
+
+> **DM:** *"That's Costly: a roll, and a stress whatever you roll."*
+
+**If a player asks what that means, Nia answers in the fiction:**
+
+> **NIA:** *"Small ones, you just feel it in your body after. Big ones, you might not get it, and it takes it out of you either way."*
+
+**If someone asks why the Flipper doesn't help:**
+
+> **NIA:** *"It does. That's why it's not worse."*
 
 **Wait.** Somebody will offer to help.
 
@@ -281,6 +309,8 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 - **When two of them have each said their own reason**, say it like a fact:
 
   > **DM:** *"Cheap. No roll."*
+
+  > **NIA:** *"See? Now it's a small one."*
 
 - **If nobody echoes him naturally**, Nia does it for them, laughing:
 
@@ -313,7 +343,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Nia, quietly delighted:**
 
-> **NIA:** *"You said it, and it did. That was you."*
+> **NIA:** *"You said it, and it did. That was your magic."*
 
 **A beat. Then, as an afterthought, not as proof:**
 
@@ -335,24 +365,24 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ---
 
-## Scene 3 — "That was you" · 30 minutes · **never cut the gull or the five namings**
+## Scene 3 — "Magic, or just you?" · 30 minutes · **never cut the gull or the five namings**
 
 ### What you need to know (Scene 3)
 
-**This is the talk, but it is never announced as a game.** Nia asks them for the strangest things that have happened since the plane and gives one of three answers each time. **The repetition makes it a game.** Because it is never announced, you can stop it at any moment and nobody feels a game was cut off.
+**This is the talk, but it is never announced as a game.** Nia asks them for the strangest things that have happened since the plane and gives one of four answers each time. **The repetition makes it a game.** Because it is never announced, you can stop it at any moment and nobody feels a game was cut off.
 
 **Every past moment they are likely to raise is on the companion sheet, `past-moments.md`,** numbered, with what actually happened, the answer, and Nia's line. **Keep it open.** If someone raises something, find it, and say *"I'm on 14"* to yourself.
 
-**The four answers:**
+**The four answers.** The two that matter most sound alike if you're careless, so **always say the word "magic" in both**:
 
-- **"That was you."** Their magic. **The first time a player hears it, Nia goes on to tell them what their magic is** — what kind of problem it works on, what sets it off, what it costs, and where it stops. About ninety seconds; **{{pc:2}}'s and {{pc:4}}'s take closer to three minutes.**
-- **"That was just you."** Skill, nerve, charm or luck. **Always a compliment** — often the better answer.
+- **"That was your magic."** **The first time a player hears it, Nia goes on to tell them what their magic is** — what kind of problem it works on, what sets it off, what it costs, and where it stops. About ninety seconds; **{{pc:2}}'s and {{pc:4}}'s take closer to three minutes.**
+- **"No magic — that was just you."** Skill, nerve, charm or luck. **Always a compliment, and Nia means it as the better answer:** nobody can take it off you, it never costs anything, and it doesn't get you noticed.
 - **"Nobody knows."** Something strange happened, and nobody can tell who did it. **Only for the moments listed as "nobody knows" on the sheet.**
 - **"Not yours."** For something no one at the table did — Bea's card in the door, Nia's own text. One ordinary line: *"Oh, that was Bea."*
 
 **And one more, for when you know the answer and Nia doesn't:** she says **"I don't know."** Never "nobody knows" about something you know.
 
-**For anything not on the sheet:** if one of them *did* it, *"that was just you."* If it *happened to* them, *"not yours,"* in one line. **Never invent a new "that was you" or a new "nobody knows" at the table.**
+**For anything not on the sheet:** if one of them *did* it, *"no magic — just you."* If it *happened to* them, *"not yours,"* in one line. **Never invent a new "your magic" or a new "nobody knows" at the table.**
 
 **One big mystery per game.** The flight, the five strangers on it, the 1878 names at Bodie. The first time one comes up:
 
@@ -362,7 +392,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ### Nia opens it
 
-> **NIA:** *"Okay. Tell me the weirdest thing that's happened to any of you since that plane. I've got three answers, and you'll hear them a lot. 'That was you.' 'That was just you' — which is the better one, honestly. And 'Nobody knows.'"*
+> **NIA:** *"Okay. Tell me the weirdest thing that's happened to any of you since that plane, and I'll tell you what it was. Either it was your magic. Or it was no magic at all, just you — which is the better one, honestly; nobody can take that off you. Or it was somebody else. Or nobody knows."*
 
 **Go in this order: {{pc:1}}, {{pc:2}}, {{pc:3}}, {{pc:5}}, {{pc:4}}.** Ask each by name. **Anyone can offer a moment about someone else** — that makes it a conversation, and it rescues a quiet player.
 
@@ -382,7 +412,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Most likely she offers the fire in the Union Hall at Bodie** (sheet entry 8): trapped by the blizzard, she tore up her own satchel for kindling, cried *"I just want everyone to survive"*, and then the bag was whole, and there was a fire, and wood, and matches.
 
-> **NIA:** *"Oh, that was you. Completely."*
+> **NIA:** *"Oh, that was your magic. Completely."*
 
 **Then tell her what her magic is** — both halves. The lines are at the top of {{pc:2}}'s section on the sheet. **The second half is new to everyone:** her headaches. **Point it at today:**
 
@@ -392,7 +422,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 - **If she says yes, or isn't sure:** it was a low hum behind the eyes, gone in a second. (If nobody backed {{pc:1}} and the cast was Costly, it was a throb, not a hum.) Tell her so.
 - **If she says no:** use the drive to Vivian's instead (sheet entry 12): the migraine that flared near Vacaville, and the way it let go when she stepped onto Vivian's front walk.
 
-> **NIA:** *"That was you noticing. Not doing. It tells you that something near you just got changed. Never what. Never who. And you won't feel your own."*
+> **NIA:** *"That was your magic too — noticing, not doing. It tells you that something near you just got changed. Never what. Never who. And you won't feel your own."*
 
 **Where hers stops:** if anyone remembers her wishing for a thousand dollars in Bodie (sheet entry 13):
 
@@ -422,9 +452,23 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ### {{pc:5}} · 5 minutes · **HAS TO HAPPEN** · the high point
 
-**Ask him for a moment.** He will probably offer the piñata at Mei-Mei's party, where the smallest kids kept leaning on him instead of hitting it (sheet entry 23).
+**He probably won't offer anything on his own.** The warm-up is the piñata at Mei-Mei's party (sheet entry 23): the smallest kids kept leaning on him instead of hitting it. **It's optional — the gull is what matters.** One rung at a time:
 
-> **NIA:** *"That was just you. Kids know."*
+> **NIA:** *"{{pc:5}}. Anything weird around you lately? Anything at all."*
+
+**If he shrugs, ask the table.** Someone else may remember it for him:
+
+> **NIA:** *"Anyone seen something odd around {{pc:5}}?"*
+
+**Last rung — you, out of character:**
+
+> **DM:** *"{{pc:5}} — Mei-Mei's party. When you were holding the piñata rope, what were the little kids doing?"*
+
+**When it comes up:**
+
+> **NIA:** *"No magic. That was just you. Kids know."*
+
+**If nobody bites by the last rung, skip it** and go straight to the gull. Don't tell the piñata for him.
 
 **Then, straight away, the gull.** {{pc:2}} is holding something — an egg puff waffle if she bought one. **A gull lands on the back of the bench, looks at her hand, and drops, wings out, straight at it.**
 
@@ -434,7 +478,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **If he steps between them** — physically, holstered — **it veers off and takes a waffle box from the empty end of the bench.** Never a person, never the chewed page.
 
-> **NIA:** *"That was you."*
+> **NIA:** *"That was your magic."*
 
 **Then tell him what his magic is:**
 
@@ -448,17 +492,17 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **DM:** *"{{pc:5}} — the night you left Bea's, the first time. The car that was behind you for three turns. What happened to it?"*
 
-> **NIA:** *"That was you. Your first one, I'd bet."*
+> **NIA:** *"That was your magic. Your first one, I'd bet."*
 
-**Then the naming above, and add:** *"Next one that comes at her, stand in front of her."* (Scene 6 has a goose, if he wants a second chance.)
+**Then the naming above, and add:** *"Next one that comes at her, stand in front of her."* (Scene 6 has a loose dog charging at a toddler, if he wants a second chance.)
 
 **For you only:** nobody remembers where {{pc:5}} sat in the car that night. If anyone asks: **he was in the back, by the rear window, and he'd turned round and squared up to the headlights.** If a player remembers it differently, their version wins.
 
 ### {{pc:4}} · 5 minutes · **HAS TO HAPPEN** · last, on purpose
 
-**Ask him.** He may offer something; most of what he's done is charm, and charm is *"that was just you"* — always as a compliment. **If he offers nothing, give him this one** (sheet entry 25): at the police station, Detective Ortiz had written him off as the idiot of the group, until he beat everyone to what the dates meant, and she changed her mind out loud.
+**Ask him.** He may offer something; most of what he's done is charm, and charm is *"no magic — just you"* — always as a compliment. **If he offers nothing, give him this one** (sheet entry 25): at the police station, Detective Ortiz had written him off as the idiot of the group, until he beat everyone to what the dates meant, and she changed her mind out loud.
 
-> **NIA:** *"That was just you. That's the better one, by the way."*
+> **NIA:** *"No magic. That was just you. That's the better one, by the way."*
 
 **If his mayoral run comes up:**
 
@@ -556,7 +600,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **He says it. A minute later, a bell.** Nia, cycling back along the path, laughing:
 
-> **NIA:** *"Okay. Okay! That was you."* (She hooks the tote over the handlebars.) *"Go on then. Do one without me."*
+> **NIA:** *"Okay. Okay! That was your magic."* (She hooks the tote over the handlebars.) *"Go on then. Do one without me."*
 
 **And she's gone.** She takes the tote and the printer with her.
 
@@ -598,7 +642,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ### Look around · told
 
-> *"The lake. The little sails. A woman by the path, turning a soggy scrap of paper over and over. A jogger on the far side, stopped, holding her ankle. A goose that has decided a toddler near the water is its enemy, and keeps coming back. The next heat starts in a few minutes — you can hear the race officer counting down. Unless somebody wants to stop me."*
+> *"The lake. The little sails. A woman by the path, turning a soggy scrap of paper over and over. A jogger on the far side, stopped, holding her ankle. A big off-leash dog, all bounce and no manners, that keeps charging at a toddler by the water. The next heat starts in a few minutes — you can hear the race officer counting down. Unless somebody wants to stop me."*
 
 ### The strangers
 
@@ -606,7 +650,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 |---|---|---|---|---|---|
 | **The tourist** (the best fit) | She's holding the address where she's staying, written on a scrap that went in the lake. The ink has run. | {{pc:3}}'s — a record that's wrong | Costly | **Cheap** | Under the smear, it was readable all along. *"Oh — it was pencil."* {{pc:3}}: a mild headache. |
 | **The jogger** | Turned her ankle on the path. | {{pc:2}}'s — a body in trouble | Cheap (her release) | Cheap | *"Just a tweak."* She walks it off. {{pc:2}}: her appetite goes. |
-| **The goose** | It keeps charging a toddler at the water's edge. | {{pc:5}}'s — something coming at someone | Cheap (stepping in holstered isn't trying) | Cheap — backing changes nothing | It turns on an abandoned cup instead. {{pc:5}}: a bad night tonight, and his neck. |
+| **The loose dog** | A big off-leash dog keeps charging at a toddler by the water. | {{pc:5}}'s — something coming at someone | Cheap (stepping in holstered isn't trying) | Cheap — backing changes nothing | It veers off after a tennis ball instead. {{pc:5}}: a bad night tonight, and his neck. |
 | **A dead model yacht** | Mid-lake, sails slack. *"Battery was full this morning."* | {{pc:1}}'s — **only if nothing else suits; he had the printer** | Costly | **Cheap** | The sails fill. *"Must've been the plug."* {{pc:1}}: pins and needles. |
 | **An old man, late for his ride** | His daughter isn't answering. | {{pc:4}}'s — **alone only; his reach is never backed** | Cheap | — | She calls back: *"Dad, I'm at Stow Lake."* *"It's Blue Heron now."* |
 

@@ -19,7 +19,7 @@
 | 0 · Recap · Quickly · drive | 10 | 6 | **the recap page** |
 | 1 · Nia · the rule · the friend cancels | 12 | 8 | **"All five of you can do this"** |
 | 2 · **The printer** | 15 | 15 | **never cut** — the price said aloud, then the pages |
-| 3 · **"That was you"** | 30 | 15 | **the gull · all five named** |
+| 3 · **"Magic, or just you?"** | 30 | 15 | **the gull · all five named** |
 | 3b · *pre-cut:* second round | (10) | 0 | only before 1:15 |
 | 4 · Nia leaves | 8 | 4 | **"lunch in twos"** · the tote stays |
 | 5 · **{{pc:4}}'s reach** | 10 | 6 | **never cut** |
