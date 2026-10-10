@@ -6,131 +6,124 @@
 
 ## The short version
 
-Some people can hold an intention so firmly, under enough pressure, that the
-world rearranges slightly to accommodate it. **It is not a spell and there is no
-incantation.** It is wanting something specific, badly, at a moment when wanting
-it costs you something — and the world quietly turning out to have been the way
-you wanted.
+**The lucky things that kept happening around you were you.** There are no spells
+and no magic words. You want something specific, the world turns out to have been
+that way, and it costs you something.
 
-**You do not get a cast action on your sheet.** You describe what you want and
-why. The DM tells you what it would take.
+**Each of you has one kind of problem it works on** — Nia tells you yours, and gives you a slip. Outside
+it, nothing happens. **Talking someone round is never magic**: that's just you,
+and it's a normal roll.
 
 ---
 
-## What a change costs
+## How to do it
 
-Cost is not energy. **Cost is plausibility** — how much of what is already
-established would have to be untrue for your version to hold.
+1. **Say what you want**, in plain words: *"I want that door to have been unlocked."*
+2. **The DM tells you the price** — everything already counted; you never add anything
+   yourself. Asking is free, and you can always change your mind.
+3. **Go ahead, or don't.**
 
-Moving a thing nobody is looking at is nearly free. Changing something written
-down, filed, photographed, remembered, and cross-referenced is not.
+### The price
 
-| Tier | Roll? | What happens |
+| Price | What happens | What it costs you |
 |---|---|---|
-| **Free** | No | It simply turns out to have been so. |
-| **Cheap** | No (or a WIS check for show) | Works. Small ripples. |
-| **Costly** | 2d6 + WIS | **10+** clean · **7–9** works, but costs more than you expected · **≤6** fails, and still costs. Marks 1 stress. |
-| **Hard** | 2d6 + WIS at −1 to −2 | **10+** partial at best · **7–9** fails badly · **≤6** it goes wrong. Marks 2 stress. |
-| **Prohibited** | — | No. |
+| **Free** | It just turns out that way. | Nothing. |
+| **Cheap** | It works. | Your **body cost**. |
+| **Costly** | Roll **2d6 + WIS**. **10+** it works · **7–9** it works partly (the DM says how) · **6 or less** nothing changes. | Body cost **+ 1 stress**, whatever you roll. |
+| **Hard** | Roll **2d6 + WIS − 1**. **10+** it works · **7–9** partly · **6 or less** nothing changes, and something you didn't want turns out to be true (your focus might crack). | Body cost **+ 2 stress**, whatever you roll. **A long shot — for when it really matters.** |
+| **No** | Your magic can't do that. | — |
 
-**The same effect is not always the same tier.** Where you are, what is written
-down nearby, and who is watching all move the price. Ask.
+**What sets the price:** the more it looks like ordinary luck, the cheaper. The
+more people, cameras or records would have to be wrong, the more it costs. The
+same thing can cost more in a different place. **You won't always guess right, so
+ask.**
+
+**Your body cost** is how it feels in your body — it's on your slip (a hoarse
+voice, a headache, pins and needles…). It never changes a roll.
+
+**Roll first, then mark stress** — this try's stress never makes this roll worse.
 
 ---
 
-## Aiming costs a tier
+## Trying on purpose costs a step more
 
-Now that you know this is real, you will try. **Trying breaks intent.**
+Now that you know, you'll try — and trying gets in the way. **If you're choosing
+to use magic, the price goes up a step** (Free → Cheap, Cheap → Costly,
+Costly → Hard). For now, that's most of your tries. **The DM decides, and says so
+with the price:** *"On your own, trying on purpose: Costly."*
 
-> **A cast you are deliberately aiming resolves one tier worse.**
-> Free → Cheap · Cheap → Costly · Costly → Hard.
+**Not on purpose:** asking the price, or acting on instinct for someone in trouble.
 
-Things that happen *through* you without your aiming are unaffected — they cost
-what they always cost.
+**The extra step wears off**, for each of you separately, after a moment when it
+just happens without you trying. After that it's gone for good. Nobody can
+schedule it. You'll notice: the DM stops adding it.
 
-This is not permanent. It eases on its own, for each of you separately, and not
-on a schedule anybody controls.
+**Extra steps add up** (trying on purpose, forgetting your focus object, being
+Strained — see the back), **but never past Hard.** It never turns into a "No".
+The DM does this sum for you.
 
-## Supported casts
+### Unless two of you back it
 
-> **Aiming costs a tier — unless two of the others back you, each saying what
-> *they* get out of it. Three reasons, not three voices. "Me too" isn't a
-> reason.**
+> **Trying on purpose costs a step more — unless two of the others back you, each
+> saying what *they* get out of it. Three reasons, not three voices. "Me too"
+> isn't a reason.**
 
-At least two of the others have to be there with you, each saying in their own
-words what *they* get out of it. "Yeah, make it work" is an echo. "So I've got
-something to read on the bus" is a reason. If you only echo, the DM will ask you
-once what you get out of it, and take whatever you say. Your reasons can overlap;
-they just have to be yours.
+That's your reason plus one from each of them, **and they have to be there with you** — not on the phone. *"Yeah, make it work"* is an echo. *"So I've got something to read on the bus"*
+is a reason. If you only echo, the DM asks you once what you get out of it, and
+takes whatever you say. **Backers don't roll and don't take stress.** You can say
+no.
 
-Backing something means meaning it. You can decline.
+**But working together gets you noticed faster** — all of you. See "Being noticed".
 
-**One warning, and it is real:** working together this way is easier *and* it
-makes the two of you — the three of you, the five of you — much easier to notice.
-See below.
+---
+
+## Your focus
+
+**Your focus is the object your sheet says you always carry** (a Flipper, a pipe,
+a bag…). It's what makes your magic work as well as it does, and the prices the DM
+quotes already count it. **Without it on you,
+everything costs a step more.** A Hard try can crack it, fade it or change it.
 
 ---
 
 ## Stress
 
-| Box | |
+| Boxes | |
 |---|---|
-| 1 | **Tense.** No penalty. |
-| 2 | **Strained.** −1 to WIS rolls. |
-| 3 | **Frayed.** −2 to WIS rolls, and consequences pile up faster. |
-| 4 | **Broken.** You cannot do this at all until it comes down. |
+| 1 · **Tense** | No effect. |
+| 2 · **Shaken** | −1 to WIS rolls. |
+| 3 · **Frayed** | −2 to WIS rolls. |
+| 4 · **Broken** | You can't do magic at all, and −1 to every roll, until it comes down. |
 
-**What causes it:** casting at Costly or Hard · **holding an intention against
-intense social pressure** · witnessing something genuinely distressing.
+**You get stress from:** Costly and Hard tries · lots of small magic in one scene (from
+your third Free or Cheap try, roll 2d6 + WIS; 6 or less, 1 stress) · standing firm
+under heavy pressure · something genuinely awful.
 
-**What clears it:** a full night's real sleep · a meaningful conversation, or
-making something, or another person. One box at a time. **Never during a scene.**
+**It clears one box at a time:** a full night's real sleep · real time with
+someone, or making something. **Never in the middle of a scene.**
 
 ---
 
 ## Being noticed
 
-There is no meter for this and no number on your sheet. The DM will tell you, in
-the fiction, where you stand:
+The more you do, the more the world notices: not a person, not a plan, just
+friction. **There's no number for it.** The DM shows you in the story:
 
-| | What you'll notice |
+| | What it looks like |
 |---|---|
 | **Settled** | Nothing worth mentioning. |
 | **Noticed** | People remark on your lucky timing. |
-| **Watched** | Coincidences pile up around you specifically. Banks flag things. Friends ask. |
-| **Strained** | Casts keep not quite happening: an interruption, a witness, your own second thoughts. Casts are harder than their tier suggests. Nobody is doing this to you. |
-| **Seized** | Rare, and only after sustained overreach. |
+| **Watched** | Coincidences pile up around you, and get written down. Magic near what's been written down costs more. |
+| **Strained** | Things keep not quite happening — an interruption, a witness, second thoughts. Everything costs a step more. |
+| **Seized** | Rare. Everything is Hard at best. |
 
-It **eases with restraint** — roughly a step per quiet stretch, faster if you
-deliberately back off.
-
----
-
-## Foci
-
-A focus is an object that steadies a particular kind of intent — **it lowers the
-tier of a cast within the kind of thing it is good for, by one.** It does nothing
-outside that.
-
-**Each of you has your own kind of problem.** Casting outside it doesn't work at
-all.
-
-**You each already have one. You have had it the whole time.** Your sheet names
-what it is good for. How far it goes, you find out by using it.
-
-**Talking someone round is never this.** That is just you — roll for it. This is
-what happens *around* the talking: the thing charm can't explain.
-
-Foci can break, fade, or change when spent on the hardest casts.
+**It grows** with Costly and Hard tries and with backing each other. **It fades**
+when you lie low for a while.
 
 ---
 
-## Four things worth knowing
+## Worth knowing
 
-1. **Nobody is in charge of this.** There is no council, no register, no rules
-   body. There is nobody to appeal to.
-2. **It is not rare because it is special.** It is rare because it is hard to keep
-   hold of.
-3. **You cannot undo something by casting harder at it.**
-4. **Ask before you commit.** Describing what you want costs nothing. The DM will
-   tell you the price before you decide.
+- **Nobody is in charge of this.** No council, no rule book, nobody to appeal to.
+- **You can't undo something by trying harder.**
+- **Ask first.** It costs nothing.

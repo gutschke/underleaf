@@ -264,7 +264,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **If a player asks why it's so expensive when he has the Flipper:**
 
-> **DM:** *"It's a big change. That man said out loud that nothing came out. The Flipper takes it down a step; trying on purpose puts it back up."*
+> **DM:** *"It's a big change. That man said out loud that nothing came out. And you're trying on purpose, on your own."*
 
 **Wait.** Somebody will offer to help.
 
@@ -576,7 +576,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 | **His parents, or his uncle** | *"Cheap."* | They pick up. | 0 |
 | **Nia's friend** | ***"You don't have her name."*** Nia didn't give it. | — | — |
 | **The Ocean Beach teenagers** | *"You don't have surnames. You can text."* | Ren replies about the donations. | — |
-| **Somebody famous** | *"Hard. Roll at minus one, and two stress."* | A 10+ gets an assistant calling back. Anything less, nothing. | 2 |
+| **Somebody famous** | *"Hard. Roll at minus one, and two stress."* | **10+** the person calls back. **7–9** an assistant calls back. **6 or less** nothing, and his voice is gone until tomorrow. | 2 |
 | **Anyone dead, or gone** | ***"Hard. You can try."*** | **Nothing, on any roll:** *"You say the name. Nothing comes back. It just… doesn't land."* | 2 |
 | **Kai, or {{pc:1}}'s father** | **First ask that player, out of character:** *"{{pc:4}} wants to say that name. OK with you?"* If yes: ***"Hard. You can try."*** | Nothing, on any roll. The same line. | 2 |
 
@@ -606,8 +606,8 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 |---|---|---|---|---|---|
 | **The tourist** (the best fit) | She's holding the address where she's staying, written on a scrap that went in the lake. The ink has run. | {{pc:3}}'s — a record that's wrong | Costly | **Cheap** | Under the smear, it was readable all along. *"Oh — it was pencil."* {{pc:3}}: a mild headache. |
 | **The jogger** | Turned her ankle on the path. | {{pc:2}}'s — a body in trouble | Cheap (her release) | Cheap | *"Just a tweak."* She walks it off. {{pc:2}}: her appetite goes. |
-| **The goose** | It keeps charging a toddler at the water's edge. | {{pc:5}}'s — something coming at someone | Cheap | **Free** | It turns on an abandoned cup instead. |
-| **A dead model yacht** | Mid-lake, sails slack. *"Battery was full this morning."* | {{pc:1}}'s — **only if nothing else suits; he had the printer** | Costly | **Cheap** | The sails fill. *"Must've been the plug."* |
+| **The goose** | It keeps charging a toddler at the water's edge. | {{pc:5}}'s — something coming at someone | Cheap (stepping in holstered isn't trying) | Cheap — backing changes nothing | It turns on an abandoned cup instead. {{pc:5}}: a bad night tonight, and his neck. |
+| **A dead model yacht** | Mid-lake, sails slack. *"Battery was full this morning."* | {{pc:1}}'s — **only if nothing else suits; he had the printer** | Costly | **Cheap** | The sails fill. *"Must've been the plug."* {{pc:1}}: pins and needles. |
 | **An old man, late for his ride** | His daughter isn't answering. | {{pc:4}}'s — **alone only; his reach is never backed** | Cheap | — | She calls back: *"Dad, I'm at Stow Lake."* *"It's Blue Heron now."* |
 
 **Price it the way you did at the printer:** say it out loud first, ask each backer *"what do you get out of this?"*, take whatever they say.

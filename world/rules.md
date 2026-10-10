@@ -85,7 +85,7 @@ Healing is mostly fictional. Box 1 clears with rest. Box 2 needs days. Box 3 nee
 | Box | Description |
 |---|---|
 | 1 | **Tense** — wound up. No penalty. |
-| 2 | **Strained** — -1 to WIS-modified rolls (magic, perception, willpower). |
+| 2 | **Shaken** — -1 to WIS-modified rolls (magic, perception, willpower). *(Was "Strained" until 2026-10-10; renamed so it can't be confused with the thread-debt ladder's Strained.)* |
 | 3 | **Frayed** — -2 to WIS rolls; thread debt accumulates faster from any cast. |
 | 4 | **Broken** — cannot cast at all. -1 to all rolls until reduced. |
 
@@ -123,19 +123,37 @@ Combat is rare and lethal. PCs are mostly civilians.
 
 For the world rationale (The Quiet, plausibility, foci as cognitive anchors), see the campaign's design docs. The framework's mechanical interface is:
 
-| Tier | Roll? | Outcome |
-|---|---|---|
-| **Free** | No | Succeeds immediately. No thread debt. |
-| **Cheap** | No (or WIS check for show) | Succeeds, minimal thread debt. |
-| **Costly** | 2d6 + WIS | 10+ clean; 7-9 partial (works but at higher cost than expected); ≤6 fails + thread debt anyway. Auto-marks 1 stress. |
-| **Hard** | 2d6 + WIS with -1 to -2 penalty | 10+ partial only (the most consistent reading granted); 7-9 fail with major thread debt; ≤6 backlash. Auto-marks 2 stress. |
-| **Prohibited** | — | Not allowed. |
+### Pricing a cast — what the DM does at the table *(DM, 2026-10-10)*
+
+Say the price **before** anything happens. Asking the price is always free and is never aiming.
+
+1. **Is it this PC's kind of problem?** If not, **"No."** (see the last row below).
+2. **How plausible is it?** That gives the tier. **The focus is already built in**: every PC carries theirs. Without it, the price is one step dearer.
+3. **Add one step for each of:** aiming alone before their release (two others backing with their own reasons cancel this one) · no focus on them · the caster is Strained. **Hard is the cap** — stacking never turns a price into "No". Seized makes Hard the minimum.
+
+Watched records, anchor sites and strain relief are part of the step-2 judgement, not extra steps. **Roll first, then mark stress:** stress from this cast never penalises this cast's roll. Then pay:
+
+| Tier | Roll? | What happens | What it costs the caster |
+|---|---|---|---|
+| **Free** | No | It turns out to have been so. | Nothing. |
+| **Cheap** | No | It works. | Their **body cost** (below). |
+| **Costly** | 2d6 + WIS | **10+** works · **7–9** works only partly (default; or the DM picks: the body cost lasts until tomorrow, or someone remarks on it — a tally tick) · **≤6** nothing changes. | Body cost + **1 stress**, whatever the roll. |
+| **Hard** | 2d6 + WIS − 1 | **10+** works · **7–9** partly · **≤6** nothing changes, and one everyday thing the caster didn't want turns out to be so (+ a tally tick). The focus cracking, fading or changing can be that thing. | Body cost + **2 stress**, whatever the roll. |
+| **No** | — | Only for what magic can't do: off-domain, minds and persuasion, landing on a person, time travel. **Anything merely implausible is "Hard. You can try."** — a "No" must never tell the player *why* something is impossible. | — |
+
+**Body cost** = how the cast feels in this PC's body: pins and needles, a hoarse voice, a headache, lost sleep or appetite, a sore neck. It's on each PC's slip. **It never changes a roll and never stops stress clearing** — a bad night from a body cost still clears a box. Backers pay nothing.
+
+**Double dice on casts.** On a Hard roll, double 1s *is* the unwanted thing (not a second one). Double 6s on a Costly or Hard roll is a clean success — except where a rule says nothing comes back on any roll (an unreachable person). **They still roll, exactly like a famous person would** — skipping the roll would tell them which kind of Hard it was — and double 6s changes nothing there.
+
+**Rolls are WIS only** — skills don't add. **No "check for show"**: a roll that can't fail teaches nothing. Where precision matters, the cast is the price and a normal Insight roll reads the result.
+
+*(Changed 2026-10-10, DM: the body cost became the Cheap tier's price, matching what Ep 8 already did; the focus moved into the quoted price; Hard became a flat −1 with the standard bands (an expert pass found "12+ to work" on top of the −1 made a clean Hard cast 1 in 36 at WIS +1); "Prohibited" narrowed to "No" for what magic can't do; "WIS check for show" deleted. Earlier: Cheap = "minimal thread debt", Hard −1 to −2 with 10+ partial only.)*
 
 **Thread debt** is a soft narrative meter — not a number. The DM tracks the caster's current state on a five-step ladder and **narrates the state in fiction** so the player can perceive where they stand without referring to a sheet:
 
 | State | What the table sees |
 |---|---|
-| **Quiet** | Nothing notable. Few edits around the caster, and they settle without friction. |
+| **Settled** | Nothing notable. Few edits around the caster, and they settle without friction. |
 | **Noticed** | Small comments from NPCs about "lucky timing." The edits around the caster begin to show in what people notice. |
 | **Watched** | Odd luck piles up around the caster and gets written down: a bank flag, a friend's question, a photo. Each record is another fixed point, so casts nearby cost more. |
 | **Strained** | Friction. More and more often, the cheapest consistent outcome includes the cast not happening: an interruption, a witness, the caster's own reluctance. **It looks like resistance; nobody is resisting.** Casts in this state are harder than their tier alone suggests. |
@@ -147,13 +165,15 @@ For the world rationale (The Quiet, plausibility, foci as cognitive anchors), se
 
 The DM advances and retreats the state aloud in fiction, never by number: *"You're starting to feel watched."* *"Things have eased; nobody's mentioned your luck in a while."* The Skeptic player needs to see the cost; the Wonder Chaser needs the state to feel like part of the world. The ladder serves both.
 
-Debt **eases slowly** with restraint — typically one step per session of low-key behaviour, faster with deliberate withdrawal, letting the records around them go stale.
+**How it moves — a private DM tally, never spoken** *(DM, 2026-10-10)*. One tick per Costly or Hard cast, and per backed cast, **for everyone in it** — but backing that doesn't change the price isn't backing, and ticks nobody. **While Frayed, Cheap casts tick too.** **Three ticks = one step up. A quiet session (no ticks) = one step down** (faster with deliberate withdrawal, letting the records around them go stale). **Strained makes every cast a step dearer; Seized makes Hard the minimum.** The players only ever hear the step, in the fiction.
 
-**Foci** shift the plausibility tier of an in-domain cast down by one (Costly → Cheap, Hard → Costly; Prohibited stays Prohibited). Foci have a domain (emotion, systems/information, identity, motion, knowledge, etc.) and only apply within it. Foci can break, fade, corrupt, or transform when spent on Hard-tier casts.
+*(Changed 2026-10-10: the first step was "Quiet", too close to The Quiet; it is **Settled**, as the player handout already said. Before the tally the ladder had no rate, so it never moved at the table and backing was effectively free.)*
+
+**Foci** shift the plausibility tier of an in-domain cast down by one (Costly → Cheap, Hard → Costly; "No" stays "No"). **The DM quotes prices with the focus already included** (above); it only shows up when it's missing. Foci have a domain (emotion, systems/information, identity, motion, knowledge, etc.) and only apply within it. Foci can break, fade, corrupt, or transform when spent on Hard-tier casts.
 
 **Casts outside a PC's own kind of problem do not work** *(ruled 2026-10-09; facts-ledger §18, §50)*. An off-domain cast is not merely missing the focus discount: there is no effect, like a spell a character doesn't have. The DM may bend this creatively in an extraordinary moment.
 
-**Free / Cheap casting in rapid succession** triggers a stress check after the 3rd or 4th in a single scene (DM judgment, AI assist available). Roll 2d6 + WIS; miss marks a stress box. This is what limits cast-spamming organically.
+**Free / Cheap casting in rapid succession** triggers a stress check from the 3rd in a single scene (AI assist available). Roll 2d6 + WIS; miss marks a stress box. This is what limits cast-spamming organically.
 
 The runtime AI prompt bar serves as the DM's adjudication aid: the player describes a desired effect, the AI proposes a tier and the narrative threads that would make the change consistent, and the DM accepts, modifies, or overrides in seconds. The AI is *not* required — DMs running paper-only games adjudicate themselves.
 
@@ -192,7 +212,9 @@ For the sample campaign, PCs *can* cast from session one but do not know it. The
 
 1. **Accidental** (sessions 1-3): players have no cast action on their sheets; the DM may silently grant Free or Cheap effects to strong intent, attributed in fiction to luck. Tracked in a DM-private out-of-session log.
 2. **Realization** (per-PC, sessions 3-6, private): the DM shows the caster something the party missed. See "Realization mechanics" below for how this differs from a scripted table beat.
-3. **Aiming costs a tier** (from realization onward): a cast the PC is deliberately *aiming* resolves **one plausibility tier worse** (Free → Cheap, Cheap → Costly, Costly → Hard). Unaimed casts are unaffected.
+3. **Aiming costs a tier** (from realization onward): a cast the PC is deliberately *aiming* resolves **one plausibility tier worse** (Free → Cheap, Cheap → Costly, Costly → Hard; Hard stays Hard). Unaimed casts are unaffected.
+
+   **Aiming = reaching for magic, rather than acting for its own sake** *(DM, 2026-10-10)*. Asking the price is never aiming. Acting on instinct for someone in trouble is not aiming: Mars stepping in with the pistol holstered, Priya grabbing someone who's choking. Drawing the pistol is. **Mars's step-in is instinctive by construction** (DM, 2026-10-10): even a step-in he chooses ahead of time is unaimed while the pistol stays holstered — the strength is in not needing it. When in doubt, it's aiming if the player is choosing to *use magic*.
 
 The cost is framed in-fiction: *"Now that you know magic exists, you're trying. Trying breaks intent."* The end-condition is concrete and player-perceivable: the PC must experience **one quiet moment of release** — a calming conversation, an emotional acceptance, an unforced spontaneous cast they didn't aim for.
 
@@ -281,6 +303,6 @@ Not every domain fires the same way. Body/care, memory/identity, and systems/inf
 
 **Persuasion is never magic** *(ruled 2026-09-27, facts-ledger §50)*. Talking a person round is a CHA / Influence roll, for every PC. **Magic is what charm cannot explain.** Each PC owns a *kind of problem* the table can recognise: a body in trouble, and feeling nearby edits in her own body (Priya) · something erased or a record that's wrong (Mira) · a lock, machine, signal or system (Morgan) · something coming at someone (Mars) · a specific person you can't get hold of (Dakota). *(This retires the earlier "presence/posture domains need stance AND intent" trigger, which existed because two domains were indistinguishable from charisma.)*
 
-**Unreachable people (Dakota's domain) are always quoted "Hard. You can try."** — never Prohibited, because the quote itself would say which kind of unreachable they are. Fixed 2 stress, unaffected by focus; the result is nothing on any roll, and a failure carries no fiction. Dead, gone, unwilling and never-was must be indistinguishable. Full ruling in facts-ledger §50.
+**Unreachable people (Dakota's domain) are always quoted "Hard. You can try."** — never "No", because the quote itself would say which kind of unreachable they are. **His reach prices already include his aiming** (he always reaches alone, on purpose); after his release each is a step cheaper, except "Hard. You can try." Fixed 2 stress, unaffected by focus; the result is nothing on any roll, and a failure carries no fiction. Dead, gone, unwilling and never-was must be indistinguishable. Full ruling in facts-ledger §50.
 
 This arc is specific to Underleaf and would not apply to a Quire campaign with different cosmology.
