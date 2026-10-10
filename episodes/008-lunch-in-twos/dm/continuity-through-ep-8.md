@@ -3,7 +3,7 @@
 >
 > **Snapshot of the cross-campaign facts ledger as of Ep 8 prep.** The canonical version lives at [`../../../design/DM-ONLY/facts-ledger.md`](../../../design/DM-ONLY/facts-ledger.md); this snapshot exists for the DM's binder and print bundle. **Do not edit this copy — edit the master and re-snapshot.**
 >
-> **What is new since the last snapshot:** Ep 8 prep, revised 2026-10-10: magic pricing rulings; mango delight as the house special; Nia's answers carry the word magic; how Nia knows about the party (Bea).
+> **What is new since the last snapshot:** Ep 8 prep, revised 2026-10-10: magic pricing rulings; mango delight as the house special (sticker read aloud); Nia's answers carry the word magic; how Nia knows about the party (Bea).
 >
 > **Source uses `{{pc:N}}` template variables** per public-repo hygiene.
 
@@ -2995,7 +2995,7 @@ this wins.*
 - **The flattening drip, S1 #3:** at Quickly, the cashier says **mango delight with
   pudding** has *"always been the house special"*, under a sticker reading BACK BY
   POPULAR DEMAND *(DM, 2026-10-10: the players love it, and real-world Quickly dropped it
-  a while ago; tiger milk tea under NEW THIS MONTH is the fallback)*. It's a record
+  a while ago. The DM reads the sticker aloud with the menu, then never connects it to the cashier's line; if nobody orders it, the cashier pushes it on the last person in line)*. It's a record
   nobody checks, not a machine, so it doesn't rhyme with the printer. It's optional and
   the first thing cut. **If it's cut, S1 #3 is still owed.**
 - **Nia's authorless-cause line, revised** (the old one said "the world just doesn't

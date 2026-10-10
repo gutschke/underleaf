@@ -165,15 +165,19 @@
 
 > *"Saturday, a bit before noon. Quickly, on Irving at 22nd: the bubble-tea place, the one with the menu board that takes up a whole wall. The line's out the door, as always. Unless somebody wants to stop me."*
 
-**Let them order in character, briefly.** They love this place. On the menu, among others: **spam musubi, egg puff waffles, salt-and-pepper tofu, fried baby octopus, popcorn chicken.** Drinks: **ice snow avocado, mango delight with pudding, osmanthus oolong, tiger milk tea, and an Oreo shake.** Whatever they order is what they're holding at the lake — **remember who has an egg puff waffle** (Scene 3).
+**Read them the board, then let them order in character, briefly.** They love this place. **Say the sticker as part of the menu, in the same flat voice as everything else** — it's what sets up the house-special beat below:
 
-**The house special · 15 seconds · FINE TO SKIP.** If somebody orders **mango delight with pudding**, the cashier says, with total confidence:
+> *"The board: spam musubi, egg puff waffles, salt-and-pepper tofu, fried baby octopus, popcorn chicken. Drinks: ice snow avocado, osmanthus oolong, tiger milk tea, an Oreo shake — and mango delight with pudding, with a big yellow BACK BY POPULAR DEMAND sticker slapped on it."*
+
+Whatever they order is what they're holding at the lake — **remember who has an egg puff waffle** (Scene 3).
+
+**The house special · 15 seconds · FINE TO SKIP.** If somebody orders **mango delight**, the cashier says, with total confidence:
 
 > **CASHIER:** *"Good choice. That's always been the house special."*
 
-**Above the counter, there's a sticker next to it on the board: BACK BY POPULAR DEMAND.** Say nothing about it. If a player points it out, the cashier shrugs: *"Has it? Huh."* **Why this drink:** the players love it, and in real life Quickly discontinued it a while ago — so in 2027 it's back, and the cashier swears it never left. **Nobody at the table is involved, and it is nowhere near the printer** — that distance is what keeps it reading as "the world is like that" rather than "someone did that." It is the first thing to cut.
+**Don't connect the two** — no pause, no look, no "hm". The players heard the sticker thirty seconds ago; leave the noticing to them. If a player points it out, the cashier shrugs: *"Has it? Huh."* If nobody notices, that's fine too. **Why this drink:** the players love it, and in real life Quickly discontinued it a while ago — so in 2027 it's back, and the cashier swears it never left. **Nobody at the table is involved, and it is nowhere near the printer** — that distance is what keeps it reading as "the world is like that" rather than "someone did that." It is the first thing to cut: if you skip it, just read the board without the sticker.
 
-**If nobody orders mango delight,** the cashier can say the same about tiger milk tea, under a NEW THIS MONTH sign. It lands less: the players care less about that drink.
+**If nobody orders mango delight,** the cashier pushes it on whoever orders last: *"You sure? Mango delight's the house special. Always has been."* (Tiger milk tea could carry the same beat, but the players care less about it.)
 
 ### The drive · 1 minute · told
 
