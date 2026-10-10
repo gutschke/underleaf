@@ -70,7 +70,7 @@
 
 **Where it stops:** it opens the door. Getting them to talk is just you. Some people can't be reached, and it won't tell you why — it all sounds the same. Nothing.
 
-**Always alone.** Nobody can back this one.
+**Always alone.** Nobody can back a reach, so the others joining in doesn't change its price.
 
 **And don't go looking for someone's people unless they ask you to.**
 

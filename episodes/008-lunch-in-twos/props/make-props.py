@@ -62,6 +62,12 @@ def slip(name, paras):
     intro = [p.lstrip("> ") for p in paras + shared if is_intro(p)]
     mine = [p for p in paras if not is_intro(p)]
     rest = [p for p in shared if not is_intro(p)]
+    # A reach can't be backed, so the backing rule would contradict the slip.
+    if any(p.startswith("**Always alone.**") for p in mine):
+        backing = [p for p in rest if p.startswith("**Trying on purpose costs more**")]
+        if len(backing) != 1:
+            sys.exit("expected exactly one backing paragraph in 'For all five'")
+        rest.remove(backing[0])
     return (f'<div class="slip"><div class="to">What Nia told you &middot; {html.escape(name)}</div>'
             f'<div class="intro">{paras_html(intro)}</div>'
             f'<div class="ref">The details</div>{paras_html(mine + rest)}'
