@@ -775,7 +775,7 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >    trigger, cost, limit) the first time it is *your magic*. **{{pc:5}}'s hazard fires live
 >    during his turn.** The DM can run it for 5, 15 or 30 minutes, or cut it; every
 >    version names all five. Verdicts are pre-ruled (in the run-guide).
-> 4. **Nia leaves**, callable about the craft, *"two at a time, though."* She forgets her
+> 4. **Nia leaves**, callable about the craft: *"we have lunch in twos… I'll introduce you to the others, one at a time."* She forgets her
 >    tote.
 > 5. **{{pc:4}}'s reach** succeeds: by default Nia, for the tote (Cheap). Anyone else is
 >    allowed; the run-guide prices the alternatives. A Bea reach is optional and Cheap
@@ -890,13 +890,15 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 **She must deliver it** (it is load-bearing per her NPC file, `big-arc.md` §Hook to Act II, and invariant 5), **and Ep 8 is her last scheduled scene** — so it lands here or it needs a new carrier before Act II.
 
-> *"Don't try to meet more than two of us at a time. It stops working when there are too many of us in a room. I don't know why — nobody does — it just does."*
+> ***Revised 2026-10-10 (DM read-through + GM and canon reviews): it moved to Scene 4, as a description, not a rule.*** *The Scene 1 command ("Don't try to meet more than two of us at a time…") was contradicted by its own staging — six casters on one bench — read as a headcount limit on casting, and clashed with three reasons. Its job of pre-announcing the cancellation was retired 2026-10-09. Now, leaving: "We don't have a guild hall. We have lunch in twos. Call me. I'll introduce you to the others, one at a time." If asked why: strangers round one table "goes bad. Everyone gets wound up, nobody can hold onto what they came for" — psychological, per §45 A′. The run-guide's Scene 4 holds the full ladder. The paragraphs below are kept as the history of the decision.*
+
+> *"Don't try to meet more than two of us at a time. It stops working when there are too many of us in a room. I don't know why — nobody does — it just does."* *(superseded — see above)*
 
 **Say it BEFORE the second caster cancels.** Then the failure *confirms something she already told them* — practical advice borne out — rather than being staged as a demonstration she narrates afterwards.
 
 > **This resolves an apparent conflict in an earlier draft**, which said the sequence is *"no longer a demonstration about the network."* Both are true, because there are **two arms**: the **meeting failing IS about the network** (invariant 5, and she called it), and **the party's own small success is about the party** (and nobody calls that at all). The first is explained; the second is not. **That asymmetry is the point.**
 
-**She does NOT close the question about these five.** Per facts-ledger §45 her line about the party is a shrug she does not defend: *"You five seem to be fine. I don't know why. Maybe because you knew each other before you knew about any of this. The rest of us only ever meet because of it."*
+**She does NOT close the question about these five.** Per facts-ledger §45 her line about the party is a shrug she does not defend: *"You know each other, though. Every time I've seen it go bad, it was strangers. Maybe that's it. I don't know."* — and if they say they were strangers on the plane, *"Then I really don't know."* *(2026-10-10. Never "you knew each other before": false — they met as strangers on the flight — and it voiced §45.)*
 
 #### 3. THE MEETING CANNOT HAPPEN — re-pointed *(⚠ SUPERSEDED 2026-10-09: only the friend's cancellation survives; no softening, no failed cast)*
 

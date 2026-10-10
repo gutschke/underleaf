@@ -13,7 +13,7 @@
 | **Scene 0** — the story so far, and snacks from Quickly | 10 min |
 | **Scene 1** — Nia, and the empty spot on the bench | 12 min |
 | **Scene 2** — the printer | 15 min · **never cut** |
-| **Scene 3** — "Magic, or just you?" | 30 min · **never cut the gull or the five namings** |
+| **Scene 3** — "Magic, or just you?" | 30 min · **never cut the five namings, or the seagull that dives at a snack during {{pc:5}}'s turn** |
 | **Scene 3b** — *pre-cut:* a second round | 10 min · add back only before T+1:15 |
 | **Scene 4** — Nia leaves | 8 min |
 | **Scene 5** — {{pc:4}}'s reach | 10 min · **never cut** |
@@ -31,7 +31,7 @@
 
 **Then she shows them, and they show her.** A printer jams; {{pc:1}} says one sentence and five pages turn out to have printed. The pages are the rules. Over snacks, Nia gets them to tell her the strangest things that have happened since the plane, and tells them for each one whether it was *their magic*, *no magic — just them*, *somebody else*, or *nobody knows*. **By the end of the game, every one of them has been told what their magic is: what kind of problem it works on, what sets it off, what it costs, and where it stops.**
 
-**Then she leaves, and they do one on their own.** {{pc:4}} reaches her when she forgets her bag. The five pick a stranger with a small problem and help, together, and it works. **The season ends on them asking what the next thing would cost.**
+**Then she leaves** — telling them, on the way, how her people live: no guild hall, just lunch in twos. **That's a description of her world, never a rule for the five.** **And they do one on their own.** {{pc:4}} reaches her when she forgets her bag. The five pick a stranger with a small problem and help, together, and it works. **The season ends on them asking what the next thing would cost.**
 
 **Nobody fails tonight.** Nothing in this session is set up to go wrong. **Stress is zero unless a player pushes for something big.** It ends on a high.
 
@@ -41,7 +41,7 @@
 
 ## What you need to know before you start
 
-**Nia Chen.** Early thirties, Taiwanese-American, born in San Jose, lives in a small Mission apartment. Short hair she clearly cut herself. Worn Blundstones, a canvas tote she's had since college, a bike. Freelance UX researcher — **she carries a little battery printer for consent forms**, and it jams constantly. **Voice:** casual, quick to laugh, interrupts herself, uses your first name on the second sentence. **An older cousin, not a teacher.** She has done what they are starting and is glad they made it this far. **She knows the craft** — how it feels, what it costs, that pushing makes it refuse, that aiming costs more, that casting with people you know works. **She does not know** why the flight happened, what the ledgers are for, or what any of it means, and she says so without embarrassment.
+**Nia Chen.** Early thirties, Taiwanese-American, born in San Jose, lives in a small Mission apartment. Short hair she clearly cut herself. Worn Blundstones, a canvas tote she's had since college, a bike. Freelance UX researcher — **she carries a little battery printer for consent forms**, and it jams constantly. **Voice:** casual, quick to laugh, interrupts herself, uses your first name on the second sentence. **An older cousin, not a teacher.** She has done what they are starting and is glad they made it this far. **She knows the craft** — how it feels, what it costs, that pushing makes it refuse, that aiming costs more, that friends backing you with their own reasons takes that away. **She does not know** why the flight happened, what the ledgers are for, or what any of it means, and she says so without embarrassment.
 
 **How they reached her.** In mid-February an index card fell out of Bea's door with Nia's name and number on it. {{pc:3}} left a voicemail; Nia texted back and said yes to lunch, then named no day for a month. At the end of Mei-Mei's party she finally did — to {{pc:3}}'s phone: *"saturday the 27th, lunch, noon-ish? I'll send you where that morning. bring whoever."* A minute later: *"I was going to bring a friend but she hasn't really wanted to see anybody lately. we'll see."*
 
@@ -100,7 +100,7 @@
 
 **The add-back gate:** if the first round of the game (Scene 3) is finished and the clock reads **before 1:15**, offer a second round (Scene 3b). After 1:15, go straight to Nia leaving.
 
-**Never cut:** the printer · the gull · each of the five being told what their magic is · {{pc:4}}'s reach · the five's own cast · the last line.
+**Never cut:** the printer · the seagull diving at a snack in Scene 3 (it's {{pc:5}}'s first chance to step in) · each of the five being told what their magic is · {{pc:4}}'s reach · the five's own cast · the last line.
 
 **If you fall behind, in this order:**
 
@@ -129,9 +129,13 @@
 
 ## Not tonight — what must not surface
 
-- **Why this group works.** If someone asks why the five of them can do it together when Nia says groups don't work, she shrugs: **"You five seem to be fine. I don't know why. Maybe because you knew each other before you knew about any of this. The rest of us only ever meet because of it."** And moves on.
+- **Why this group works.** Nia guesses once, hedged, and moves on (Scene 4 has the lines). **Never let her say they knew each other before the plane** — they were strangers — **or that anything happened *because* of who they are.**
 - **The words *needed*, *meant*, *chosen*, *so that*, about anyone.** Nia says "the person you're after", never "the person you need".
 - **Who did the flight, or why.** Nia doesn't know, and says so.
+- **Using "you remember it both ways" as proof that someone cast.** Nia may say she remembers both, as a wondering remark, *after* she has already said "that was your magic".
+- **Kai or {{pc:1}}'s father, aloud.** Either goes to a private slip: *"That one's yours. Tell me later, just us."* — and "later" is never tonight.
+- **That the page the printer ate was the friend's copy.** (Nia sends six copies in Scene 2, "six, habit".) It was just page six.
+- **Any reason for the friend not coming** beyond her own: she hasn't wanted to see anybody lately.
 
 ### If someone asks how Nia knows so much about them
 
@@ -148,10 +152,6 @@
 > **NIA:** *"You've been telling me all afternoon. And after a while you can just tell what kind of thing someone does, from how they tell it."*
 
 **For you only:** this is invented to fill a gap, not played canon; it is in the facts ledger (§52) so it stays consistent. **Nia never says more about Bea than this**, and never that Bea is safe — that's Bea's to say, if {{pc:4}} reaches her.
-- **Using "you remember it both ways" as proof that someone cast.** Nia may say she remembers both, as a wondering remark, *after* she has already said "that was your magic".
-- **Kai or {{pc:1}}'s father, aloud.** Either goes to a private slip: *"That one's yours. Tell me later, just us."* — and "later" is never tonight.
-- **That the page the printer ate was the friend's copy.** It was just page six.
-- **Any reason for the friend not coming** beyond her own: she hasn't wanted to see anybody lately.
 
 ---
 
@@ -199,25 +199,13 @@
 
 > **NIA:** *"You know what. The things that kept happening. I'll show you in a sec, the printer's being dramatic."*
 
-### The one rule she gives them up front · **HAS TO HAPPEN**
-
-**Before her phone buzzes** — it matters that this comes first:
-
-> **NIA:** *"One thing, before I forget. Don't try to meet more than two of us at a time. It stops working when there are too many of us in a room. I don't know why. It just does."*
-
-**Someone will say "but there's five of us."** Have it ready:
-
-> **NIA:** *"You five seem to be fine. I don't know why. Maybe because you knew each other before you knew about any of this. The rest of us only ever meet because of it."*
-
-**And move on.** Do not let her elaborate.
-
 ### The friend cancels · **HAS TO HAPPEN**
 
 **A minute later, Nia's phone buzzes.** She reads it, and her face does one small thing.
 
 > **NIA:** *"She's not coming. That's okay."*
 
-**She picks her jacket up off the end of the bench and puts it on.** That is the whole beat. **Never connect it to the rule she just gave them** — her friend hasn't wanted to see anybody lately, and that is the reason. If a player asks who:
+**She picks her jacket up off the end of the bench and puts it on.** That is the whole beat. **Never connect it to anything about magic** — her friend hasn't wanted to see anybody lately, and that is the reason. If a player asks who:
 
 > **NIA:** *"A friend. Not mine to give. Give her a week."*
 
@@ -312,6 +300,8 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
   > **NIA:** *"See? Now it's a small one."*
 
+  **If a third or fourth wants to back him too, let them.** It doesn't make it any cheaper — two is enough — but everyone who backs is in it, and it counts toward being noticed for each of them. If asked: *"Two's enough. More is fine; it doesn't get cheaper."*
+
 - **If nobody echoes him naturally**, Nia does it for them, laughing:
 
   > **NIA:** *"If you'd all just said 'make it print', it'd still be Costly. What do you two actually want out of it?"*
@@ -365,11 +355,13 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ---
 
-## Scene 3 — "Magic, or just you?" · 30 minutes · **never cut the gull or the five namings**
+## Scene 3 — "Magic, or just you?" · 30 minutes · **never cut the five namings or the seagull**
 
 ### What you need to know (Scene 3)
 
 **This is the talk, but it is never announced as a game.** Nia asks them for the strangest things that have happened since the plane and gives one of four answers each time. **The repetition makes it a game.** Because it is never announced, you can stop it at any moment and nobody feels a game was cut off.
+
+**One thing happens in the middle of it, on purpose:** during {{pc:5}}'s turn, a seagull dives at the snack in {{pc:2}}'s hand. It's his chance to step in, and it's where he learns his magic. The details are under his turn below.
 
 **Every past moment they are likely to raise is on the companion sheet, `past-moments.md`,** numbered, with what actually happened, the answer, and Nia's line. **Keep it open.** If someone raises something, find it, and say *"I'm on 14"* to yourself.
 
@@ -494,7 +486,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **NIA:** *"That was your magic. Your first one, I'd bet."*
 
-**Then the naming above, and add:** *"Next one that comes at her, stand in front of her."* (Scene 6 has a loose dog charging at a toddler, if he wants a second chance.)
+**Then the naming above, and add:** *"Next one that comes at her, stand in front of her."* (He gets another chance in Scene 6.)
 
 **For you only:** nobody remembers where {{pc:5}} sat in the car that night. If anyone asks: **he was in the back, by the rear window, and he'd turned round and squared up to the headlights.** If a player remembers it differently, their version wins.
 
@@ -558,7 +550,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ### What happens (Scene 4)
 
-**Let them ask her things for a few minutes.** She answers the craft plainly and briefly: pushing makes it refuse; aiming on purpose costs more; casting with people you know works. **On anything bigger** — the flight, the ledgers, Bea, why — she says she doesn't know, and means it:
+**Let them ask her things for a few minutes.** She answers the craft plainly and briefly: pushing makes it refuse; aiming on purpose costs more; two of the others backing you, each with their own reason, takes the extra step away. **On anything bigger** — the flight, the ledgers, Bea, why — she says she doesn't know, and means it:
 
 > **NIA:** *"No idea. Honestly. I just know the part with my hands."*
 
@@ -568,11 +560,41 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Then she checks the time.**
 
-> **NIA:** *"I've got to go. Okay — we don't have a guild hall. We have lunch in twos. Call me. Two at a time, though."*
+> **NIA:** *"I've got to go. Okay — we don't have a guild hall. We have lunch in twos. Call me. I'll introduce you to the others. One of them, one of you, over lunch."*
 
-**If someone asks whether "two at a time" means they can only cast in pairs:**
+**"Lunch in twos" is how her people live, not a rule for the five.** Don't add to it. Only if someone asks, one rung at a time:
 
-> **NIA:** *"No — that's about meeting people like me. When you five cast, it's three reasons, like on the page."*
+**"Why twos?" / "Why one at a time?"**
+
+> **NIA:** *"Put a bunch of us round one table who don't know each other, and it goes bad. Everyone gets wound up, nobody can hold onto what they came for. I don't know why. It just does."*
+
+**"Goes bad how?"**
+
+> **NIA:** *"Tense. Arguing. Like a dinner party where everyone's had a bad day. Nobody gets anything done for a week."*
+
+**"Why didn't it go bad with you, just now?"**
+
+> **NIA:** *"One of me's fine. One new face, two. It's a whole table of people who don't know anybody."*
+
+**"Then why were you bringing your friend?"**
+
+> **NIA:** *"She was coming for me, not you. Doesn't matter now."* **Her reason for not coming stays her own** — never connect it to this.
+
+**"But there's five of us."**
+
+> **NIA:** *"You know each other, though. Every time I've seen it go bad, it was strangers. Maybe that's it. I don't know."*
+
+**"We were strangers on the plane."**
+
+> **NIA:** *"Then I really don't know. That's the big one — nobody knows."*
+
+**"So can we only cast in pairs?"**
+
+> **NIA:** *"No. That's just lunch. Your thing's on the page: three reasons."*
+
+**Anything further:** *"No idea. Honestly. I just know the part with my hands."* Then she goes.
+
+**For you only:** the threshold is real — one or two new faces with people who know each other is fine; a table where nobody knows anybody goes bad. **It goes bad as people, never as magic:** tension, arguing, nobody able to concentrate. The deeper reason is DM-side and is never said, in whole or in part. Her guess stays a guess about people, never about the magic and never about *why these five*.
 
 **She unlocks the bike and goes.** **Say it out loud: the tote is still on the bench, under the printer.** Nobody needs to notice yet.
 
