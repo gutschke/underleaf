@@ -164,6 +164,23 @@ resume. Expires at Act III sub-phase 4.
 must recur once per act as a dead end that stays dead**, or the theory goes cold
 and detonates nothing.
 
+**(h) At most one deliberate new name per episode** *(DM; written into canon
+2026-10-09, having lived only in private notes)*. PROTECTS: the players' patience;
+they are weary of a new name each session. SCOPE: proper nouns the DM introduces on
+purpose; background people stay unnamed, and existing NPCs or ones a PC reaches for
+are preferred. RELEASE: loosens when an act needs a new cast of characters (Act
+II's network); revisit at each act hinge.
+FAILURE TELL: players asking "who's that again?" about someone from last session.
+
+**(i) Bans still owed a RELEASE** *(found by the Ep 8 panel, 2026-10-09)*. Each needs
+a release or a written justification for permanence at the next planning cycle in
+which it is consulted: the *needed* ban (facts-ledger §44; a corollary of §3 #1, so
+probably permanent, but say so); §45 C′ ("never append 'and that is why it is this
+group'"); the ACARS "never cited" ruling; Ep 12's former caster stays unnamed (B4);
+Ep 7's "never line up" the three coincidences (§49); the sixth figure (§21, §43).
+**Released at Ep 8:** domains hidden; the PCs' deniability about their own hands;
+(f) above; Priya's sensing "never voice" (§30).
+
 ---
 
 ## 5. Rules that were being obeyed as ritual
@@ -257,8 +274,8 @@ spotlight:**
 
 - **Ep 7 opening: {{pc:4}} calls Ortiz.** The need arrives in the fiction (Reggie's text about Yui's write-up) and the card is on the table; the prompts escalate from an open question to *"Just say 'I call Ortiz'"* only if nobody calls, and the chat post names the call afterwards so they know they used it. She is not a caster,
   so she cannot confirm anything. Her one sensitive topic has a clean refusal that
-  also teaches the limits: *"That's {{pc:1}}'s case. He can call me."* It rehearses
-  the phone call {{pc:4}} has to make in Ep 8. **Do not stage a plain-versus-
+  also teaches the limits: *"That's {{pc:1}}'s case. He can call me."* It rehearsed
+  the phone call {{pc:4}} was to make in Ep 8 (that call was superseded 2026-10-09). **Do not stage a plain-versus-
   performed test with her; that is Nia's job in Ep 8.**
 - **Between Eps 8 and 9, by text: {{pc:2}} and Alaia.** Only after Nia has spoken,
   because Alaia must not confirm the network first.

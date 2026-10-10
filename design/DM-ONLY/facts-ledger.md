@@ -72,7 +72,8 @@ Structure of each fact section:
 - [§47 Rulings of 2026-09-24](#47-rulings-of-2026-09-24) — **Yui held {{pc:4}}'s bag** (connector in it; he kept the anti-static bag); **the party and Reggie can reach each other** (numbers swapped at the In-N-Out)
 - [§48 Ep 7 prep canon](#48-ep-7--canon-set-in-prep-before-play-2026-09-24) — Coyote Point; Yui and Mei-Mei; the cropped photo; **Nia names Sat 27 March, noon**; the cake; Mira's headache is a body cost
 - [§49 Ep 7 played](#49-ep-7-played--the-fourth-birthday-2026-09-26) — all five arc-nodes fired; **the table has intuited the aiming rule (read before the finale)**; Mezzanine; the phone videos; Reggie's degree; three held-open coincidences
-- [§50 Mars and Dakota re-domained — RULED 2026-09-27](#50-mars-and-dakota-re-domained--ruled-2026-09-27) — **persuasion is never magic**; Mars = posture / protection, Dakota = speech / reach; Elena's door was a CHA roll; Ep 2's tailing car was Mars's first cast; unreachable people are uniform; **Bea is in Sacramento with her daughter (DM-only)**; Ep 8 is an explicit reveal
+- [§50 Mars and Dakota re-domained — RULED 2026-09-27](#50-mars-and-dakota-re-domained--ruled-2026-09-27) — **persuasion is never magic**; Mars = posture / protection, Dakota = speech / reach; Elena's door was a CHA roll; Ep 2's tailing car was Mars's first cast; unreachable people are uniform; **Bea is in Sacramento with her daughter (DM-only)**; Ep 8 is an explicit reveal; **amended 2026-10-09**: Dakota reaches Nia by default, Bea reach optional and Cheap, Priya's sensing in her domain
+- [§51 Why Ep 8 was cheap — DM head canon](#51-why-ep-8-was-cheap--dm-head-canon-never-voiced-not-even-by-nia-dm-2026-10-09) — block universe, no before/after an edit; never name a fixed point the party is the answer to; never voiced
 - [§45 Why this group holds — DM-side, never voiced](#45-why-this-group-holds--dm-side-never-voiced-2026-08-30) — collision is stress not price; factions ARE the contest; **it held**; fading by non-replacement
 - [§44 Why the party exists — RULED, mostly rejected](#44-why-the-party-exists--ruled-mostly-rejected-2026-08-30) — **the cheapest-arrangement proposal, audited and cut down**; what the DM holds instead; the sentence never said; **Rosa chose**
 - [§36 The archivist-succession mechanic (canon invariant)](#36-the-archivist-succession-mechanic--canon-invariant) — **cross-referenced from §2** — archivists never meet or train predecessors; index-cards-vs-ledgers division of labor
@@ -453,13 +454,13 @@ This is **Companion** — the campaign's AI antagonist per big-arc.md Act III. P
 
 **What the DM must know:**
 
-Priya has body/care caster affinity (her focus domain). The migraines are her intake channel priming — subtle substrate-sensitivity flares that correspond to specific ambient events. Each migraine date should correspond in the DM's private log to a network cast nearby, a substrate-adjustment involving her name-matched 1878 counterpart (§1), or her own proto-cast.
+Priya has body/care caster affinity (her focus domain). The migraines are her intake channel priming — subtle substrate-sensitivity flares that correspond to specific ambient events. Each migraine date should correspond in the DM's private log to a network cast nearby. *(Amended 2026-10-09: two clauses deleted. "A substrate-adjustment involving her name-matched 1878 counterpart" treated the roster names as real people, against §39. "Or her own proto-cast" contradicted §30: she never feels her own casts. Her two pre-plane migraines are NOBODY KNOWS.)*
 
-**Track dates when Priya's player names them.** If she mentions "I had a bad one on the 12th," privately note it as a potential accidental-cast trigger. Ep 5-6 realization beat: Priya connects the dates to events (a Bea-visit day, a Yui-check-in day, an unusual news story about a "lucky escape") and realizes the pattern.
+**Track dates when Priya's player names them.** If she mentions "I had a bad one on the 12th," privately note it as a sign of an edit nearby (never her own cast). Ep 5-6 realization beat: Priya connects the dates to events (a Bea-visit day, a Yui-check-in day, an unusual news story about a "lucky escape") and realizes the pattern.
 
 **Fire-by:** Ep 5-6 realization beat; per-PC.
 
-**Never voice at the table** before her personal realization beat lands: the mechanism. Do NOT hint that migraines correlate with anything.
+**Never voice at the table** before her personal realization beat lands: the mechanism. Do NOT hint that migraines correlate with anything. **Released at Ep 8 (2026-10-09):** Nia states it plainly. Still never what or who.
 
 **Risk if unresolved:** small — but if unwritten, a Priya-specific arc beat gets improvised inconsistently. Track dates carefully.
 
@@ -567,13 +568,15 @@ Mira's ability is her Phase-1-accidental cast pattern manifesting as a **specifi
 
 The radio beat is straight skill — Morgan is a hacker/tech PC with high INT + Insight. No cast; normal skill success.
 
-The shoe-size beat IS a subtle Phase-1 accidental cast in Morgan's domain (systems/information). Morgan's focus is the Flipper Zero; his domain is systems/information/signals. Knowing a specific data-point about another PC that shouldn't be legibly knowable is exactly the kind of "small information nudge" his casting domain would produce. He accessed the fact from — what? A social-media post Dakota made about running shoes months ago? Dakota mentioning it in the war-thunder voice chat once? The substrate settled on "he just remembered it," which is the cheapest possible attestation for a piece of data the story needed him to have.
+The shoe-size beat IS a subtle Phase-1 accidental cast in Morgan's domain (systems/information). Morgan's focus is the Flipper Zero; his domain is systems/information/signals. Knowing a specific data-point about another PC that shouldn't be legibly knowable is exactly the kind of "small information nudge" his casting domain would produce. He accessed the fact from — what? A social-media post Dakota made about running shoes months ago? Dakota mentioning it in the war-thunder voice chat once? What held was "he just remembered it," the cheapest possible attestation for that piece of data.
+
+> **2026-10-09 (DM): still a cast, but borderline.** §50 narrowed Morgan's domain to locks, machines, signals and systems, and off-domain casts are now disallowed. A generous DM reads knowing the "technical specs" of a physical object, such as a shoe, as just inside *deeply understanding machines*. Not prompted in Ep 8. If a player raises it, Nia says *"That was you."*
 
 **Story consequence:** Morgan has now had his first accidental cast without knowing it. Log the pattern. When his Phase-2 realization beat lands (later, per-PC), his cast domain will include "small factual intuitions that turn out to be true."
 
 **Fire-by:** the Phase-2 realization beat per PC lands sessions 3-5 (per big-arc.md Act I). Morgan's first is now on the log. Priya's is stronger (§18 below). Mira's is her §16 above.
 
-**Never voice at the table:** that this is a cast. Present as "you just knew" and let it sit.
+**Never voice at the table:** that this is a cast. Present as "you just knew" and let it sit. *(Released at Ep 8, only if a player raises it; see the note above.)*
 
 ### 18. Priya's accidental cast — "I just want everyone to survive"
 
@@ -1137,7 +1140,7 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 - **Migraine (throbbing pressure behind eyes)**: nearby Costly-tier or higher casts, a substrate-sensitive person in body-crisis (Vivian's syncope), or ambient substrate over an extended approach (approaching an anchor-adjacent site). Bad enough to send her home from work.
 - **Debilitating (nausea, can't function)**: nearby Hard-tier casts or anchor-site permeability events firing loudly. Rare; use once per act at most.
 
-**Not stress. Not empathy. Not retro-causal in any meaningful sense.**
+**Not stress. Not empathy. Part of her domain (DM, 2026-10-09):** she feels edits; feeling them changes nothing. **Primarily passive, but she may cast it on purpose**, like a *detect magic* spell: an ordinary in-domain cast at the usual price. If she felt no passive cue, an active scan usually finds nothing. It isn't invalid, just often pointless. **Either way it tells her THAT, never WHAT or WHO.** If it ever named who cast, it would become a test of authorship and could be pointed at Ep 1.
 
 **Firing rules — keep signals rare and meaningful, not constant.** Fires only when ALL of these hold:
 - **Real substrate event nearby** — a Cheap-tier or higher cast by another PC or network NPC, an anchor-site permeability moment, OR a substrate-sensitive person in a body-crisis (like Vivian's syncope). Ambient substrate texture also qualifies (approaching a substrate-adjacent location while it's active).
@@ -1156,7 +1159,7 @@ Priya's migraines are **body-level substrate-sensitivity** — a passive intake 
 
 **Fire-by:** Priya's Phase-2 realization beat, Ep 5–6, when she articulates the pattern to another PC. Between now and then, keep noticing but never explain. Track migraine dates in a DM private log; watch for the moment Priya's player draws the through-line herself.
 
-**Never voice at the table:** the mechanism. Do NOT hint that migraines correlate with anything before her realization beat.
+**Never voice at the table:** the mechanism. Do NOT hint that migraines correlate with anything before her realization beat. **Released at Ep 8 (2026-10-09):** Nia states it plainly. Still never what or who. The "one event per line" rule below stays as delivery advice.
 
 **Risk if unresolved:** if the migraine mechanic is used inconsistently (e.g., firing on Free-tier casts, or firing on empathy alone), the eventual realization beat lands muddled. Discipline matters.
 
@@ -1393,6 +1396,9 @@ If the DM improvs a *different* answer at the table when Mira first asks about K
 ### Cross-reference — Kai and the multi-cause frame
 
 Kai's erasure is one of the campaign's held-open mysteries (see [`big-arc.md`](big-arc.md) §Act I "First revelation" — DM's fuller reading-list). The default-lost stance above does NOT commit to a specific *cause* for Kai's erasure, only to the fact that Mira can't reach him. Causes the DM privately holds open (never voice; never confirm):
+
+> ⚠ **SPECULATIVE, DANGEROUS, AND CURRENTLY CONTRADICTORY (DM, 2026-10-09).** This list is a **working draft**, kept because a later episode may want to elaborate on Kai's story. Nothing more. **§42 (later) rules that the reasons were edited out with him, and says "do not give him a cause"; this list contradicts that.** No conclusion was ever reached, and real risks were noted: a cause turns Kai into an investigation arc, and the second bullet's wording gives the world a purpose. Never cite it as canon. If a story ever needs it, rework it against §42 and the block framing (§51) first.
+
 - Kai was the collateral cost of some other substrate accommodation off-stage — no one arranged it, no one benefits, he was simply the cheapest thing to unmake.
 - Kai's erasure was retrocausally required by a Mira-in-her-future action — something Mira will do (perhaps in Act III) whose necessary shape required that she grew up alone-remembering. The world removed him earlier because it will (later) need her to have this specific pattern of holding.
 - A caster unrelated to the Sun family, unconscious, network-adjacent, reached out for reasons the substrate settled cheaply into Kai's removal.
@@ -1820,7 +1826,7 @@ happened, with no claim about why.
 | Magic is fading, no judgement | **Rosa** — genuinely at peace with the going. A person who watched it leave and does not think it a tragedy *is* the clause, as character. |
 | Casters resist alone, unthanked | **The Act II former caster.** They did not lose it randomly; they **spent** it. Nobody knew, nobody thanked them, they don't want it back. |
 | Groups dissolve | Show it at NPC scale first: the network is lunch in twos — **let them meet the surviving half of a former twosome**, with no reason given. |
-| One person cannot do it | **Ep 8.** They fail at five; then something small *works* when three commit out loud. Do not explain it. Let them notice by Ep 10. |
+| One person cannot do it | **Ep 8: three reasons, not three voices — said aloud, and seen to move a price. Season 2 uses it. Why it works waits for Act III.** *(Replaced 2026-10-09. The old line, "they fail at five… let them notice by Ep 10", taught the headcount, not the reasons; see `world/rules.md` §Supported casts.)* |
 
 **The one scene that must never exist** is an NPC telling the party they are the
 cheapest available arrangement. It is unstageable — which is the diagnosis.
@@ -2699,7 +2705,7 @@ wins.***
 - **{{pc:5}}: realization at the piñata** (the slip was delivered). The kids
   milled round him instead of hitting it. *({{pc:5}} handled it — confirmed.)* **Caveat for later:** he had
   just performed for those same kids (Mezzanine), so ordinary celebrity is a
-  sufficient reading — which keeps it held open, and is fine.
+  sufficient reading — which keeps it held open, and is fine. *(**Superseded by §50:** the piñata stays texture; in Ep 8 it is "that was just you".)*
 - **{{pc:1}}: the cake**, fixed with a food-safe Sharpie, because he noticed a
   four-year-old's distress that the adults had waved away. **Mei gave him a "high
   four".** The father thread breathed — he volunteered that his father is missing,
@@ -2777,7 +2783,7 @@ charm cannot explain.** Each PC owns a *kind of problem*:
 
 | Problem | Whose |
 |---|---|
-| a body in trouble (choking, cold, injury, illness) | {{pc:2}} |
+| a body in trouble (choking, cold, injury, illness) — and feeling, in her own body, when something nearby has been changed *(2026-10-09)* | {{pc:2}} |
 | something erased; a record or memory that's wrong | {{pc:3}} |
 | a lock, machine, signal or system | {{pc:1}} |
 | **something coming at someone** | **{{pc:5}}** |
@@ -2806,7 +2812,7 @@ charm cannot explain.** Each PC owns a *kind of problem*:
   land on the nearest willing person. *Unreachable* (dead, gone, decided not to be
   found, the world attests they never existed, story-sealed): **always quoted
   "Hard. You can try."**, never Prohibited · **fixed 2 stress**, not reduced by
-  focus or support · **nothing on any roll** · **a failure carries no fiction**
+  focus (his reach is never backed: the trigger is *alone*; 2026-10-09) · **nothing on any roll** · **a failure carries no fiction**
   (*"You say the name. Nothing comes back. It just… doesn't land."*). **Players can
   learn someone is unreachable, never which kind.**
 - Boundaries: {{pc:1}} owns systems; {{pc:3}} owns records and the world-edited;
@@ -2835,18 +2841,41 @@ being too subtle isn't helping here… Episode 8 needs to be the reveal of a lot
 what they could have found out themselves, if only they knew which questions to
 ask."* The finale contract's "domains stay hidden until S2" is **superseded**. Each
 of the two men gets **one clean, deliberate cast IN Ep 8**, named as it happens:
-{{pc:4}}'s reach for Bea; {{pc:5}} stepping between {{pc:2}} and something coming
-at her during the failed meeting. **Nia never says "need"** — "the person you're
-after".
+{{pc:4}}'s reach, which succeeds; {{pc:5}} stepping between {{pc:2}} and something
+coming at her. **Nia never says "need"** — "the person you're after".
+
+> **Amended 2026-10-09 (DM).** No meeting fails in Ep 8, and {{pc:4}}'s reach is no
+> longer for Bea. **By default he reaches Nia after she has left** (she forgot her
+> tote): busy, so **Cheap**, no roll. He may reach anyone else; the Ep 8 run-guide
+> carries the guidance for other targets. Shape and rulings:
+> `tmp/ep8-planning/ep8-panel/DM-2026-10-09-rulings*.md` (DM-local).
 
 ### Bea — where she is (DM-only)
 
 **Bea is in Sacramento, staying with her daughter.** Never volunteered; only if a
-player presses, and even then Bea confirms nothing. At the end of Ep 8 {{pc:4}}'s
+player presses, and even then Bea confirms nothing. ~~At the end of Ep 8 {{pc:4}}'s
 first reach is laddered toward her (priced Hard, 2 stress). **Nothing happens that
-night, whatever the roll. Ep 9's Ocean Beach coda happens regardless** — on her
+night, whatever the roll.**~~ *(Withdrawn 2026-10-09; see below.)* **Ep 9's Ocean Beach coda happens regardless** — on her
 terms, with the envelope she was bringing anyway, and **she never says "you
 called?"**. The table may believe he summoned her; the DM never confirms it.
+
+> **Amended 2026-10-09 (DM): the Bea reach is not part of the canonical Ep 8.** If it
+> comes up naturally, it is **Cheap**: she never tried to be unreachable, and she sees
+> them shortly afterwards anyway. **She picks up.** *Panel default, not ruled:* she sounds pleased, is out of town,
+> and says she'll see them soon. **She arranges nothing**, so Ep 9's coda still
+> happens on her terms, and she still never says "you called?". The Hard / 2-stress
+> / nothing-that-night pricing above is withdrawn: it priced a reachable person at
+> the unreachable rate.
+
+### {{pc:2}} — sensing (ruled 2026-10-09)
+
+Part of her domain. **Primarily passive:** her body tells her THAT something nearby
+was changed, never what or who. Her own casts don't register, and neither do
+Free-tier ones. The hum or migraine is the signal, not a price. Scale and firing
+rules: §30. **She may also cast it on purpose**, like *detect magic*: an ordinary
+in-domain cast. If she felt no passive cue, a scan usually finds nothing; that's
+allowed, just often pointless. Told plainly in Ep 8. **{{pc:2}} feels *that*;
+{{pc:3}} reads *what*.**
 
 ### Kai and {{pc:1}}'s father
 
@@ -2859,3 +2888,40 @@ for him. **The father being alive is still never voiced before Act II** (§6).
 
 The sealed wants (`wants-sealed.md`, private) quote sheet text written DM-side, not
 by the players — flagged to the DM 2026-09-27, **not yet ruled**.
+
+## 51. Why Ep 8 was cheap — DM head canon, never voiced, not even by Nia (DM, 2026-10-09)
+
+*The DM's own reading, worded with the cosmology panel (`tmp/ep8-planning/ep8-panel/`,
+DM-local) and approved 2026-10-09. A first draft framed costs as running "forward
+from the past"; the DM struck that: the Underleaf has no past or future.*
+
+The Underleaf is a block: every place and time is in it at once, anchors are its fixed
+points, and an edit may land anywhere as long as the whole stays self-consistent.
+Nothing comes before or after an edit. "Pre-edit" is only how people inside remember
+it. There are no loops.
+
+**The block contains five strangers who met aboard a 747 and can recognise and
+perform magic together.** Reconciling that is very expensive: Hard, and paid by
+nobody (`episodes/001-unattended-baggage/dm/the-cable.md`). Yet of all the shapes
+consistent with the fixed points, it is apparently the least strained, and nobody
+knows why, including the world. §39 is the only fixed point the DM names, and **no
+fixed point is ever one the party is the answer to** (§44(g)): a task, a role, or
+"someone has to stop X" would quietly turn *cheapest* into *hired*.
+
+Because the 747 shape holds, edits that agree with it cost little wherever in the
+block they sit, and edits that ease its strain can cost less than nothing. **Ep 8's
+casts are cheap for two reasons:**
+- Nia chose a table nobody films (Spreckels Lake, and she checked).
+- Five friends casting together at lunch agrees with what the 747 shape holds, and
+  may ease its strain. So being Noticed is less likely today.
+
+All of it is heuristic: nobody sees the whole block. **That they stay together is
+theirs: it held (§45 C′).**
+
+**Safe at the table:** *"It happened, and it held."* · *"Today was cheap because
+nobody was watching."*
+**Never:** *needed, meant, so that, arranged, chosen, the cheapest arrangement*, or
+"the 747 happened so that…".
+
+**The test:** this paragraph must never become a design premise. If a beat has no
+fallback because "the world will see to it", the beat is wrong.

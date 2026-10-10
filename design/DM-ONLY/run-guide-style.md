@@ -127,6 +127,8 @@ Run this when converting Phase 1 → Phase 2. It is faster than another expert r
 - [ ] **Every reference to a prior session is checked against its PLAYED record**, not its run-guide. The plan and the table often differ.
 - [ ] One-pagers fit one page; totals in different documents **agree**
 - [ ] A reader who has never seen the episode could run it
+- [ ] The **Running threads** box exists, and each thread due this episode has a **placed beat** (§14)
+- [ ] Every prior cast or event the DM must recall is **described**, not labelled: who, where, what was said or rolled, what came of it. Months may have passed (DM, 2026-10-09).
 
 ---
 
@@ -361,3 +363,29 @@ not reading through. **Number those, so they can be named aloud** (*"I'm on Rosa
 |---|---|
 | **Scene dialogue** — interleaved with staging | **Sparse.** Each box is a thing the DM must not miss. |
 | **Reference block** — consulted out of order | **Dense and numbered.** It is a lookup table. |
+
+---
+
+## 14. Every run-guide carries a "Running threads" box
+
+*(Added 2026-10-09. A "standing cadence" block existed only in the Ep 5 run-guide and
+was never carried forward, so recurring texture went quiet. The DM's words: "the
+difficulty is remembering when to inject it naturally.")*
+
+Some threads live on almost nothing: a 15-second line every few sessions. They die of
+neglect, not bad scenes. **Every run-guide opens with one box listing each running
+thread**, when it last appeared (from the PLAYED record), and **the placed beat for this
+episode**: the exact scene and moment where it fits, with its line. "Not this episode"
+is a valid entry; a missing entry is not.
+
+The threads (source of truth: `hook-ledger.md`; add new ones there first):
+- **The Ocean Beach teenagers**: a group-chat line every 2–3 sessions (T4).
+- **Kai**: an absence-outline moment {{pc:3}} notices, every 2–3 sessions.
+- **{{pc:1}}'s father**: a Tier-1 cameo roughly once per act, from Ep 11.
+- **{{pc:4}}'s grand schemes** (the mayoral run and its successors): a runner, never
+  resolved (B25).
+- **Being noticed**: each PC's thread-debt state as texture, never as a warning (T31).
+- **Mei-Mei near {{pc:5}}**: sparing cameos from Ep 10 (T28).
+
+**Audit every planning cycle:** more than three sessions since a thread's last
+appearance means you place it in the episode you're writing.

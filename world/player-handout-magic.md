@@ -10,7 +10,7 @@ Some people can hold an intention so firmly, under enough pressure, that the
 world rearranges slightly to accommodate it. **It is not a spell and there is no
 incantation.** It is wanting something specific, badly, at a moment when wanting
 it costs you something — and the world quietly turning out to have been the way
-you needed.
+you wanted.
 
 **You do not get a cast action on your sheet.** You describe what you want and
 why. The DM tells you what it would take.
@@ -53,15 +53,13 @@ on a schedule anybody controls.
 
 ## Supported casts
 
-> **An aimed cast with at least two other PCs present and backing it — each
-> saying, in one sentence, what *they* want out of it — is not bumped. It
-> resolves at its natural tier.**
->
-> **Alone, aiming still costs you a tier.**
+> **Aiming costs a tier — unless two of the others back you, each saying what
+> *they* get out of it. Three reasons, not three voices. "Me too" isn't a
+> reason.**
 
-**The sentences do not have to agree, and they are better when they don't.** Say
-what *you* want out of it, in your own words. Three people saying the same
-sentence is not what this is for.
+Backing a cast means being there, and saying in your own words what *you* get
+out of it. If you just repeat the caster, the DM will ask what you get out of it.
+Your reasons can overlap; they just have to be yours.
 
 Backing something means meaning it. You can decline.
 
@@ -93,13 +91,13 @@ making something, or another person. One box at a time. **Never during a scene.*
 There is no meter for this and no number on your sheet. The DM will tell you, in
 the fiction, where you stand:
 
-| | What the world is doing |
+| | What you'll notice |
 |---|---|
 | **Settled** | Nothing worth mentioning. |
 | **Noticed** | People remark on your lucky timing. |
 | **Watched** | Coincidences pile up around you specifically. Banks flag things. Friends ask. |
-| **Pushing back** | Things go wrong *for you*. Casts are harder than their tier suggests. |
-| **Hunted** | Rare, and only after sustained overreach. |
+| **Strained** | Casts keep not quite happening: an interruption, a witness, your own second thoughts. Casts are harder than their tier suggests. Nobody is doing this to you. |
+| **Seized** | Rare, and only after sustained overreach. |
 
 It **eases with restraint** — roughly a step per quiet stretch, faster if you
 deliberately back off.
@@ -111,6 +109,9 @@ deliberately back off.
 A focus is an object that steadies a particular kind of intent — **it lowers the
 tier of a cast within the kind of thing it is good for, by one.** It does nothing
 outside that.
+
+**Each of you has your own kind of problem.** Casting outside it doesn't work at
+all.
 
 **You each already have one. You have had it the whole time.** Your sheet names
 what it is good for. How far it goes, you find out by using it.

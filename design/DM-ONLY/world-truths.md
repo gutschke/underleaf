@@ -28,7 +28,7 @@ There is a layer of reality *below* the Planck scale, and it is the actual subst
 - **No time.** The Quiet is closer to a block universe than a temporal one. Past, present, future are all there. Changes are permitted only if they yield a globally self-consistent block. No paradoxes are allowed by construction.
 - **Everything is in The Quiet.** Every person, event, place, decision — past, present, future, PCs, NPCs, the living, the dead, the not-yet-born — exists as a causal locus. PCs are not special; they are simply the ones who can sometimes reach in.
 - **Cost is plausibility, not energy.** Changes cost something proportional to how much established world-state would have to be overwritten to make the new state self-consistent. Localized changes (in space or time) are cheap; non-localized changes are expensive. Documented, observed, instrumented states are expensive to change; loose causality (weather, traffic, attention, postal delays, mood) is cheap.
-- **Self-consistency shapes our world.** When a present configuration *requires* certain past or future events to make it consistent, those events are what happened. This means the PCs' biographies may have been retroactively adjusted by the world to bring them where they are — coincidence-clustered lives, destiny-without-a-destiner, subtle retro-causation. Nobody was chosen; the world simply does not permit the alternative.
+- **Self-consistency shapes our world.** When a present configuration *requires* certain past or future events to make it consistent, those events are what happened. This means the PCs' biographies may cohere with where they are — coincidence-clustered lives, destiny-without-a-destiner, subtle retro-causation. Nobody was chosen; the world simply does not permit the alternative.
 
 ### What this means in play
 
@@ -48,11 +48,11 @@ The dead-PC routing-intention mechanic — a living caster reaching back to a mo
 
 Underleaf's setting permits retro-causality in principle but makes most of it prohibitively expensive in practice. The rules here exist to keep the *feeling* of a timeless substrate intact while denying the kinds of moves that would break story.
 
-### Retro-causality is mostly Hard
+### Edits to the recorded past are mostly Hard
 
-Sending an intention backward in time — asking the past to have been different so that the present resolves the way you want — is generally a Hard tier cast or higher. Players will rarely encounter it. They will encounter it occasionally, and when they do it should land as something the world *just barely* permits, not as a tool they can rely on.
+An edit whose consistency reaches into the densely recorded past is usually a Hard tier cast or higher. That is not because it points backward (the Underleaf has no backward; facts-ledger §51) but because most of the past is fixed: written, filmed, remembered. A recent, unrecorded past is cheap (facts-ledger §18, the bag). Players will rarely encounter it. They will encounter it occasionally, and when they do it should land as something the world *just barely* permits, not as a tool they can rely on.
 
-That said, retro-causality is real, and small effects can show up early. The in-medias-res arrival of the PCs is itself an instance: the world needed them in this room today; their separate biographies were lightly bent over weeks or years to deliver them here. None of them paid the cost; the cost was absorbed by the self-consistency requirement working over the whole block universe. Tiny retro-causal nudges are how the world threads itself together. Most go unnoticed.
+That said, retro-causality is real, and small effects can show up early. The in-medias-res arrival of the PCs is itself an instance: the shape that holds has them in this room today, and their separate biographies cohere with it, coincidence-clustered, with nobody delivering them. None of them paid the cost; the cost was absorbed by the self-consistency requirement working over the whole block universe. Small adjustments like this, anywhere in the block, are part of how it stays consistent. Most go unnoticed.
 
 A first-scene example is appropriate. The unnoticed coincidence that put the PCs in the same coffee shop ten minutes apart was retro-causal threading. Don't call it out as such — let it sit as ambient mystery.
 
@@ -176,3 +176,5 @@ These are questions the players can speculate about. The DM should not have a de
 ## The probability inversion the DM must internalize
 
 The rules reference describes how plausibility tiers work mechanically. The thing to feel as a DM is that **The Quiet doesn't care what's improbable; it cares what's documented, observed, instrumented, or causally entrenched.** A dice roll on an observed table is anchored and Hard to change. A pedestrian deciding to look left rather than right is loose causality and Cheap. This inverts a lot of intuitions, and the play experience is shaped by it.
+
+**Friction, not resistance** *(DM, 2026-10-09)*. Edits strain the block, and releasing that strain can look like the world *noticing* the caster, or *resisting* them. Nothing intends it. Often the cheapest consistent outcome is that the cast never happens: an interruption, a witness, the caster's own reluctance. A spell that was never cast caused no edit, so it is usually the cheaper outcome. **Strain runs both ways:** where the block is already strained, a well-aimed cast can relieve it and cost less than its tier, even nothing, so one cast anywhere in the block can make another easier. **All cost predictions are heuristics**, because nobody sees the whole block. The thread-debt ladder in the rules reference (Quiet → Noticed → Watched → Strained → Seized) is how this shows at the table.

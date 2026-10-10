@@ -745,6 +745,50 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > heard it and it lands flat. **Rosa never named a network — A1 survives and Nia's
 > line is intact.**
 
+> [!IMPORTANT]
+> ### RE-PLANNED 2026-10-09 — "Page Two". This block wins wherever the rest of this entry disagrees.
+>
+> The DM found the previous plan unplayable: it needed the players to know what to do,
+> and to reach conclusions from vague observations. A five-expert panel re-planned it
+> (DM-local record: `tmp/ep8-planning/ep8-panel/`, the DM's rulings in
+> `DM-2026-10-09-rulings*.md`). **Nobody in the party fails, stress defaults to 0, and
+> it ends on a high note.**
+>
+> **Where and when:** Saturday 27 March 2027, noon, **Spreckels Lake, Golden Gate Park**:
+> a camera-free picnic Nia has checked, with snacks from **Quickly on Irving**. Nia
+> brings her own battery printer in her canvas tote.
+>
+> **The shape:**
+> 1. **Arrival.** Nia, early and blunt: *"All five of you can do this."* Her clustering
+>    line (§2b below). Then her friend cancels and the chair stays empty: **something
+>    didn't come off, and it's nobody's fault** (contract item 3). No PC fails.
+> 2. **The printer.** It jams; *"0 of 6 printed"*; the yacht-club man on the next bench:
+>    *"Nothing came out."* {{pc:1}}, holding the Flipper: *"It printed five before it
+>    jammed."* **The DM says the price aloud first:** alone and aiming, Costly; an echo
+>    leaves it Costly; **three reasons make it Cheap, no roll.** The man finds five
+>    clean pages under the chewed sheet (*"Huh. Got five out before it choked"*), and the
+>    phone now says *"5 of 6"*. **The pages are the handouts.** The chewed sheet stays
+>    on the table to the end. Never say the eaten page "was the friend's".
+> 3. **The talk, as an unannounced game.** *"Tell me the weirdest thing that's happened
+>    to any of you since that plane."* Nia answers each with *that was you* / *that was
+>    just you* / *nobody knows* (or *not yours*), and names each PC's ability (problem,
+>    trigger, cost, limit) the first time it is *you*. **{{pc:5}}'s hazard fires live
+>    during his turn.** The DM can run it for 5, 15 or 30 minutes, or cut it; every
+>    version names all five. Verdicts are pre-ruled (in the run-guide).
+> 4. **Nia leaves**, callable about the craft, *"two at a time, though."* She forgets her
+>    tote.
+> 5. **{{pc:4}}'s reach** succeeds: by default Nia, for the tote (Cheap). Anyone else is
+>    allowed; the run-guide prices the alternatives. A Bea reach is optional and Cheap
+>    (facts-ledger §50 as amended).
+> 6. **The five, unguided:** one supported cast for a stranger, inside one PC's kind of
+>    problem. It works.
+> 7. **Close:** the chewed sheet beside five handouts. Someone asks *"What would THIS
+>    cost?"* That is Season 2.
+>
+> **Superseded below:** §2's phone call as a failing persuasion, §3 (the meeting
+> failing, and the softening), §4 (the two-arm contrast and its confound note), the
+> stress pricing, and the closing image. Kept for the record.
+
 - **LOAD:** HEAVY — the Act I→II hinge **and the season finale.** See *"The Season 1 finale contract"* below for the must-achieve list.
 - **PRIMARY SHAPE: negotiation**, ending on an event rather than a debrief.
 - **THE SEASON JOB: lift the natural-discovery restriction.** *(Per `ARC-REWRITE.md`.)* **Nia names it bluntly, to all five at once. The restriction has done all the work it can do.**
@@ -787,8 +831,8 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > helping here."* **Persuasion is never magic.** {{pc:5}} = posture / protection
 > (steps between; something coming at someone goes elsewhere). {{pc:4}} = speech /
 > reach (the person he reaches for turns out to be reachable). Each gets one clean
-> cast IN Ep 8, named as it happens; {{pc:4}}'s is a laddered reach for Bea at the
-> close. Nia never says "need". The DM's decision record is in the private Ep 8
+> cast IN Ep 8, named as it happens; ~~{{pc:4}}'s is a laddered reach for Bea at the
+> close~~ *(amended 2026-10-09: his reach succeeds, Nia by default)*. Nia never says "need". The DM's decision record is in the private Ep 8
 > planning folder.
 
 #### 1. Nia names it — A1 FIRES
@@ -832,7 +876,7 @@ Nia Chen, peer-adult-urban. *"We don't have a guild hall. We have lunch in twos.
 >
 > **Do not read it aloud at the table.** Cover the tier table and the supported-cast line verbally — about five minutes — and send the sheet home with them. The contract requires them to *hold* it, not to parse it live.
 
-#### 2. {{pc:4}} makes the call — and Nia is unmoved by the performance
+#### 2. {{pc:4}} makes the call — and Nia is unmoved by the performance *(⚠ SUPERSEDED 2026-10-09 as a failing beat. If the run-guide keeps a call, it is a CHA roll and ordinary, never a PC failing; the articulation ladder may survive.)*
 
 When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him deploy everything he has to talk them into coming, and let it fail **for reasons that are nobody's fault.** That demonstrates invariant 5 on the party's Control-seeker rather than on the room, and it costs zero added minutes.
 
@@ -854,7 +898,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 **She does NOT close the question about these five.** Per facts-ledger §45 her line about the party is a shrug she does not defend: *"You five seem to be fine. I don't know why. Time, maybe."*
 
-#### 3. THE MEETING CANNOT HAPPEN — re-pointed
+#### 3. THE MEETING CANNOT HAPPEN — re-pointed *(⚠ SUPERSEDED 2026-10-09: only the friend's cancellation survives; no softening, no failed cast)*
 
 **This is no longer a demonstration about the network. It is the party's first attempt to do something together, and the world declining.** First taste of the spent subsidy.
 
@@ -862,7 +906,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **The softening:** the two casters who *are* present try the small thing either could do alone, **and it doesn't take.**
 - **The felt lesson:** *"we cannot get four of us into one room, it is stupid, and it is nobody's fault."*
 
-#### 4. NEW — the second arm of the experiment. ~3 minutes. No commentary.
+#### 4. NEW — the second arm of the experiment. ~3 minutes. No commentary. *(⚠ SUPERSEDED 2026-10-09: it taught the headcount. The printer's spoken price replaces it; see the block at the top of this entry and `world/rules.md` §Supported casts.)*
 
 **Stage the control arm properly, or the contrast does not exist.** In §3's softening, the two unfamiliar casters must **say what they are each trying for, out loud, and it must be the same thing** — they are cooperating, they agree, and it *still* doesn't take. **Without that, the table reads the sequence as a headcount (two failed, three worked) rather than as anything about wanting.**
 
@@ -872,7 +916,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 > **It has to be AIMED.** An unplanned cast is unaimed, is never bumped anyway, and demonstrates nothing. **They must be deliberately using the new rule.** *(An earlier draft said "unplanned," which contradicted the mechanic it was staged to demonstrate.)*
 
-> **Watch the confound.** Arm 1 has two casters and arm 2 has three, so the obvious induction is *"you need three people"* — which is merely the printed rule. **The fix is the stated wants:** two people who agreed failed; three who wanted different things did not. **If a player concludes it is about numbers, do not correct them.** Ep 10 is where the other reading arrives.
+> **Watch the confound.** Arm 1 has two casters and arm 2 has three, so the obvious induction is *"you need three people"* — which is merely the printed rule. **The fix is the stated wants:** two people who agreed failed; three who wanted different things did not. **If a player concludes it is about numbers, do not correct them.** ~~Ep 10 is where the other reading arrives.~~ *(Struck 2026-10-09: no Ep 10 beat ever carried it, and the DM ruled that the confound must be clearly revealed in Ep 8.)*
 
 **Two people wanting the same thing failed. Three wanting different things worked. Ten minutes apart, same room.**
 
@@ -896,7 +940,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 >
 > If a physical set piece is genuinely wanted, **decouple it into a different session.**
 
-- **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give Stress 1–2 to anyone who was actually reaching for something** — the two network casters certainly, and **any PC who backed or attempted a cast. A PC who only watched takes nothing.** *(The trigger is `rules.md`'s "holding intent against intense social pressure"; a bystander is not holding intent, so do not charge them.)* Narrate it as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9 then clears it diegetically.**
+- *(⚠ SUPERSEDED 2026-10-09: stress defaults to 0; only a player who pushes takes any.)* **Price it in STRESS, not Harm.** Harm box 1 is *"bruised, no mechanical penalty"* and clears with rest — it costs nothing and the players will notice. `rules.md` lists *holding intent against intense social pressure* as a stress trigger. **Give Stress 1–2 to anyone who was actually reaching for something** — the two network casters certainly, and **any PC who backed or attempted a cast. A PC who only watched takes nothing.** *(The trigger is `rules.md`'s "holding intent against intense social pressure"; a bystander is not holding intent, so do not charge them.)* Narrate it as the world declining to cooperate: Stress 2 is −1 to all WIS rolls, i.e. −1 to casting, and it clears only through a full night's sleep or a meaningful conversation. **Ep 9 then clears it diegetically.**
 - **A4 — R({{pc:3}}) completes — MOVED TO EP 7** *(2026-08-30, for load)*. R({{pc:3}}) already *begins* in Ep 7 and her articulation refusal is there too, so the whole thread now sits in one session and Ep 8 sheds a private scene that would have idled four players during the finale.
 - **MoR({{pc:1}}) is EP 9, not here** *(decided 2026-08-30 for load)*. Ep 9 is the designated MoR session and already carries the pairing work; Ep 8 cannot hold a third private beat.
 - **PRE-CUT (2026-08-30): A2 — Reggie named as substrate-sensitive — is CUT from this session and RELOCATED to Ep 9.** Cosmology with no decision attached; it lands better among Ep 9's cabin confessions. **Cutting it is what protects §4 above.** *(Then retired as a scheduled beat on 2026-09-24; reactive only. See hook-ledger A2.)*
@@ -913,8 +957,8 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 
 1. **All five have been told, in plain words, that they can do this.** Not implied. Not noticed. **Said.**
 2. **The players physically hold [`player-handout-magic.md`](../../world/player-handout-magic.md)** — NOT `rules.md`. *(Corrected 2026-09-27; "domains still hidden" superseded by the explicit-reveal ruling, §50.)*
-3. **They tried something together and the world declined** — and it was nobody's fault.
-4. **The two-arm contrast happened** (§3 then §4), **with no interpretation offered.**
+3. **Something didn't come off, and it was nobody's fault** — Nia's friend cancels; the chair stays empty. *(Rephrased 2026-10-09: "the world declined" was agentive, and no PC fails.)*
+4. **One variable moved in a spoken price** *(amended 2026-10-09)*: at the printer, an echo leaves the price where it is, and three reasons drop it to Cheap. **Three reasons, not three voices**, seen to work. Why it works waits for Act III. *(Replaces "the two-arm contrast, no interpretation offered", which taught the headcount.)*
 
 **What must NOT be true at the end of Ep 8:** *(Read as intent, not hard rules — DM, 2026-09-27. The sentiment is right; the implementation can go wrong as things are revealed or the players deduce something and need it confirmed to progress. For each case, ask a suitable expert which side to fall on, and record the call.)*
 
@@ -923,7 +967,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **Convergence has NOT been named.** Ep 8 delivers **one data point and zero thesis.** Naming it here spends the Act III argument in Season 1 — for the second time.
 - **No cosmology briefing.** Bluntness works for *"you can all do this."* It does not survive being extended to why-magic-is-fading, which is S3's load.
 
-**The closing image of the season:** *five people who have just been told what they are, failing at the first thing they try, together.* **An event, not a debrief.**
+**The closing image of the season:** *the chewed jam sheet beside five handouts, after five people chose a stranger and helped them, and it worked.* Last line, a player's: *"What would THIS cost?"* **An event, not a debrief.** *(Replaced 2026-10-09: "failing at the first thing they try, together".)*
 
 ---
 
@@ -936,7 +980,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 **What the S2 opener (Ep 9) carries — its brief is now fixed:**
 
 1. **The comedown.** Zero documents. Fog, coast, a rented cabin at Point Reyes or Bolinas.
-2. **Ep 8's Stress clears on screen** — a full night's sleep or a meaningful conversation, per `rules.md`. **This is the joint the whole minor-battle beat was designed around.**
+2. ~~**Ep 8's Stress clears on screen**~~ *(orphaned 2026-10-09: Ep 8 now defaults to 0 stress.)* **Re-purposed:** the comedown's ~10 minutes clear whatever stress the players did take; otherwise they go to S2's question, trying things (item 6).
 3. **MoR({{pc:3}}) + MoR({{pc:1}})** in walk-and-talk pairs. **Pair {{pc:3}} with {{pc:4}}.**
 4. ~~A2 lands here~~ — **A2 retired as a scheduled beat 2026-09-24; reactive only** (hook-ledger A2). Ep 9 gets the room back.
 5. **The Bea coda opens it** — four minutes at Ocean Beach with a coffee; T10 lands; she confirms nothing; then she's gone.
@@ -945,7 +989,7 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 > [!CAUTION]
 > **DO NOT TAKE A REAL CALENDAR BREAK BETWEEN EPS 8 AND 9.** The season label is a document-side convenience; **the schedule must not honour it.**
 >
-> **Ep 8's Stress is the reason.** The whole minor-battle beat was engineered so Ep 9 clears it diegetically. Across a multi-week gap, five players aged 12-15 will not remember they are carrying Stress 2 and −1 to WIS, and the joint the beat was built around simply does not happen.
+> ~~**Ep 8's Stress is the reason.**~~ *(Weakened 2026-10-09: Ep 8 now defaults to 0 stress. If the players did take stress, the reason holds as written.)* Across a multi-week gap, five players aged 12-15 will not remember they are carrying Stress 2 and −1 to WIS.
 >
 > **Second reason:** premiering a season on a documents-free comedown, immediately after a break, re-opens the contract question for a table that calibrates early and does not revisit.
 >
@@ -966,9 +1010,9 @@ When Nia's second caster cancels, **give {{pc:4}} the phone call.** Let him depl
 - **Pair {{pc:3}} with {{pc:4}}** for one of them. Her sheet: *"if she ever contradicts him openly, that's an act break for {{pc:4}}'s arc"* — she already did, publicly, in Ep 4, and nothing has come of it. The scene already exists; only the pairing changes, and it closes the second half of {{pc:4}}'s drought. Mira names Kai out loud for the first time; Morgan quietly names *the wrong thing about the world*.
 > [!WARNING]
 > **B3, the faction-choice conversation, is NOT in this session — it moved to Ep 14.** It was briefly rehoused here, which was too early: Ep 9 is Act I close, `big-arc.md` invariant 9 puts the faction choice in Act II, and the Hidden faction is not *named* until Alaia's reveal. **B2 and B3 now run back-to-back in Ep 14**, so the party chooses between two stances that were named in front of them minutes earlier rather than choosing cold.
-- **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. ***(2026-09-27, §50:** it happens **regardless** of how {{pc:4}}'s end-of-Ep-8 reach for her rolled; she never says "you called?". She is staying with her daughter in Sacramento — DM-only.)* **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
+- **Opens with the Bea coda (moved from Ep 8):** four minutes at Ocean Beach with a coffee. She confirms nothing. ***(2026-09-27, §50:** it happens **regardless**; she never says "you called?". *(2026-10-09: the Bea reach is optional in Ep 8; if it happened, she picked up and arranged nothing.)* She is staying with her daughter in Sacramento — DM-only.)* **T10 lands** — the fearlessness, without her naming the mechanism. Then she's gone again. The register fits a coast retreat far better than a lunch-then-platform session, and it lands harder next to two moments of release.
 - **Setting/register:** rented cabin, Point Reyes or Bolinas. Fog, coast.
-- **Also:** this is where **Ep 8's Stress clears diegetically** — a full night's sleep or a meaningful conversation, per `rules.md`. That is the joint the minor-battle beat was designed around.
+- **Also:** any stress the players took in Ep 8 clears diegetically here (a full night's sleep or a meaningful conversation, per `rules.md`). *(Ep 8 now defaults to 0.)*
 - **S1 #4:** at the cabin, a rental-app check-in message thanks them for a stay that hasn't happened yet, and the host's follow-up agrees it was lovely. Nobody corrects it.
 - **Fires:** A9 (second/third MoR) · **MoR({{pc:1}}) lands HERE** (moved from Ep 8, 2026-08-30) · T4 · **S1 #4** · **B18** — Ortiz voicemail: she traced the margin note to a desk whose clerk retired in 2021, and mentions the outside law firm that made three inquiries eight months ago and dropped it. *(Renumbered from B7 on 2026-08-27 — B7 is Companion-as-institution, a different hook entirely.)*
 - **NPCs:** Ren + Maya via text/photo only; Ortiz by voicemail.
