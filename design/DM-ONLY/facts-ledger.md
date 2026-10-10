@@ -2814,7 +2814,7 @@ charm cannot explain.** Each PC owns a *kind of problem*:
   Cheap · avoiding him today Costly · celebrity Hard, can part-succeed · a miss may
   land on the nearest willing person. *Unreachable* (dead, gone, decided not to be
   found, the world attests they never existed, story-sealed): **always quoted
-  "Hard. You can try."**, never Prohibited · **fixed 2 stress**, not reduced by
+  "Hard. You can try."**, never "No" · **fixed 2 stress**, not reduced by
   focus (his reach is never backed: the trigger is *alone*; 2026-10-09) · **nothing on any roll** · **a failure carries no fiction**
   (*"You say the name. Nothing comes back. It just… doesn't land."*). **Players can
   learn someone is unreachable, never which kind.**
@@ -2979,10 +2979,17 @@ this wins.*
   hoarseness would tell the players which kind of reach they hit.
 - **If {{pc:4}} reaches anyone but Nia**, the tote and printer stay with the party
   (*"keep it, I'll grab it next time"*). **Owed:** returned in one line, in Ep 9 or 10.
-- **Thread debt in Ep 8:** record who cast and who backed whom. **No step is taken
-  tonight** (§51). The exception: a cast after the race horn in Scene 6, with phones up
-  along the bank, advances the caster and the backers one step. First texture in Ep 9–10
+- **Thread debt in Ep 8** *(DM, 2026-10-10: the tally, no exception)*: ticks count
+  from tonight (`world/rules.md`), one per backed or Costly/Hard cast for everyone in it.
+  Nobody can reach three tonight, so **no step is taken**; the ticks carry into Ep 9.
+  *(The earlier race-horn exception is withdrawn.)* First texture in Ep 9–10
   (hook-ledger T31).
+- **Played-at-the-table details added 2026-10-10:** Priya hears a low hum (a throb if
+  the printer cast was Costly) when the pages come out. **Lunch in twos** is said in
+  Scene 4 as how Nia's people live, never as a rule for the five. Scene 6's strangers:
+  the tourist with the soaked address, a jogger's ankle, **a loose dog charging a
+  toddler** ({{pc:5}}), a dead model yacht, and an old man whose daughter is **Denise
+  Huang** (named only if asked — tonight's one new name).
 - **The flattening drip, S1 #3:** at Quickly, the cashier says **mango delight with
   pudding** has *"always been the house special"*, under a sticker reading BACK BY
   POPULAR DEMAND *(DM, 2026-10-10: the players love it, and real-world Quickly dropped it

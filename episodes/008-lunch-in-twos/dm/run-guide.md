@@ -82,14 +82,14 @@
 ### Print
 
 - **`player-handout-magic.md`, five copies.** **These are the five pages found in the printer** in Scene 2. Keep them face-down by your notes until that moment.
-- **The props sheet** (`props/`, single-sided): **five "What Nia told you" slips**, one page each — a plain-language "In short" box on top, the details below — handed out **after** the game in Scene 3; **plus**, on the last page (cut apart), **two "Later. Just us." slips**, for Kai or {{pc:1}}'s father (the phone cards are on that page too).
+- **The props sheet** (`props/`, single-sided): **five "What Nia told you" slips**, one page each — a plain-language "In short" box on top, the details below — handed out **after** the game in Scene 3; **plus**, on the next page (cut apart), **two "Later. Just us." slips**, for Kai or {{pc:1}}'s father; the phone cards have the last page to themselves.
 - **The player recap** — one page; you read it aloud in Scene 0.
 - **Character sheets** — duplex: each player gets one sheet, front and back.
 - **The clock card** (`pacing.md`) and **the companion sheet** (`past-moments.md`).
 
 ### Bring
 
-- **The chewed page** — `props/make-chewed-page.py` prints page 1 of the handout as an inkjet leaves it after a jam; you pleat, crumple, tear and flatten it by hand (the steps are in the print folder's README). It goes on the table in Scene 2 and **stays there to the end of the session.**
+- **The chewed page** — `props/make-chewed-page.py` prints page 1 of the handout as an inkjet leaves it after a jam; you pleat, crumple, tear and flatten it by hand (the five steps are at the top of the script). It goes on the table in Scene 2 and **stays there to the end of the session.**
 - **The two phone-screen cards** from the props sheet: *"Paper jam. 0 of 6 printed"* and *"5 of 6 printed. Paper jam on page 6"*. They are Nia's phone.
 
 ---
@@ -244,7 +244,7 @@ Whatever they order is what they're holding at the lake — **remember who has a
 
 She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls in a sheet, crunches, and stops. **An amber light blinks.** One page sticks half out of its mouth, chewed and inked.
 
-**Put the crumpled sheet on the table.** **Show the first phone card, and read it:**
+**Put the crumpled sheet on the table — this is the page sticking out of the printer's mouth.** **Show the first phone card, and read it:**
 
 > *"Nia's phone says: Paper jam. 0 of 6 printed."*
 
@@ -300,7 +300,11 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
   **Take whatever they say. Do not judge it.** There is no right answer. A reason only has to be theirs.
 
-- **When two of them have each said their own reason**, say it like a fact:
+- **When two of them have each said their own reason**, turn to {{pc:1}} — his is the third:
+
+  > **NIA:** *"And you — what do you get out of it?"*
+
+  **Then** say it like a fact:
 
   > **DM:** *"Cheap. No roll."*
 
@@ -310,7 +314,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
   **If a third or fourth wants to back him too, let them.** It doesn't make it any cheaper — two is enough — but everyone who backs is in it, and it counts toward being noticed for each of them. If asked: *"Two's enough. More is fine; it doesn't get cheaper."*
 
-- **If nobody offers to help at all**, Nia teaches — this is the one place she does. She turns to the two players sitting nearest {{pc:1}}, **by name**:
+- **If nobody offers to help at all**, Nia teaches — this is the one place she does. She turns to any two of the others, **by name**:
 
   > **NIA:** *"[Name], [name] — back him. What do you each get out of it?"*
 
@@ -319,7 +323,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 - **If he still rolls alone**, it is a normal Costly roll, and 1 stress whatever happens:
   - **10 or more:** it works, as below.
   - **7–9:** it works, but only four pages: *"Got four out before it choked."* **Don't show the second phone card; read it as "4 of 6 printed".** Nia digs a spare out of the tote, so **still give out all five handouts.**
-  - **6 or less:** nothing changes. A minute later the jam clears by itself and the printer prints normally. Nia: *"Sometimes it's just the printer."* The handouts arrive anyway. Then Nia, gently: *"Next time, let them back you."*
+  - **6 or less:** nothing changes. A minute later the jam clears by itself and the printer prints normally. Nia: *"Sometimes it's just the printer."* The handouts arrive anyway. Then Nia, gently: *"Right sentence. It just didn't take — that's trying alone. Next time, let them back you."* **Still give him his explanation below** ("Machines. Locks, signals, systems…"), and in Scene 3 she says *"You I've seen"* all the same.
 
 **{{pc:2}} has already had her release.** A *release* is a moment, earlier in the campaign, when a character stopped trying and it happened anyway; after it, casting on purpose no longer costs her extra. {{pc:2}}'s was the small talk with Yui after the grape. **So backing doesn't change the price of *her* casts — but she can back someone else, and her reason counts.**
 
@@ -386,7 +390,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **For anything not on the sheet:** if one of them *did* it, *"no magic — just you."* If it *happened to* them, *"not yours,"* in one line. **Never invent a new "your magic" or a new "nobody knows" at the table.**
 
-**One big mystery per game.** The flight, the five strangers on it, the 1878 names at Bodie. The first time one comes up:
+**One big mystery per game.** The flight, the five strangers on it, the connector in {{pc:4}}'s bag, the 1878 names at Bodie. The first time one comes up:
 
 > **NIA:** *"That's the big one. Nobody knows."*
 
@@ -404,7 +408,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **NIA:** *"You I've seen. Next."*
 
-**If his father comes up — now or any time tonight —** same as Kai: *"That one's yours. Tell me later, just us."* **Hand him the other "Later. Just us." slip** and move on.
+**If his father comes up — now or any time tonight —** same as Kai: *"That one's yours. Tell me later, just us."* **Hand him one of the two "Later. Just us." slips** (the other is for Kai, in {{pc:3}}'s turn) and move on.
 
 **If he offers something else,** look it up on the sheet (entries 1–6).
 
@@ -426,6 +430,8 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **NIA:** *"That was your magic too — noticing, not doing. It tells you that something near you just got changed. Never what. Never who. And you won't feel your own."*
 
+> **NIA:** *"And trying doesn't cost you extra any more. You got past that with Yui."*
+
 **Where hers stops:** if anyone remembers her wishing for a thousand dollars in Bodie (sheet entry 13):
 
 > **NIA:** *"That's where yours stops. Bodies. Not wallets."*
@@ -442,7 +448,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Somebody will remember the outlines at Bodie** (sheet entry 15). If nobody does, tell it in one sentence from the sheet, and Nia rules.
 
-**Tell her what her magic is** (the lines are at the top of her section on the sheet): **something missing, or a record that's wrong.** She sees the outline of what used to be there. **Her headaches are the price** — *"that's what pushing costs."*
+**Tell her what her magic is** (the lines are at the top of her section on the sheet): **something missing, or a record that's wrong.** She sees the shape of what's missing — where it was, not what it was. **Sometimes, if she wants it badly enough, what was there comes back.** **Seeing the shape costs nothing; anything more costs her a headache.**
 
 **What you need to know:** {{pc:3}} had a brother, Kai, whom nobody else remembers — not her parents, not any record. She wears a locket with a note in his handwriting inside. **The party has not been told about the note.**
 
@@ -480,6 +486,8 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **DM:** *(after thirty seconds, or if nobody moves)* *"It's coming at {{pc:2}}'s hand. Half a second. What do you do?"*
 
+**If anyone else moves first** — {{pc:2}} snatches her hand back, someone swats: *"It's already past your hand,"* and turn to him: *"{{pc:5}}, you're right next to her."*
+
 **If he steps between them** — physically, holstered — **it veers off and takes the snack bag from the empty end of the bench.** Never a person, never the chewed page.
 
 > **NIA:** *"That was your magic."*
@@ -488,7 +496,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **NIA:** *"Something comes at someone behind you, you step in, and it goes somewhere else. Onto a thing, never a person. Holstered. The second you draw, you're trying, and trying costs. It'll cost you sleep tonight. And that neck. And it doesn't work on paperwork."*
 
-> **DM:** *"{{pc:5}}, your neck flares, sharp, then settles."*
+> **DM:** *"{{pc:5}}, your neck twinges, sharp, then settles. It'll be worse tomorrow."*
 
 **If he draws the pistol in his description,** stop and check out of character: *"At a picnic, with kids around? Really?"* **Nobody draws a gun in this campaign.**
 
@@ -514,7 +522,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Then:**
 
-> **NIA:** *"Nothing on your list. Yours isn't something that happens to you. It's something you do. You reach people. Full name, out loud, on your own, tap that pipe of yours. They pick up. Your voice goes after. And it only opens the door — getting them to talk is just you."*
+> **NIA:** *"None of that was magic. Yours isn't something that happens to you. It's something you do. You reach people. Full name, out loud, on your own, tap that pipe of yours. They pick up. Your voice goes after. And it only opens the door — getting them to talk is just you. And yours is always on purpose, so the prices I'd give you already count that."*
 
 **And the hard part, said gently, with "dead" last.** She does not look at {{pc:1}} on *"doesn't want to be found"*:
 
@@ -534,11 +542,11 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 | Setting | What happens |
 |---|---|
-| **Short (about 15 min)** | No game. Nia goes round the five and says each one's magic in two or three sentences, and **the gull still comes** during {{pc:5}}'s. |
+| **Short (about 15 min)** | No game. Nia goes round the five and says each one's magic in two or three sentences (use the first Nia line in each person's block on the sheet), and **the gull still comes** during {{pc:5}}'s. |
 | **Normal (about 30 min)** | One moment each, as written. |
 | **Long (+10, Scene 3b)** | A second round with the floor open — anyone, any moment. **Only if the first round ends before T+1:15.** |
 
-**To cut it at any point:** jump to {{pc:5}}'s turn and the gull, then {{pc:4}}'s, then **Nia names anyone she hasn't named yet, in two sentences each.** All five are always told.
+**To cut it at any point:** jump to {{pc:5}}'s turn and the gull, then {{pc:4}}'s, then **Nia names anyone she hasn't named yet, in two sentences each** (the first Nia line in their block on the sheet). All five are always told.
 
 **Cut when:** two "um"s in a row · the same moment comes up twice · phones come out · a third "nobody knows" in a row.
 
@@ -686,7 +694,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 | **The jogger** | Turned her ankle on the path. | {{pc:2}}'s — a body in trouble | Cheap (her release) | Cheap | *"Just a tweak."* She walks it off. {{pc:2}}: her appetite goes. |
 | **The loose dog** | A big off-leash dog keeps charging at a toddler by the water. | {{pc:5}}'s — something coming at someone | Cheap (stepping in holstered isn't trying) | Cheap — backing changes nothing | It veers off after a tennis ball instead. {{pc:5}}: a bad night tonight, and his neck. |
 | **A dead model yacht** | Mid-lake, sails slack. *"Battery was full this morning."* | {{pc:1}}'s — **only if nothing else suits; he had the printer** | Costly | **Cheap** | The sails fill. *"Must've been the plug."* {{pc:1}}: pins and needles. |
-| **An old man, late for his ride** | His daughter isn't answering. | {{pc:4}}'s — **alone only; his reach is never backed** | Cheap | — | She calls back: *"Dad, I'm at Stow Lake."* *"It's Blue Heron now."* |
+| **An old man, late for his ride** | His daughter isn't answering. If anyone asks, or {{pc:4}} wants to reach her: *"Denise. Denise Huang."* (She's tonight's one new name.) | {{pc:4}}'s — **alone only; his reach is never backed** | Cheap | — | She calls back: *"Dad, I'm at Stow Lake."* *"It's Blue Heron now."* |
 
 **Price it the way you did at the printer:** say it out loud first, ask each backer *"what do you get out of this?"*, take whatever they say.
 
@@ -704,7 +712,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **DM:** *"Alone, trying: Costly. Two of you back it with your own reason: Cheap."*
 
-Ask the two nearest players by name: *"What do you get out of this?"*
+Ask any two of them by name: *"What do you get out of this?"*
 
 **If still nothing, ask out of character:** *"Want to try helping her, together?"* **If they decline, the horn goes.** The tourist works it out with her phone, thanks them anyway, and leaves. **Nothing failed.** Go to the close.
 
@@ -714,7 +722,7 @@ Ask the two nearest players by name: *"What do you get out of this?"*
 
 ### What happens (Scene 7)
 
-**On the bench: one chewed page, five clean ones.** The horn goes for the next heat.
+**One chewed page on the bench, and the five copies in their hands.** The horn goes for the next heat.
 
 **The season ends on a player asking what the next thing would cost.** Give them a moment. Then, one rung at a time:
 
@@ -722,9 +730,9 @@ Ask the two nearest players by name: *"What do you get out of this?"*
 
 > **DM:** *"Anybody want to try something else, while you're here?"*
 
-**Whatever they want to try, they ask the price, and you end the session before answering.** If nobody asks, narrate it:
+**Whatever they want to try, they ask the price, and you end the session before answering.** **Last resort only** — if nobody asks, narrate it:
 
-> *"The horn. Somebody's boat comes about. On the bench, one chewed page and five clean ones. And one of you picks up a pebble, looks out at the water, and asks the others what that would cost."*
+> *"The horn. Somebody's boat comes about. One chewed page on the bench, five copies in your hands. And one of you picks up a pebble, looks out at the water, and asks the others what that would cost."*
 
 **End there.** Say nothing about seasons.
 
@@ -732,19 +740,19 @@ Ask the two nearest players by name: *"What do you get out of this?"*
 
 ## After the session
 
-**One mark each,** before they leave. Note them; say nothing.
+**One mark each,** before they leave: each player's usual end-of-session advancement mark (the Marks line at the foot of their sheet). Note them; say nothing.
 
-**Tell {{pc:5}}'s player he sleeps badly tonight.** One sentence, as they pack up. 
+**If {{pc:5}} cast tonight** (the gull, or the dog), **tell his player he sleeps badly tonight.** One sentence, as they pack up. 
 
 **Write these down:**
 
 1. **Who backed the printer, and what reasons they gave.** Word for word if you can.
 2. **Whom {{pc:4}} reached.** If anyone but Nia: the tote stays with the party, and comes back in the next session or the one after.
-3. **Who cast and who backed whom in Scene 6.** This feeds how much luck people start noticing around them later. **Nothing shows tonight.**
+3. **Who cast and who backed whom in Scene 6.** Each backed cast is one tick for everyone in it (the printer, Scene 6). **Nobody can reach a step tonight** — at most two ticks — so **nothing shows tonight**; the ticks carry into the next session.
 4. **Anything a player said they would try.** The next session opens on it.
 
 **In the chat post afterwards, name the rule** — this is the one lesson of the season that must not be misremembered:
 
-> **DM (chat post):** *"The rule from the printer, for the record: aiming costs more — unless two of the others back you, each saying what THEY get out of it. Three reasons, not three voices. It's on the handout."*
+> **DM (chat post):** *"The rule from the printer, for the record: trying on purpose costs a step more — unless two of the others back you, each saying what THEY get out of it. Three reasons, not three voices. It's on the handout."*
 
 **Schedule the next session for next week, with no break between them.** In the story, it is the following weekend: Saturday 3 April.

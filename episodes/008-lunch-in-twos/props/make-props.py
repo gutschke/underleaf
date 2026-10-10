@@ -111,9 +111,12 @@ for i, n in enumerate(names):
         body.append('<div class="page"></div>')
     body.append('<h1>Ep 8 &middot; hand all five over together after the game &middot; cut along the dashes</h1>')
     body.append(slip(n, sections[n]))
-body.append('<div class="page"><h1>Only if Kai or a missing father comes up &mdash; hand it over in silence</h1></div>')
+# The later-slips page names no one: it may be handled in view of the players.
+body.append('<div class="page"><h1>Later slips &mdash; the run-guide says when. Hand one over in silence.</h1></div>')
 body += [later_slip(), later_slip()]
-body.append('<h1>The printer &mdash; Nia\'s phone screen. Show the first card; swap to the second after the cast.</h1>')
+# The phone cards get a page of their own: they're held up in front of everyone in
+# Scene 2, so nothing else (least of all a hint about a private slip) may share it.
+body.append('<div class="page"><h1>The printer &mdash; Nia\'s phone screen. Show the first card; swap to the second after the cast.</h1></div>')
 body.append('<div class="phone"><div class="app">HP Smart</div><div class="msg">Paper jam.<br>0 of 6 printed</div></div>')
 body.append('<div class="phone"><div class="app">HP Smart</div><div class="msg">5 of 6 printed.<br>Paper jam on page 6</div></div>')
 
@@ -130,10 +133,10 @@ if chrome is None:
 subprocess.run([chrome, "--headless", "--disable-gpu", "--no-sandbox",
                 "--no-pdf-header-footer", f"--print-to-pdf={out_pdf}", f"file://{out_html}"],
                check=True, capture_output=True)
-# One slip per page, then one page of later-slips and phone cards. A slip that
+# One slip per page, then a page of later-slips, then a page of phone cards. A slip that
 # outgrows its page spills silently, so count the pages and refuse.
 pages = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(out_pdf)],
             capture_output=True, text=True, check=True).stdout).group(1))
-if pages != len(names) + 1:
-    sys.exit(f"{out_pdf}: {pages} pages, expected {len(names) + 1} — a slip no longer fits its page")
+if pages != len(names) + 2:
+    sys.exit(f"{out_pdf}: {pages} pages, expected {len(names) + 2} — a slip no longer fits its page")
 print(f"Wrote {out_pdf} ({out_pdf.stat().st_size // 1024} KB) — {len(names)} slips, 2 later-slips, phone card")

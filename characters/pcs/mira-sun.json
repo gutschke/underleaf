@@ -46,8 +46,8 @@
   "bonds": [
     {
       "name": "Kai Sun",
-      "type": "NPC (offscreen)",
-      "description": "The world attests he never existed; Mira alone carries the pre-edit shape. 'When I was a child he disappeared. Everyone acted as though he never existed, when I mentioned him they told me I never had a brother but I know he's out there somewhere.'"
+      "type": "brother",
+      "description": "'When I was a child he disappeared. Everyone acted as though he never existed, when I mentioned him they told me I never had a brother but I know he's out there somewhere.'"
     },
     "**Dakota Whitmore (Slot 4)** — he handed her Loewe's notebook at Caffè Strada, unprompted, after two sessions of holding it. She read the excision the same afternoon. Neither of them has said anything about it."
   ],

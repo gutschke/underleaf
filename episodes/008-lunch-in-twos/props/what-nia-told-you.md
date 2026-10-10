@@ -66,11 +66,11 @@
 
 **What sets it off:** on your own, their full name, out loud, tapping the pipe. If they can be reached, they turn out to be reachable — they pick up, they're there.
 
-**What it costs:** your voice, hoarse, for a while after.
+**What it costs:** your voice, hoarse, for the next scene.
 
 **Where it stops:** it opens the door. Getting them to talk is just you. Some people can't be reached, and it won't tell you why — it all sounds the same. Nothing.
 
-**Always alone.** Nobody can back a reach, so the others joining in doesn't change its price.
+**Always alone.** Nobody can back a reach, so the others joining in doesn't change its price. **Your reach is always on purpose, so the prices above already count that.**
 
 **And don't go looking for someone's people unless they ask you to.**
 
@@ -86,9 +86,9 @@
 
 **What sets it off:** you step in between. Holstered. The moment you draw, you're trying, and trying costs.
 
-**What it costs:** a bad night's sleep, and your neck the next day.
+**What it costs:** a bad night's sleep, and your neck — a twinge right away, worse the next day.
 
-**Where it stops:** whatever's coming goes somewhere else — onto a thing, never onto a person. It works on anything with a direction: a person, an animal, a car. Not paperwork.
+**Where it stops:** whatever's coming goes somewhere else — onto a thing, never onto a person. What's coming can be a person, an animal, a car: anything with a direction. Not paperwork.
 
 ---
 

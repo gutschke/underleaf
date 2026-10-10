@@ -38,7 +38,7 @@ more people, cameras or records would have to be wrong, the more it costs. The
 same thing can cost more in a different place. **You won't always guess right, so
 ask.**
 
-**Your body cost** is how it feels in your body — it's on your slip (a hoarse
+**Your body cost** is how it feels in your body — Nia will tell you yours (a hoarse
 voice, a headache, pins and needles…). It never changes a roll.
 
 **Roll first, then mark stress** — this try's stress never makes this roll worse.

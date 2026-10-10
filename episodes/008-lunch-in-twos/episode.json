@@ -1,7 +1,7 @@
 {
   "$schemaVersion": "0.1.0",
   "name": "Lunch in Twos",
-  "summary": "The Season 1 finale. A picnic at Spreckels Lake in Golden Gate Park, where Nia Chen finally tells the five, plainly, that all of them can do this. A printer jams and {{pc:1}} says one sentence; five pages turn out to have printed, and they are the rules. Over snacks from Quickly, Nia gives every strange thing since the plane one of three answers, and by the end each of them knows what their magic is, what sets it off, what it costs and where it stops. Her friend doesn't come. Then she leaves, {{pc:4}} reaches her, and the five help a stranger on their own. It works.",
+  "summary": "The Season 1 finale. A picnic at Spreckels Lake in Golden Gate Park, where Nia Chen finally tells the five, plainly, that all of them can do this. A printer jams and {{pc:1}} says one sentence; five pages turn out to have printed, and they are the rules. Over snacks from Quickly, Nia gives every strange thing since the plane one of four answers, and by the end each of them knows what their magic is, what sets it off, what it costs and where it stops. Her friend doesn't come. Then she leaves, {{pc:4}} reaches her, and the five help a stranger on their own. It works.",
   "prerequisites": [
     "001-unattended-baggage",
     "002-the-archivists-index",

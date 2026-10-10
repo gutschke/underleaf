@@ -19,7 +19,7 @@ ruled verdict, and Nia's line. Numbers are for "I'm on 7".*
     answer but you do, she says **"I don't know"**, never "nobody knows".
 - **Unlisted moments:** if a PC did it, "no magic — just you". If it happened to them,
   "not yours", in one line. Never a new "your magic", never a new "nobody knows".
-- **Big mysteries** (#27 and #31 to #33): at most one per game, answered with *"That's the
+- **Big mysteries** (#27, #31 and #32): at most one per game, answered with *"That's the
   big one. Nobody knows."* Then move to the next player.
 - **Never let Nia say:** *need / needed / had to*, *meant*, *so that*, *chosen*,
   *erased*, *never existed*, *timeline*. And never *"you remember it both ways, so it
@@ -123,6 +123,7 @@ Then the private slip. Never say anything about whether the father is alive.
 
 > **NIA:** *"Bodies. Somebody's cold, or choking, or hurting, and you want them okay, really want it, no time to think, and they turn out to be okay. That's yours. You'll pay for it after: you don't sleep, you can't eat. That's the bill, not a bug."*
 >
+> *(The run-guide's version is the one to say: it points at the hum at the printer. This is the same idea if you need it without the printer.)*
 > **NIA:** *"And the other half. Your headaches. Some of those are you feeling that something near you just got changed. It tells you that much. Never what, never who. And you won't feel your own."*
 
 
@@ -194,7 +195,7 @@ Wednesday migraine: *"Something near you. I don't know what."*
 that she'd done *something*, {{pc:2}} tried it again on purpose: *"I just want to have
 $1000."* Nothing happened. Her wallet still held her UCSF cafeteria card and $13.27.
 **Verdict: "That's where yours stops."** This names her limit.
-> **NIA:** *"Ha, no. That's where yours stops. Money isn't a body. It'll move the world for someone in trouble; it won't do your rent."*
+> **NIA:** *"Ha, no. That's where yours stops. Bodies. Not wallets."*
 
 
 **14. The snake (seventh session, by CuriOdyssey).** A boy pointed into the bushes and yelled
@@ -213,13 +214,13 @@ rubber boa, which the kids handle.
 
 - **Kind of problem:** something erased; a record or a memory that's wrong.
 - **Trigger:** looking hard at a thing, wanting to see what's missing.
-- **Cost:** a headache when she pushes past what it will give her.
+- **Cost:** seeing the shape is free; anything more (restoring) costs a headache.
 - **Limit:** she sees the shape and where it was, never who; pushing harder makes it
   fuzzier, not sharper.
 
 > **NIA:** *"You look at something and you see where a piece is missing. Not what it was. Where it was, what shape. That's yours."*
 >
-> **NIA:** *"And when you push past what it'll give you, you get a headache. That's the price. It won't tell you who, however hard you push. Pushing just makes it blurry."*
+> **NIA:** *"And sometimes, if you want it badly enough, what was there comes back. That part costs you — a headache, every time. It won't tell you who, however hard you push. Pushing just makes it blurry."*
 
 
 **15. The outlines at Bodie (third session, the visitor centre, Thursday 11 February 2027).**
@@ -305,7 +306,7 @@ your magic" and names it (the run-guide has the scene).
 - **Kind of problem:** something coming at someone.
 - **Trigger:** he physically steps between. It works with the gun holstered; drawing
   it counts as aiming.
-- **Cost:** bad sleep and his neck flaring the next day.
+- **Cost:** bad sleep, and his neck: a twinge right away, worse the next day.
 - **Limit:** only things with a direction (a person, an animal, a car), never an
   institution; talking someone round is a roll.
 

@@ -759,8 +759,8 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 > brings her own battery printer in her canvas tote.
 >
 > **The shape:**
-> 1. **Arrival.** Nia, early and blunt: *"All five of you can do this."* Her clustering
->    line (§2b below). Then her friend cancels and the chair stays empty: **something
+> 1. **Arrival.** Nia, early and blunt: *"All five of you can do this."* (Her clustering
+>    line moved to Scene 4 on 2026-10-10 — §2b below.) Then her friend cancels and the chair stays empty: **something
 >    didn't come off, and it's nobody's fault** (contract item 3). No PC fails.
 > 2. **The printer.** It jams; *"0 of 6 printed"*; the yacht-club man on the next bench:
 >    *"Nothing came out."* {{pc:1}}, holding the Flipper: *"It printed five before it
@@ -773,9 +773,9 @@ U8 partial (mail recurrence) · **S1 #2** — at the hall, two people agree with
 >    to any of you since that plane."* Nia answers each with *that was your magic* / *no magic —
 >    just you* / *nobody knows* (or *not yours*), and names each PC's ability (problem,
 >    trigger, cost, limit) the first time it is *your magic*. **{{pc:5}}'s hazard fires live
->    during his turn.** The DM can run it for 5, 15 or 30 minutes, or cut it; every
+>    during his turn.** The DM can run it short (about 15 minutes), full (30), or add the 10-minute second round; every
 >    version names all five. Verdicts are pre-ruled (in the run-guide).
-> 4. **Nia leaves**, callable about the craft: *"we have lunch in twos… I'll introduce you to the others, one at a time."* She forgets her
+> 4. **Nia leaves**, callable about the craft: *"we have lunch in twos… I'll introduce you to the others. One of them, one of you, over lunch."* She forgets her
 >    tote.
 > 5. **{{pc:4}}'s reach** succeeds: by default Nia, for the tote (Cheap). Anyone else is
 >    allowed; the run-guide prices the alternatives. A Bea reach is optional and Cheap

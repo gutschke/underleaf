@@ -222,7 +222,7 @@ The cost is framed in-fiction: *"Now that you know magic exists, you're trying. 
 
 ### Supported casts
 
-**Count the reasons** *(ruled 2026-10-09; the player handout quotes this rule word for word, and every other document links here instead of restating it)*:
+**Count the reasons** *(ruled 2026-10-09; the player handout says it in plain words — "Trying on purpose costs a step more — unless two of the others back you…" — and every other document links here instead of restating it)*:
 
 > **Aiming costs a tier — unless two of the others back you, each saying what *they* get out of it. Three reasons, not three voices. "Me too" isn't a reason.**
 

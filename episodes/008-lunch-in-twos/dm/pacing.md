@@ -14,7 +14,7 @@
 
 ## Scenes
 
-| Scene | Run | Cut to | Don't break mid- |
+| Scene | Run | Squeeze to | Don't break mid- |
 |---|---:|---:|---|
 | 0 · Recap · Quickly · drive | 10 | 6 | **the recap page** |
 | 1 · Nia · the friend cancels | 12 | 8 | **"All five of you can do this"** |
@@ -29,7 +29,7 @@
 ## Must land
 
 1. **Nia, early: "All five of you can do this."**
-2. **The printer price, said aloud:** Costly alone · an echo stays Costly · two own reasons → **Cheap**. Then the pages.
+2. **The printer price, said aloud:** Costly alone · an echo stays Costly · his reason + two backers' own reasons → **Cheap**. Then the pages.
 3. **All five told their magic** (game or short version) — **and the seagull diving at {{pc:2}}'s snack, for {{pc:5}}.**
 4. **The friend doesn't come.** Nobody's fault.
 5. **{{pc:4}}'s reach works.**

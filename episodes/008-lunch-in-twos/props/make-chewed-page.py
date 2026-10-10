@@ -12,8 +12,18 @@ What it simulates, top to bottom (an inkjet jam, not a laser jam):
   4. printing stops; what remains is blank paper with the star-wheel tracks inkjets
      leave, a grey roller scuff, and a smudge where a finger pulled it out.
 
-The physical part (crumple, tear, flatten) is in the run-guide's prep notes.
-Needs pdftoppm (poppler) and Pillow + numpy. Intermediates go next to the output.
+Then the paper damage, by hand (5 minutes; plain copy paper, any laser printer):
+  1. Pleat the jam: just below the dark band, fold the sheet back and forth into 4-5 tight
+     pleats about 1 cm apart, crease each hard with a thumbnail, then open it out.
+  2. Crumple the bottom half only: hold the top third flat and crush the rest in your fist.
+  3. Tear it where the printer would: from one side edge, tear about 5 cm inwards along
+     the band and leave the flap attached. Optionally tear off a small bottom corner.
+  4. Flatten it, keeping the creases: smooth it, then a minute under a book.
+  5. Optional: rub a soft pencil along one or two pleat ridges, for roller grime.
+Laser toner cracks along hard creases, which helps. Don't wet it. Print two, keep the better.
+Needs pdftoppm (poppler) and Pillow + numpy. Intermediates go in a tmp/ folder next to
+the output, never beside it: the output usually sits in a print folder whose top level
+is kept for files meant to be printed, so the DM can print everything there without sorting.
 """
 import argparse, pathlib, subprocess
 import numpy as np
@@ -27,7 +37,8 @@ args = ap.parse_args()
 rng = np.random.default_rng(args.seed)
 
 DPI = 200
-work = args.out.resolve().parent
+work = args.out.resolve().parent / "tmp"
+work.mkdir(exist_ok=True)
 base_png = work / "chewed-base"
 subprocess.run(["pdftoppm", "-f", "1", "-l", "1", "-r", str(DPI), "-gray", "-png",
                 str(args.handout), str(base_png)], check=True)
