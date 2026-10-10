@@ -321,7 +321,7 @@ right, signalled and took the off-ramp, too cleanly, half a second too neat. Som
 said "huh", and nobody said anything else for a block. Ruled after the fact as {{pc:5}}'s
 first cast.
 **Verdict: your magic.**
-> **DM:** *"{{pc:5}} — the night you left Bea's, the first time. The car that was behind you for three turns. What happened to it?"*
+> **DM:** *"{{pc:5}} — the night you left Bea's, the first time. A car behind you for three turns, same headlights. Then it just signalled and took the off-ramp. Too neat."*
 >
 > **NIA (after the hazard):** *"That was your magic too. Your first one, I'd bet. Something coming at your people, and it went somewhere else."*
 >
@@ -536,6 +536,8 @@ the cake had the wrong number on it. (What {{pc:1}} did about it is #4.)
 The **tailing car (#22)** is already a ruled prompt. These four are extras, chosen
 because each one's *explanation* teaches something no other moment does. Use **at most
 two** in the normal-length game; the others are for the second round (Scene 3b).
+**If the player doesn't remember, tell it in one sentence from the entry, then Nia rules.**
+Never wait on a memory.
 
 **B1. {{pc:2}}, Vacaville and the driveway (#12).** It's the only moment that shows the
 *sensing* half of her ability. Ask it after #8 has named her ability, and only if today's

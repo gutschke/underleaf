@@ -77,7 +77,7 @@
 
 > **NIA:** *"spreckels lake, the model boat one in GGP. 36th & fulton. grab snacks, I'll bring the boring paperwork. nobody films out there, I checked 😅"*
 
-**Say nothing about the camera line.** It is a habit of hers. It will make sense later.
+**Say nothing about the camera line.** It is a habit of hers. It pays off quietly at the printer, when Nia says *"Nobody watching? Nearly nothing."* Don't point that out either.
 
 ### Print
 
@@ -191,7 +191,9 @@ Whatever they order is what they're holding at the lake — **remember who has a
 
 **Nia is on the far bench, away from the clubhouse,** a bike locked to the bin, a canvas tote at her feet, a paper bag of snacks of her own. She sees them, stands, waves with both arms, laughs at herself for it. **First names on the second sentence.** She hugs nobody; she fist-bumps whoever offers.
 
-**There is room on the bench for seven.** She has kept a space at the end with her jacket on it. **Don't point at it.**
+**There is room on the bench for seven.** She has kept a space at the end with her jacket on it. **Say it once, as scenery, and don't come back to it:**
+
+> *"Her jacket's spread along the far end of the bench, saving a spot."*
 
 ### She says it, early · **HAS TO HAPPEN**
 
@@ -205,11 +207,11 @@ Whatever they order is what they're holding at the lake — **remember who has a
 
 ### The friend cancels · **HAS TO HAPPEN**
 
-**A minute later, Nia's phone buzzes.** She reads it, and her face does one small thing.
+**A minute later, Nia's phone buzzes.** Say it: *"Her phone buzzes. She reads it, and her smile goes, just for a second."*
 
 > **NIA:** *"She's not coming. That's okay."*
 
-**She picks her jacket up off the end of the bench and puts it on.** That is the whole beat. **Never connect it to anything about magic** — her friend hasn't wanted to see anybody lately, and that is the reason. If a player asks who:
+**Say it:** *"She picks her jacket up off the end of the bench and puts it on."* That is the whole beat. **Never connect it to anything about magic** — her friend hasn't wanted to see anybody lately, and that is the reason. If a player asks who:
 
 > **NIA:** *"A friend. Not mine to give. Give her a week."*
 
@@ -262,15 +264,15 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **DM:** *(after thirty seconds)* *"You've got the Flipper. Say what it did. Past tense."*
 
-> **DM:** *(last rung)* *"Try: 'It printed five before it jammed.'"*
+> **DM:** *(last rung)* *"You could say what it did. Past tense. Something like 'it printed five before it jammed'. Want to?"*
 
-**If the player still freezes, ask out of character whether they want to, and if so, narrate the line for him.** The handouts come out of this scene one way or another.
+**If the player still freezes, ask out of character whether they want to, and if so, he'll say the line after the price below.** The handouts come out of this scene one way or another.
 
 ### The price — Nia explains it, then you say it · **HAS TO HAPPEN**
 
 **Nobody has read the handout yet — it's still in the printer.** So this is the players' first look at how cost works: **Nia says it in her own words, then you say the price in the game's words.** About thirty seconds.
 
-**The moment {{pc:1}} commits, Nia stops him, half laughing:**
+**The moment {{pc:1}} reaches for the Flipper or starts the sentence, Nia cuts in, half laughing** — before the line lands:
 
 > **NIA:** *"Wait — before you do. It costs you. How much depends on how hard it'd be to believe afterwards. Nobody watching? Nearly nothing. But he"* (the yacht-club man) *"just said out loud that nothing came out. So now pages have to have come out while he watched nothing come out. That's a big one. And you're trying on purpose, on your own — trying makes it worse."*
 
@@ -302,21 +304,21 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
   > **DM:** *"Cheap. No roll."*
 
-  > **NIA:** *"See? Now it's a small one."*
+  > **NIA:** *"See? Now it's a small one. Go on, then."*
+
+  **Now {{pc:1}} says his line**, and the printer scene goes on below.
 
   **If a third or fourth wants to back him too, let them.** It doesn't make it any cheaper — two is enough — but everyone who backs is in it, and it counts toward being noticed for each of them. If asked: *"Two's enough. More is fine; it doesn't get cheaper."*
 
-- **If nobody echoes him naturally**, Nia does it for them, laughing:
+- **If nobody offers to help at all**, Nia teaches — this is the one place she does. She turns to the two players sitting nearest {{pc:1}}, **by name**:
 
-  > **NIA:** *"If you'd all just said 'make it print', it'd still be Costly. What do you two actually want out of it?"*
+  > **NIA:** *"[Name], [name] — back him. What do you each get out of it?"*
 
-- **If nobody backs him at all**, Nia teaches — this is the one place she does:
-
-  > **NIA:** *"Back him. Say what you want out of it."*
+  **Then the same as above:** take whatever they say, and drop the price to Cheap once both have given a reason.
 
 - **If he still rolls alone**, it is a normal Costly roll, and 1 stress whatever happens:
   - **10 or more:** it works, as below.
-  - **7–9:** it works, but only four pages: *"Got four out before it choked."* Nia prints the fifth later. **Still give out all five handouts** — she has a spare in the tote.
+  - **7–9:** it works, but only four pages: *"Got four out before it choked."* **Don't show the second phone card; read it as "4 of 6 printed".** Nia digs a spare out of the tote, so **still give out all five handouts.**
   - **6 or less:** nothing changes. A minute later the jam clears by itself and the printer prints normally. Nia: *"Sometimes it's just the printer."* The handouts arrive anyway. Then Nia, gently: *"Next time, let them back you."*
 
 **{{pc:2}} has already had her release.** A *release* is a moment, earlier in the campaign, when a character stopped trying and it happened anyway; after it, casting on purpose no longer costs her extra. {{pc:2}}'s was the small talk with Yui after the grape. **So backing doesn't change the price of *her* casts — but she can back someone else, and her reason counts.**
@@ -329,11 +331,15 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **He has just contradicted himself, and he does not notice.** He goes back to his boat.
 
-**Swap to the second phone card, and read it:**
+**Take back the first phone card, show the second, and read it:**
 
 > *"Nia's phone now says: 5 of 6 printed. Paper jam on page 6."*
 
 > **DM:** *"{{pc:1}}, pins and needles in your Flipper hand. It fades."*
+
+> **DM:** *"{{pc:2}}, a low hum behind your eyes. Gone in a second."* *(If nobody backed him and it was Costly: "a throb", not a hum.)*
+
+**Say nothing else about it.** It pays off in Scene 3, when Nia tells {{pc:2}} the second half of her magic.
 
 **Nia, quietly delighted:**
 
@@ -398,6 +404,8 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **NIA:** *"You I've seen. Next."*
 
+**If his father comes up — now or any time tonight —** same as Kai: *"That one's yours. Tell me later, just us."* **Hand him the other "Later. Just us." slip** and move on.
+
 **If he offers something else,** look it up on the sheet (entries 1–6).
 
 ### {{pc:2}} · 4 minutes · **HAS TO HAPPEN**
@@ -414,9 +422,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **NIA:** *"And the other half. You felt something when the printer went, didn't you?"*
 
-**Lean over and ask her player quietly: "Did you feel anything?"**
-- **If she says yes, or isn't sure:** it was a low hum behind the eyes, gone in a second. (If nobody backed {{pc:1}} and the cast was Costly, it was a throb, not a hum.) Tell her so.
-- **If she says no:** use the drive to Vivian's instead (sheet entry 12): the migraine that flared near Vacaville, and the way it let go when she stepped onto Vivian's front walk.
+**If she doesn't remember the hum from the printer, remind her:** *"The hum behind your eyes, when the pages came out."* **If you skipped it at the printer:** use the drive to Vivian's instead (sheet entry 12): the migraine that flared near Vacaville, and the way it let go when she stepped onto Vivian's front walk.
 
 > **NIA:** *"That was your magic too — noticing, not doing. It tells you that something near you just got changed. Never what. Never who. And you won't feel your own."*
 
@@ -466,13 +472,15 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **If nobody bites by the last rung, skip it** and go straight to the gull. Don't tell the piñata for him.
 
-**Then, straight away, the gull.** {{pc:2}} is holding something — an egg puff waffle if she bought one. **A gull lands on the back of the bench, looks at her hand, and drops, wings out, straight at it.**
+**Then, straight away, the gull.** {{pc:2}} is holding something — an egg puff waffle if she bought one, otherwise whatever she ordered. Read it:
+
+> *"A gull lands on the back of the bench. It looks at {{pc:2}}'s hand. Then it drops, wings out, straight at it."*
 
 > **DM:** *"{{pc:5}}, you're right next to her."*
 
 > **DM:** *(after thirty seconds, or if nobody moves)* *"It's coming at {{pc:2}}'s hand. Half a second. What do you do?"*
 
-**If he steps between them** — physically, holstered — **it veers off and takes a waffle box from the empty end of the bench.** Never a person, never the chewed page.
+**If he steps between them** — physically, holstered — **it veers off and takes the snack bag from the empty end of the bench.** Never a person, never the chewed page.
 
 > **NIA:** *"That was your magic."*
 
@@ -484,9 +492,9 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **If he draws the pistol in his description,** stop and check out of character: *"At a picnic, with kids around? Really?"* **Nobody draws a gun in this campaign.**
 
-**If he doesn't step in:** the gull gets the waffle. {{pc:2}} is fine; everyone laughs. **Then prompt the car from the second session** (sheet entry 22):
+**If he doesn't step in:** the gull gets the snack. {{pc:2}} is fine; everyone laughs. **Then prompt the car from the second session** (sheet entry 22):
 
-> **DM:** *"{{pc:5}} — the night you left Bea's, the first time. The car that was behind you for three turns. What happened to it?"*
+> **DM:** *"{{pc:5}} — the night you left Bea's, the first time. A car behind you for three turns, same headlights. Then it just signalled and took the off-ramp. Too neat."*
 
 > **NIA:** *"That was your magic. Your first one, I'd bet."*
 
@@ -506,7 +514,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Then:**
 
-> **NIA:** *"Nothing on your list. Yours isn't something that happens to you. It's something you do. You reach people. Full name, out loud, on your own. They pick up. Your voice goes after. And it only opens the door — getting them to talk is just you."*
+> **NIA:** *"Nothing on your list. Yours isn't something that happens to you. It's something you do. You reach people. Full name, out loud, on your own, tap that pipe of yours. They pick up. Your voice goes after. And it only opens the door — getting them to talk is just you."*
 
 **And the hard part, said gently, with "dead" last.** She does not look at {{pc:1}} on *"doesn't want to be found"*:
 
@@ -564,7 +572,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 **Then she checks the time.**
 
-> **NIA:** *"I've got to go. Okay — we don't have a guild hall. We have lunch in twos. Call me. I'll introduce you to the others. One of them, one of you, over lunch."*
+> **NIA:** *"I've got to go. Okay — we don't have a guild hall. We have lunch in twos. Call me. I'll introduce you to the others. One of them, one of you, over lunch. Go on — do one without me sometime."*
 
 **"Lunch in twos" is how her people live, not a rule for the five.** Don't add to it. Only if someone asks, one rung at a time:
 
@@ -632,11 +640,11 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 > **DM:** *"{{pc:4}}, your voice is hoarse. It'll stay that way for the next scene."*
 
-**If nobody moves after the third rung, ask out of character:** *"Want {{pc:4}} to try reaching her? Full name, out loud."* **If the player still declines:** Nia comes back on her own, laughing at herself, grabs the tote, says the same last line, and goes. **Then Scene 6.**
+**If nobody moves after the third rung, ask out of character:** *"Want {{pc:4}} to try reaching her? Full name, out loud."* **If the player still declines:** Nia comes back on her own, laughing at herself — *"Forgot my whole life."* — grabs the tote, says *"Go on then. Do one without me,"* and goes. **Then Scene 6.**
 
 ### If he reaches for somebody else
 
-**Allow it.** He knows a lot of full names. Quote the price out loud, then play the answer. **If he reaches anyone but Nia, the tote stays with the party**; Nia texts later: *"keep it, I'll grab it next time."*
+**Allow it.** He knows a lot of full names. **If he only has a first name:** *"You don't have their surname. You can call them, though."* Quote the price out loud, then play the answer. **If he reaches anyone but Nia, the tote stays with the party** (her phone's in it). That night she emails {{pc:3}}: *"keep it, I'll grab it next time."*
 
 | Who | Say | If it works | Stress |
 |---|---|---|---|
@@ -668,7 +676,7 @@ She taps her phone. **Six copies** — *"six, habit."* The printer whirs, pulls 
 
 ### Look around · told
 
-> *"The lake. The little sails. A woman by the path, turning a soggy scrap of paper over and over. A jogger on the far side, stopped, holding her ankle. A big off-leash dog, all bounce and no manners, that keeps charging at a toddler by the water. The next heat starts in a few minutes — you can hear the race officer counting down. Unless somebody wants to stop me."*
+> *"The lake. The little sails. A woman by the path, turning a soggy scrap of paper over and over. A jogger on the far side, stopped, holding her ankle. A big off-leash dog, all bounce and no manners, that keeps charging at a toddler by the water. Out on the lake, one little boat sits dead, sails slack. And an old man on the next bench keeps redialling his phone. The next heat starts in a few minutes — you can hear the race officer counting down. Unless somebody wants to stop me."*
 
 ### The strangers
 
