@@ -82,7 +82,7 @@
 ### Print
 
 - **`player-handout-magic.md`, five copies.** **These are the five pages found in the printer** in Scene 2. Keep them face-down by your notes until that moment.
-- **The props sheet** (`props/`, single-sided, cut apart): **five "What Nia told you" slips** — one per player, handed out **after** the game in Scene 3 — **plus two "Later. Just us." slips**, for Kai or {{pc:1}}'s father. Single-sided, cut apart.
+- **The props sheet** (`props/`, single-sided): **five "What Nia told you" slips**, one page each — a plain-language "In short" box on top, the details below — handed out **after** the game in Scene 3; **plus**, on the last page (cut apart), **two "Later. Just us." slips**, for Kai or {{pc:1}}'s father (the phone cards are on that page too).
 - **The player recap** — one page; you read it aloud in Scene 0.
 - **Character sheets** — duplex: each player gets one sheet, front and back.
 - **The clock card** (`pacing.md`) and **the companion sheet** (`past-moments.md`).

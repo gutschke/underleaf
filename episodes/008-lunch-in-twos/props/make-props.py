@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the Ep 8 props: five "What Nia told you" slips, two "Later. Just us." slips,
+"""Build the Ep 8 props: five "What Nia told you" slips (one per page), two "Later. Just us." slips,
 and the phone-screen card for the printer scene.
 
 Print SINGLE-SIDED and cut apart. Everything here is player-facing; run
@@ -49,10 +49,23 @@ if len(sections) != 5:
     sys.exit(f"expected five PC slips, found {len(sections)}: {list(sections)}")
 
 
+def is_intro(p):
+    return p.startswith(">")
+
+
+def paras_html(paras):
+    return "".join(f"<p>{inline(p)}</p>" for p in paras)
+
+
 def slip(name, paras):
-    ps = "".join(f"<p>{inline(p)}</p>" for p in paras + shared)
+    # Plain-language intro first (the "> " paragraphs), then the reference block.
+    intro = [p.lstrip("> ") for p in paras + shared if is_intro(p)]
+    mine = [p for p in paras if not is_intro(p)]
+    rest = [p for p in shared if not is_intro(p)]
     return (f'<div class="slip"><div class="to">What Nia told you &middot; {html.escape(name)}</div>'
-            f'{ps}<div class="foot">Yours to keep.</div></div>')
+            f'<div class="intro">{paras_html(intro)}</div>'
+            f'<div class="ref">The details</div>{paras_html(mine + rest)}'
+            f'<div class="foot">Yours to keep.</div></div>')
 
 
 def later_slip():
@@ -64,9 +77,13 @@ CSS = """
 @page { size: letter; margin: 0.45in; }
 body { font-family: Georgia, serif; color: #1a1a1a; margin: 0; }
 h1 { font: 9pt Helvetica, Arial, sans-serif; color: #777; margin: 0 0 4pt; }
-.slip { border: 1.2px dashed #888; padding: 14pt 18pt; height: 4.75in; box-sizing: border-box;
-  break-inside: avoid; margin-bottom: 0.15in; overflow: hidden; }
+.slip { border: 1.2px dashed #888; padding: 16pt 20pt; box-sizing: border-box;
+  break-inside: avoid; }
 .slip p { font-size: 12pt; line-height: 1.32; margin: 0 0 7pt; }
+.intro { background: #eef3f7; border-left: 4px solid #4a7a9c; padding: 10pt 12pt 3pt; margin-bottom: 12pt; }
+.intro p { font-size: 13pt; }
+.ref { font: bold 8.5pt Helvetica, Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase;
+  color: #777; border-top: 1px solid #ccc; padding-top: 6pt; margin-bottom: 6pt; }
 .to { font: bold 9.5pt Helvetica, Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase;
   margin-bottom: 9pt; }
 .foot { font: 7.5pt Helvetica, Arial, sans-serif; color: #888; }
@@ -82,10 +99,11 @@ h1 { font: 9pt Helvetica, Arial, sans-serif; color: #777; margin: 0 0 4pt; }
 """
 
 names = list(sections)
-body = ['<h1>Ep 8 &middot; hand all five over together after the game &middot; cut along the dashes</h1>']
+body = []
 for i, n in enumerate(names):
-    if i and i % 2 == 0:
+    if i:
         body.append('<div class="page"></div>')
+    body.append('<h1>Ep 8 &middot; hand all five over together after the game &middot; cut along the dashes</h1>')
     body.append(slip(n, sections[n]))
 body.append('<div class="page"><h1>Only if Kai or a missing father comes up &mdash; hand it over in silence</h1></div>')
 body += [later_slip(), later_slip()]
@@ -106,4 +124,10 @@ if chrome is None:
 subprocess.run([chrome, "--headless", "--disable-gpu", "--no-sandbox",
                 "--no-pdf-header-footer", f"--print-to-pdf={out_pdf}", f"file://{out_html}"],
                check=True, capture_output=True)
+# One slip per page, then one page of later-slips and phone cards. A slip that
+# outgrows its page spills silently, so count the pages and refuse.
+pages = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(out_pdf)],
+            capture_output=True, text=True, check=True).stdout).group(1))
+if pages != len(names) + 1:
+    sys.exit(f"{out_pdf}: {pages} pages, expected {len(names) + 1} — a slip no longer fits its page")
 print(f"Wrote {out_pdf} ({out_pdf.stat().st_size // 1024} KB) — {len(names)} slips, 2 later-slips, phone card")
